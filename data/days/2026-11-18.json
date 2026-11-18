@@ -5,8 +5,8 @@
    "slug": "gta6-메타-크리틱",
    "firstSeen": 1795000200.0,
    "peakRank": 1,
-   "peakTraffic": 500,
-   "lastSeen": 1795005437.335174
+   "peakTraffic": 1000,
+   "lastSeen": 1795007625.4528928
   },
   "ps5": {
    "slug": "ps5",
@@ -20,35 +20,35 @@
    "firstSeen": 1795000800.0,
    "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795005437.335174
+   "lastSeen": 1795007625.4528928
   },
   "삼양식품": {
    "slug": "삼양식품",
    "firstSeen": 1795000200.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795005437.335174
+   "lastSeen": 1795007625.4528928
   },
   "gta5": {
    "slug": "gta5",
    "firstSeen": 1794999600.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795005437.335174
+   "lastSeen": 1795007625.4528928
   },
   "국제신문": {
    "slug": "국제신문",
    "firstSeen": 1794999600.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795005437.335174
+   "lastSeen": 1795007625.4528928
   },
   "헝거게임": {
    "slug": "헝거게임",
    "firstSeen": 1794999000.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795005437.335174
+   "lastSeen": 1795007625.4528928
   },
   "유칼": {
    "slug": "유칼",
@@ -70,6 +70,34 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795005437.335174
+  },
+  "교통 사고": {
+   "slug": "교통-사고",
+   "firstSeen": 1795003800.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795007625.4528928
+  },
+  "cuaca besok": {
+   "slug": "cuaca-besok",
+   "firstSeen": 1795002000.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795007625.4528928
+  },
+  "twitch": {
+   "slug": "twitch",
+   "firstSeen": 1795000800.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795007625.4528928
+  },
+  "gta6 출시": {
+   "slug": "gta6-출시",
+   "firstSeen": 1794999600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795007625.4528928
   }
  }
 }

@@ -1,72 +1,124 @@
 {
- "generatedAt": 1795005437,
+ "generatedAt": 1795007625,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "gta6 메타 크리틱",
    "slug": "gta6-메타-크리틱",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795000200.0,
    "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
-     "url": "https://www.yna.co.kr/view/AKR20261118015500017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
-     "url": "https://zdnet.co.kr/view/?no=20261118090703",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
-     "url": "https://www.khan.co.kr/article/202611180744001",
+     "title": "‘GTA 6’ 예약판매량 1500만장…콘솔게임 시장 살리나",
+     "url": "https://www.khan.co.kr/article/202611182036015",
      "source": "경향신문"
+    },
+    {
+     "title": "[리뷰] 드디어 나온 'GTA 6' 락스타는 게임이 아닌 세계를 빚어냈다",
+     "url": "https://www.thisisgame.com/articles/432817",
+     "source": "디스이즈게임"
+    },
+    {
+     "title": "GTA 6 하려고 회사 쉰다?…직장인들을 위한 '장례식'",
+     "url": "https://www.etnews.com/20261117000373",
+     "source": "전자신문"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "ps5",
-   "slug": "ps5",
-   "traffic": 200,
-   "startedAt": 1795000800.0,
-   "change": "same",
+   "keyword": "교통 사고",
+   "slug": "교통-사고",
+   "traffic": 500,
+   "startedAt": 1795003800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "PS5 System Update 26.07-14.23.00 Released With Security Fixes Ahead of GTA VI Launch",
-     "url": "https://twistedvoxel.com/ps5-system-update-26-07-14-23-00-released-with-security-fixes-ahead-of-gta-vi-launch/",
-     "source": "TwistedVoxel"
+     "title": "한국도로교통공단 강원지부, 교통사고 줄이기 한마음대회",
+     "url": "https://www.yna.co.kr/view/AKR20261117155800062",
+     "source": "연합뉴스"
     },
     {
-     "title": "GTA 6's Second Day One Patch Is 620MB On PS5 and 1GB Bigger on Xbox",
-     "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
-     "source": "IGN"
+     "title": "한국도로교통공단 인천지부 ‘2026 교통사고 줄이기 한마음대회’ 성료",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337140",
+     "source": "인천일보"
     },
     {
-     "title": "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released",
-     "url": "https://www.polygon.com/gta-6-grand-theft-auto-playstation-mandatory-ps5-update/",
-     "source": "Polygon.com"
+     "title": "대구광역시, 17일 '교통사고 줄이기 한마음대회' 개최",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753340",
+     "source": "국제뉴스"
     }
    ]
   },
   {
    "rank": 3,
+   "keyword": "cuaca besok",
+   "slug": "cuaca-besok",
+   "traffic": 500,
+   "startedAt": 1795002000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "BMKG Ungkap 34 Wilayah Indonesia Berpotensi Diguyur Hujan Hari Ini",
+     "url": "https://www.cnnindonesia.com/teknologi/20261117205536-641-1428298/bmkg-ungkap-34-wilayah-indonesia-berpotensi-diguyur-hujan-hari-ini",
+     "source": "CNN Indonesia"
+    },
+    {
+     "title": "Waspada Cuaca Ekstrem Akhir Tahun! BMKG Sebut Siklon AKVAN, MJO, dan Monsun Asia Picu Hujan Lebat",
+     "url": "https://www.kompas.tv/info-publik/702326/waspada-cuaca-ekstrem-akhir-tahun-bmkg-sebut-siklon-akvan-mjo-dan-monsun-asia-picu-hujan-lebat",
+     "source": "Kompas.tv"
+    },
+    {
+     "title": "Tenang Berkendara Saat Hujan Deras dengan Checklist SIAP BERKENDARA!",
+     "url": "https://oto.detik.com/advertorial-news-block/d-8757081/tenang-berkendara-saat-hujan-deras-dengan-checklist-siap-berkendara",
+     "source": "detikOto"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "twitch",
+   "slug": "twitch",
+   "traffic": 200,
+   "startedAt": 1795000800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+     "url": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+     "source": "NBC News"
+    },
+    {
+     "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
+     "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/",
+     "source": "Mezha.net"
+    },
+    {
+     "title": "OpenAI TwitchCon 2026 controversy explained: Why streamers are angry over AI training",
+     "url": "https://www.geo.tv/latest/691658-openai-twitchcon-2026-controversy-explained-why-streamers-are-angry-over-ai-training",
+     "source": "Geo News"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "sxmb",
    "slug": "sxmb",
    "traffic": 200,
    "startedAt": 1795000800.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
-     "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
-     "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802699.ldo",
-     "source": "Laodong.vn"
+     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
+     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
+     "source": "homeup.vn"
     },
     {
      "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
@@ -74,20 +126,20 @@
      "source": "Thanh Niên"
     },
     {
-     "title": "XSST 18/11 - Kết quả xổ số Sóc Trăng hôm nay 18/11/2026 - XSST ngày 18 tháng 11",
-     "url": "https://cafef.vn/xsst-18-11-ket-qua-xo-so-soc-trang-hom-nay-18-11-2026-xsst-ngay-18-thang-11-188261118165308926.chn",
-     "source": "CafeF"
+     "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
+     "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802700.ldo",
+     "source": "Laodong.vn"
     }
    ]
   },
   {
-   "rank": 4,
+   "rank": 6,
    "keyword": "삼양식품",
    "slug": "삼양식품",
    "traffic": 200,
    "startedAt": 1795000200.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "“100일 만에 1000만개 판매”…삼양식품 '짜르르', 코스트코 전국 입점",
@@ -107,13 +159,13 @@
    ]
   },
   {
-   "rank": 5,
+   "rank": 7,
    "keyword": "gta5",
    "slug": "gta5",
    "traffic": 200,
    "startedAt": 1794999600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
@@ -133,13 +185,13 @@
    ]
   },
   {
-   "rank": 6,
+   "rank": 8,
    "keyword": "국제신문",
    "slug": "국제신문",
    "traffic": 200,
    "startedAt": 1794999600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
@@ -152,20 +204,20 @@
      "source": "부산경남대표방송 KNN 뉴스"
     },
     {
-     "title": "부산시, 김해시와 폐기물 교차소각…연간 3천t씩 처리",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722027",
-     "source": "뉴스타운"
+     "title": "부산시·김해시, 폐기물 교차소각 협약 추진…연간 3천t씩 처리",
+     "url": "https://www.yna.co.kr/view/AKR20261113137300051",
+     "source": "연합뉴스"
     }
    ]
   },
   {
-   "rank": 7,
+   "rank": 9,
    "keyword": "헝거게임",
    "slug": "헝거게임",
    "traffic": 200,
    "startedAt": 1794999000.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "[포토] 엘 패닝 ‘동화 속 비주얼’",
@@ -185,80 +237,28 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "유칼",
-   "slug": "유칼",
-   "traffic": 200,
-   "startedAt": 1794998400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
-     "url": "https://www.koreadaily.com/article/20261118031442027",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "'커즈' 문우찬, DN 수퍼스 복귀⋯\"월즈 진출해 좋은 성적 내고 싶다\" [공식]",
-     "url": "https://www.etoday.co.kr/news/view/2649574",
-     "source": "이투데이"
-    },
-    {
-     "title": "'유칼' 손우현, 2027 LCK 시즌 DN 수퍼스 합류",
-     "url": "https://www.sheepesports.com/kr/articles/ucal-joins-dn-soopers-for-the-2027-lck-season/kr",
-     "source": "Sheep Esports"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "포스코노동조합",
-   "slug": "포스코노동조합",
+   "rank": 10,
+   "keyword": "gta6 출시",
+   "slug": "gta6-출시",
    "traffic": 100,
-   "startedAt": 1794997800.0,
-   "change": "same",
+   "startedAt": 1794999600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "포스코 노사, 임단협 돌파구 찾나…포스코, 노조에 대화 요청",
-     "url": "https://www.etnews.com/20261117000252",
-     "source": "전자신문"
+     "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
+     "url": "https://www.khan.co.kr/article/202611180744001",
+     "source": "경향신문"
     },
     {
-     "title": "포스코 노사, 총파업 앞두고 '막판 담판'…이희근 대표 대화 요청",
-     "url": "https://zdnet.co.kr/view/?no=20261117142359",
+     "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
+     "url": "https://zdnet.co.kr/view/?no=20261118090703",
      "source": "지디넷코리아"
     },
     {
-     "title": "“거대 산별 정치 투쟁과 조합비 상납 끝냈다…현장 중심 진짜 노동운동 길 열 것”",
-     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194181",
-     "source": "주간한국"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "미래에셋생명",
-   "slug": "미래에셋생명",
-   "traffic": 100,
-   "startedAt": 1794997200.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "미래에셋생명 해킹 유출 1만 명 넘어‥스트리미 2천 명으로 늘어",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6866619_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "미래에셋생명 개인정보 유출 규모 1만418명... 금융당국 신고",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147356",
-     "source": "보안뉴스"
-    },
-    {
-     "title": "미래에셋생명 해킹 피해 1만명 넘어…피해 규모 추가 확인",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03863846645647032",
-     "source": "마켓인"
+     "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
+     "url": "https://www.yna.co.kr/view/AKR20261118015500017",
+     "source": "연합뉴스"
     }
    ]
   }

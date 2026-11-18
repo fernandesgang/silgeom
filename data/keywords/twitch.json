@@ -1,0 +1,46 @@
+{
+ "keyword": "twitch",
+ "slug": "twitch",
+ "firstSeen": 1795000800.0,
+ "lastSeen": 1795007625.4528928,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795007625,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+   "url": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+   "source": "NBC News"
+  },
+  {
+   "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
+   "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/",
+   "source": "Mezha.net"
+  },
+  {
+   "title": "OpenAI TwitchCon 2026 controversy explained: Why streamers are angry over AI training",
+   "url": "https://www.geo.tv/latest/691658-openai-twitchcon-2026-controversy-explained-why-streamers-are-angry-over-ai-training",
+   "source": "Geo News"
+  }
+ ],
+ "days": [
+  "2026-11-18"
+ ],
+ "related": [
+  "gta6-메타-크리틱",
+  "교통-사고",
+  "cuaca-besok",
+  "sxmb",
+  "삼양식품",
+  "gta5",
+  "국제신문",
+  "헝거게임",
+  "gta6-출시"
+ ]
+}

@@ -2,7 +2,7 @@
  "keyword": "sxmb",
  "slug": "sxmb",
  "firstSeen": 1795000800.0,
- "lastSeen": 1795005437.335174,
+ "lastSeen": 1795007625.4528928,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795005437,
    3,
    200
+  ],
+  [
+   1795007625,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
+   "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
+   "source": "homeup.vn"
+  },
+  {
+   "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
+   "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802700.ldo",
+   "source": "Laodong.vn"
+  },
   {
    "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
    "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802699.ldo",
@@ -33,6 +48,10 @@
   "2026-11-18"
  ],
  "related": [
+  "교통-사고",
+  "cuaca-besok",
+  "twitch",
+  "gta6-출시",
   "gta6-메타-크리틱",
   "ps5",
   "삼양식품",

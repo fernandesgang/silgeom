@@ -2,7 +2,7 @@
  "keyword": "국제신문",
  "slug": "국제신문",
  "firstSeen": 1794999600.0,
- "lastSeen": 1795005437.335174,
+ "lastSeen": 1795007625.4528928,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795005437,
    6,
    200
+  ],
+  [
+   1795007625,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "부산시·김해시, 폐기물 교차소각 협약 추진…연간 3천t씩 처리",
+   "url": "https://www.yna.co.kr/view/AKR20261113137300051",
+   "source": "연합뉴스"
+  },
   {
    "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
    "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22006005238",
@@ -33,6 +43,10 @@
   "2026-11-18"
  ],
  "related": [
+  "교통-사고",
+  "cuaca-besok",
+  "twitch",
+  "gta6-출시",
   "gta6-메타-크리틱",
   "ps5",
   "sxmb",

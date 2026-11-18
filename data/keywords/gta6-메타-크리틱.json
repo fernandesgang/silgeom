@@ -2,17 +2,37 @@
  "keyword": "gta6 메타 크리틱",
  "slug": "gta6-메타-크리틱",
  "firstSeen": 1795000200.0,
- "lastSeen": 1795005437.335174,
+ "lastSeen": 1795007625.4528928,
  "peakRank": 1,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795005437,
    1,
    500
+  ],
+  [
+   1795007625,
+   1,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "‘GTA 6’ 예약판매량 1500만장…콘솔게임 시장 살리나",
+   "url": "https://www.khan.co.kr/article/202611182036015",
+   "source": "경향신문"
+  },
+  {
+   "title": "[리뷰] 드디어 나온 'GTA 6' 락스타는 게임이 아닌 세계를 빚어냈다",
+   "url": "https://www.thisisgame.com/articles/432817",
+   "source": "디스이즈게임"
+  },
+  {
+   "title": "GTA 6 하려고 회사 쉰다?…직장인들을 위한 '장례식'",
+   "url": "https://www.etnews.com/20261117000373",
+   "source": "전자신문"
+  },
   {
    "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
    "url": "https://www.yna.co.kr/view/AKR20261118015500017",
@@ -33,6 +53,10 @@
   "2026-11-18"
  ],
  "related": [
+  "교통-사고",
+  "cuaca-besok",
+  "twitch",
+  "gta6-출시",
   "ps5",
   "sxmb",
   "삼양식품",
