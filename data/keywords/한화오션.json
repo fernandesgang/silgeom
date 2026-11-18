@@ -2,9 +2,9 @@
  "keyword": "한화오션",
  "slug": "한화오션",
  "firstSeen": 1795026600.0,
- "lastSeen": 1795033768.8343265,
+ "lastSeen": 1795037251.4902518,
  "peakRank": 3,
- "peakTraffic": 500,
+ "peakTraffic": 2000,
  "history": [
   [
    1795030520,
@@ -15,9 +15,29 @@
    1795033769,
    3,
    500
+  ],
+  [
+   1795037251,
+   3,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+   "url": "https://www.yna.co.kr/view/AKR20261118170400704",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "평택함 한화오션에서 진수",
+   "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
+   "source": "뉴시스"
+  },
   {
    "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
    "url": "https://www.newsis.com/view/NISX20261118_0003873559",
@@ -43,6 +63,12 @@
   "2026-11-19"
  ],
  "related": [
+  "한화-이글스",
+  "택시",
+  "레인보우로보틱스",
+  "gta6-프레임",
+  "김건희",
+  "김해국제공항",
   "삼전-닉스",
   "기인",
   "김정은",

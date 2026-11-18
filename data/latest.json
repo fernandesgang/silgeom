@@ -1,14 +1,14 @@
 {
- "generatedAt": 1795033769,
+ "generatedAt": 1795037251,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "삼전 닉스",
    "slug": "삼전-닉스",
-   "traffic": 10000,
+   "traffic": 20000,
    "startedAt": 1795029000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -30,27 +30,27 @@
   },
   {
    "rank": 2,
-   "keyword": "기인",
-   "slug": "기인",
-   "traffic": 1000,
-   "startedAt": 1795020600.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "한화 이글스",
+   "slug": "한화-이글스",
+   "traffic": 10000,
+   "startedAt": 1795032000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-     "url": "https://www.kmib.co.kr/article/20261119500020",
-     "source": "국민일보"
+     "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
+     "source": "SPOTV NEWS"
     },
     {
-     "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
-     "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
-     "source": "중부매일"
+     "title": "한화 전방위 투자, FA만 하는 게 아니다… 이렇게 팍팍 밀어주는데 성적 나야 한다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020374",
+     "source": "SPOTV NEWS"
     },
     {
-     "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
-     "source": "진일보 | 전남일보"
+     "title": "한화 78억 투자, 이제는 웃을 수 있나… 2년간 2승 악몽 털어낸다, 류지현 구상은 어떻게 되나",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020171",
+     "source": "SPOTV NEWS"
     }
    ]
   },
@@ -58,67 +58,119 @@
    "rank": 3,
    "keyword": "한화오션",
    "slug": "한화오션",
-   "traffic": 500,
+   "traffic": 2000,
    "startedAt": 1795026600.0,
    "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
-     "url": "https://www.newsis.com/view/NISX20261118_0003873559",
-     "source": "뉴시스"
-    },
-    {
-     "title": "해수부·한화오션, 거제 해역에 바다숲 조성 추진",
-     "url": "https://www.yna.co.kr/view/AKR20261117033200030",
+     "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+     "url": "https://www.yna.co.kr/view/AKR20261118170400704",
      "source": "연합뉴스"
     },
     {
-     "title": "변광용 거제시장, 현안 해결 위해 국회로 잰걸음",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026111813421532899",
-     "source": "부산일보"
+     "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "평택함 한화오션에서 진수",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "김정은",
-   "slug": "김정은",
-   "traffic": 500,
-   "startedAt": 1795024200.0,
-   "change": "down",
-   "diff": 2,
+   "keyword": "택시",
+   "slug": "택시",
+   "traffic": 1000,
+   "startedAt": 1795032600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
-     "source": "YTN"
+     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
+     "source": "주간조선"
     },
     {
-     "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
-     "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
-     "source": "동아일보"
+     "title": "요금 더 내고 간 승객에 전화해 돈 돌려준 택시 기사",
+     "url": "https://www.koreadaily.com/article/20261117072332525",
+     "source": "미주중앙일보"
     },
     {
-     "title": "[경향의 눈]미 중간선거 이후 북·미, 그리고 한국",
-     "url": "https://www.khan.co.kr/article/202611182009025",
-     "source": "경향신문"
+     "title": "\"4만5000원 더 내셨죠?\" 밤 10시 걸려온 낯선 전화 받아보니 [따뜻했슈]",
+     "url": "https://www.fnnews.com/news/202611180933458386",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "rank": 5,
+   "keyword": "김정은",
+   "slug": "김정은",
+   "traffic": 1000,
+   "startedAt": 1795024200.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+     "url": "https://www.yna.co.kr/view/AKR20261118159000083",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "트럼프와 김정은의 친분 과시…협상은 ’가시밭길’",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119054543Uvj",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
+     "url": "https://news.jtbc.co.kr/article/NB12328748",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "레인보우로보틱스",
+   "slug": "레인보우로보틱스",
+   "traffic": 200,
+   "startedAt": 1795030800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
+     "url": "https://www.hankyung.com/article/202611185064i",
+     "source": "한국경제"
+    },
+    {
+     "title": "[종목상담 주식민원처리반] 삼성전자와 휴머노이드 공동개발 모멘텀 '레인보우로보틱스' - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/18/2026111818287034428",
+     "source": "머니투데이"
+    },
+    {
+     "title": "미라콤아이앤씨, 레인보우로보틱스와 제조 RX 사업 확대 맞손",
+     "url": "https://zdnet.co.kr/view/?no=20261118104941",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "rank": 7,
    "keyword": "자영업",
    "slug": "자영업",
    "traffic": 200,
    "startedAt": 1795024800.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
-     "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
-     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808",
-     "source": "울산종합일보"
+     "title": "지역 문제에 기술 입힌 대학생들…관광부터 자영업까지",
+     "url": "https://www.gjdream.com/news/articleView.html?idxno=674475",
+     "source": "광주드림"
     },
     {
      "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
@@ -126,139 +178,87 @@
      "source": "경상일보"
     },
     {
-     "title": "이은주 울산시의원 “골목상권 소상공인 자생력 향상 방안 적극 추진해야”",
-     "url": "http://www.ujeil.com/news/articleView.html?idxno=395520",
-     "source": "울산제일일보"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "승리",
-   "slug": "승리",
-   "traffic": 100,
-   "startedAt": 1795021800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
-     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
-     "source": "TV조선뉴스"
-    },
-    {
-     "title": "승리, 만삭 20대 아내와 공항 포착…\"여기까지 찍어라\" 제지 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111823451756876",
-     "source": "머니투데이"
-    },
-    {
-     "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100121320011250",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "한화생명",
-   "slug": "한화생명",
-   "traffic": 100,
-   "startedAt": 1795021800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
-     "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032",
-     "source": "마켓인"
-    },
-    {
-     "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
-     "url": "https://view.asiae.co.kr/article/2026111818335608440",
-     "source": "아시아경제"
-    },
-    {
-     "title": "KIC 신임 CIO에 신민식·COO에 신용선 내정",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445349",
-     "source": "연합인포맥스"
+     "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
+     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808",
+     "source": "울산종합일보"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "한화",
-   "slug": "한화",
-   "traffic": 100,
-   "startedAt": 1795021200.0,
-   "change": "same",
+   "keyword": "gta6 프레임",
+   "slug": "gta6-프레임",
+   "traffic": 200,
+   "startedAt": 1795023600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
-     "url": "https://v.daum.net/v/1WNhADiPof",
-     "source": "Daum"
+     "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
+     "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
+     "source": "Digital Foundry"
     },
     {
-     "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
-     "url": "https://dealsite.co.kr/articles/172804",
-     "source": "딜사이트"
+     "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+     "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
+     "source": "Wccftech"
     },
     {
-     "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
-     "source": "마켓인"
+     "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+     "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
+     "source": "Kotaku"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "한화생명 e스포츠",
-   "slug": "한화생명-e스포츠",
+   "keyword": "김건희",
+   "slug": "김건희",
    "traffic": 100,
-   "startedAt": 1795020600.0,
-   "change": "same",
+   "startedAt": 1795032600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
-     "url": "https://www.koreadaily.com/article/20261117145658079",
-     "source": "미주중앙일보"
+     "title": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단",
+     "url": "https://www.yna.co.kr/view/AKR20261118187100004",
+     "source": "연합뉴스"
     },
     {
-     "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
-     "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27",
-     "source": "데일리e스포츠"
+     "title": "’비상계엄=내란’ 인정할까…대법 판단은 처음",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119054423lAO",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
-     "source": "STN SPORTS"
+     "title": "조국혁신당 경기도당 “19일 본회의서 민주유공자법 반드시 처리해야”",
+     "url": "https://www.kyeonggi.com/article/20261118580085",
+     "source": "경기일보"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "흰수마자",
-   "slug": "흰수마자",
+   "keyword": "김해국제공항",
+   "slug": "김해국제공항",
    "traffic": 100,
-   "startedAt": 1795017000.0,
-   "change": "same",
+   "startedAt": 1795030800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070",
-     "source": "인천일보"
+     "title": "새 쫓으랬더니 ‘낮잠·유튜브’…김해공항 무더기 징계 뒤 또 해임",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716264",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "경기도, 파주 문산천에 멸종위기야생생물 ‘흰수마자’ 서식",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041247",
-     "source": "기호일보"
+     "title": "엽총탄 소지에 공포탄 발사까지…기강 해이 심각",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716345",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "한반도 고유종 멸종위기Ⅰ급 ‘흰수마자’, 파주 문산천서 발견",
-     "url": "https://www.kyeonggi.com/article/20261117580015",
-     "source": "경기일보"
+     "title": "‘조류 퇴치’ 총기 출고 전 음주 감지…동료 향해 공포탄까지",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716416",
+     "source": "KBS 뉴스"
     }
    ]
   }
