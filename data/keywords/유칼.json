@@ -2,17 +2,32 @@
  "keyword": "유칼",
  "slug": "유칼",
  "firstSeen": 1794998400.0,
- "lastSeen": 1795005437.335174,
- "peakRank": 8,
- "peakTraffic": 200,
+ "lastSeen": 1795007958.6375785,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795005437,
    8,
    200
+  ],
+  [
+   1795007959,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "kt 롤스터, '지우' 정지우ㆍ'에포트' 이상호 등 선수 5명 계약 종료 [공식]",
+   "url": "https://www.etoday.co.kr/news/view/2649076",
+   "source": "이투데이"
+  },
+  {
+   "title": "'커즈' 문우찬의 2027 LCK는 'DN 수퍼스'",
+   "url": "https://www.dailyesports.com/view.php?ud=20261117200624970274bcc1e038_27",
+   "source": "데일리e스포츠"
+  },
   {
    "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
    "url": "https://www.koreadaily.com/article/20261118031442027",
@@ -33,6 +48,8 @@
   "2026-11-18"
  ],
  "related": [
+  "교통-사고",
+  "twitch",
   "gta6-메타-크리틱",
   "ps5",
   "sxmb",

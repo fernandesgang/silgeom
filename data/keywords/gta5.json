@@ -2,9 +2,9 @@
  "keyword": "gta5",
  "slug": "gta5",
  "firstSeen": 1794999600.0,
- "lastSeen": 1795007625.4528928,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795007958.6375785,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795005437,
@@ -15,6 +15,11 @@
    1795007625,
    7,
    200
+  ],
+  [
+   1795007959,
+   3,
+   500
   ]
  ],
  "news": [

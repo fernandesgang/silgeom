@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795007625,
+ "generatedAt": 1795007959,
  "geo": "KR",
  "items": [
   {
@@ -34,7 +34,7 @@
    "slug": "교통-사고",
    "traffic": 500,
    "startedAt": 1795003800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -56,38 +56,64 @@
   },
   {
    "rank": 3,
-   "keyword": "cuaca besok",
-   "slug": "cuaca-besok",
+   "keyword": "gta5",
+   "slug": "gta5",
    "traffic": 500,
-   "startedAt": 1795002000.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1794999600.0,
+   "change": "up",
+   "diff": 4,
    "news": [
     {
-     "title": "BMKG Ungkap 34 Wilayah Indonesia Berpotensi Diguyur Hujan Hari Ini",
-     "url": "https://www.cnnindonesia.com/teknologi/20261117205536-641-1428298/bmkg-ungkap-34-wilayah-indonesia-berpotensi-diguyur-hujan-hari-ini",
-     "source": "CNN Indonesia"
+     "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
+     "url": "https://www.ign.com/articles/gta-5-fans-make-one-last-emotional-ride-through-los-santos-before-heading-to-vice-city",
+     "source": "IGN"
     },
     {
-     "title": "Waspada Cuaca Ekstrem Akhir Tahun! BMKG Sebut Siklon AKVAN, MJO, dan Monsun Asia Picu Hujan Lebat",
-     "url": "https://www.kompas.tv/info-publik/702326/waspada-cuaca-ekstrem-akhir-tahun-bmkg-sebut-siklon-akvan-mjo-dan-monsun-asia-picu-hujan-lebat",
-     "source": "Kompas.tv"
+     "title": "Grand Theft Auto fan is organizing an in-game ‘Last Ride’ event in GTA Online ahead of GTA 6’s release",
+     "url": "https://massivelyop.com/2026/11/16/grand-theft-auto-fan-is-organizing-an-in-game-last-ride-event-in-gta-online-ahead-of-gta-6s-release/",
+     "source": "Massively Overpowered"
     },
     {
-     "title": "Tenang Berkendara Saat Hujan Deras dengan Checklist SIAP BERKENDARA!",
-     "url": "https://oto.detik.com/advertorial-news-block/d-8757081/tenang-berkendara-saat-hujan-deras-dengan-checklist-siap-berkendara",
-     "source": "detikOto"
+     "title": "Fear And Loathing In Los Santos: How It Feels To Leave GTA 5 Behind",
+     "url": "https://www.gamespot.com/articles/fear-and-loathing-in-los-santos-how-it-feels-to-leave-gta-5-behind/",
+     "source": "GameSpot"
     }
    ]
   },
   {
    "rank": 4,
+   "keyword": "유칼",
+   "slug": "유칼",
+   "traffic": 500,
+   "startedAt": 1794998400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
+     "url": "https://www.koreadaily.com/article/20261118031442027",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "kt 롤스터, '지우' 정지우ㆍ'에포트' 이상호 등 선수 5명 계약 종료 [공식]",
+     "url": "https://www.etoday.co.kr/news/view/2649076",
+     "source": "이투데이"
+    },
+    {
+     "title": "'커즈' 문우찬의 2027 LCK는 'DN 수퍼스'",
+     "url": "https://www.dailyesports.com/view.php?ud=20261117200624970274bcc1e038_27",
+     "source": "데일리e스포츠"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "twitch",
    "slug": "twitch",
    "traffic": 200,
    "startedAt": 1795000800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
@@ -107,39 +133,13 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "sxmb",
-   "slug": "sxmb",
-   "traffic": 200,
-   "startedAt": 1795000800.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
-     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
-     "source": "homeup.vn"
-    },
-    {
-     "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
-     "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
-     "source": "Thanh Niên"
-    },
-    {
-     "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
-     "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802700.ldo",
-     "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
    "rank": 6,
    "keyword": "삼양식품",
    "slug": "삼양식품",
    "traffic": 200,
    "startedAt": 1795000200.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "“100일 만에 1000만개 판매”…삼양식품 '짜르르', 코스트코 전국 입점",
@@ -160,38 +160,12 @@
   },
   {
    "rank": 7,
-   "keyword": "gta5",
-   "slug": "gta5",
-   "traffic": 200,
-   "startedAt": 1794999600.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
-     "url": "https://www.ign.com/articles/gta-5-fans-make-one-last-emotional-ride-through-los-santos-before-heading-to-vice-city",
-     "source": "IGN"
-    },
-    {
-     "title": "Grand Theft Auto fan is organizing an in-game ‘Last Ride’ event in GTA Online ahead of GTA 6’s release",
-     "url": "https://massivelyop.com/2026/11/16/grand-theft-auto-fan-is-organizing-an-in-game-last-ride-event-in-gta-online-ahead-of-gta-6s-release/",
-     "source": "Massively Overpowered"
-    },
-    {
-     "title": "Fear And Loathing In Los Santos: How It Feels To Leave GTA 5 Behind",
-     "url": "https://www.gamespot.com/articles/fear-and-loathing-in-los-santos-how-it-feels-to-leave-gta-5-behind/",
-     "source": "GameSpot"
-    }
-   ]
-  },
-  {
-   "rank": 8,
    "keyword": "국제신문",
    "slug": "국제신문",
    "traffic": 200,
    "startedAt": 1794999600.0,
-   "change": "down",
-   "diff": 2,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
@@ -211,13 +185,13 @@
    ]
   },
   {
-   "rank": 9,
+   "rank": 8,
    "keyword": "헝거게임",
    "slug": "헝거게임",
    "traffic": 200,
    "startedAt": 1794999000.0,
-   "change": "down",
-   "diff": 2,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "[포토] 엘 패닝 ‘동화 속 비주얼’",
@@ -233,32 +207,6 @@
      "title": "빈티지 콤팩트로 뒤덮인 드레스! 엘르 패닝의 ‘헝거 게임’ 프리미어 룩",
      "url": "https://www.vogue.co.kr/2026/11/18/%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%BD%A4%ED%8C%A9%ED%8A%B8%EB%A1%9C-%EB%92%A4%EB%8D%AE%EC%9D%B8-%EB%93%9C%EB%A0%88%EC%8A%A4-%EC%97%98%EB%A5%B4-%ED%8C%A8%EB%8B%9D%EC%9D%98-%ED%97%9D%EA%B1%B0-%EA%B2%8C/",
      "source": "Vogue korea"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "gta6 출시",
-   "slug": "gta6-출시",
-   "traffic": 100,
-   "startedAt": 1794999600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
-     "url": "https://www.khan.co.kr/article/202611180744001",
-     "source": "경향신문"
-    },
-    {
-     "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
-     "url": "https://zdnet.co.kr/view/?no=20261118090703",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
-     "url": "https://www.yna.co.kr/view/AKR20261118015500017",
-     "source": "연합뉴스"
     }
    ]
   }

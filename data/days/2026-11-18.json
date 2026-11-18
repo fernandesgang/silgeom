@@ -6,7 +6,7 @@
    "firstSeen": 1795000200.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795007625.4528928
+   "lastSeen": 1795007958.6375785
   },
   "ps5": {
    "slug": "ps5",
@@ -27,35 +27,35 @@
    "firstSeen": 1795000200.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795007625.4528928
+   "lastSeen": 1795007958.6375785
   },
   "gta5": {
    "slug": "gta5",
    "firstSeen": 1794999600.0,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795007625.4528928
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795007958.6375785
   },
   "국제신문": {
    "slug": "국제신문",
    "firstSeen": 1794999600.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795007625.4528928
+   "lastSeen": 1795007958.6375785
   },
   "헝거게임": {
    "slug": "헝거게임",
    "firstSeen": 1794999000.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795007625.4528928
+   "lastSeen": 1795007958.6375785
   },
   "유칼": {
    "slug": "유칼",
    "firstSeen": 1794998400.0,
-   "peakRank": 8,
-   "peakTraffic": 200,
-   "lastSeen": 1795005437.335174
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795007958.6375785
   },
   "포스코노동조합": {
    "slug": "포스코노동조합",
@@ -76,7 +76,7 @@
    "firstSeen": 1795003800.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795007625.4528928
+   "lastSeen": 1795007958.6375785
   },
   "cuaca besok": {
    "slug": "cuaca-besok",
@@ -90,7 +90,7 @@
    "firstSeen": 1795000800.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795007625.4528928
+   "lastSeen": 1795007958.6375785
   },
   "gta6 출시": {
    "slug": "gta6-출시",

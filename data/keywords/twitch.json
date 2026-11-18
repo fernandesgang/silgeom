@@ -2,13 +2,18 @@
  "keyword": "twitch",
  "slug": "twitch",
  "firstSeen": 1795000800.0,
- "lastSeen": 1795007625.4528928,
+ "lastSeen": 1795007958.6375785,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
   [
    1795007625,
    4,
+   200
+  ],
+  [
+   1795007959,
+   5,
    200
   ]
  ],
@@ -33,6 +38,7 @@
   "2026-11-18"
  ],
  "related": [
+  "유칼",
   "gta6-메타-크리틱",
   "교통-사고",
   "cuaca-besok",
