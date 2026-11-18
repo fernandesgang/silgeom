@@ -6,7 +6,7 @@
    "firstSeen": 1795015817.1411562,
    "peakRank": 1,
    "peakTraffic": 10000,
-   "lastSeen": 1795023269.0298586
+   "lastSeen": 1795026196.66213
   },
   "강형욱": {
    "slug": "강형욱",
@@ -27,7 +27,7 @@
    "firstSeen": 1795015817.1411562,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795023269.0298586
+   "lastSeen": 1795026196.66213
   },
   "kamil mishara": {
    "slug": "kamil-mishara",
@@ -41,7 +41,7 @@
    "firstSeen": 1795015817.1411562,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795023269.0298586
+   "lastSeen": 1795026196.66213
   },
   "누리호": {
    "slug": "누리호",
@@ -69,21 +69,49 @@
    "firstSeen": 1795015817.1411562,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795023269.0298586
+   "lastSeen": 1795026196.66213
   },
   "수능 재난문자 시간": {
    "slug": "수능-재난문자-시간",
    "firstSeen": 1795019880.6385221,
    "peakRank": 1,
    "peakTraffic": 10000,
-   "lastSeen": 1795023269.0298586
+   "lastSeen": 1795026196.66213
   },
   "신세계": {
    "slug": "신세계",
    "firstSeen": 1795019880.6385221,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795026196.66213
+  },
+  "기인": {
+   "slug": "기인",
+   "firstSeen": 1795020600.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795026196.66213
+  },
+  "ps5 pro": {
+   "slug": "ps5-pro",
+   "firstSeen": 1795026196.66213,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795023269.0298586
+   "lastSeen": 1795026196.66213
+  },
+  "한화": {
+   "slug": "한화",
+   "firstSeen": 1795021200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795026196.66213
+  },
+  "한화생명 e스포츠": {
+   "slug": "한화생명-e스포츠",
+   "firstSeen": 1795020600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795026196.66213
   }
  }
 }
