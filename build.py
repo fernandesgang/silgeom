@@ -143,6 +143,37 @@ def parse_traffic(text):
     return int(float(m.group(1)) * mult)
 
 
+# ───────────────────────── 외국어 검색어 거르기 ─────────────────────────
+# 구글의 한국 목록에도 'cuaca besok'(인도네시아어), 'sxmb'(베트남 복권) 같은 외국어 검색어가 섞여 들어온다.
+# 규칙: 검색어에 한글이 있으면 통과 → 관련 기사 제목에 한글이 있으면 통과
+#       → 기사 제목이 영어면 통과(ps5, twitch 같은 세계적 화제) → 그 밖의 언어 기사뿐이면 제외.
+
+HANGUL = re.compile(r"[가-힣]")
+ENGLISH_WORDS = {
+    "the", "a", "an", "of", "and", "to", "in", "is", "are", "for", "with", "on", "at", "after", "as",
+    "by", "from", "new", "how", "what", "why", "who", "will", "its", "it", "be", "has", "have", "was",
+    "this", "that", "you", "your", "out", "up", "over", "about", "into", "more", "than", "after", "before",
+}
+
+
+def looks_english(text):
+    if re.search(r"[^\x00-\x7F‘’“”–—…]", text):   # 악센트·다른 문자가 있으면 영어가 아님 (베트남어 등)
+        return False
+    words = re.findall(r"[a-z']+", text.lower())
+    return sum(w in ENGLISH_WORDS for w in words) >= 2 or (len(words) >= 3 and sum(w in ENGLISH_WORDS for w in words) >= 1)
+
+
+def is_relevant(keyword, news):
+    if HANGUL.search(keyword):
+        return True
+    titles = [n.get("title", "") for n in news if n.get("title")]
+    if not titles:
+        return bool(re.fullmatch(r"[\x00-\x7F]+", keyword))   # 기사 없는 영문·숫자 검색어는 일단 통과
+    if any(HANGUL.search(t) for t in titles):
+        return True
+    return sum(looks_english(t) for t in titles) * 2 >= len(titles)   # 절반 이상이 영어 기사
+
+
 # ───────────────────────── 설정 ─────────────────────────
 
 def load_config():
@@ -192,6 +223,10 @@ def fetch_items(geo):
             "news": [n for n in news if n["url"].startswith("http")],
             "_order": idx,
         })
+    dropped = [x["keyword"] for x in items if not is_relevant(x["keyword"], x["news"])]
+    if dropped:
+        print("외국어 검색어 제외:", ", ".join(dropped))
+    items = [x for x in items if x["keyword"] not in dropped]
     # 검색량 많은 순 → 최근에 뜬 순 → 구글 원래 순서
     items.sort(key=lambda x: (-x["traffic"], -x["startedAt"], x["_order"]))
     for i, x in enumerate(items, 1):
@@ -564,8 +599,16 @@ def build_site(cfg):
     kw_dir = os.path.join(DATA, "keywords")
     keywords = [load_json(os.path.join(kw_dir, f), None) for f in os.listdir(kw_dir) if f.endswith(".json")] \
         if os.path.isdir(kw_dir) else []
-    keywords = [k for k in keywords if k]
+    # 예전에 쌓인 외국어 검색어도 페이지·목록에서 뺀다 (기록 파일은 그대로 둠)
+    keywords = [k for k in keywords if k and is_relevant(k["keyword"], k["news"])]
     names_by_slug = {k["slug"]: k["keyword"] for k in keywords}
+    for d in days:
+        d["keywords"] = {kw: v for kw, v in d["keywords"].items() if v["slug"] in names_by_slug}
+    days = [d for d in days if d["keywords"]]
+    kept = [dict(x) for x in latest["items"] if x["slug"] in names_by_slug]
+    for i, x in enumerate(kept, 1):
+        x["rank"] = i
+    latest = dict(latest, items=kept)
     current_ranks = {x["keyword"]: x["rank"] for x in latest["items"]}
 
     write(os.path.join(SITE, "index.html"), render_index(cfg, latest, days))
