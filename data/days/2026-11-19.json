@@ -90,7 +90,7 @@
    "firstSeen": 1795020600.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
   },
   "ps5 pro": {
    "slug": "ps5-pro",
@@ -104,56 +104,63 @@
    "firstSeen": 1795021200.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
   },
   "한화생명 e스포츠": {
    "slug": "한화생명-e스포츠",
    "firstSeen": 1795020600.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
   },
   "김정은": {
    "slug": "김정은",
    "firstSeen": 1795024200.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
   },
   "한화오션": {
    "slug": "한화오션",
    "firstSeen": 1795026600.0,
    "peakRank": 3,
-   "peakTraffic": 200,
-   "lastSeen": 1795030519.990995
+   "peakTraffic": 500,
+   "lastSeen": 1795033768.8343265
   },
   "자영업": {
    "slug": "자영업",
    "firstSeen": 1795024800.0,
    "peakRank": 5,
-   "peakTraffic": 100,
-   "lastSeen": 1795030519.990995
+   "peakTraffic": 200,
+   "lastSeen": 1795033768.8343265
   },
   "승리": {
    "slug": "승리",
    "firstSeen": 1795021800.0,
    "peakRank": 6,
    "peakTraffic": 100,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
   },
   "한화생명": {
    "slug": "한화생명",
    "firstSeen": 1795021800.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
   },
   "흰수마자": {
    "slug": "흰수마자",
    "firstSeen": 1795017000.0,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795030519.990995
+   "lastSeen": 1795033768.8343265
+  },
+  "삼전 닉스": {
+   "slug": "삼전-닉스",
+   "firstSeen": 1795029000.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795033768.8343265
   }
  }
 }

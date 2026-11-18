@@ -2,17 +2,27 @@
  "keyword": "한화오션",
  "slug": "한화오션",
  "firstSeen": 1795026600.0,
- "lastSeen": 1795030519.990995,
+ "lastSeen": 1795033768.8343265,
  "peakRank": 3,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795030520,
    3,
    200
+  ],
+  [
+   1795033769,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
+   "url": "https://www.newsis.com/view/NISX20261118_0003873559",
+   "source": "뉴시스"
+  },
   {
    "title": "거제 외포리해역에 대규모 바다숲 조성",
    "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261118.99099005579",
@@ -33,6 +43,7 @@
   "2026-11-19"
  ],
  "related": [
+  "삼전-닉스",
   "기인",
   "김정은",
   "신세계",

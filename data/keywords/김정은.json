@@ -2,7 +2,7 @@
  "keyword": "김정은",
  "slug": "김정은",
  "firstSeen": 1795024200.0,
- "lastSeen": 1795030519.990995,
+ "lastSeen": 1795033768.8343265,
  "peakRank": 2,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795030520,
    2,
    500
+  ],
+  [
+   1795033769,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
+   "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "[경향의 눈]미 중간선거 이후 북·미, 그리고 한국",
+   "url": "https://www.khan.co.kr/article/202611182009025",
+   "source": "경향신문"
+  },
   {
    "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
    "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/",
@@ -33,6 +53,7 @@
   "2026-11-19"
  ],
  "related": [
+  "삼전-닉스",
   "기인",
   "한화오션",
   "신세계",

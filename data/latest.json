@@ -1,16 +1,47 @@
 {
- "generatedAt": 1795030520,
+ "generatedAt": 1795033769,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
+   "keyword": "삼전 닉스",
+   "slug": "삼전-닉스",
+   "traffic": 10000,
+   "startedAt": 1795029000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
+     "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
+     "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+     "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
+     "source": "머니투데이"
+    },
+    {
+     "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261118045151008",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 2,
    "keyword": "기인",
    "slug": "기인",
    "traffic": 1000,
    "startedAt": 1795020600.0,
-   "change": "up",
-   "diff": 2,
+   "change": "down",
+   "diff": 1,
    "news": [
+    {
+     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+     "url": "https://www.kmib.co.kr/article/20261119500020",
+     "source": "국민일보"
+    },
     {
      "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
      "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
@@ -20,37 +51,6 @@
      "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
      "source": "진일보 | 전남일보"
-    },
-    {
-     "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-     "url": "https://www.etoday.co.kr/news/view/2649030",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "김정은",
-   "slug": "김정은",
-   "traffic": 500,
-   "startedAt": 1795024200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
-     "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/",
-     "source": "조선일보"
-    },
-    {
-     "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
-     "url": "https://news.jtbc.co.kr/article/NB12328748",
-     "source": "JTBC"
     }
    ]
   },
@@ -58,51 +58,51 @@
    "rank": 3,
    "keyword": "한화오션",
    "slug": "한화오션",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795026600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "거제 외포리해역에 대규모 바다숲 조성",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261118.99099005579",
-     "source": "국제신문"
-    },
-    {
-     "title": "변광용 거제시장, 현안 해결 위해 국회로 잰걸음",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026111813421532899",
-     "source": "부산일보"
+     "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873559",
+     "source": "뉴시스"
     },
     {
      "title": "해수부·한화오션, 거제 해역에 바다숲 조성 추진",
      "url": "https://www.yna.co.kr/view/AKR20261117033200030",
      "source": "연합뉴스"
+    },
+    {
+     "title": "변광용 거제시장, 현안 해결 위해 국회로 잰걸음",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026111813421532899",
+     "source": "부산일보"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "신세계",
-   "slug": "신세계",
-   "traffic": 200,
-   "startedAt": 1795013400.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "김정은",
+   "slug": "김정은",
+   "traffic": 500,
+   "startedAt": 1795024200.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
-     "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
-     "source": "연합인포맥스"
+     "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
+     "source": "YTN"
     },
     {
-     "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
-     "url": "https://www.newspim.com/news/view/20261111000117",
-     "source": "뉴스핌"
+     "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
+     "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
+     "source": "동아일보"
     },
     {
-     "title": "iM증권 \"신세계 목표주가 하향, 백화점 외국인 매출 성장 둔화 우려\"",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452034",
-     "source": "비즈니스포스트"
+     "title": "[경향의 눈]미 중간선거 이후 북·미, 그리고 한국",
+     "url": "https://www.khan.co.kr/article/202611182009025",
+     "source": "경향신문"
     }
    ]
   },
@@ -110,9 +110,9 @@
    "rank": 5,
    "keyword": "자영업",
    "slug": "자영업",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795024800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -138,18 +138,18 @@
    "slug": "승리",
    "traffic": 100,
    "startedAt": 1795021800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
-    {
-     "title": "승리 '임신한 부인과 함께 귀국'",
-     "url": "https://www.mt.co.kr/photo/202611182305239152",
-     "source": "머니투데이"
-    },
     {
      "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
      "source": "TV조선뉴스"
+    },
+    {
+     "title": "승리, 만삭 20대 아내와 공항 포착…\"여기까지 찍어라\" 제지 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111823451756876",
+     "source": "머니투데이"
     },
     {
      "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
@@ -164,7 +164,7 @@
    "slug": "한화생명",
    "traffic": 100,
    "startedAt": 1795021800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -190,14 +190,9 @@
    "slug": "한화",
    "traffic": 100,
    "startedAt": 1795021200.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
-    {
-     "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
-     "source": "마켓인"
-    },
     {
      "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
      "url": "https://v.daum.net/v/1WNhADiPof",
@@ -207,6 +202,11 @@
      "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
      "url": "https://dealsite.co.kr/articles/172804",
      "source": "딜사이트"
+    },
+    {
+     "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
+     "source": "마켓인"
     }
    ]
   },
@@ -216,8 +216,8 @@
    "slug": "한화생명-e스포츠",
    "traffic": 100,
    "startedAt": 1795020600.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
@@ -225,14 +225,14 @@
      "source": "미주중앙일보"
     },
     {
-     "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
-     "source": "STN SPORTS"
-    },
-    {
      "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
      "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27",
      "source": "데일리e스포츠"
+    },
+    {
+     "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
+     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
+     "source": "STN SPORTS"
     }
    ]
   },
@@ -242,7 +242,7 @@
    "slug": "흰수마자",
    "traffic": 100,
    "startedAt": 1795017000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {

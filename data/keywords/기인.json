@@ -2,7 +2,7 @@
  "keyword": "기인",
  "slug": "기인",
  "firstSeen": 1795020600.0,
- "lastSeen": 1795030519.990995,
+ "lastSeen": 1795033768.8343265,
  "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
@@ -15,9 +15,19 @@
    1795030520,
    1,
    1000
+  ],
+  [
+   1795033769,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+   "url": "https://www.kmib.co.kr/article/20261119500020",
+   "source": "국민일보"
+  },
   {
    "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
    "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
@@ -38,6 +48,7 @@
   "2026-11-19"
  ],
  "related": [
+  "삼전-닉스",
   "김정은",
   "한화오션",
   "자영업",
