@@ -75,8 +75,8 @@
    "slug": "교통-사고",
    "firstSeen": 1795003800.0,
    "peakRank": 2,
-   "peakTraffic": 500,
-   "lastSeen": 1795007958.6375785
+   "peakTraffic": 1000,
+   "lastSeen": 1795011880.905021
   },
   "cuaca besok": {
    "slug": "cuaca-besok",
@@ -98,6 +98,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795007625.4528928
+  },
+  "마린 르펜": {
+   "slug": "마린-르펜",
+   "firstSeen": 1795005000.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795011880.905021
+  },
+  "김명민": {
+   "slug": "김명민",
+   "firstSeen": 1795006800.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795011880.905021
+  },
+  "kamil mishara": {
+   "slug": "kamil-mishara",
+   "firstSeen": 1795004400.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795011880.905021
+  },
+  "김소희": {
+   "slug": "김소희",
+   "firstSeen": 1795008000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795011880.905021
+  },
+  "고려아연": {
+   "slug": "고려아연",
+   "firstSeen": 1795008000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795011880.905021
+  },
+  "누리호": {
+   "slug": "누리호",
+   "firstSeen": 1795005000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795011880.905021
+  },
+  "앙투안 그리즈만": {
+   "slug": "앙투안-그리즈만",
+   "firstSeen": 1795004400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795011880.905021
+  },
+  "시계": {
+   "slug": "시계",
+   "firstSeen": 1795003800.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795011880.905021
+  },
+  "gta6 메타": {
+   "slug": "gta6-메타",
+   "firstSeen": 1795002000.0,
+   "peakRank": 10,
+   "peakTraffic": 200,
+   "lastSeen": 1795011880.905021
   }
  }
 }
