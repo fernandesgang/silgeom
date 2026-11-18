@@ -203,6 +203,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795037251.4902518
+  },
+  "옥주현": {
+   "slug": "옥주현",
+   "firstSeen": 1795036800.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795040783.588428
+  },
+  "이민정": {
+   "slug": "이민정",
+   "firstSeen": 1795035600.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795040783.588428
+  },
+  "kbo 리그": {
+   "slug": "kbo-리그",
+   "firstSeen": 1795035600.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795040783.588428
+  },
+  "롯데 자이언츠": {
+   "slug": "롯데-자이언츠",
+   "firstSeen": 1795033800.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795040783.588428
+  },
+  "안세영": {
+   "slug": "안세영",
+   "firstSeen": 1795035000.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795040783.588428
+  },
+  "영화": {
+   "slug": "영화",
+   "firstSeen": 1795036800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795040783.588428
+  },
+  "오현규": {
+   "slug": "오현규",
+   "firstSeen": 1795035000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795040783.588428
+  },
+  "미사일": {
+   "slug": "미사일",
+   "firstSeen": 1795033800.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795040783.588428
+  },
+  "마우리시오 포체티노": {
+   "slug": "마우리시오-포체티노",
+   "firstSeen": 1795036200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795040783.588428
+  },
+  "3기신도시 남양주 왕숙지구": {
+   "slug": "3기신도시-남양주-왕숙지구",
+   "firstSeen": 1795035600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795040783.588428
   }
  }
 }

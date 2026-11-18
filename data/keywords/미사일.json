@@ -1,0 +1,46 @@
+{
+ "keyword": "미사일",
+ "slug": "미사일",
+ "firstSeen": 1795033800.0,
+ "lastSeen": 1795040783.588428,
+ "peakRank": 8,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795040784,
+   8,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8715628",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+   "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+   "source": "조선일보"
+  },
+  {
+   "title": "미·중·러 회담 앞두고 북·러 밀착 강조한 젤렌스키⋯ 美·유럽, 우크라 작전 놓고 공개 충돌",
+   "url": "https://www.kmib.co.kr/article/20261118501969",
+   "source": "국민일보"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "옥주현",
+  "이민정",
+  "kbo-리그",
+  "롯데-자이언츠",
+  "안세영",
+  "영화",
+  "오현규",
+  "마우리시오-포체티노",
+  "3기신도시-남양주-왕숙지구"
+ ]
+}

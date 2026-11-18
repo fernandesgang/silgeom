@@ -1,264 +1,264 @@
 {
- "generatedAt": 1795037251,
+ "generatedAt": 1795040784,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "삼전 닉스",
-   "slug": "삼전-닉스",
-   "traffic": 20000,
-   "startedAt": 1795029000.0,
-   "change": "same",
+   "keyword": "옥주현",
+   "slug": "옥주현",
+   "traffic": 2000,
+   "startedAt": 1795036800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
-     "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
-     "source": "네이버 프리미엄콘텐츠"
+     "title": "핑클, 21년 만의 완전체 컴백 초읽기…새 프로필 공개",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873940",
+     "source": "뉴시스"
     },
     {
-     "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
-     "source": "머니투데이"
+     "title": "'핑클 완전체' 이효리, 요가원장은 잠시 안녕…가죽바지·하이힐 '꾸꾸꾸' 귀환",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/18/HEZTOMRRMJRDQOJQGUZTONZYMU/",
+     "source": "조선일보"
     },
     {
-     "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261118045151008",
-     "source": "연합뉴스"
+     "title": "이효리, 완전체 컴백 앞두고 핑클 멤버들과 밀착 일상…변함없는 '미모 합'",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6358545",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "한화 이글스",
-   "slug": "한화-이글스",
-   "traffic": 10000,
-   "startedAt": 1795032000.0,
+   "keyword": "이민정",
+   "slug": "이민정",
+   "traffic": 2000,
+   "startedAt": 1795035600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
-     "source": "SPOTV NEWS"
+     "title": "이민정, 미국 저택 주방 공개…대형 가스레인지부터 고급스러운 인테리어까지",
+     "url": "https://www.segye.com/newsView/20261118502794",
+     "source": "세계일보"
     },
     {
-     "title": "한화 전방위 투자, FA만 하는 게 아니다… 이렇게 팍팍 밀어주는데 성적 나야 한다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020374",
-     "source": "SPOTV NEWS"
+     "title": "이병헌·이민정 LA 저택 공개…주방만 봐도 좋아 보인다",
+     "url": "https://www.newsis.com/view/NISX20261117_0003872161",
+     "source": "뉴시스"
     },
     {
-     "title": "한화 78억 투자, 이제는 웃을 수 있나… 2년간 2승 악몽 털어낸다, 류지현 구상은 어떻게 되나",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020171",
-     "source": "SPOTV NEWS"
+     "title": "이민정, '24억 LA 저택' 공개 [소셜in]",
+     "url": "https://m.imbc.com/enews/view/525217",
+     "source": "MBC"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "한화오션",
-   "slug": "한화오션",
+   "keyword": "kbo 리그",
+   "slug": "kbo-리그",
    "traffic": 2000,
-   "startedAt": 1795026600.0,
-   "change": "same",
+   "startedAt": 1795035600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-     "url": "https://www.yna.co.kr/view/AKR20261118170400704",
-     "source": "연합뉴스"
+     "title": "'韓 최초 역사 쓴 외인' 에레디아, 결국 SSG 떠난다 \"작별인사 전한다, 진심으로 감사해\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/18/2026111819465096590",
+     "source": "머니투데이"
     },
     {
-     "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
-     "source": "연합뉴스TV"
+     "title": "마이너 100홈런 26살 거포, 한국행 위해 볼티모어에서 방출…SSG 합류할까 \"충분히 임팩트 있는 타자\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/18/MJRGCZRSGAZTONLGGRRDMMJZMU/",
+     "source": "조선일보"
     },
     {
-     "title": "평택함 한화오션에서 진수",
-     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
-     "source": "뉴시스"
+     "title": "[프로야구] SSG, 에레디아와 결별...26세 호타준족 하인즈 영입 수순",
+     "url": "https://www.newspim.com/news/view/20261118000866",
+     "source": "뉴스핌"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "택시",
-   "slug": "택시",
-   "traffic": 1000,
-   "startedAt": 1795032600.0,
+   "keyword": "롯데 자이언츠",
+   "slug": "롯데-자이언츠",
+   "traffic": 2000,
+   "startedAt": 1795033800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
-     "source": "주간조선"
+     "title": "롯데 사업재편 키 쥔 신유열…2년만에 사장 승진으로 '증명의 시간'",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/16/2026111680145.html",
+     "source": "인베스트조선"
     },
     {
-     "title": "요금 더 내고 간 승객에 전화해 돈 돌려준 택시 기사",
-     "url": "https://www.koreadaily.com/article/20261117072332525",
-     "source": "미주중앙일보"
+     "title": "[어바웃C] 곽기섭 롯데케미칼 전무, 인니 사업 '차입금 상환능력' 입증할까",
+     "url": "https://v.daum.net/v/PmjfdL8BQQ",
+     "source": "Daum"
     },
     {
-     "title": "\"4만5000원 더 내셨죠?\" 밤 10시 걸려온 낯선 전화 받아보니 [따뜻했슈]",
-     "url": "https://www.fnnews.com/news/202611180933458386",
-     "source": "파이낸셜뉴스"
+     "title": "롯데 올해는 FA 영입하나 \"좋은 선수 있으면..\" → 그런데 시장 상황 엄청나게 까다롭다",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/18/GUYGIN3BMI4DGMBQG44TCMTCGM/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "김정은",
-   "slug": "김정은",
+   "keyword": "안세영",
+   "slug": "안세영",
    "traffic": 1000,
-   "startedAt": 1795024200.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795035000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
-     "url": "https://www.yna.co.kr/view/AKR20261118159000083",
-     "source": "연합뉴스"
+     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8714321",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "트럼프와 김정은의 친분 과시…협상은 ’가시밭길’",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119054543Uvj",
-     "source": "연합뉴스TV"
+     "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
-     "url": "https://news.jtbc.co.kr/article/NB12328748",
-     "source": "JTBC"
+     "title": "\"안세영도, 야마구치도 없다\" 中, 무려 8개월 기다린 우승 기회... 왕즈이부터 압승 출발, 천위페이도 정상 도전 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/18/2026111813330517401",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "레인보우로보틱스",
-   "slug": "레인보우로보틱스",
+   "keyword": "영화",
+   "slug": "영화",
    "traffic": 200,
-   "startedAt": 1795030800.0,
+   "startedAt": 1795036800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
-     "url": "https://www.hankyung.com/article/202611185064i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[종목상담 주식민원처리반] 삼성전자와 휴머노이드 공동개발 모멘텀 '레인보우로보틱스' - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/18/2026111818287034428",
+     "title": "배종옥, 일부 배우 후배들에 일침 \"차에 꿀 발랐나…현장서 답답\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111820281052367",
      "source": "머니투데이"
     },
     {
-     "title": "미라콤아이앤씨, 레인보우로보틱스와 제조 RX 사업 확대 맞손",
-     "url": "https://zdnet.co.kr/view/?no=20261118104941",
-     "source": "지디넷코리아"
+     "title": "정용기 감독 \"공포스러운 현실, '완벽한 집'에 자연스럽게 녹이기 위해 노력\"",
+     "url": "https://www.chosun.com/entertainments/movie/2026/11/18/MFSDAMLBMU3DMMRXMMZDOZLFGQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"현실이 더 공포스럽다\"…'완벽한 집', 주거불안·고립을 호러로",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873680",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "자영업",
-   "slug": "자영업",
+   "keyword": "오현규",
+   "slug": "오현규",
    "traffic": 200,
-   "startedAt": 1795024800.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795035000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "지역 문제에 기술 입힌 대학생들…관광부터 자영업까지",
-     "url": "https://www.gjdream.com/news/articleView.html?idxno=674475",
-     "source": "광주드림"
+     "title": "[사커토픽] 손흥민 유럽 복귀·김민재 EPL행·오현규 나폴리 트레이드설…A매치 기간에도 뜨거운 코리안 스타 이적시장",
+     "url": "https://sports.donga.com/sports/article/all/20261117/135037364/1",
+     "source": "스포츠동아"
     },
     {
-     "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072977",
-     "source": "경상일보"
+     "title": "‘韓 국대’ 오현규, 220억 ‘프리미어리그 입성’ 토트넘 이적으로 성사될까 “1월 이적시장 영입 검토 중”",
+     "url": "https://sports.khan.co.kr/article/202611182033003",
+     "source": "스포츠경향"
     },
     {
-     "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
-     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808",
-     "source": "울산종합일보"
+     "title": "오현규 이적설 떴다! 김민재 이어 나폴리 가나... 튀르키예서 \"네레스와 맞교환 추진\", 관건은 추가 이적료 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/16/2026111621140396034",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "gta6 프레임",
-   "slug": "gta6-프레임",
+   "keyword": "미사일",
+   "slug": "미사일",
    "traffic": 200,
-   "startedAt": 1795023600.0,
+   "startedAt": 1795033800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
-     "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
-     "source": "Digital Foundry"
+     "title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715628",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-     "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
-     "source": "Wccftech"
+     "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+     "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+     "source": "조선일보"
     },
     {
-     "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-     "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
-     "source": "Kotaku"
+     "title": "미·중·러 회담 앞두고 북·러 밀착 강조한 젤렌스키⋯ 美·유럽, 우크라 작전 놓고 공개 충돌",
+     "url": "https://www.kmib.co.kr/article/20261118501969",
+     "source": "국민일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "김건희",
-   "slug": "김건희",
+   "keyword": "마우리시오 포체티노",
+   "slug": "마우리시오-포체티노",
    "traffic": 100,
-   "startedAt": 1795032600.0,
+   "startedAt": 1795036200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단",
-     "url": "https://www.yna.co.kr/view/AKR20261118187100004",
+     "title": "포체티노 고별전서 풀리식 바이시클킥…미국, 아이티 2-0 제압",
+     "url": "https://www.yna.co.kr/view/AKR20261118096400007",
      "source": "연합뉴스"
     },
     {
-     "title": "’비상계엄=내란’ 인정할까…대법 판단은 처음",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119054423lAO",
-     "source": "연합뉴스TV"
+     "title": "[공식발표] 미국에서 비행기 내리자마자 맨유 훈련장 직행...포체티노 시대 공식 개막 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/202611190107774961O",
+     "source": "머니투데이"
     },
     {
-     "title": "조국혁신당 경기도당 “19일 본회의서 민주유공자법 반드시 처리해야”",
-     "url": "https://www.kyeonggi.com/article/20261118580085",
-     "source": "경기일보"
+     "title": "\"맨체스터가 영원히 파란색일 것 같나\" 포체티노의 출사표...맨시티 향한 선전포고 \"시간만 주면 내가 바꾼다\"",
+     "url": "https://www.koreadaily.com/article/20261118031441564",
+     "source": "미주중앙일보"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "김해국제공항",
-   "slug": "김해국제공항",
+   "keyword": "3기신도시 남양주 왕숙지구",
+   "slug": "3기신도시-남양주-왕숙지구",
    "traffic": 100,
-   "startedAt": 1795030800.0,
+   "startedAt": 1795035600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "새 쫓으랬더니 ‘낮잠·유튜브’…김해공항 무더기 징계 뒤 또 해임",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716264",
-     "source": "KBS 뉴스"
+     "title": "남양주 왕숙 A-17블록 ‘왕숙 한신더휴 센텀’ 이달 분양…전용 59㎡ 379가구",
+     "url": "https://www.donga.com/news/Economy/article/all/20261118/135044016/1",
+     "source": "동아일보"
     },
     {
-     "title": "엽총탄 소지에 공포탄 발사까지…기강 해이 심각",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716345",
-     "source": "KBS 뉴스"
+     "title": "3기 신도시 입주 지연에 ‘광교·일산’ 신규 분양 대안으로",
+     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/18/72R5ILH57FHQRMA735YJZPNWBM/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "‘조류 퇴치’ 총기 출고 전 음주 감지…동료 향해 공포탄까지",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716416",
-     "source": "KBS 뉴스"
+     "title": "3기 신도시 입주 늦어지자…교통·학군 갖춘 기존 신도시 뜬다",
+     "url": "https://www.fnnews.com/news/202611181349474785",
+     "source": "파이낸셜뉴스"
     }
    ]
   }
