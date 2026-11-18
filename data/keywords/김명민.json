@@ -2,7 +2,7 @@
  "keyword": "김명민",
  "slug": "김명민",
  "firstSeen": 1795006800.0,
- "lastSeen": 1795011880.905021,
+ "lastSeen": 1795015817.1411562,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795011881,
    3,
    500
+  ],
+  [
+   1795015817,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "김명민 “스키복 팔다 경찰서까지”…20대 시절 회상",
+   "url": "https://www.donga.com/news/Entertainment/article/all/20261118/135051018/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "‘데뷔 30년만 첫 예능’ 김명민, 오늘‘유 퀴즈’ 출격…알고보니 유재석 대학 동기",
+   "url": "https://www.viva100.com/article/20261118500603",
+   "source": "브릿지경제"
+  },
+  {
+   "title": "김명민, '불멸의 이순신'으로 대상 수상 비하인드 \"퍼머를 심하게 하고 갔다\"('유퀴즈')",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MJTGGOBQGVSGCOLDGMZTSZRTMY/",
+   "source": "조선일보"
+  },
   {
    "title": "배우 김명민, 데뷔 첫 예능 출연 \"유퀴즈 관계자 여러분 감사\" 수상 소감 같은 인사('유퀴즈')",
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MFQWKNLDHEYGMNDCGUYGGMDEME/",
@@ -30,9 +50,12 @@
   }
  ],
  "days": [
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "related": [
+  "강형욱",
+  "김간지",
   "마린-르펜",
   "교통-사고",
   "kamil-mishara",
