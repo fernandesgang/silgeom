@@ -273,6 +273,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795040783.588428
+  },
+  "미역국": {
+   "slug": "미역국",
+   "firstSeen": 1795039200.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795044325.6426501
+  },
+  "t1": {
+   "slug": "t1",
+   "firstSeen": 1795038600.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795044325.6426501
+  },
+  "schd": {
+   "slug": "schd",
+   "firstSeen": 1795038600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795044325.6426501
+  },
+  "new zealand vs india": {
+   "slug": "new-zealand-vs-india",
+   "firstSeen": 1795039800.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
+  },
+  "겨울": {
+   "slug": "겨울",
+   "firstSeen": 1795039800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
+  },
+  "ionq": {
+   "slug": "ionq",
+   "firstSeen": 1795039800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
+  },
+  "nvda": {
+   "slug": "nvda",
+   "firstSeen": 1795039800.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
+  },
+  "다우 존스 산업평균지수": {
+   "slug": "다우-존스-산업평균지수",
+   "firstSeen": 1795039200.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
+  },
+  "lg그룹": {
+   "slug": "lg그룹",
+   "firstSeen": 1795039200.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
+  },
+  "새마을금고": {
+   "slug": "새마을금고",
+   "firstSeen": 1795039200.0,
+   "peakRank": 10,
+   "peakTraffic": 200,
+   "lastSeen": 1795044325.6426501
   }
  }
 }
