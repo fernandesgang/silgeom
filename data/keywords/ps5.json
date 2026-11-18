@@ -1,0 +1,46 @@
+{
+ "keyword": "ps5",
+ "slug": "ps5",
+ "firstSeen": 1795000800.0,
+ "lastSeen": 1795005437.335174,
+ "peakRank": 2,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795005437,
+   2,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "PS5 System Update 26.07-14.23.00 Released With Security Fixes Ahead of GTA VI Launch",
+   "url": "https://twistedvoxel.com/ps5-system-update-26-07-14-23-00-released-with-security-fixes-ahead-of-gta-vi-launch/",
+   "source": "TwistedVoxel"
+  },
+  {
+   "title": "GTA 6's Second Day One Patch Is 620MB On PS5 and 1GB Bigger on Xbox",
+   "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
+   "source": "IGN"
+  },
+  {
+   "title": "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released",
+   "url": "https://www.polygon.com/gta-6-grand-theft-auto-playstation-mandatory-ps5-update/",
+   "source": "Polygon.com"
+  }
+ ],
+ "days": [
+  "2026-11-18"
+ ],
+ "related": [
+  "gta6-메타-크리틱",
+  "sxmb",
+  "삼양식품",
+  "gta5",
+  "국제신문",
+  "헝거게임",
+  "유칼",
+  "포스코노동조합",
+  "미래에셋생명"
+ ]
+}
