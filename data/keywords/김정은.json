@@ -1,0 +1,46 @@
+{
+ "keyword": "김정은",
+ "slug": "김정은",
+ "firstSeen": 1795024200.0,
+ "lastSeen": 1795030519.990995,
+ "peakRank": 2,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795030520,
+   2,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
+   "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/",
+   "source": "조선일보"
+  },
+  {
+   "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
+   "url": "https://news.jtbc.co.kr/article/NB12328748",
+   "source": "JTBC"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "기인",
+  "한화오션",
+  "신세계",
+  "자영업",
+  "승리",
+  "한화생명",
+  "한화",
+  "한화생명-e스포츠",
+  "흰수마자"
+ ]
+}

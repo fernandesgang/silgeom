@@ -2,17 +2,37 @@
  "keyword": "한화",
  "slug": "한화",
  "firstSeen": 1795021200.0,
- "lastSeen": 1795026196.66213,
- "peakRank": 9,
+ "lastSeen": 1795030519.990995,
+ "peakRank": 8,
  "peakTraffic": 100,
  "history": [
   [
    1795026197,
    9,
    100
+  ],
+  [
+   1795030520,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
+   "source": "마켓인"
+  },
+  {
+   "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
+   "url": "https://v.daum.net/v/1WNhADiPof",
+   "source": "Daum"
+  },
+  {
+   "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
+   "url": "https://dealsite.co.kr/articles/172804",
+   "source": "딜사이트"
+  },
   {
    "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
    "url": "https://www.hankyung.com/article/202611184776i",
@@ -33,6 +53,12 @@
   "2026-11-19"
  ],
  "related": [
+  "김정은",
+  "한화오션",
+  "자영업",
+  "승리",
+  "한화생명",
+  "흰수마자",
   "수능-재난문자-시간",
   "마린-르펜",
   "기인",

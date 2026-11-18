@@ -2,8 +2,8 @@
  "keyword": "신세계",
  "slug": "신세계",
  "firstSeen": 1795013400.0,
- "lastSeen": 1795026196.66213,
- "peakRank": 5,
+ "lastSeen": 1795030519.990995,
+ "peakRank": 4,
  "peakTraffic": 200,
  "history": [
   [
@@ -15,9 +15,19 @@
    1795026197,
    5,
    200
+  ],
+  [
+   1795030520,
+   4,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "iM증권 \"신세계 목표주가 하향, 백화점 외국인 매출 성장 둔화 우려\"",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452034",
+   "source": "비즈니스포스트"
+  },
   {
    "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
@@ -38,6 +48,12 @@
   "2026-11-19"
  ],
  "related": [
+  "김정은",
+  "한화오션",
+  "자영업",
+  "승리",
+  "한화생명",
+  "흰수마자",
   "기인",
   "ps5-pro",
   "한화",
