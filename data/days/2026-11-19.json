@@ -5,15 +5,15 @@
    "slug": "마린-르펜",
    "firstSeen": 1795015817.1411562,
    "peakRank": 1,
-   "peakTraffic": 5000,
-   "lastSeen": 1795015817.1411562
+   "peakTraffic": 10000,
+   "lastSeen": 1795019880.6385221
   },
   "강형욱": {
    "slug": "강형욱",
    "firstSeen": 1795015817.1411562,
    "peakRank": 2,
    "peakTraffic": 2000,
-   "lastSeen": 1795015817.1411562
+   "lastSeen": 1795019880.6385221
   },
   "교통 사고": {
    "slug": "교통-사고",
@@ -27,35 +27,35 @@
    "firstSeen": 1795015817.1411562,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795015817.1411562
+   "lastSeen": 1795019880.6385221
   },
   "kamil mishara": {
    "slug": "kamil-mishara",
    "firstSeen": 1795015817.1411562,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795015817.1411562
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795019880.6385221
   },
   "김소희": {
    "slug": "김소희",
    "firstSeen": 1795015817.1411562,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795015817.1411562
+   "lastSeen": 1795019880.6385221
   },
   "누리호": {
    "slug": "누리호",
    "firstSeen": 1795015817.1411562,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795015817.1411562
+   "lastSeen": 1795019880.6385221
   },
   "앙투안 그리즈만": {
    "slug": "앙투안-그리즈만",
    "firstSeen": 1795015817.1411562,
    "peakRank": 8,
    "peakTraffic": 200,
-   "lastSeen": 1795015817.1411562
+   "lastSeen": 1795019880.6385221
   },
   "시계": {
    "slug": "시계",
@@ -67,9 +67,23 @@
   "김간지": {
    "slug": "김간지",
    "firstSeen": 1795015817.1411562,
-   "peakRank": 10,
-   "peakTraffic": 100,
-   "lastSeen": 1795015817.1411562
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795019880.6385221
+  },
+  "수능 재난문자 시간": {
+   "slug": "수능-재난문자-시간",
+   "firstSeen": 1795019880.6385221,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795019880.6385221
+  },
+  "신세계": {
+   "slug": "신세계",
+   "firstSeen": 1795019880.6385221,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795019880.6385221
   }
  }
 }

@@ -2,17 +2,27 @@
  "keyword": "마린 르펜",
  "slug": "마린-르펜",
  "firstSeen": 1795005000.0,
- "lastSeen": 1795015817.1411562,
+ "lastSeen": 1795019880.6385221,
  "peakRank": 1,
- "peakTraffic": 5000,
+ "peakTraffic": 10000,
  "history": [
   [
    1795011881,
    1,
    5000
+  ],
+  [
+   1795019881,
+   2,
+   10000
   ]
  ],
  "news": [
+  {
+   "title": "佛 대선 1·2위 후보 \"정년 60세로 낮출 것\"… 마크롱 연금 개혁에 반기",
+   "url": "https://www.chosun.com/international/international_general/2026/11/19/CP4WA5FVJBGB5MSHW57VAVTM3E/",
+   "source": "조선일보"
+  },
   {
    "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
    "url": "https://www.hankyung.com/article/2026111855181",
@@ -34,6 +44,8 @@
   "2026-11-19"
  ],
  "related": [
+  "수능-재난문자-시간",
+  "신세계",
   "강형욱",
   "김간지",
   "교통-사고",
