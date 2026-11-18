@@ -1,0 +1,55 @@
+# 20분마다 구글 트렌드를 받아 사이트를 새로 만들고 GitHub Pages에 올립니다.
+name: 실검 업데이트
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # 20분마다 (GitHub 사정에 따라 몇 분 늦어질 수 있음)
+  workflow_dispatch:          # Actions 탭에서 'Run workflow' 버튼으로 바로 실행
+
+permissions:
+  contents: write   # 수집한 기록(data/)을 저장소에 저장
+  pages: write
+  id-token: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: 데이터 수집 + 사이트 생성
+        run: python build.py
+        env:
+          # config.json의 siteUrl이 비어 있으면 GitHub Pages 주소를 사용
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+
+      - name: 기록 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "기록 업데이트 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
