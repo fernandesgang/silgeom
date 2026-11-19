@@ -2,7 +2,7 @@
  "keyword": "프로게이머",
  "slug": "프로게이머",
  "firstSeen": 1795098600.0,
- "lastSeen": 1795107180.0004804,
+ "lastSeen": 1795110406.6863134,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,19 @@
    1795107180,
    6,
    200
+  ],
+  [
+   1795110407,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
+   "url": "http://newstoktok.com/article.php?aid=27315247155",
+   "source": "톡톡뉴스"
+  },
   {
    "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
    "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
@@ -38,6 +48,8 @@
   "2026-11-20"
  ],
  "related": [
+  "앤트로픽",
+  "anthropic-stock",
   "amd",
   "엔화",
   "kt-wiz",

@@ -2,7 +2,7 @@
  "keyword": "amd",
  "slug": "amd",
  "firstSeen": 1795103400.0,
- "lastSeen": 1795107180.0004804,
+ "lastSeen": 1795110406.6863134,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795107180,
    3,
    200
+  ],
+  [
+   1795110407,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "AMD falls on short-seller report of alleged China exposure",
+   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
+   "url": "https://www.tokenpost.com/news/investing/61491",
+   "source": "www.tokenpost.com"
+  },
+  {
+   "title": "AMD Slides After Hunterbrook Shorts Stock, Cites Circular Deals",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
+   "source": "Bloomberg.com"
+  },
   {
    "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
    "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547",
@@ -33,6 +53,8 @@
   "2026-11-20"
  ],
  "related": [
+  "앤트로픽",
+  "anthropic-stock",
   "앤트로픽-주가",
   "습관",
   "엔화",

@@ -2,7 +2,7 @@
  "keyword": "플라비오 코볼리",
  "slug": "플라비오-코볼리",
  "firstSeen": 1795102800.0,
- "lastSeen": 1795107180.0004804,
+ "lastSeen": 1795110406.6863134,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "\"韓 충격 안겼다\" 이변에 익숙한 한국, 이미 아르헨→인도 넘었다... 伊 만나도 주눅 들지 않는 이유 - 머니투데이",
+   "url": "https://www.mt.co.kr/sports/2026/11/19/2026111914011325855",
+   "source": "머니투데이"
+  },
+  {
+   "title": "정현 “팬들이 기억하는 ‘신데렐라의 기적’ 한번 더”",
+   "url": "https://www.donga.com/news/Sports/article/all/20261118/135042481/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "[오늘의영상] 파이널8 오른 태극전사들…이탈리아 정조준",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117233010JM9",
+   "source": "연합뉴스TV"
+  },
   {
    "title": "[ATP 파이널스] 리턴하는 코볼리",
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757438",
@@ -33,6 +48,8 @@
   "2026-11-20"
  ],
  "related": [
+  "앤트로픽",
+  "anthropic-stock",
   "앤트로픽-주가",
   "습관",
   "amd",

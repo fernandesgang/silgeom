@@ -2,14 +2,19 @@
  "keyword": "kt wiz",
  "slug": "kt-wiz",
  "firstSeen": 1795099800.0,
- "lastSeen": 1795107180.0004804,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795110406.6863134,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795107180,
    5,
    200
+  ],
+  [
+   1795110407,
+   4,
+   500
   ]
  ],
  "news": [
@@ -33,6 +38,8 @@
   "2026-11-20"
  ],
  "related": [
+  "앤트로픽",
+  "anthropic-stock",
   "앤트로픽-주가",
   "습관",
   "amd",
