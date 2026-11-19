@@ -2,17 +2,37 @@
  "keyword": "푸틴",
  "slug": "푸틴",
  "firstSeen": 1795086000.0,
- "lastSeen": 1795091616.2722778,
- "peakRank": 9,
+ "lastSeen": 1795096355.4697669,
+ "peakRank": 8,
  "peakTraffic": 100,
  "history": [
   [
    1795091616,
    9,
    100
+  ],
+  [
+   1795096355,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "[속보]사상 첫 미중러 회담, 약 1시간 30분만에 종료",
+   "url": "https://www.chosun.com/international/international_general/2026/11/19/DFKIEODHMZGTLDM3RMAP7N46I4/",
+   "source": "조선일보"
+  },
+  {
+   "title": "처음 마주앉은 미중러 정상, 핵군축·우크라전·한반도문제 논의(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261119172451009",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "“인류의 머리 위에 매달린 칼”…시진핑, 미중러 첫 정상회담서 핵 폐기 촉구",
+   "url": "https://www.mk.co.kr/news/world/12213919",
+   "source": "매일경제"
+  },
   {
    "title": "[속보] 미·중·러 정상, 유엔 개혁 및 핵전쟁 방지 등 합의",
    "url": "https://www.chosun.com/international/us/2026/11/19/Z26ERGLQUVFW7LVRUZK665GGMY/",
@@ -33,6 +53,10 @@
   "2026-11-19"
  ],
  "related": [
+  "필리버스터",
+  "변상일",
+  "금오산",
+  "하나로마트",
   "정부24",
   "한진칼",
   "이재시",

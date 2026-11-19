@@ -1,0 +1,44 @@
+{
+ "keyword": "금오산",
+ "slug": "금오산",
+ "firstSeen": 1795090800.0,
+ "lastSeen": 1795096355.4697669,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795096355,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다",
+   "url": "https://go.seoul.co.kr/news/newsView.php?id=20261118019009",
+   "source": "서울Pn"
+  },
+  {
+   "title": "경북 구미시, 금오산에 '하늘다리' 놓았다…길이 35m·폭 3.5m",
+   "url": "https://www.yna.co.kr/view/AKR20261117008800053",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "구미 금오산 ‘효자봉~대관정 등산로’ 잇는 하늘다리 개통",
+   "url": "https://www.donga.com/news/Society/article/all/20261116/135034592/2",
+   "source": "동아일보"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "정부24",
+  "이재시",
+  "필리버스터",
+  "변상일",
+  "하나로마트",
+  "야구-경기장",
+  "푸틴"
+ ]
+}

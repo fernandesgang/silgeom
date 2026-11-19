@@ -860,7 +860,7 @@
    "firstSeen": 1795087200.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795091616.2722778
+   "lastSeen": 1795096355.4697669
   },
   "한진칼": {
    "slug": "한진칼",
@@ -872,9 +872,9 @@
   "이재시": {
    "slug": "이재시",
    "firstSeen": 1795086000.0,
-   "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795091616.2722778
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795096355.4697669
   },
   "김지훈": {
    "slug": "김지훈",
@@ -888,7 +888,7 @@
    "firstSeen": 1795086600.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795091616.2722778
+   "lastSeen": 1795096355.4697669
   },
   "한국수력원자력": {
    "slug": "한국수력원자력",
@@ -900,9 +900,9 @@
   "푸틴": {
    "slug": "푸틴",
    "firstSeen": 1795086000.0,
-   "peakRank": 9,
+   "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795091616.2722778
+   "lastSeen": 1795096355.4697669
   },
   "강지환": {
    "slug": "강지환",
@@ -910,6 +910,34 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795091616.2722778
+  },
+  "필리버스터": {
+   "slug": "필리버스터",
+   "firstSeen": 1795090200.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795096355.4697669
+  },
+  "변상일": {
+   "slug": "변상일",
+   "firstSeen": 1795091400.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795096355.4697669
+  },
+  "금오산": {
+   "slug": "금오산",
+   "firstSeen": 1795090800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795096355.4697669
+  },
+  "하나로마트": {
+   "slug": "하나로마트",
+   "firstSeen": 1795089000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795096355.4697669
   }
  }
 }
