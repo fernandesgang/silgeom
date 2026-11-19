@@ -404,8 +404,8 @@
    "slug": "시즌2",
    "firstSeen": 1795047000.0,
    "peakRank": 1,
-   "peakTraffic": 5000,
-   "lastSeen": 1795053183.1236107
+   "peakTraffic": 10000,
+   "lastSeen": 1795056086.105443
   },
   "수능날 주식": {
    "slug": "수능날-주식",
@@ -418,8 +418,8 @@
    "slug": "이혼",
    "firstSeen": 1795048800.0,
    "peakRank": 3,
-   "peakTraffic": 1000,
-   "lastSeen": 1795053183.1236107
+   "peakTraffic": 2000,
+   "lastSeen": 1795056086.105443
   },
   "이적 시장": {
    "slug": "이적-시장",
@@ -433,28 +433,28 @@
    "firstSeen": 1795048800.0,
    "peakRank": 5,
    "peakTraffic": 500,
-   "lastSeen": 1795053183.1236107
+   "lastSeen": 1795056086.105443
   },
   "올랜도 대 필라데피아": {
    "slug": "올랜도-대-필라데피아",
    "firstSeen": 1795047000.0,
    "peakRank": 6,
    "peakTraffic": 500,
-   "lastSeen": 1795053183.1236107
+   "lastSeen": 1795056086.105443
   },
   "전도연": {
    "slug": "전도연",
    "firstSeen": 1795047000.0,
-   "peakRank": 7,
-   "peakTraffic": 500,
-   "lastSeen": 1795053183.1236107
+   "peakRank": 6,
+   "peakTraffic": 1000,
+   "lastSeen": 1795056086.105443
   },
   "nginx": {
    "slug": "nginx",
    "firstSeen": 1795046400.0,
-   "peakRank": 8,
-   "peakTraffic": 500,
-   "lastSeen": 1795053183.1236107
+   "peakRank": 7,
+   "peakTraffic": 1000,
+   "lastSeen": 1795056086.105443
   },
   "gemini neon": {
    "slug": "gemini-neon",
@@ -469,6 +469,34 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795053183.1236107
+  },
+  "정치": {
+   "slug": "정치",
+   "firstSeen": 1795046400.0,
+   "peakRank": 1,
+   "peakTraffic": 20000,
+   "lastSeen": 1795056086.105443
+  },
+  "전역": {
+   "slug": "전역",
+   "firstSeen": 1795051200.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795056086.105443
+  },
+  "한국교육과정평가원": {
+   "slug": "한국교육과정평가원",
+   "firstSeen": 1795047600.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795056086.105443
+  },
+  "금융투자협회": {
+   "slug": "금융투자협회",
+   "firstSeen": 1795050600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795056086.105443
   }
  }
 }

@@ -2,17 +2,27 @@
  "keyword": "nginx",
  "slug": "nginx",
  "firstSeen": 1795046400.0,
- "lastSeen": 1795053183.1236107,
- "peakRank": 8,
- "peakTraffic": 500,
+ "lastSeen": 1795056086.105443,
+ "peakRank": 7,
+ "peakTraffic": 1000,
  "history": [
   [
    1795053183,
    8,
    500
+  ],
+  [
+   1795056086,
+   7,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+   "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+   "source": "The Hacker News"
+  },
   {
    "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
@@ -33,6 +43,10 @@
   "2026-11-19"
  ],
  "related": [
+  "정치",
+  "전역",
+  "한국교육과정평가원",
+  "금융투자협회",
   "시즌2",
   "수능날-주식",
   "이혼",

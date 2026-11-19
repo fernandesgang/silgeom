@@ -1,15 +1,41 @@
 {
- "generatedAt": 1795053183,
+ "generatedAt": 1795056086,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "시즌2",
-   "slug": "시즌2",
-   "traffic": 5000,
-   "startedAt": 1795047000.0,
+   "keyword": "정치",
+   "slug": "정치",
+   "traffic": 20000,
+   "startedAt": 1795046400.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
+     "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"내부총질도 단죄\"·\"선동말라\"…추경호 무죄에 국힘 내분 격화",
+     "url": "https://www.yna.co.kr/view/AKR20261119060000001",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "징역 20년 구형했지만 '표결 저지 요청'부터 입증 못 했다 … \"부실 특검 단죄\"",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850288.html",
+     "source": "뉴데일리"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "시즌2",
+   "slug": "시즌2",
+   "traffic": 10000,
+   "startedAt": 1795047000.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
@@ -17,40 +43,14 @@
      "source": "연합뉴스"
     },
     {
+     "title": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
+     "source": "머니투데이"
+    },
+    {
      "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
      "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
      "source": "스포츠동아"
-    },
-    {
-     "title": "넷플릭스, '피지컬: 아시아' 시즌2 내년 공개",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874452",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "수능날 주식",
-   "slug": "수능날-주식",
-   "traffic": 2000,
-   "startedAt": 1795046400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
-     "url": "https://www.mk.co.kr/news/business/12213210",
-     "source": "매일경제"
-    },
-    {
-     "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
-     "url": "https://www.hankyung.com/article/202611185520i",
-     "source": "한국경제"
-    },
-    {
-     "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
-     "source": "KBS 뉴스"
     }
    ]
   },
@@ -58,9 +58,9 @@
    "rank": 3,
    "keyword": "이혼",
    "slug": "이혼",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795048800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -69,8 +69,8 @@
      "source": "머니투데이"
     },
     {
-     "title": "최동석 상간소송 일부 승소…\"박지윤 남사친이 '위장 게이'라는 건가\"",
-     "url": "https://www.newsis.com/view/NISX20261118_0003873500",
+     "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874235",
      "source": "뉴시스"
     },
     {
@@ -82,38 +82,116 @@
   },
   {
    "rank": 4,
-   "keyword": "이적 시장",
-   "slug": "이적-시장",
+   "keyword": "전역",
+   "slug": "전역",
    "traffic": 1000,
-   "startedAt": 1795046400.0,
+   "startedAt": 1795051200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "축구의 묘미는 역시 ‘바이시클킥’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "title": "군 떠나는 간부 줄었다…육군 희망전역 작년보다 17％ 감소",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716929",
      "source": "KBS 뉴스"
     },
     {
-     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
-     "source": "연합뉴스"
+     "title": "떠나던 부사관 붙잡았다…육군 희망전역 5년 만에 첫 감소",
+     "url": "https://biz.heraldcorp.com/article/10942043",
+     "source": "헤럴드경제"
     },
     {
-     "title": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
-     "source": "SBS 뉴스"
+     "title": "軍 떠나던 간부 5년 만에 감소세 전환…처우 개선 정책 효과 육군 희망전역 작년보다 17％ 줄어",
+     "url": "https://www.munhwa.com/article/11632405",
+     "source": "문화일보"
     }
    ]
   },
   {
    "rank": 5,
+   "keyword": "한국교육과정평가원",
+   "slug": "한국교육과정평가원",
+   "traffic": 1000,
+   "startedAt": 1795047600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "수능출제위원장 \"고교 공교육 내용만으로 변별력 확보토록 출제\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866839_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[2027 수능] EBS “국어, 작년 수능·9월 모의평가보다 쉽게 출제”",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/PBUDMYG2UNELZIDEQPUGQFGWEI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "2027학년도 대학수학능력시험 출제 방향 브리핑",
+     "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156789851&pWise=main&pWiseMain=L3",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "전도연",
+   "slug": "전도연",
+   "traffic": 1000,
+   "startedAt": 1795047000.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+     "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'53세' 전도연, 데뷔 첫 SNS 개설…글로벌 소통 나섰다",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853199",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+     "url": "https://www.koreadaily.com/article/20261118070139540",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "nginx",
+   "slug": "nginx",
+   "traffic": 1000,
+   "startedAt": 1795046400.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "source": "wiz.io"
+    },
+    {
+     "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+     "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+     "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+     "source": "The Hacker News"
+    }
+   ]
+  },
+  {
+   "rank": 8,
    "keyword": "네이버뉴스",
    "slug": "네이버뉴스",
    "traffic": 500,
    "startedAt": 1795048800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
@@ -133,118 +211,56 @@
    ]
   },
   {
-   "rank": 6,
+   "rank": 9,
    "keyword": "올랜도 대 필라데피아",
    "slug": "올랜도-대-필라데피아",
    "traffic": 500,
    "startedAt": 1795047000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
-     "title": "Houston 86-76 Florida (Nov 18, 2026) Final Score",
-     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920514/houston-florida",
-     "source": "ESPN"
+     "title": "Live updates: Sixers trail Magic without Tyrese Maxey, Jaylen Brown",
+     "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-magic-live-updates-lebron-james-joel-embiid-tyrese-maxey/767473/",
+     "source": "NBC Sports Philadelphia"
     },
     {
-     "title": "West Virginia 76-70 Auburn (Nov 17, 2026) Game Recap",
-     "url": "https://www.espn.com/mens-college-basketball/recap/_/gameId/401920512",
-     "source": "ESPN"
+     "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
+     "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+     "source": "NBA.com"
     },
     {
-     "title": "Kansas vs. West Virginia (Nov 18, 2026) Live Score",
-     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920515/kansas-west-virginia",
-     "source": "ESPN"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "전도연",
-   "slug": "전도연",
-   "traffic": 500,
-   "startedAt": 1795047000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-     "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
-     "url": "https://www.koreadaily.com/article/20261118070139540",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
-     "url": "https://www.newsis.com/view/NISX20261118_0003873770",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "nginx",
-   "slug": "nginx",
-   "traffic": 500,
-   "startedAt": 1795046400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "source": "wiz.io"
-    },
-    {
-     "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
-     "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
-     "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
-     "source": "Forbes"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "gemini neon",
-   "slug": "gemini-neon",
-   "traffic": 200,
-   "startedAt": 1795046400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Introducing Gemini 4 Neon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "source": "blog.google"
-    },
-    {
-     "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
-     "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
-     "source": "Google for Developers Blog"
-    },
-    {
-     "title": "Google Sets Dec. 1 Increase in Global Gemini 4 Carbon and Argon Rates",
-     "url": "https://www.tokenpost.com/news/technology/60463",
-     "source": "www.tokenpost.com"
+     "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
+     "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
+     "source": "Liberty Ballers"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "test alert",
-   "slug": "test-alert",
+   "keyword": "금융투자협회",
+   "slug": "금융투자협회",
    "traffic": 100,
-   "startedAt": 1795046400.0,
+   "startedAt": 1795050600.0,
    "change": "new",
    "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
+     "url": "https://www.yna.co.kr/view/AKR20261118073700008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "금투협·증권업계 CEO 11명, 일본서 미래 성장모델 모색",
+     "url": "https://core.asiae.co.kr/article/2026111815161561967",
+     "source": "아시아경제"
+    },
+    {
+     "title": "금투협, 증권사 CEO 11명과 일본 방문…금융청·거래소·대형 증권사 돌며 혁신 사례 점검",
+     "url": "https://www.etnews.com/20261118000183",
+     "source": "전자신문"
+    }
+   ]
   }
  ]
 }

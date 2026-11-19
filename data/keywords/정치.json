@@ -1,0 +1,46 @@
+{
+ "keyword": "정치",
+ "slug": "정치",
+ "firstSeen": 1795046400.0,
+ "lastSeen": 1795056086.105443,
+ "peakRank": 1,
+ "peakTraffic": 20000,
+ "history": [
+  [
+   1795056086,
+   1,
+   20000
+  ]
+ ],
+ "news": [
+  {
+   "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
+   "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/",
+   "source": "조선일보"
+  },
+  {
+   "title": "\"내부총질도 단죄\"·\"선동말라\"…추경호 무죄에 국힘 내분 격화",
+   "url": "https://www.yna.co.kr/view/AKR20261119060000001",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "징역 20년 구형했지만 '표결 저지 요청'부터 입증 못 했다 … \"부실 특검 단죄\"",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850288.html",
+   "source": "뉴데일리"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "이혼",
+  "전역",
+  "한국교육과정평가원",
+  "전도연",
+  "nginx",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "금융투자협회"
+ ]
+}

@@ -2,7 +2,7 @@
  "keyword": "올랜도 대 필라데피아",
  "slug": "올랜도-대-필라데피아",
  "firstSeen": 1795047000.0,
- "lastSeen": 1795053183.1236107,
+ "lastSeen": 1795056086.105443,
  "peakRank": 6,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795053183,
    6,
    500
+  ],
+  [
+   1795056086,
+   9,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Live updates: Sixers trail Magic without Tyrese Maxey, Jaylen Brown",
+   "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-magic-live-updates-lebron-james-joel-embiid-tyrese-maxey/767473/",
+   "source": "NBC Sports Philadelphia"
+  },
+  {
+   "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
+   "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+   "source": "NBA.com"
+  },
+  {
+   "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
+   "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
+   "source": "Liberty Ballers"
+  },
   {
    "title": "Houston 86-76 Florida (Nov 18, 2026) Final Score",
    "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920514/houston-florida",
@@ -33,6 +53,10 @@
   "2026-11-19"
  ],
  "related": [
+  "정치",
+  "전역",
+  "한국교육과정평가원",
+  "금융투자협회",
   "시즌2",
   "수능날-주식",
   "이혼",

@@ -2,17 +2,27 @@
  "keyword": "전도연",
  "slug": "전도연",
  "firstSeen": 1795047000.0,
- "lastSeen": 1795053183.1236107,
- "peakRank": 7,
- "peakTraffic": 500,
+ "lastSeen": 1795056086.105443,
+ "peakRank": 6,
+ "peakTraffic": 1000,
  "history": [
   [
    1795053183,
    7,
    500
+  ],
+  [
+   1795056086,
+   6,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "'53세' 전도연, 데뷔 첫 SNS 개설…글로벌 소통 나섰다",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853199",
+   "source": "SBS 뉴스"
+  },
   {
    "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
    "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
@@ -33,6 +43,10 @@
   "2026-11-19"
  ],
  "related": [
+  "정치",
+  "전역",
+  "한국교육과정평가원",
+  "금융투자협회",
   "시즌2",
   "수능날-주식",
   "이혼",
