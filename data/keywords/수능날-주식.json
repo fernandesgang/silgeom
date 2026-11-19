@@ -1,0 +1,46 @@
+{
+ "keyword": "수능날 주식",
+ "slug": "수능날-주식",
+ "firstSeen": 1795046400.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 2,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795053183,
+   2,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+   "url": "https://www.mk.co.kr/news/business/12213210",
+   "source": "매일경제"
+  },
+  {
+   "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
+   "url": "https://www.hankyung.com/article/202611185520i",
+   "source": "한국경제"
+  },
+  {
+   "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "이혼",
+  "이적-시장",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "nginx",
+  "gemini-neon",
+  "test-alert"
+ ]
+}

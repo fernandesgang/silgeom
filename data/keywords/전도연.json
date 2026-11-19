@@ -1,0 +1,46 @@
+{
+ "keyword": "전도연",
+ "slug": "전도연",
+ "firstSeen": 1795047000.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 7,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795053183,
+   7,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+   "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+   "url": "https://www.koreadaily.com/article/20261118070139540",
+   "source": "미주중앙일보"
+  },
+  {
+   "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
+   "url": "https://www.newsis.com/view/NISX20261118_0003873770",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "수능날-주식",
+  "이혼",
+  "이적-시장",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "nginx",
+  "gemini-neon",
+  "test-alert"
+ ]
+}

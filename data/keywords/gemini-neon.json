@@ -1,0 +1,46 @@
+{
+ "keyword": "gemini neon",
+ "slug": "gemini-neon",
+ "firstSeen": 1795046400.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 9,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795053183,
+   9,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "source": "blog.google"
+  },
+  {
+   "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+   "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+   "source": "Google for Developers Blog"
+  },
+  {
+   "title": "Google Sets Dec. 1 Increase in Global Gemini 4 Carbon and Argon Rates",
+   "url": "https://www.tokenpost.com/news/technology/60463",
+   "source": "www.tokenpost.com"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "수능날-주식",
+  "이혼",
+  "이적-시장",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "nginx",
+  "test-alert"
+ ]
+}

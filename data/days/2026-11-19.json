@@ -399,6 +399,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795047997.0732815
+  },
+  "시즌2": {
+   "slug": "시즌2",
+   "firstSeen": 1795047000.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795053183.1236107
+  },
+  "수능날 주식": {
+   "slug": "수능날-주식",
+   "firstSeen": 1795046400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795053183.1236107
+  },
+  "이혼": {
+   "slug": "이혼",
+   "firstSeen": 1795048800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795053183.1236107
+  },
+  "이적 시장": {
+   "slug": "이적-시장",
+   "firstSeen": 1795046400.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795053183.1236107
+  },
+  "네이버뉴스": {
+   "slug": "네이버뉴스",
+   "firstSeen": 1795048800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795053183.1236107
+  },
+  "올랜도 대 필라데피아": {
+   "slug": "올랜도-대-필라데피아",
+   "firstSeen": 1795047000.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795053183.1236107
+  },
+  "전도연": {
+   "slug": "전도연",
+   "firstSeen": 1795047000.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795053183.1236107
+  },
+  "nginx": {
+   "slug": "nginx",
+   "firstSeen": 1795046400.0,
+   "peakRank": 8,
+   "peakTraffic": 500,
+   "lastSeen": 1795053183.1236107
+  },
+  "gemini neon": {
+   "slug": "gemini-neon",
+   "firstSeen": 1795046400.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795053183.1236107
+  },
+  "test alert": {
+   "slug": "test-alert",
+   "firstSeen": 1795046400.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795053183.1236107
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "nginx",
+ "slug": "nginx",
+ "firstSeen": 1795046400.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 8,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795053183,
+   8,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "source": "wiz.io"
+  },
+  {
+   "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+   "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
+   "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
+   "source": "Forbes"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "수능날-주식",
+  "이혼",
+  "이적-시장",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "gemini-neon",
+  "test-alert"
+ ]
+}

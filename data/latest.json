@@ -1,266 +1,250 @@
 {
- "generatedAt": 1795047997,
+ "generatedAt": 1795053183,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "수능 시작",
-   "slug": "수능-시작",
+   "keyword": "시즌2",
+   "slug": "시즌2",
    "traffic": 5000,
-   "startedAt": 1795044000.0,
+   "startedAt": 1795047000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"연필 구하러 삼만리\"‥'뒷북' 대책에 발만 '동동'",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866772_37012.html",
-     "source": "MBC 뉴스"
+     "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+     "url": "https://www.yna.co.kr/view/AKR20261119043100005",
+     "source": "연합뉴스"
     },
     {
-     "title": "55만 수험생 수능장으로…AI 부정행위 차단 총력",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119082349iqL",
-     "source": "연합뉴스TV"
+     "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
+     "source": "스포츠동아"
     },
     {
-     "title": "가방은 복도에, 단추엔 스티커…수능 D-day, 55만명 시험장으로",
-     "url": "https://news.jtbc.co.kr/article/NB12328768",
-     "source": "JTBC"
+     "title": "넷플릭스, '피지컬: 아시아' 시즌2 내년 공개",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874452",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "관광",
-   "slug": "관광",
-   "traffic": 5000,
-   "startedAt": 1795043400.0,
+   "keyword": "수능날 주식",
+   "slug": "수능날-주식",
+   "traffic": 2000,
+   "startedAt": 1795046400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "부산시, 웰니스관광지 7곳 신규 지정…2028년까지 30곳",
-     "url": "https://www.yna.co.kr/view/AKR20261119019600051",
-     "source": "연합뉴스"
+     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+     "url": "https://www.mk.co.kr/news/business/12213210",
+     "source": "매일경제"
     },
     {
-     "title": "부산시 웰니스 관광지 7곳 신규 지정, 총 24곳으로 확대",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874371",
-     "source": "뉴시스"
+     "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
+     "url": "https://www.hankyung.com/article/202611185520i",
+     "source": "한국경제"
     },
     {
-     "title": "부산시, 2026년 신규 웰니스 관광지 7곳 선정···총 24곳으로 치유 관광 기반 확대",
-     "url": "https://thegnnews.com/View.aspx?No=4319754",
-     "source": "더경남뉴스"
+     "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "weather",
-   "slug": "weather",
-   "traffic": 2000,
-   "startedAt": 1795041000.0,
+   "keyword": "이혼",
+   "slug": "이혼",
+   "traffic": 1000,
+   "startedAt": 1795048800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "How El Niño contributed to historic Brevard County flooding | El Niño Week",
-     "url": "https://www.wesh.com/article/el-nino-brevard-county-flooding/74438133",
-     "source": "WESH"
+     "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
+     "source": "머니투데이"
     },
     {
-     "title": "Heavy rain submerges streets in Central Florida counties",
-     "url": "https://www.fox35orlando.com/video/fmc-txny6eqw8unqqaiz",
-     "source": "FOX 35 Orlando"
+     "title": "최동석 상간소송 일부 승소…\"박지윤 남사친이 '위장 게이'라는 건가\"",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873500",
+     "source": "뉴시스"
     },
     {
-     "title": "Weather concerns shuts down Volusia, Brevard schools; playoff games in limbo",
-     "url": "https://www.orlandosentinel.com/2026/11/18/weather-concerns-shuts-down-volusia-brevard-schools-playoff-games-in-limbo/",
-     "source": "Orlando Sentinel"
+     "title": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
+     "url": "https://www.munhwa.com/article/11632371",
+     "source": "문화일보"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "nz vs ind",
-   "slug": "nz-vs-ind",
-   "traffic": 500,
-   "startedAt": 1795041600.0,
+   "keyword": "이적 시장",
+   "slug": "이적-시장",
+   "traffic": 1000,
+   "startedAt": 1795046400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "In windy Wellington, India begin new era with history and form against them",
-     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/match-preview",
-     "source": "Cricinfo"
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "New Zealand vs India: Gill wins toss to bowl first at Basin Reserve",
-     "url": "https://sportnation.nz/article/blackcaps-vs-india-gill-wins-toss-to-bowl-first-at-basin-reserve",
-     "source": "Sport Nation"
+     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+     "source": "연합뉴스"
     },
     {
-     "title": "Video | India's WTC Final Hopes On The Line As Gill's Men Face New Zealand Test Challenge",
-     "url": "https://www.ndtv.com/video/india-s-wtc-final-hopes-on-the-line-as-gill-s-men-face-new-zealand-test-challenge-1193735",
-     "source": "NDTV"
+     "title": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
+     "source": "SBS 뉴스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "s&p 500",
-   "slug": "s-p-500",
+   "keyword": "네이버뉴스",
+   "slug": "네이버뉴스",
    "traffic": 500,
-   "startedAt": 1795041600.0,
+   "startedAt": 1795048800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off",
-     "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-     "source": "CNBC"
+     "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+     "url": "https://www.journalist.or.kr/news/article.html?no=62103",
+     "source": "한국기자협회"
     },
     {
-     "title": "Wall Street Mixed as Rate Hike Anxieties Dampen Sentiment",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852955",
-     "source": "SBS 뉴스"
+     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+     "url": "https://www.etnews.com/20261118000308",
+     "source": "전자신문"
     },
     {
-     "title": "Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves",
-     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
-     "source": "WSJ"
+     "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
+     "url": "https://zdnet.co.kr/view/?no=20261118201654",
+     "source": "지디넷코리아"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "집행유예",
-   "slug": "집행유예",
-   "traffic": 200,
-   "startedAt": 1795044000.0,
+   "keyword": "올랜도 대 필라데피아",
+   "slug": "올랜도-대-필라데피아",
+   "traffic": 500,
+   "startedAt": 1795047000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "사건 청탁 뇌물받은 뒤 후배에 돈봉투 주려던 경찰간부 집행유예",
-     "url": "https://www.yna.co.kr/view/AKR20261118065000065",
-     "source": "연합뉴스"
+     "title": "Houston 86-76 Florida (Nov 18, 2026) Final Score",
+     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920514/houston-florida",
+     "source": "ESPN"
     },
     {
-     "title": "폭행 사건 무마 청탁에 200만원 받은 경찰 간부…집행유예",
-     "url": "https://www.kyeonggi.com/article/20261118580095",
-     "source": "경기일보"
+     "title": "West Virginia 76-70 Auburn (Nov 17, 2026) Game Recap",
+     "url": "https://www.espn.com/mens-college-basketball/recap/_/gameId/401920512",
+     "source": "ESPN"
     },
     {
-     "title": "\"불기소로 해 달라\"… 뇌물 받고 돈봉투 주려던 경찰관, 징역형 집유",
-     "url": "https://www.chosun.com/national/court_law/2026/11/18/2KIXTHNIGZFLLFRG25UO4KMSAE/",
-     "source": "조선일보"
+     "title": "Kansas vs. West Virginia (Nov 18, 2026) Live Score",
+     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920515/kansas-west-virginia",
+     "source": "ESPN"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "제미나이 네온",
-   "slug": "제미나이-네온",
-   "traffic": 200,
-   "startedAt": 1795042200.0,
+   "keyword": "전도연",
+   "slug": "전도연",
+   "traffic": 500,
+   "startedAt": 1795047000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217352",
-     "source": "AI타임스"
+     "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+     "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+     "source": "조선일보"
     },
     {
-     "title": "‘제미나이 4 하이드로젠(Hydrogen)’을 소개합니다",
-     "url": "https://blog.google/intl/ko-kr/company-news/technology/introducing-gemini-4-hydrogen-kr/",
-     "source": "blog.google"
+     "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+     "url": "https://www.koreadaily.com/article/20261118070139540",
+     "source": "미주중앙일보"
     },
     {
-     "title": "구글 ‘제미나이4 하이드로젠’ 공개…수소처럼 가벼운 구글의 기본 모델 [고든 정의 TECH+",
-     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261116601016",
-     "source": "나우뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "ionq",
-   "slug": "ionq",
-   "traffic": 200,
-   "startedAt": 1795039800.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "Rigetti Sinks 8%, IonQ Down 7% as Quantum Stocks Slide Again Ahead of Nvidia Earnings",
-     "url": "https://www.tikr.com/blog/rigetti-sinks-8-ionq-down-7-as-quantum-stocks-slide-again-ahead-of-nvidia-earnings",
-     "source": "TIKR.com"
-    },
-    {
-     "title": "IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?",
-     "url": "https://www.tradingview.com/news/zacks:69b8679b4094b:0-ionq-s-post-earnings-rally-fades-should-investors-book-profits-now/",
-     "source": "TradingView"
-    },
-    {
-     "title": "IonQ shares drop 48% after $1.2B stock deal acq...",
-     "url": "https://pluang.com/en/news-feed/saham-ionq-turun-48-persen-apakah-ini-peluang-beli-2",
-     "source": "Pluang"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "겨울",
-   "slug": "겨울",
-   "traffic": 200,
-   "startedAt": 1795039800.0,
-   "change": "down",
-   "diff": 4,
-   "news": [
-    {
-     "title": "마포구, 겨울철 종합대책 가동…8천가구에 월동대책비",
-     "url": "https://www.yna.co.kr/view/AKR20261118076400004",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "청양군 ‘폭설 고립·한파 피해 막는다’…260명 마을 제설단·쉼터 340곳 가동",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=354995",
-     "source": "녹색경제신문"
-    },
-    {
-     "title": "안성시, 내년 3월까지 자연재난 비상 대응",
-     "url": "https://www.newsis.com/view/NISX20261118_0003873186",
+     "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873770",
      "source": "뉴시스"
     }
    ]
   },
   {
-   "rank": 10,
-   "keyword": "kb금융그룹",
-   "slug": "kb금융그룹",
-   "traffic": 100,
-   "startedAt": 1795039800.0,
+   "rank": 8,
+   "keyword": "nginx",
+   "slug": "nginx",
+   "traffic": 500,
+   "startedAt": 1795046400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편",
-     "url": "https://v.daum.net/v/VT9QWXIkki",
-     "source": "Daum"
+     "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "source": "wiz.io"
     },
     {
-     "title": "KB금융, 부문장직 폐지하나…이재근式 '시스템·분권화' 지배구조는",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445371",
-     "source": "연합인포맥스"
+     "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+     "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "국민연금, KB금융 사내이사 후보 이재근 선임안에 찬성",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20503",
-     "source": "이투데이"
+     "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
+     "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
+     "source": "Forbes"
     }
    ]
+  },
+  {
+   "rank": 9,
+   "keyword": "gemini neon",
+   "slug": "gemini-neon",
+   "traffic": 200,
+   "startedAt": 1795046400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Introducing Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "source": "blog.google"
+    },
+    {
+     "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+     "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+     "source": "Google for Developers Blog"
+    },
+    {
+     "title": "Google Sets Dec. 1 Increase in Global Gemini 4 Carbon and Argon Rates",
+     "url": "https://www.tokenpost.com/news/technology/60463",
+     "source": "www.tokenpost.com"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "test alert",
+   "slug": "test-alert",
+   "traffic": 100,
+   "startedAt": 1795046400.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
   }
  ]
 }

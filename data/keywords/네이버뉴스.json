@@ -1,0 +1,46 @@
+{
+ "keyword": "네이버뉴스",
+ "slug": "네이버뉴스",
+ "firstSeen": 1795048800.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795053183,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+   "url": "https://www.journalist.or.kr/news/article.html?no=62103",
+   "source": "한국기자협회"
+  },
+  {
+   "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+   "url": "https://www.etnews.com/20261118000308",
+   "source": "전자신문"
+  },
+  {
+   "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
+   "url": "https://zdnet.co.kr/view/?no=20261118201654",
+   "source": "지디넷코리아"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "수능날-주식",
+  "이혼",
+  "이적-시장",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "nginx",
+  "gemini-neon",
+  "test-alert"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "keyword": "시즌2",
+ "slug": "시즌2",
+ "firstSeen": 1795047000.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 1,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795053183,
+   1,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+   "url": "https://www.yna.co.kr/view/AKR20261119043100005",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
+   "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
+   "source": "스포츠동아"
+  },
+  {
+   "title": "넷플릭스, '피지컬: 아시아' 시즌2 내년 공개",
+   "url": "https://www.newsis.com/view/NISX20261119_0003874452",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "수능날-주식",
+  "이혼",
+  "이적-시장",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "nginx",
+  "gemini-neon",
+  "test-alert"
+ ]
+}

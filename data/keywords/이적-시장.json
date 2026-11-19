@@ -1,0 +1,46 @@
+{
+ "keyword": "이적 시장",
+ "slug": "이적-시장",
+ "firstSeen": 1795046400.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795053183,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "축구의 묘미는 역시 ‘바이시클킥’",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+   "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
+   "source": "SBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "수능날-주식",
+  "이혼",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "nginx",
+  "gemini-neon",
+  "test-alert"
+ ]
+}

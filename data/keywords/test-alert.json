@@ -1,0 +1,30 @@
+{
+ "keyword": "test alert",
+ "slug": "test-alert",
+ "firstSeen": 1795046400.0,
+ "lastSeen": 1795053183.1236107,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795053183,
+   10,
+   100
+  ]
+ ],
+ "news": [],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "시즌2",
+  "수능날-주식",
+  "이혼",
+  "이적-시장",
+  "네이버뉴스",
+  "올랜도-대-필라데피아",
+  "전도연",
+  "nginx",
+  "gemini-neon"
+ ]
+}
