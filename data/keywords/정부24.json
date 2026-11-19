@@ -1,0 +1,46 @@
+{
+ "keyword": "정부24",
+ "slug": "정부24",
+ "firstSeen": 1795087200.0,
+ "lastSeen": 1795091616.2722778,
+ "peakRank": 1,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795091616,
+   1,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
+   "url": "https://nuriilbo.com/mobile/article.html?no=945768",
+   "source": "누리일보"
+  },
+  {
+   "title": "“이제 검진서류 떼러 병원 갈 필요 없네”",
+   "url": "https://www.k-health.com/news/articleView.html?idxno=102344",
+   "source": "헬스경향"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "한진칼",
+  "이재시",
+  "김지훈",
+  "김다현",
+  "수원-kt-대-서울-sk",
+  "야구-경기장",
+  "한국수력원자력",
+  "푸틴",
+  "강지환"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "keyword": "푸틴",
+ "slug": "푸틴",
+ "firstSeen": 1795086000.0,
+ "lastSeen": 1795091616.2722778,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795091616,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "[속보] 미·중·러 정상, 유엔 개혁 및 핵전쟁 방지 등 합의",
+   "url": "https://www.chosun.com/international/us/2026/11/19/Z26ERGLQUVFW7LVRUZK665GGMY/",
+   "source": "조선일보"
+  },
+  {
+   "title": "북미회담 불발된 듯…'러브콜 무응답' 김정은 속내?",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854531",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "[속보] 미·중·러 정상, ‘평화를 향한 정상 선언’ 발표",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1288219.html",
+   "source": "한겨레"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "정부24",
+  "한진칼",
+  "이재시",
+  "김지훈",
+  "김다현",
+  "수원-kt-대-서울-sk",
+  "야구-경기장",
+  "한국수력원자력",
+  "강지환"
+ ]
+}
