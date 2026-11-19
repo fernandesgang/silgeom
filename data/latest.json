@@ -1,15 +1,93 @@
 {
- "generatedAt": 1795120952,
+ "generatedAt": 1795124391,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
+   "keyword": "택시",
+   "slug": "택시",
+   "traffic": 1000,
+   "startedAt": 1795120200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
+     "source": "주간조선"
+    },
+    {
+     "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "알렉산더 즈베레프",
+   "slug": "알렉산더-즈베레프",
+   "traffic": 1000,
+   "startedAt": 1795119000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
+     "url": "https://mobile.newsis.com/photo/NISI20261118_0002294924",
+     "source": "뉴시스"
+    },
+    {
+     "title": "테니스 세계 1위 츠베레프, 셸턴 꺾고 ATP 파이널스 4강 선착",
+     "url": "https://www.news1.kr/sports/general-sport/6357509",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[테니스] ATP 파이널스 조별리그 결과",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755289",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "김연경",
+   "slug": "김연경",
+   "traffic": 1000,
+   "startedAt": 1795119000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "김연경 사단 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전('신인감독2')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GNRTCMDCGA4TCMZYG42WENDBGY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"드래프트 2번 낙방→배구 그만두려 했다\"…프로 한번 못가본 27세 아포짓,주저앉았다→김연경의 뼈아픈 독설, 일으켜 세울까",
+     "url": "https://www.sportschosun.com/volleyball/2026-11-18/202611180100115400010621",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "천위페이",
    "slug": "천위페이",
-   "traffic": 2000,
+   "traffic": 1000,
    "startedAt": 1795111200.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
@@ -17,92 +95,14 @@
      "source": "조선일보"
     },
     {
+     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
+     "source": "KBS 뉴스"
+    },
+    {
      "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
      "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
      "source": "머니투데이"
-    },
-    {
-     "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "습관",
-   "slug": "습관",
-   "traffic": 2000,
-   "startedAt": 1795099200.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
-     "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
-     "source": "헬스조선"
-    },
-    {
-     "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
-     "url": "https://kormedi.com/2904583/",
-     "source": "코메디닷컴"
-    },
-    {
-     "title": "김밥이 라면보다 췌장에 독?…환자 676명 분석하니 진짜 주범 따로 있었다",
-     "url": "https://www.segye.com/newsView/20261118501365",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "kt wiz",
-   "slug": "kt-wiz",
-   "traffic": 1000,
-   "startedAt": 1795099800.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "KT Wiz Poised for Another FA Splash After Last Season's Success",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/17/IIAZTSEC6JAXVMDKAA3FLLM35E/",
-     "source": "조선일보"
-    },
-    {
-     "title": "KT's \"Hold King\" Sugimoto Moves to Japan's SoftBank",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008854181",
-     "source": "news.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "회계사",
-   "slug": "회계사",
-   "traffic": 500,
-   "startedAt": 1795099200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "A Hunt for Test Cheats With Phone Alerts and Eyeglasses Checks",
-     "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "In South Korea's make-or-break college exam, even a shirt button can raise suspicion",
-     "url": "https://www.reuters.com/world/asia-pacific/south-koreas-make-or-break-college-exam-even-shirt-button-can-raise-suspicion-2026-11-19/",
-     "source": "Reuters"
-    },
-    {
-     "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-     "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-     "source": "The Guardian"
     }
    ]
   },
@@ -110,7 +110,7 @@
    "rank": 5,
    "keyword": "웹툰",
    "slug": "웹툰",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795109400.0,
    "change": "same",
    "diff": 0,
@@ -136,11 +136,16 @@
    "rank": 6,
    "keyword": "amd",
    "slug": "amd",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795103400.0,
    "change": "same",
    "diff": 0,
    "news": [
+    {
+     "title": "AMD dives on short-seller report of alleged China exposure",
+     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+     "source": "CNBC"
+    },
     {
      "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
      "url": "https://en.fnnews.com/news/202611200329388178",
@@ -150,115 +155,110 @@
      "title": "Problems at AMD (AMD)",
      "url": "https://hntrbrk.com/investigations/bank-of-amd",
      "source": "Hunterbrook"
-    },
-    {
-     "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
-     "url": "https://www.tokenpost.com/news/investing/61491",
-     "source": "www.tokenpost.com"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "플라비오 코볼리",
-   "slug": "플라비오-코볼리",
+   "keyword": "한강 벨트",
+   "slug": "한강-벨트",
    "traffic": 200,
-   "startedAt": 1795102800.0,
-   "change": "same",
+   "startedAt": 1795119600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758",
-     "source": "국제뉴스"
+     "title": "‘한강벨트’ 용산·동작도 집값 하락",
+     "url": "https://www.khan.co.kr/article/202611192049035",
+     "source": "경향신문"
     },
     {
-     "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
-     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
-     "source": "테니스코리아"
+     "title": "강남 급매물 쌓이고 한강벨트 '뚝'…\"집값 드디어 꺾이나\" 전망 갈렸다 - 머니투데이",
+     "url": "https://www.mt.co.kr/estate/2026/11/20/2026111920211718916",
+     "source": "머니투데이"
     },
     {
-     "title": "ATP 파이널 2026 결과: 티아포, 메드베데프 3위로 밀어내",
-     "url": "https://ko.laodong.vn/tennis/ket-qua-atp-finals-2026-tiafoe-day-medvedev-xuong-thu-3-1802858.ldo",
-     "source": "Laodong.vn"
+     "title": "[그래픽] 서울 아파트 매매가격지수 변동률 추이",
+     "url": "https://www.news1.kr/photos/8222999",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "엔화",
-   "slug": "엔화",
-   "traffic": 200,
-   "startedAt": 1795100400.0,
-   "change": "same",
+   "keyword": "축구 감독",
+   "slug": "축구-감독",
+   "traffic": 100,
+   "startedAt": 1795117800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573",
-     "source": "연합인포맥스"
+     "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
+     "url": "https://www.chosun.com/sports/football/2026/11/19/IMTHHH2XRBGUDDXWFULQ65XX6I/",
+     "source": "조선일보"
     },
     {
-     "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
-     "source": "글로벌이코노믹"
+     "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
-     "url": "https://www.newsis.com/view/NISX20261117_0003871124",
-     "source": "뉴시스"
+     "title": "96라인 갈등에 침체된 국대…‘이강인 친구들’이 분위기 바꿨다",
+     "url": "https://www.joongang.co.kr/article/25479997",
+     "source": "중앙일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "프로게이머",
-   "slug": "프로게이머",
-   "traffic": 200,
-   "startedAt": 1795098600.0,
-   "change": "same",
+   "keyword": "해상 풍력 발전",
+   "slug": "해상-풍력-발전",
+   "traffic": 100,
+   "startedAt": 1795117200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
-     "source": "중도일보"
+     "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
+     "source": "머니투데이"
     },
     {
-     "title": "호남대 앵커사업단, ‘2026 호남 e스포츠 시리즈’ 성료",
-     "url": "http://m.newstoktok.com/article.php?aid=27184892173",
-     "source": "톡톡뉴스"
+     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
+     "source": "전기신문"
     },
     {
-     "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
-     "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539",
-     "source": "웹이코노미"
+     "title": "신민호 전남광주시의원 \"해상풍력 조성에 지역기업 참여해야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118143600054",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "박하나",
-   "slug": "박하나",
+   "keyword": "이정현",
+   "slug": "이정현",
    "traffic": 100,
-   "startedAt": 1795098600.0,
-   "change": "same",
+   "startedAt": 1795117200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119154100005",
-     "source": "연합뉴스"
+     "title": "이정현, 가수로 13년 만에 돌아온다…'테크노 여전사' 내년 초 컴백 예고",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GYZWMY3EMFSWIODEGM2WEODGGA/",
+     "source": "조선일보"
     },
     {
-     "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
-     "url": "https://www.mk.co.kr/news/culture/12213951",
-     "source": "매일경제"
+     "title": "이정현, 13년 만의 신곡 녹음 돌입…‘테크노 여전사’도 돌아올까",
+     "url": "https://sports.khan.co.kr/article/202611191728003",
+     "source": "스포츠경향"
     },
     {
-     "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
-     "source": "스포츠동아"
+     "title": "이정현 194억 병원 건물주도, 애엄마도 아니다…‘테크노 여전사’ 내년 컴백 준비 활활",
+     "url": "https://m.newsen.com/news_view.php?uid=202611191358492110",
+     "source": "뉴스엔"
     }
    ]
   }

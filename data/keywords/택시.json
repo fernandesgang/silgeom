@@ -2,17 +2,32 @@
  "keyword": "택시",
  "slug": "택시",
  "firstSeen": 1795032600.0,
- "lastSeen": 1795037251.4902518,
- "peakRank": 4,
+ "lastSeen": 1795124391.25353,
+ "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
   [
    1795037251,
    4,
    1000
+  ],
+  [
+   1795124391,
+   1,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
+   "source": "연합뉴스TV"
+  },
   {
    "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
    "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
@@ -30,9 +45,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "related": [
+  "알렉산더-즈베레프",
+  "김연경",
+  "천위페이",
+  "웹툰",
+  "amd",
+  "한강-벨트",
+  "축구-감독",
+  "해상-풍력-발전",
+  "이정현",
   "삼전-닉스",
   "한화-이글스",
   "한화오션",

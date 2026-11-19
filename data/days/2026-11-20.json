@@ -68,8 +68,8 @@
    "slug": "amd",
    "firstSeen": 1795103400.0,
    "peakRank": 3,
-   "peakTraffic": 200,
-   "lastSeen": 1795120952.2531898
+   "peakTraffic": 500,
+   "lastSeen": 1795124391.25353
   },
   "엔화": {
    "slug": "엔화",
@@ -117,15 +117,64 @@
    "slug": "웹툰",
    "firstSeen": 1795109400.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795120952.2531898
+   "peakTraffic": 500,
+   "lastSeen": 1795124391.25353
   },
   "천위페이": {
    "slug": "천위페이",
    "firstSeen": 1795111200.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795120952.2531898
+   "lastSeen": 1795124391.25353
+  },
+  "택시": {
+   "slug": "택시",
+   "firstSeen": 1795120200.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795124391.25353
+  },
+  "알렉산더 즈베레프": {
+   "slug": "알렉산더-즈베레프",
+   "firstSeen": 1795119000.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795124391.25353
+  },
+  "김연경": {
+   "slug": "김연경",
+   "firstSeen": 1795119000.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795124391.25353
+  },
+  "한강 벨트": {
+   "slug": "한강-벨트",
+   "firstSeen": 1795119600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795124391.25353
+  },
+  "축구 감독": {
+   "slug": "축구-감독",
+   "firstSeen": 1795117800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795124391.25353
+  },
+  "해상 풍력 발전": {
+   "slug": "해상-풍력-발전",
+   "firstSeen": 1795117200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795124391.25353
+  },
+  "이정현": {
+   "slug": "이정현",
+   "firstSeen": 1795117200.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795124391.25353
   }
  }
 }
