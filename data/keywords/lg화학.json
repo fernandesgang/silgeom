@@ -1,0 +1,44 @@
+{
+ "keyword": "lg화학",
+ "slug": "lg화학",
+ "firstSeen": 1795093800.0,
+ "lastSeen": 1795099324.9521039,
+ "peakRank": 3,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795099325,
+   3,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
+   "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
+   "source": "조선일보"
+  },
+  {
+   "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
+   "url": "https://www.khan.co.kr/article/202611192045025",
+   "source": "경향신문"
+  },
+  {
+   "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261119158401003",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "김민지",
+  "정부24",
+  "ant",
+  "변상일",
+  "금오산",
+  "하나로마트",
+  "야구-경기장"
+ ]
+}

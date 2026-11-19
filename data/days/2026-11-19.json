@@ -860,7 +860,7 @@
    "firstSeen": 1795087200.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795096355.4697669
+   "lastSeen": 1795099324.9521039
   },
   "한진칼": {
    "slug": "한진칼",
@@ -888,7 +888,7 @@
    "firstSeen": 1795086600.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795096355.4697669
+   "lastSeen": 1795099324.9521039
   },
   "한국수력원자력": {
    "slug": "한국수력원자력",
@@ -923,21 +923,42 @@
    "firstSeen": 1795091400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795096355.4697669
+   "lastSeen": 1795099324.9521039
   },
   "금오산": {
    "slug": "금오산",
    "firstSeen": 1795090800.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795096355.4697669
+   "lastSeen": 1795099324.9521039
   },
   "하나로마트": {
    "slug": "하나로마트",
    "firstSeen": 1795089000.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795096355.4697669
+   "lastSeen": 1795099324.9521039
+  },
+  "김민지": {
+   "slug": "김민지",
+   "firstSeen": 1795089000.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795099324.9521039
+  },
+  "lg화학": {
+   "slug": "lg화학",
+   "firstSeen": 1795093800.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795099324.9521039
+  },
+  "ant": {
+   "slug": "ant",
+   "firstSeen": 1795095000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795099324.9521039
   }
  }
 }

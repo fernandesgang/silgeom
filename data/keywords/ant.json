@@ -1,0 +1,44 @@
+{
+ "keyword": "ant",
+ "slug": "ant",
+ "firstSeen": 1795095000.0,
+ "lastSeen": 1795099324.9521039,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795099325,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "url": "https://www.bbc.com/news/articles/cj4gnpzll020o",
+   "source": "BBC"
+  },
+  {
+   "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "World in Brief: Trump, Xi and Putin meet in China; Anthropic’s huge IPO",
+   "url": "https://www.economist.com/the-world-in-brief/2026/11/19/14d55176-2549-4cbf-aced-886595681c7d",
+   "source": "The Economist"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "김민지",
+  "정부24",
+  "lg화학",
+  "변상일",
+  "금오산",
+  "하나로마트",
+  "야구-경기장"
+ ]
+}

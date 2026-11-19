@@ -1,77 +1,103 @@
 {
- "generatedAt": 1795096355,
+ "generatedAt": 1795099325,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "정부24",
-   "slug": "정부24",
+   "keyword": "김민지",
+   "slug": "김민지",
    "traffic": 1000,
-   "startedAt": 1795087200.0,
-   "change": "same",
+   "startedAt": 1795089000.0,
+   "change": "new",
    "diff": 0,
    "news": []
   },
   {
    "rank": 2,
-   "keyword": "이재시",
-   "slug": "이재시",
+   "keyword": "정부24",
+   "slug": "정부24",
    "traffic": 1000,
-   "startedAt": 1795086000.0,
-   "change": "up",
+   "startedAt": 1795087200.0,
+   "change": "down",
    "diff": 1,
    "news": [
     {
-     "title": "이동국 딸 이재시, ‘초강력 메기녀’ 됐다... 얼마나 예쁘면 “몸이 반응해”",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRSDKZJSME4GEOBVGUYDEMBRGA/",
-     "source": "조선일보"
+     "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
+     "source": "SBS 뉴스"
     },
     {
-     "title": "최수린 아들, 185㎝ 메기남 등판 \"짝사랑 해본 적 없어…결국 다 사귀더라\"",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874149",
-     "source": "뉴시스"
+     "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
+     "url": "https://www.ggpyeonghwa.com/631243",
+     "source": "경기평화신문"
     },
     {
-     "title": "전지우, 메기남 이승훈에 호감…\"이준수보다 이상형에 가까워\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6358647",
-     "source": "뉴스1"
+     "title": "“이제 검진서류 떼러 병원 갈 필요 없네”",
+     "url": "https://www.k-health.com/news/articleView.html?idxno=102344",
+     "source": "헬스경향"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "필리버스터",
-   "slug": "필리버스터",
+   "keyword": "lg화학",
+   "slug": "lg화학",
    "traffic": 500,
-   "startedAt": 1795090200.0,
+   "startedAt": 1795093800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[속보] '민주유공자법' 국회 본회의 상정...국힘 필버 돌입",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611191429358822_005.html",
-     "source": "YTN"
+     "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
+     "source": "조선일보"
     },
     {
-     "title": "박종철·이한열 ‘유공자’ 된다…여당, 20일 민주유공자법 처리",
-     "url": "https://www.khan.co.kr/article/202611192139015",
+     "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
+     "url": "https://www.khan.co.kr/article/202611192045025",
      "source": "경향신문"
     },
     {
-     "title": "정무위 국민의힘 불참 관련 의사진행발언하는 여당 간사",
-     "url": "https://www.yna.co.kr/view/PYH20261119126000013",
+     "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261119158401003",
      "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 4,
+   "keyword": "ant",
+   "slug": "ant",
+   "traffic": 200,
+   "startedAt": 1795095000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+     "url": "https://www.bbc.com/news/articles/cj4gnpzll020o",
+     "source": "BBC"
+    },
+    {
+     "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+     "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+     "source": "CNBC"
+    },
+    {
+     "title": "World in Brief: Trump, Xi and Putin meet in China; Anthropic’s huge IPO",
+     "url": "https://www.economist.com/the-world-in-brief/2026/11/19/14d55176-2549-4cbf-aced-886595681c7d",
+     "source": "The Economist"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "변상일",
    "slug": "변상일",
    "traffic": 200,
    "startedAt": 1795091400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "변상일, 삼성화재배 결승 2국 리친청에 불계승…승부 원점",
@@ -79,25 +105,25 @@
      "source": "연합뉴스"
     },
     {
+     "title": "바둑 변상일, 삼성화재배 2국서 리친청에 반격 성공…내일 최종국",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875403",
+     "source": "뉴시스"
+    },
+    {
      "title": "'세계 1위 신진서 잡은 저력' 부활…변상일, 우승까지 -1승",
      "url": "https://www.nocutnews.co.kr/news/6609789",
      "source": "노컷뉴스"
-    },
-    {
-     "title": "초반 실리 손실이 완패로…변상일, 결승 첫 판 내주다",
-     "url": "https://m.cyberoro.com/news/N_news_view.oro?num=532956",
-     "source": "사이버오로"
     }
    ]
   },
   {
-   "rank": 5,
+   "rank": 6,
    "keyword": "금오산",
    "slug": "금오산",
    "traffic": 200,
    "startedAt": 1795090800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다",
@@ -117,13 +143,13 @@
    ]
   },
   {
-   "rank": 6,
+   "rank": 7,
    "keyword": "하나로마트",
    "slug": "하나로마트",
    "traffic": 200,
    "startedAt": 1795089000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
@@ -143,13 +169,13 @@
    ]
   },
   {
-   "rank": 7,
+   "rank": 8,
    "keyword": "야구 경기장",
    "slug": "야구-경기장",
    "traffic": 200,
    "startedAt": 1795086600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'",
@@ -165,32 +191,6 @@
      "title": "진예찬 전주시의원 “프로야구 못 하는 야구장, 활용계획 재검토해야”",
      "url": "https://www.jbjnews.com/news/articleView.html?idxno=331748",
      "source": "전북제일신문"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "푸틴",
-   "slug": "푸틴",
-   "traffic": 100,
-   "startedAt": 1795086000.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "[속보]사상 첫 미중러 회담, 약 1시간 30분만에 종료",
-     "url": "https://www.chosun.com/international/international_general/2026/11/19/DFKIEODHMZGTLDM3RMAP7N46I4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "처음 마주앉은 미중러 정상, 핵군축·우크라전·한반도문제 논의(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119172451009",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“인류의 머리 위에 매달린 칼”…시진핑, 미중러 첫 정상회담서 핵 폐기 촉구",
-     "url": "https://www.mk.co.kr/news/world/12213919",
-     "source": "매일경제"
     }
    ]
   }
