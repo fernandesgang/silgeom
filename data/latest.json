@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795103192,
+ "generatedAt": 1795107180,
  "geo": "KR",
  "items": [
   {
@@ -8,18 +8,18 @@
    "slug": "앤트로픽-주가",
    "traffic": 2000,
    "startedAt": 1795098000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발",
-     "url": "https://www.yna.co.kr/view/AKR20261119186000009",
-     "source": "연합뉴스"
+     "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/",
+     "source": "조선일보"
     },
     {
-     "title": "앤스로픽, 목표가 155달러도 나와…\"AI 수익창출 가장 유리한 기업\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04792086645647360",
-     "source": "마켓인"
+     "title": "미 달러화 약보합…앤트로픽 IPO 흥행發 기술주 급등에 낙폭 축소",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445622",
+     "source": "연합인포맥스"
     },
     {
      "title": "외신 “앤트로픽, 공모가 83달러”…스페이스X 조달액 기록 넘어설듯",
@@ -30,42 +30,16 @@
   },
   {
    "rank": 2,
-   "keyword": "ant",
-   "slug": "ant",
-   "traffic": 1000,
-   "startedAt": 1795095000.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "Anthropic IPO live: Company prices stock at $83, indications point to shares trading at $105",
-     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Anthropic CEO Stresses AI Safety Amid Record Nasdaq Listing",
-     "url": "https://www.chosun.com/english/market-money-en/2026/11/20/TZ5AOWLV5NGXBE3KZ4RGKKDJLI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Nasdaq is little changed as early rally fizzles ahead of Anthropic debut: Live updates",
-     "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-     "source": "CNBC"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "습관",
    "slug": "습관",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795099200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "“췌장이 비명 지릅니다”… 당장 멈춰야 하는 ‘최악의 습관’ 3가지",
-     "url": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701685.html",
+     "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
+     "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
      "source": "헬스조선"
     },
     {
@@ -74,124 +48,98 @@
      "source": "코메디닷컴"
     },
     {
-     "title": "각설탕 9개 먹은 거나 마찬가지… 의사가 경고한 당 폭탄 '음료'",
-     "url": "https://www.wikitree.co.kr/articles/1175864",
-     "source": "위키트리"
+     "title": "김밥이 라면보다 췌장에 독?…환자 676명 분석하니 진짜 주범 따로 있었다",
+     "url": "https://www.segye.com/newsView/20261118501365",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "amd",
+   "slug": "amd",
+   "traffic": 200,
+   "startedAt": 1795103400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+     "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547",
+     "source": "MarketWatch"
+    },
+    {
+     "title": "Blacklisted Chinese server maker kept getting AMD firmware updates: Hunterbrook",
+     "url": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Why AMD Stock Was Sliding Today",
+     "url": "https://www.fool.com/investing/2026/11/16/why-amd-stock-was-sliding-today/",
+     "source": "The Motley Fool"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "김대두",
-   "slug": "김대두",
-   "traffic": 500,
-   "startedAt": 1795096800.0,
+   "keyword": "엔화",
+   "slug": "엔화",
+   "traffic": 200,
+   "startedAt": 1795100400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "55일간 17명 살해한 최초 연쇄살인마 김대두…'꼬꼬무', 그가 남긴 '수수께끼 엽서'의 정체는?",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854020",
-     "source": "SBS 뉴스"
+     "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573",
+     "source": "연합인포맥스"
     },
     {
-     "title": "나비, 예능 활약 이어간다…19일 '꼬꼬무' 첫 출연",
-     "url": "https://www.hankyung.com/article/202611197356H",
-     "source": "한국경제"
+     "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
+     "source": "글로벌이코노믹"
     },
     {
-     "title": "1975년 전국 뒤흔든 김대두 사건…‘꼬꼬무’, 사형수의 편지에 담긴 사연 조명",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=847661",
-     "source": "제민일보"
+     "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
+     "url": "https://www.newsis.com/view/NISX20261117_0003871124",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "lg화학",
-   "slug": "lg화학",
-   "traffic": 500,
-   "startedAt": 1795093800.0,
-   "change": "down",
-   "diff": 2,
+   "keyword": "kt wiz",
+   "slug": "kt-wiz",
+   "traffic": 200,
+   "startedAt": 1795099800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
-     "url": "https://www.khan.co.kr/article/202611192045025",
-     "source": "경향신문"
+     "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/",
+     "source": "조선일보"
     },
     {
-     "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119158401003",
-     "source": "연합뉴스"
+     "title": "KT Wiz Poised for Another FA Splash After Last Season's Success",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/17/IIAZTSEC6JAXVMDKAA3FLLM35E/",
+     "source": "조선일보"
     },
     {
-     "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
-     "url": "https://zdnet.co.kr/view/?no=20261119162858",
-     "source": "지디넷코리아"
+     "title": "KT's \"Hold King\" Sugimoto Moves to Japan's SoftBank",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008854181",
+     "source": "news.sbs.co.kr"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "타래",
-   "slug": "타래",
-   "traffic": 200,
-   "startedAt": 1795098000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "부산 벡스코에 세계 게임산업 집결…지스타 2026, AI·모빌리티로 영역 확장",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=847773",
-     "source": "제민일보"
-    },
-    {
-     "title": "과녁 쏘고 패드 잡고...경계 허문 '게임 축제' 개막",
-     "url": "https://www.ytn.co.kr/_ln/0106_202611192335011236",
-     "source": "YTN"
-    },
-    {
-     "title": "웹젠 '디겜폭' 제작진 \"디펜스만 하는 게임 아냐…상반기 론칭\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119160000017",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "쇼메이커",
-   "slug": "쇼메이커",
-   "traffic": 200,
-   "startedAt": 1795096800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "DK, '쇼메이커' 허수 재계약…'스매쉬'·김대호 감독도 잔류 [공식]",
-     "url": "https://www.xportsnews.com/article/2221246",
-     "source": "www.xportsnews.com"
-    },
-    {
-     "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
-     "url": "https://www.inven.co.kr/webzine/news/?news=323623&site=lol",
-     "source": "인벤"
-    },
-    {
-     "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
-     "url": "https://www.inven.co.kr/webzine/news/?news=323623",
-     "source": "인벤"
-    }
-   ]
-  },
-  {
-   "rank": 8,
    "keyword": "프로게이머",
    "slug": "프로게이머",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795098600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
@@ -211,13 +159,91 @@
    ]
   },
   {
+   "rank": 7,
+   "keyword": "타래",
+   "slug": "타래",
+   "traffic": 200,
+   "startedAt": 1795098000.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "웹젠 '디겜폭' 제작진 \"디펜스만 하는 게임 아냐…상반기 론칭\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119160000017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "대형 게임사 해외 눈돌린 새, AI 품은 ‘지스타’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261119/135056148/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "[르포]'아이브' 띄운 크래프톤…동양 판타지로 '넥스트 배그' 확보할까 - 머니투데이",
+     "url": "https://www.mt.co.kr/tech/2026/11/19/2026111909142876661",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "플라비오 코볼리",
+   "slug": "플라비오-코볼리",
+   "traffic": 100,
+   "startedAt": 1795102800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[ATP 파이널스] 리턴하는 코볼리",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757438",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
+     "source": "테니스코리아"
+    },
+    {
+     "title": "ATP 파이널 2026 결과: 티아포, 메드베데프 3위로 밀어내",
+     "url": "https://ko.laodong.vn/tennis/ket-qua-atp-finals-2026-tiafoe-day-medvedev-xuong-thu-3-1802858.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
    "rank": 9,
+   "keyword": "회계사",
+   "slug": "회계사",
+   "traffic": 100,
+   "startedAt": 1795099200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
+     "url": "https://www.mk.co.kr/news/stock/12212309",
+     "source": "매일경제"
+    },
+    {
+     "title": "회계사 합격해도 수습처 없다…금융위, 내년 선발 1100명으로 감축 전망",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874868",
+     "source": "뉴시스"
+    },
+    {
+     "title": "시험 합격해도 수습할 곳 없다…공인회계사 선발 인원 감축 검토",
+     "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=108029",
+     "source": "코리아이글뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "박하나",
    "slug": "박하나",
    "traffic": 100,
    "startedAt": 1795098600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",

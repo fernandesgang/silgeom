@@ -1,0 +1,46 @@
+{
+ "keyword": "엔화",
+ "slug": "엔화",
+ "firstSeen": 1795100400.0,
+ "lastSeen": 1795107180.0004804,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795107180,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
+   "source": "글로벌이코노믹"
+  },
+  {
+   "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
+   "url": "https://www.newsis.com/view/NISX20261117_0003871124",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "앤트로픽-주가",
+  "습관",
+  "amd",
+  "kt-wiz",
+  "프로게이머",
+  "타래",
+  "플라비오-코볼리",
+  "회계사",
+  "박하나"
+ ]
+}

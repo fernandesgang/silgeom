@@ -2,7 +2,7 @@
  "keyword": "타래",
  "slug": "타래",
  "firstSeen": 1795098000.0,
- "lastSeen": 1795103191.8502982,
+ "lastSeen": 1795107180.0004804,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795103192,
    6,
    200
+  ],
+  [
+   1795107180,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "대형 게임사 해외 눈돌린 새, AI 품은 ‘지스타’",
+   "url": "https://www.donga.com/news/Economy/article/all/20261119/135056148/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "[르포]'아이브' 띄운 크래프톤…동양 판타지로 '넥스트 배그' 확보할까 - 머니투데이",
+   "url": "https://www.mt.co.kr/tech/2026/11/19/2026111909142876661",
+   "source": "머니투데이"
+  },
   {
    "title": "부산 벡스코에 세계 게임산업 집결…지스타 2026, AI·모빌리티로 영역 확장",
    "url": "https://www.jemin.com/news/articleView.html?idxno=847773",
@@ -33,6 +48,11 @@
   "2026-11-20"
  ],
  "related": [
+  "amd",
+  "엔화",
+  "kt-wiz",
+  "플라비오-코볼리",
+  "회계사",
   "앤트로픽-주가",
   "ant",
   "습관",

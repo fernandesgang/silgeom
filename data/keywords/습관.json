@@ -2,17 +2,32 @@
  "keyword": "습관",
  "slug": "습관",
  "firstSeen": 1795099200.0,
- "lastSeen": 1795103191.8502982,
- "peakRank": 3,
- "peakTraffic": 500,
+ "lastSeen": 1795107180.0004804,
+ "peakRank": 2,
+ "peakTraffic": 1000,
  "history": [
   [
    1795103192,
    3,
    500
+  ],
+  [
+   1795107180,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
+   "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
+   "source": "헬스조선"
+  },
+  {
+   "title": "김밥이 라면보다 췌장에 독?…환자 676명 분석하니 진짜 주범 따로 있었다",
+   "url": "https://www.segye.com/newsView/20261118501365",
+   "source": "세계일보"
+  },
   {
    "title": "“췌장이 비명 지릅니다”… 당장 멈춰야 하는 ‘최악의 습관’ 3가지",
    "url": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701685.html",
@@ -33,6 +48,11 @@
   "2026-11-20"
  ],
  "related": [
+  "amd",
+  "엔화",
+  "kt-wiz",
+  "플라비오-코볼리",
+  "회계사",
   "앤트로픽-주가",
   "ant",
   "김대두",
