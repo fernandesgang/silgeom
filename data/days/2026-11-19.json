@@ -599,9 +599,9 @@
   "도이치모터스 주가조작 사건": {
    "slug": "도이치모터스-주가조작-사건",
    "firstSeen": 1795063200.0,
-   "peakRank": 6,
-   "peakTraffic": 500,
-   "lastSeen": 1795067421.70955
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795071199.055673
   },
   "김진우": {
    "slug": "김진우",
@@ -616,6 +616,69 @@
    "peakRank": 8,
    "peakTraffic": 200,
    "lastSeen": 1795067421.70955
+  },
+  "리트 만점자 천호동": {
+   "slug": "리트-만점자-천호동",
+   "firstSeen": 1795065000.0,
+   "peakRank": 1,
+   "peakTraffic": 200000,
+   "lastSeen": 1795071199.055673
+  },
+  "수능 수학 문제": {
+   "slug": "수능-수학-문제",
+   "firstSeen": 1795065600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795071199.055673
+  },
+  "kbs 뉴스": {
+   "slug": "kbs-뉴스",
+   "firstSeen": 1795063800.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795071199.055673
+  },
+  "수능 샤프": {
+   "slug": "수능-샤프",
+   "firstSeen": 1795065600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795071199.055673
+  },
+  "한덕수 선고": {
+   "slug": "한덕수-선고",
+   "firstSeen": 1795065000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795071199.055673
+  },
+  "의장대": {
+   "slug": "의장대",
+   "firstSeen": 1795064400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795071199.055673
+  },
+  "디 에이치 반포 124": {
+   "slug": "디-에이치-반포-124",
+   "firstSeen": 1795067400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795071199.055673
+  },
+  "예비타당성조사": {
+   "slug": "예비타당성조사",
+   "firstSeen": 1795066800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795071199.055673
+  },
+  "서울교통공사": {
+   "slug": "서울교통공사",
+   "firstSeen": 1795065600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795071199.055673
   }
  }
 }
