@@ -2,17 +2,37 @@
  "keyword": "ant",
  "slug": "ant",
  "firstSeen": 1795095000.0,
- "lastSeen": 1795099324.9521039,
- "peakRank": 4,
- "peakTraffic": 200,
+ "lastSeen": 1795103191.8502982,
+ "peakRank": 2,
+ "peakTraffic": 1000,
  "history": [
   [
    1795099325,
    4,
    200
+  ],
+  [
+   1795103192,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Anthropic IPO live: Company prices stock at $83, indications point to shares trading at $105",
+   "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+   "source": "Yahoo Finance"
+  },
+  {
+   "title": "Anthropic CEO Stresses AI Safety Amid Record Nasdaq Listing",
+   "url": "https://www.chosun.com/english/market-money-en/2026/11/20/TZ5AOWLV5NGXBE3KZ4RGKKDJLI/",
+   "source": "조선일보"
+  },
+  {
+   "title": "Nasdaq is little changed as early rally fizzles ahead of Anthropic debut: Live updates",
+   "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "source": "CNBC"
+  },
   {
    "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
    "url": "https://www.bbc.com/news/articles/cj4gnpzll020o",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "related": [
+  "앤트로픽-주가",
+  "습관",
+  "김대두",
+  "타래",
+  "쇼메이커",
+  "프로게이머",
+  "박하나",
   "김민지",
   "정부24",
   "lg화학",

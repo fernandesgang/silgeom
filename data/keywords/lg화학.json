@@ -2,7 +2,7 @@
  "keyword": "lg화학",
  "slug": "lg화학",
  "firstSeen": 1795093800.0,
- "lastSeen": 1795099324.9521039,
+ "lastSeen": 1795103191.8502982,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,19 @@
    1795099325,
    3,
    500
+  ],
+  [
+   1795103192,
+   5,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+   "url": "https://zdnet.co.kr/view/?no=20261119162858",
+   "source": "지디넷코리아"
+  },
   {
    "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
    "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
@@ -30,9 +40,17 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "related": [
+  "앤트로픽-주가",
+  "습관",
+  "김대두",
+  "타래",
+  "쇼메이커",
+  "프로게이머",
+  "박하나",
   "김민지",
   "정부24",
   "ant",

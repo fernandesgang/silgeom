@@ -1,0 +1,45 @@
+{
+ "keyword": "앤트로픽 주가",
+ "slug": "앤트로픽-주가",
+ "firstSeen": 1795098000.0,
+ "lastSeen": 1795103191.8502982,
+ "peakRank": 1,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795103192,
+   1,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발",
+   "url": "https://www.yna.co.kr/view/AKR20261119186000009",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "앤스로픽, 목표가 155달러도 나와…\"AI 수익창출 가장 유리한 기업\"",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04792086645647360",
+   "source": "마켓인"
+  },
+  {
+   "title": "외신 “앤트로픽, 공모가 83달러”…스페이스X 조달액 기록 넘어설듯",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716816",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "ant",
+  "습관",
+  "김대두",
+  "lg화학",
+  "타래",
+  "쇼메이커",
+  "프로게이머",
+  "박하나"
+ ]
+}

@@ -1,57 +1,120 @@
 {
- "generatedAt": 1795099325,
+ "generatedAt": 1795103192,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김민지",
-   "slug": "김민지",
-   "traffic": 1000,
-   "startedAt": 1795089000.0,
+   "keyword": "앤트로픽 주가",
+   "slug": "앤트로픽-주가",
+   "traffic": 2000,
+   "startedAt": 1795098000.0,
    "change": "new",
    "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발",
+     "url": "https://www.yna.co.kr/view/AKR20261119186000009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "앤스로픽, 목표가 155달러도 나와…\"AI 수익창출 가장 유리한 기업\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04792086645647360",
+     "source": "마켓인"
+    },
+    {
+     "title": "외신 “앤트로픽, 공모가 83달러”…스페이스X 조달액 기록 넘어설듯",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716816",
+     "source": "KBS 뉴스"
+    }
+   ]
   },
   {
    "rank": 2,
-   "keyword": "정부24",
-   "slug": "정부24",
+   "keyword": "ant",
+   "slug": "ant",
    "traffic": 1000,
-   "startedAt": 1795087200.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795095000.0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
-     "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
-     "source": "SBS 뉴스"
+     "title": "Anthropic IPO live: Company prices stock at $83, indications point to shares trading at $105",
+     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
-     "url": "https://www.ggpyeonghwa.com/631243",
-     "source": "경기평화신문"
+     "title": "Anthropic CEO Stresses AI Safety Amid Record Nasdaq Listing",
+     "url": "https://www.chosun.com/english/market-money-en/2026/11/20/TZ5AOWLV5NGXBE3KZ4RGKKDJLI/",
+     "source": "조선일보"
     },
     {
-     "title": "“이제 검진서류 떼러 병원 갈 필요 없네”",
-     "url": "https://www.k-health.com/news/articleView.html?idxno=102344",
-     "source": "헬스경향"
+     "title": "Nasdaq is little changed as early rally fizzles ahead of Anthropic debut: Live updates",
+     "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+     "source": "CNBC"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "lg화학",
-   "slug": "lg화학",
+   "keyword": "습관",
+   "slug": "습관",
    "traffic": 500,
-   "startedAt": 1795093800.0,
+   "startedAt": 1795099200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
-     "source": "조선일보"
+     "title": "“췌장이 비명 지릅니다”… 당장 멈춰야 하는 ‘최악의 습관’ 3가지",
+     "url": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701685.html",
+     "source": "헬스조선"
     },
+    {
+     "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
+     "url": "https://kormedi.com/2904583/",
+     "source": "코메디닷컴"
+    },
+    {
+     "title": "각설탕 9개 먹은 거나 마찬가지… 의사가 경고한 당 폭탄 '음료'",
+     "url": "https://www.wikitree.co.kr/articles/1175864",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "김대두",
+   "slug": "김대두",
+   "traffic": 500,
+   "startedAt": 1795096800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "55일간 17명 살해한 최초 연쇄살인마 김대두…'꼬꼬무', 그가 남긴 '수수께끼 엽서'의 정체는?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854020",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "나비, 예능 활약 이어간다…19일 '꼬꼬무' 첫 출연",
+     "url": "https://www.hankyung.com/article/202611197356H",
+     "source": "한국경제"
+    },
+    {
+     "title": "1975년 전국 뒤흔든 김대두 사건…‘꼬꼬무’, 사형수의 편지에 담긴 사연 조명",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=847661",
+     "source": "제민일보"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "lg화학",
+   "slug": "lg화학",
+   "traffic": 500,
+   "startedAt": 1795093800.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
     {
      "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
      "url": "https://www.khan.co.kr/article/202611192045025",
@@ -61,136 +124,115 @@
      "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
      "url": "https://www.yna.co.kr/view/AKR20261119158401003",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "ant",
-   "slug": "ant",
-   "traffic": 200,
-   "startedAt": 1795095000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-     "url": "https://www.bbc.com/news/articles/cj4gnpzll020o",
-     "source": "BBC"
     },
     {
-     "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
-     "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "World in Brief: Trump, Xi and Putin meet in China; Anthropic’s huge IPO",
-     "url": "https://www.economist.com/the-world-in-brief/2026/11/19/14d55176-2549-4cbf-aced-886595681c7d",
-     "source": "The Economist"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "변상일",
-   "slug": "변상일",
-   "traffic": 200,
-   "startedAt": 1795091400.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "변상일, 삼성화재배 결승 2국 리친청에 불계승…승부 원점",
-     "url": "https://www.yna.co.kr/view/AKR20261119134500007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "바둑 변상일, 삼성화재배 2국서 리친청에 반격 성공…내일 최종국",
-     "url": "https://www.newsis.com/view/NISX20261119_0003875403",
-     "source": "뉴시스"
-    },
-    {
-     "title": "'세계 1위 신진서 잡은 저력' 부활…변상일, 우승까지 -1승",
-     "url": "https://www.nocutnews.co.kr/news/6609789",
-     "source": "노컷뉴스"
+     "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+     "url": "https://zdnet.co.kr/view/?no=20261119162858",
+     "source": "지디넷코리아"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "금오산",
-   "slug": "금오산",
+   "keyword": "타래",
+   "slug": "타래",
    "traffic": 200,
-   "startedAt": 1795090800.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795098000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다",
-     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261118019009",
-     "source": "서울Pn"
+     "title": "부산 벡스코에 세계 게임산업 집결…지스타 2026, AI·모빌리티로 영역 확장",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=847773",
+     "source": "제민일보"
     },
     {
-     "title": "경북 구미시, 금오산에 '하늘다리' 놓았다…길이 35m·폭 3.5m",
-     "url": "https://www.yna.co.kr/view/AKR20261117008800053",
+     "title": "과녁 쏘고 패드 잡고...경계 허문 '게임 축제' 개막",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611192335011236",
+     "source": "YTN"
+    },
+    {
+     "title": "웹젠 '디겜폭' 제작진 \"디펜스만 하는 게임 아냐…상반기 론칭\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119160000017",
      "source": "연합뉴스"
-    },
-    {
-     "title": "구미 금오산 ‘효자봉~대관정 등산로’ 잇는 하늘다리 개통",
-     "url": "https://www.donga.com/news/Society/article/all/20261116/135034592/2",
-     "source": "동아일보"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "하나로마트",
-   "slug": "하나로마트",
+   "keyword": "쇼메이커",
+   "slug": "쇼메이커",
    "traffic": 200,
-   "startedAt": 1795089000.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795096800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
-     "url": "https://www.viva100.com/article/20261119501072",
-     "source": "브릿지경제"
+     "title": "DK, '쇼메이커' 허수 재계약…'스매쉬'·김대호 감독도 잔류 [공식]",
+     "url": "https://www.xportsnews.com/article/2221246",
+     "source": "www.xportsnews.com"
     },
     {
-     "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
-     "url": "https://www.imaeil.com/page/view/2026111910530677533",
-     "source": "매일신문"
+     "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
+     "url": "https://www.inven.co.kr/webzine/news/?news=323623&site=lol",
+     "source": "인벤"
     },
     {
-     "title": "영주사과, 청계광장 축제 넘어 홈쇼핑·대형마트로 판로 확대",
-     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090856",
-     "source": "경북일보"
+     "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
+     "url": "https://www.inven.co.kr/webzine/news/?news=323623",
+     "source": "인벤"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "야구 경기장",
-   "slug": "야구-경기장",
-   "traffic": 200,
-   "startedAt": 1795086600.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "프로게이머",
+   "slug": "프로게이머",
+   "traffic": 100,
+   "startedAt": 1795098600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'",
-     "url": "https://www.yna.co.kr/view/AKR20261119068900055",
+     "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
+     "source": "중도일보"
+    },
+    {
+     "title": "호남대 앵커사업단, ‘2026 호남 e스포츠 시리즈’ 성료",
+     "url": "http://m.newstoktok.com/article.php?aid=27184892173",
+     "source": "톡톡뉴스"
+    },
+    {
+     "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
+     "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539",
+     "source": "웹이코노미"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "박하나",
+   "slug": "박하나",
+   "traffic": 100,
+   "startedAt": 1795098600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119154100005",
      "source": "연합뉴스"
     },
     {
-     "title": "누구를 위한 야구장인가…진예찬 전주시의원, 전주 야구장 활용계획 질타",
-     "url": "https://www.ajunews.com/view/20261119111717653",
-     "source": "아주경제"
+     "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
+     "source": "스포츠동아"
     },
     {
-     "title": "진예찬 전주시의원 “프로야구 못 하는 야구장, 활용계획 재검토해야”",
-     "url": "https://www.jbjnews.com/news/articleView.html?idxno=331748",
-     "source": "전북제일신문"
+     "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
+     "url": "https://www.mk.co.kr/news/culture/12213951",
+     "source": "매일경제"
     }
    ]
   }
