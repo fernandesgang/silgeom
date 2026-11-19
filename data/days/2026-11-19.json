@@ -543,23 +543,23 @@
   "박찬종": {
    "slug": "박찬종",
    "firstSeen": 1795058400.0,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795063866.0363262
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795067421.70955
   },
   "김민석": {
    "slug": "김민석",
    "firstSeen": 1795058400.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795063866.0363262
+   "lastSeen": 1795067421.70955
   },
   "전국삼성전자노동조합": {
    "slug": "전국삼성전자노동조합",
    "firstSeen": 1795057800.0,
    "peakRank": 8,
    "peakTraffic": 200,
-   "lastSeen": 1795063866.0363262
+   "lastSeen": 1795067421.70955
   },
   "군산시의회": {
    "slug": "군산시의회",
@@ -567,6 +567,55 @@
    "peakRank": 9,
    "peakTraffic": 200,
    "lastSeen": 1795063866.0363262
+  },
+  "이진우 심정지": {
+   "slug": "이진우-심정지",
+   "firstSeen": 1795061400.0,
+   "peakRank": 1,
+   "peakTraffic": 100000,
+   "lastSeen": 1795067421.70955
+  },
+  "kbs": {
+   "slug": "kbs",
+   "firstSeen": 1795063200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795067421.70955
+  },
+  "체포": {
+   "slug": "체포",
+   "firstSeen": 1795061400.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795067421.70955
+  },
+  "네이버 뉴스": {
+   "slug": "네이버-뉴스",
+   "firstSeen": 1795061400.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795067421.70955
+  },
+  "도이치모터스 주가조작 사건": {
+   "slug": "도이치모터스-주가조작-사건",
+   "firstSeen": 1795063200.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795067421.70955
+  },
+  "김진우": {
+   "slug": "김진우",
+   "firstSeen": 1795062000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795067421.70955
+  },
+  "내란죄": {
+   "slug": "내란죄",
+   "firstSeen": 1795061400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795067421.70955
   }
  }
 }

@@ -2,17 +2,32 @@
  "keyword": "박찬종",
  "slug": "박찬종",
  "firstSeen": 1795058400.0,
- "lastSeen": 1795063866.0363262,
- "peakRank": 5,
- "peakTraffic": 500,
+ "lastSeen": 1795067421.70955,
+ "peakRank": 2,
+ "peakTraffic": 2000,
  "history": [
   [
    1795063866,
    5,
    500
+  ],
+  [
+   1795067422,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "‘14대 대선 후보’ 지낸 5선 박찬종 前의원 별세…조문 없이 시신 기증",
+   "url": "https://www.donga.com/news/Politics/article/all/20261119/135053704/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "'14대 대선출마' 박찬종 前의원 별세…생전 약속대로 시신기증",
+   "url": "https://www.yna.co.kr/view/AKR20261119083700001",
+   "source": "연합뉴스"
+  },
   {
    "title": "박찬종 전 의원 별세…34년 전 약속대로 주검 기증",
    "url": "https://www.hani.co.kr/arti/politics/assembly/1288101.html",
@@ -33,6 +48,13 @@
   "2026-11-19"
  ],
  "related": [
+  "이진우-심정지",
+  "kbs",
+  "체포",
+  "네이버-뉴스",
+  "도이치모터스-주가조작-사건",
+  "김진우",
+  "내란죄",
   "크리스-페덱",
   "주식시장",
   "양민혁",

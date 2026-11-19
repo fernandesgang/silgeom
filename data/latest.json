@@ -1,119 +1,41 @@
 {
- "generatedAt": 1795063866,
+ "generatedAt": 1795067422,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "크리스 페덱",
-   "slug": "크리스-페덱",
-   "traffic": 2000,
-   "startedAt": 1795056000.0,
-   "change": "up",
-   "diff": 4,
+   "keyword": "이진우 심정지",
+   "slug": "이진우-심정지",
+   "traffic": 100000,
+   "startedAt": 1795061400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "KIA도 KBO도 놀랐던 이 선수… 삼성 초비상 美日 모두 붙었다, 그런데 믿을 구석 있다?",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020667",
-     "source": "SPOTV NEWS"
+     "title": "[단독] ’리트 만점자’ 이진우 유서 추정 메모 발견…부정행위 인정·사과는 없어",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611191410192QN",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
-     "url": "https://www.fnnews.com/news/202611190838400274",
-     "source": "파이낸셜뉴스"
+     "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+     "url": "https://www.chosun.com/national/national_general/2026/11/19/4YSNOEOWXVEV7AYNL2LYF6GQYU/",
+     "source": "조선일보"
     },
     {
-     "title": "KS 우승 삼성, 역대급 ‘머니게임’ 돌입",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006373",
-     "source": "아시아투데이"
+     "title": "[속보] '리트 만점자' 이진우 씨, 서울 천호동서 심정지 상태 발견",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866915_36918.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "주식시장",
-   "slug": "주식시장",
-   "traffic": 2000,
-   "startedAt": 1795054800.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "수능일 증시 오전 10시 개장…정규장 4시반까지",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119094205rla",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
-     "url": "https://www.mk.co.kr/news/business/12213210",
-     "source": "매일경제"
-    },
-    {
-     "title": "수능날엔 주가 떨어진다?…10년치 코스피 성적표 살펴보니",
-     "url": "https://www.hankyung.com/article/202611196398i",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "양민혁",
-   "slug": "양민혁",
-   "traffic": 2000,
-   "startedAt": 1795054200.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "손흥민 \"내 자리 그냥 물려줄 생각 없어\" 예언이었나...'벨기에에서도 벤치' 양민혁, 초대형 경쟁자 호평 등장 \"올 시즌 도약 가능성 크다\"",
-     "url": "https://www.sportschosun.com/football/2026-11-19/202611190100121670011269",
-     "source": "스포츠조선"
-    },
-    {
-     "title": "이럴 수가! 베일은 아닌데 손흥민은 맞다 '토트넘 초신성 공격수' 주목…\"슈퍼스타로 성장할 수 없다는 뜻 아냐\"",
-     "url": "https://www.sportschosun.com/football/2026-11-16/202611160100106150009821",
-     "source": "스포츠조선"
-    },
-    {
-     "title": "“EPL 진짜 힘들다” 손흥민 섬뜩 경고 현실로, 양민혁 토트넘 방출 최대 위기...\"EPL 수준 아냐\" 日 유망주보다 부진",
-     "url": "https://www.sportschosun.com/football/2026-11-18/202611180100117020010755",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "남태현",
-   "slug": "남태현",
-   "traffic": 2000,
-   "startedAt": 1795052400.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "'음주 상태로 시속 182㎞' 남태현, 2심서 법정구속",
-     "url": "https://www.hankyung.com/article/202611196853H",
-     "source": "한국경제"
-    },
-    {
-     "title": "‘집행유예 중 음주운전’ 위너 남태현, 항소심도 징역...법정구속",
-     "url": "https://www.chosun.com/national/national_general/2026/11/19/U3C7ITUVGVGSHJDOHMQ7ZRQVNI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'마약 집행유예중 음주운전' 남태현 2심도 실형…법정구속",
-     "url": "https://www.yna.co.kr/view/AKR20261119062300004",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 5,
    "keyword": "박찬종",
    "slug": "박찬종",
-   "traffic": 500,
+   "traffic": 2000,
    "startedAt": 1795058400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "박찬종 전 의원 별세…34년 전 약속대로 주검 기증",
@@ -121,77 +43,181 @@
      "source": "한겨레"
     },
     {
-     "title": "박찬종 전 5선 국회의원 별세…향년 87세, 시신 기증 약속 따라 가족장",
-     "url": "https://www.imaeil.com/page/view/2026111911565236549",
-     "source": "매일신문"
+     "title": "‘14대 대선 후보’ 지낸 5선 박찬종 前의원 별세…조문 없이 시신 기증",
+     "url": "https://www.donga.com/news/Politics/article/all/20261119/135053704/1",
+     "source": "동아일보"
     },
     {
-     "title": "박찬종 전 의원 별세…세브란스병원에 주검 기증",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261119.99099005993",
-     "source": "국제신문"
+     "title": "'14대 대선출마' 박찬종 前의원 별세…생전 약속대로 시신기증",
+     "url": "https://www.yna.co.kr/view/AKR20261119083700001",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "kbs",
+   "slug": "kbs",
+   "traffic": 1000,
+   "startedAt": 1795063200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[Photo] 'Bye, Summer'",
+     "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/18/3MJUMBGPW5HJ7PADZEX5NCL7P4/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "‘Sound:Track’ Joo Jong-hyuk: “One-Act Dramas Are Compelling and Have an Intensity to Them”",
+     "url": "https://www.mk.co.kr/en/broadcasting-service/12212342",
+     "source": "매일경제"
+    },
+    {
+     "title": "A New Take on Korean Broadcasting System (KBS)’s 42-Year Tradition of One-Act Dramas... ‘Sound:Track,’ Featuring Classics by Kim Na-young and Jang Pil-soon, Unveiled",
+     "url": "https://www.sportschosun.com/en/celebrity/2026-11-17/202611170100112550010398",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "체포",
+   "slug": "체포",
+   "traffic": 1000,
+   "startedAt": 1795061400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "하남 아파트 헌옷수거함에 숨진 아기 버린 30대 친모 체포",
+     "url": "https://www.kyeonggi.com/article/20261119580003",
+     "source": "경기일보"
+    },
+    {
+     "title": "[단독]하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
+     "url": "https://www.khan.co.kr/article/202611181856001",
+     "source": "경향신문"
+    },
+    {
+     "title": "하남 아파트 헌옷수거함에 아기 시신 유기…30대 친모 검거",
+     "url": "https://www.yna.co.kr/view/AKR20261119008900061",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "네이버 뉴스",
+   "slug": "네이버-뉴스",
+   "traffic": 1000,
+   "startedAt": 1795061400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+     "url": "https://www.etnews.com/20261118000308",
+     "source": "전자신문"
+    },
+    {
+     "title": "607곳 전원 탈락 낳은 네이버의 무리수, 정량 확대·합격선 상향이 빚은 폐쇄",
+     "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=2430",
+     "source": "동행일보"
+    },
+    {
+     "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
+     "url": "https://zdnet.co.kr/view/?no=20261118201654",
+     "source": "지디넷코리아"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "하남시",
-   "slug": "하남시",
+   "keyword": "도이치모터스 주가조작 사건",
+   "slug": "도이치모터스-주가조작-사건",
    "traffic": 500,
-   "startedAt": 1795056000.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795063200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "\"수능 아들 도시락 주려다 교통사고\"…엄마의 다급한 사연에 경찰이 나섰다",
-     "url": "https://www.ikbc.co.kr/article/view/kbc202611190036",
-     "source": "KBC광주방송"
+     "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "수능 입실 코앞 차량 고장·버스 오승차⋯경찰이 수험생 구했다",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337244",
-     "source": "인천일보"
+     "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
+     "url": "https://www.yna.co.kr/view/AKR20261119022300004",
+     "source": "연합뉴스"
     },
     {
-     "title": "‘복용약 전달, 시험장 착각 학생 수송’…경찰, 수능 수험생에 121건 편의 제공",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288094.html",
-     "source": "한겨레"
+     "title": "대법, 김건희 '명태균 무상 여론조사' 결론…尹·吳 상고심 가늠자",
+     "url": "https://www.news1.kr/society/court-prosecution/6358466",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "김민석",
-   "slug": "김민석",
+   "keyword": "김진우",
+   "slug": "김진우",
    "traffic": 200,
-   "startedAt": 1795058400.0,
+   "startedAt": 1795062000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단",
-     "url": "https://www.yna.co.kr/view/AKR20261118187100004",
+     "title": "위너 김진우, 붉은 단풍 아래 후드 점퍼로 전한 근황",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280209",
+     "source": "톱스타뉴스"
+    },
+    {
+     "title": "선관위 특검, 선관위 직원 8명 구속영장 청구",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229641",
+     "source": "법률신문"
+    },
+    {
+     "title": "특검, '투표율 허위입력·공문서 위변조' 선관위 8명 구속영장(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261118120352004",
      "source": "연합뉴스"
-    },
-    {
-     "title": "한덕수·김건희 오늘 대법 선고…TV 생중계",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133054f9d",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "김건희·한덕수 오늘 운명의 날…대법원 최종 판단 생중계",
-     "url": "https://news.jtbc.co.kr/article/NB12328757",
-     "source": "JTBC"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "내란죄",
+   "slug": "내란죄",
+   "traffic": 200,
+   "startedAt": 1795061400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "한덕수 선고 정치권 전운…與 \"즉응 결정\" 野 \"재판개입\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133438aSq",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "한덕수 '내란 가담'·김건희 '3대 의혹' 곧 최종심",
+     "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866928_36974.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단",
+     "url": "https://www.yna.co.kr/view/AKR20261118187100004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "전국삼성전자노동조합",
    "slug": "전국삼성전자노동조합",
    "traffic": 200,
    "startedAt": 1795057800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "삼성전자 제7노조 '광주노동조합' 공식 출범…교섭 참여 추진",
@@ -211,40 +237,30 @@
    ]
   },
   {
-   "rank": 9,
-   "keyword": "군산시의회",
-   "slug": "군산시의회",
-   "traffic": 200,
-   "startedAt": 1795057200.0,
-   "change": "new",
-   "diff": 0,
+   "rank": 10,
+   "keyword": "김민석",
+   "slug": "김민석",
+   "traffic": 100,
+   "startedAt": 1795058400.0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
-     "title": "군산시의회, 고독사 위험군 연중 관리 주문…사례관리 예산 배분도 지적",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756625",
-     "source": "국제뉴스"
+     "title": "당원주권시대 \"김민석, 불공정 윤리심판 중단하라\"…최민희 징계 반발",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/19/N5YMT5FXKNGMDBOVUJQH2LRXYA/",
+     "source": "조선일보"
     },
     {
-     "title": "군산시, 클라이밍센터 재계약 시의회 동의 ‘패싱’…행감 도마 위",
-     "url": "http://www.inews24.com/view/2028026",
-     "source": "아이뉴스24"
+     "title": "[사설]이번 국회 2년 반도 안 돼 6건이나 공개 사과한 최민희",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050630/2",
+     "source": "동아일보"
     },
     {
-     "title": "마라톤부터 유소년 축구까지…군산 체육행정 관리체계 도마 위",
-     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884862",
-     "source": "한스경제"
+     "title": "추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어”",
+     "url": "https://www.kyeonggi.com/article/20261118580022",
+     "source": "경기일보"
     }
    ]
-  },
-  {
-   "rank": 10,
-   "keyword": "신용회복위원회",
-   "slug": "신용회복위원회",
-   "traffic": 200,
-   "startedAt": 1795053600.0,
-   "change": "down",
-   "diff": 1,
-   "news": []
   }
  ]
 }

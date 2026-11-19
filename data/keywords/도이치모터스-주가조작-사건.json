@@ -1,0 +1,46 @@
+{
+ "keyword": "도이치모터스 주가조작 사건",
+ "slug": "도이치모터스-주가조작-사건",
+ "firstSeen": 1795063200.0,
+ "lastSeen": 1795067421.70955,
+ "peakRank": 6,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795067422,
+   6,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
+   "url": "https://www.yna.co.kr/view/AKR20261119022300004",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "대법, 김건희 '명태균 무상 여론조사' 결론…尹·吳 상고심 가늠자",
+   "url": "https://www.news1.kr/society/court-prosecution/6358466",
+   "source": "뉴스1"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "이진우-심정지",
+  "박찬종",
+  "kbs",
+  "체포",
+  "네이버-뉴스",
+  "김진우",
+  "내란죄",
+  "전국삼성전자노동조합",
+  "김민석"
+ ]
+}

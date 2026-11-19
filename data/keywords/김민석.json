@@ -2,7 +2,7 @@
  "keyword": "김민석",
  "slug": "김민석",
  "firstSeen": 1795058400.0,
- "lastSeen": 1795063866.0363262,
+ "lastSeen": 1795067421.70955,
  "peakRank": 7,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795063866,
    7,
    200
+  ],
+  [
+   1795067422,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "당원주권시대 \"김민석, 불공정 윤리심판 중단하라\"…최민희 징계 반발",
+   "url": "https://www.chosun.com/politics/assembly/2026/11/19/N5YMT5FXKNGMDBOVUJQH2LRXYA/",
+   "source": "조선일보"
+  },
+  {
+   "title": "[사설]이번 국회 2년 반도 안 돼 6건이나 공개 사과한 최민희",
+   "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050630/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어”",
+   "url": "https://www.kyeonggi.com/article/20261118580022",
+   "source": "경기일보"
+  },
   {
    "title": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단",
    "url": "https://www.yna.co.kr/view/AKR20261118187100004",
@@ -33,6 +53,13 @@
   "2026-11-19"
  ],
  "related": [
+  "이진우-심정지",
+  "kbs",
+  "체포",
+  "네이버-뉴스",
+  "도이치모터스-주가조작-사건",
+  "김진우",
+  "내란죄",
   "크리스-페덱",
   "주식시장",
   "양민혁",
