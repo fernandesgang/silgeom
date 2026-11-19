@@ -2,17 +2,27 @@
  "keyword": "플라비오 코볼리",
  "slug": "플라비오-코볼리",
  "firstSeen": 1795102800.0,
- "lastSeen": 1795110406.6863134,
- "peakRank": 8,
- "peakTraffic": 100,
+ "lastSeen": 1795113937.876253,
+ "peakRank": 6,
+ "peakTraffic": 200,
  "history": [
   [
    1795107180,
    8,
    100
+  ],
+  [
+   1795113938,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758",
+   "source": "국제뉴스"
+  },
   {
    "title": "\"韓 충격 안겼다\" 이변에 익숙한 한국, 이미 아르헨→인도 넘었다... 伊 만나도 주눅 들지 않는 이유 - 머니투데이",
    "url": "https://www.mt.co.kr/sports/2026/11/19/2026111914011325855",
@@ -48,6 +58,7 @@
   "2026-11-20"
  ],
  "related": [
+  "웹툰",
   "앤트로픽",
   "anthropic-stock",
   "앤트로픽-주가",

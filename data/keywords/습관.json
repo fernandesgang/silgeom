@@ -2,7 +2,7 @@
  "keyword": "습관",
  "slug": "습관",
  "firstSeen": 1795099200.0,
- "lastSeen": 1795110406.6863134,
+ "lastSeen": 1795113937.876253,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -20,9 +20,29 @@
    1795110407,
    3,
    1000
+  ],
+  [
+   1795113938,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "연천군, 스마트경로당 112개소서 어르신 건강 강좌…수분 섭취 강조",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757520",
+   "source": "국제뉴스"
+  },
+  {
+   "title": "연천군, 스마트경로당 112곳 대상 어르신 건강강좌 운영",
+   "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071565",
+   "source": "내외뉴스통신"
+  },
+  {
+   "title": "연천군, 스마트경로당 112곳 연결해 어르신 건강관리 교육",
+   "url": "https://www.pressian.com/pages/articles/2026111914370018698",
+   "source": "프레시안"
+  },
   {
    "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
    "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
@@ -53,6 +73,7 @@
   "2026-11-20"
  ],
  "related": [
+  "웹툰",
   "앤트로픽",
   "anthropic-stock",
   "amd",

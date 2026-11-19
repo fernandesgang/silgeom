@@ -2,7 +2,7 @@
  "keyword": "amd",
  "slug": "amd",
  "firstSeen": 1795103400.0,
- "lastSeen": 1795110406.6863134,
+ "lastSeen": 1795113937.876253,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -18,6 +18,16 @@
   ]
  ],
  "news": [
+  {
+   "title": "Problems at AMD (AMD)",
+   "url": "https://hntrbrk.com/investigations/bank-of-amd",
+   "source": "Hunterbrook"
+  },
+  {
+   "title": "Why are AMD and Broadcom stocks falling in premarket trading on Monday?",
+   "url": "https://invezz.com/en-ae/news/2026/11/16/why-are-amd-and-broadcom-stocks-falling-in-premarket-trading-on-monday/",
+   "source": "Invezz"
+  },
   {
    "title": "AMD falls on short-seller report of alleged China exposure",
    "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
@@ -53,6 +63,7 @@
   "2026-11-20"
  ],
  "related": [
+  "웹툰",
   "앤트로픽",
   "anthropic-stock",
   "앤트로픽-주가",
