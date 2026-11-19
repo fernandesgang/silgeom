@@ -2,17 +2,32 @@
  "keyword": "하남시",
  "slug": "하남시",
  "firstSeen": 1795056000.0,
- "lastSeen": 1795059856.6209946,
- "peakRank": 7,
+ "lastSeen": 1795063866.0363262,
+ "peakRank": 6,
  "peakTraffic": 500,
  "history": [
   [
    1795059857,
    7,
    500
+  ],
+  [
+   1795063866,
+   6,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "\"수능 아들 도시락 주려다 교통사고\"…엄마의 다급한 사연에 경찰이 나섰다",
+   "url": "https://www.ikbc.co.kr/article/view/kbc202611190036",
+   "source": "KBC광주방송"
+  },
+  {
+   "title": "수능 입실 코앞 차량 고장·버스 오승차⋯경찰이 수험생 구했다",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337244",
+   "source": "인천일보"
+  },
   {
    "title": "‘복용약 전달, 시험장 착각 학생 수송’…경찰, 수능 수험생에 121건 편의 제공",
    "url": "https://www.hani.co.kr/arti/society/society_general/1288094.html",
@@ -33,6 +48,10 @@
   "2026-11-19"
  ],
  "related": [
+  "박찬종",
+  "김민석",
+  "전국삼성전자노동조합",
+  "군산시의회",
   "주식시장",
   "양민혁",
   "전역",

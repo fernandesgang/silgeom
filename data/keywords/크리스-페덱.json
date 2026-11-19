@@ -2,17 +2,27 @@
  "keyword": "크리스 페덱",
  "slug": "크리스-페덱",
  "firstSeen": 1795056000.0,
- "lastSeen": 1795059856.6209946,
- "peakRank": 5,
- "peakTraffic": 1000,
+ "lastSeen": 1795063866.0363262,
+ "peakRank": 1,
+ "peakTraffic": 2000,
  "history": [
   [
    1795059857,
    5,
    1000
+  ],
+  [
+   1795063866,
+   1,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "KIA도 KBO도 놀랐던 이 선수… 삼성 초비상 美日 모두 붙었다, 그런데 믿을 구석 있다?",
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020667",
+   "source": "SPOTV NEWS"
+  },
   {
    "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
    "url": "https://www.fnnews.com/news/202611190838400274",
@@ -33,6 +43,10 @@
   "2026-11-19"
  ],
  "related": [
+  "박찬종",
+  "김민석",
+  "전국삼성전자노동조합",
+  "군산시의회",
   "주식시장",
   "양민혁",
   "전역",
