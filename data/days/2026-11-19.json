@@ -685,28 +685,28 @@
    "firstSeen": 1795072200.0,
    "peakRank": 1,
    "peakTraffic": 500,
-   "lastSeen": 1795075987.3972914
+   "lastSeen": 1795080072.5991697
   },
   "주얼리": {
    "slug": "주얼리",
    "firstSeen": 1795070400.0,
    "peakRank": 2,
-   "peakTraffic": 500,
-   "lastSeen": 1795075987.3972914
+   "peakTraffic": 1000,
+   "lastSeen": 1795080072.5991697
   },
   "해군": {
    "slug": "해군",
    "firstSeen": 1795071000.0,
    "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795075987.3972914
+   "lastSeen": 1795080072.5991697
   },
   "수능 결시율": {
    "slug": "수능-결시율",
    "firstSeen": 1795069200.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795075987.3972914
+   "peakTraffic": 500,
+   "lastSeen": 1795080072.5991697
   },
   "민주유공자법": {
    "slug": "민주유공자법",
@@ -721,6 +721,48 @@
    "peakRank": 8,
    "peakTraffic": 100,
    "lastSeen": 1795075987.3972914
+  },
+  "수능 답지": {
+   "slug": "수능-답지",
+   "firstSeen": 1795074000.0,
+   "peakRank": 1,
+   "peakTraffic": 50000,
+   "lastSeen": 1795080072.5991697
+  },
+  "수능 등급컷": {
+   "slug": "수능-등급컷",
+   "firstSeen": 1795074000.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795080072.5991697
+  },
+  "수능 끝": {
+   "slug": "수능-끝",
+   "firstSeen": 1795074000.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795080072.5991697
+  },
+  "대법관": {
+   "slug": "대법관",
+   "firstSeen": 1795074600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795080072.5991697
+  },
+  "한성숙": {
+   "slug": "한성숙",
+   "firstSeen": 1795069200.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795080072.5991697
+  },
+  "라미란": {
+   "slug": "라미란",
+   "firstSeen": 1795074000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795080072.5991697
   }
  }
 }
