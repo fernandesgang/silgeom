@@ -1,0 +1,46 @@
+{
+ "keyword": "weather",
+ "slug": "weather",
+ "firstSeen": 1795041000.0,
+ "lastSeen": 1795047997.0732815,
+ "peakRank": 3,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795047997,
+   3,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "How El Niño contributed to historic Brevard County flooding | El Niño Week",
+   "url": "https://www.wesh.com/article/el-nino-brevard-county-flooding/74438133",
+   "source": "WESH"
+  },
+  {
+   "title": "Heavy rain submerges streets in Central Florida counties",
+   "url": "https://www.fox35orlando.com/video/fmc-txny6eqw8unqqaiz",
+   "source": "FOX 35 Orlando"
+  },
+  {
+   "title": "Weather concerns shuts down Volusia, Brevard schools; playoff games in limbo",
+   "url": "https://www.orlandosentinel.com/2026/11/18/weather-concerns-shuts-down-volusia-brevard-schools-playoff-games-in-limbo/",
+   "source": "Orlando Sentinel"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "수능-시작",
+  "관광",
+  "nz-vs-ind",
+  "s-p-500",
+  "집행유예",
+  "제미나이-네온",
+  "ionq",
+  "겨울",
+  "kb금융그룹"
+ ]
+}

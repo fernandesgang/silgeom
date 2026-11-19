@@ -1,0 +1,46 @@
+{
+ "keyword": "제미나이 네온",
+ "slug": "제미나이-네온",
+ "firstSeen": 1795042200.0,
+ "lastSeen": 1795047997.0732815,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795047997,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217352",
+   "source": "AI타임스"
+  },
+  {
+   "title": "‘제미나이 4 하이드로젠(Hydrogen)’을 소개합니다",
+   "url": "https://blog.google/intl/ko-kr/company-news/technology/introducing-gemini-4-hydrogen-kr/",
+   "source": "blog.google"
+  },
+  {
+   "title": "구글 ‘제미나이4 하이드로젠’ 공개…수소처럼 가벼운 구글의 기본 모델 [고든 정의 TECH+",
+   "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261116601016",
+   "source": "나우뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "수능-시작",
+  "관광",
+  "weather",
+  "nz-vs-ind",
+  "s-p-500",
+  "집행유예",
+  "ionq",
+  "겨울",
+  "kb금융그룹"
+ ]
+}

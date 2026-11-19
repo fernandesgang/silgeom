@@ -1,86 +1,91 @@
 {
- "generatedAt": 1795044326,
+ "generatedAt": 1795047997,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "미역국",
-   "slug": "미역국",
-   "traffic": 2000,
-   "startedAt": 1795039200.0,
+   "keyword": "수능 시작",
+   "slug": "수능-시작",
+   "traffic": 5000,
+   "startedAt": 1795044000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "수능 날 미역국 먹어도 된다면서…고3 딸 둔 의사가 말리는 이유 [29면]",
-     "url": "https://www.segye.com/newsView/20261117513101",
-     "source": "세계일보"
+     "title": "\"연필 구하러 삼만리\"‥'뒷북' 대책에 발만 '동동'",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866772_37012.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "수시 먹통, N수생 최다, AI 커닝… 08년생 ‘고난의 수능’",
-     "url": "https://www.chosun.com/national/education/2026/11/19/72LF3FHY75GRNMERHEJX6ILGMY/",
-     "source": "조선일보"
+     "title": "55만 수험생 수능장으로…AI 부정행위 차단 총력",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119082349iqL",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-     "url": "https://www.yna.co.kr/view/AKR20261119013600011",
-     "source": "연합뉴스"
+     "title": "가방은 복도에, 단추엔 스티커…수능 D-day, 55만명 시험장으로",
+     "url": "https://news.jtbc.co.kr/article/NB12328768",
+     "source": "JTBC"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "t1",
-   "slug": "t1",
-   "traffic": 2000,
-   "startedAt": 1795038600.0,
+   "keyword": "관광",
+   "slug": "관광",
+   "traffic": 5000,
+   "startedAt": 1795043400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Sources: Zeus reaches three-year agreement with T1",
-     "url": "https://www.sheepesports.com/en/articles/sources-zeus-set-to-return-to-t1-ahead-of-lck-2027/en",
-     "source": "Sheep Esports"
+     "title": "부산시, 웰니스관광지 7곳 신규 지정…2028년까지 30곳",
+     "url": "https://www.yna.co.kr/view/AKR20261119019600051",
+     "source": "연합뉴스"
     },
     {
-     "title": "T1 Zeus Return Rumors Heat Up as Star Top-Laner Enters 2026 Free Agency",
-     "url": "https://www.lifestyleasia.com/hk/whats-on/news-whats-on/t1-zeus-return-rumors-free-agency/",
-     "source": "Lifestyle Asia Hong Kong"
+     "title": "부산시 웰니스 관광지 7곳 신규 지정, 총 24곳으로 확대",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874371",
+     "source": "뉴시스"
+    },
+    {
+     "title": "부산시, 2026년 신규 웰니스 관광지 7곳 선정···총 24곳으로 치유 관광 기반 확대",
+     "url": "https://thegnnews.com/View.aspx?No=4319754",
+     "source": "더경남뉴스"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "schd",
-   "slug": "schd",
-   "traffic": 500,
-   "startedAt": 1795038600.0,
+   "keyword": "weather",
+   "slug": "weather",
+   "traffic": 2000,
+   "startedAt": 1795041000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Charles Schwab (SCHW) Now Has The Largest U.S. Dividend ETF",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-now-largest-031034095.html",
-     "source": "Yahoo Finance"
+     "title": "How El Niño contributed to historic Brevard County flooding | El Niño Week",
+     "url": "https://www.wesh.com/article/el-nino-brevard-county-flooding/74438133",
+     "source": "WESH"
     },
     {
-     "title": "The Winners Inside SCHD - November 2026",
-     "url": "https://seekingalpha.com/article/4968854-the-winners-inside-schd-november-2026",
-     "source": "Seeking Alpha"
+     "title": "Heavy rain submerges streets in Central Florida counties",
+     "url": "https://www.fox35orlando.com/video/fmc-txny6eqw8unqqaiz",
+     "source": "FOX 35 Orlando"
     },
     {
-     "title": "SCHD ETF Overtakes Vig as Best Performing Dividend ETF in 2026",
-     "url": "https://www.ebc.com/forex/schd-etf-2026-returns-inflows-growth",
-     "source": "EBC Financial Group"
+     "title": "Weather concerns shuts down Volusia, Brevard schools; playoff games in limbo",
+     "url": "https://www.orlandosentinel.com/2026/11/18/weather-concerns-shuts-down-volusia-brevard-schools-playoff-games-in-limbo/",
+     "source": "Orlando Sentinel"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "new zealand vs india",
-   "slug": "new-zealand-vs-india",
-   "traffic": 200,
-   "startedAt": 1795039800.0,
+   "keyword": "nz vs ind",
+   "slug": "nz-vs-ind",
+   "traffic": 500,
+   "startedAt": 1795041600.0,
    "change": "new",
    "diff": 0,
    "news": [
@@ -103,12 +108,116 @@
   },
   {
    "rank": 5,
+   "keyword": "s&p 500",
+   "slug": "s-p-500",
+   "traffic": 500,
+   "startedAt": 1795041600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off",
+     "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+     "source": "CNBC"
+    },
+    {
+     "title": "Wall Street Mixed as Rate Hike Anxieties Dampen Sentiment",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852955",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
+     "source": "WSJ"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "집행유예",
+   "slug": "집행유예",
+   "traffic": 200,
+   "startedAt": 1795044000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "사건 청탁 뇌물받은 뒤 후배에 돈봉투 주려던 경찰간부 집행유예",
+     "url": "https://www.yna.co.kr/view/AKR20261118065000065",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "폭행 사건 무마 청탁에 200만원 받은 경찰 간부…집행유예",
+     "url": "https://www.kyeonggi.com/article/20261118580095",
+     "source": "경기일보"
+    },
+    {
+     "title": "\"불기소로 해 달라\"… 뇌물 받고 돈봉투 주려던 경찰관, 징역형 집유",
+     "url": "https://www.chosun.com/national/court_law/2026/11/18/2KIXTHNIGZFLLFRG25UO4KMSAE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "제미나이 네온",
+   "slug": "제미나이-네온",
+   "traffic": 200,
+   "startedAt": 1795042200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217352",
+     "source": "AI타임스"
+    },
+    {
+     "title": "‘제미나이 4 하이드로젠(Hydrogen)’을 소개합니다",
+     "url": "https://blog.google/intl/ko-kr/company-news/technology/introducing-gemini-4-hydrogen-kr/",
+     "source": "blog.google"
+    },
+    {
+     "title": "구글 ‘제미나이4 하이드로젠’ 공개…수소처럼 가벼운 구글의 기본 모델 [고든 정의 TECH+",
+     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261116601016",
+     "source": "나우뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "ionq",
+   "slug": "ionq",
+   "traffic": 200,
+   "startedAt": 1795039800.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
+    {
+     "title": "Rigetti Sinks 8%, IonQ Down 7% as Quantum Stocks Slide Again Ahead of Nvidia Earnings",
+     "url": "https://www.tikr.com/blog/rigetti-sinks-8-ionq-down-7-as-quantum-stocks-slide-again-ahead-of-nvidia-earnings",
+     "source": "TIKR.com"
+    },
+    {
+     "title": "IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?",
+     "url": "https://www.tradingview.com/news/zacks:69b8679b4094b:0-ionq-s-post-earnings-rally-fades-should-investors-book-profits-now/",
+     "source": "TradingView"
+    },
+    {
+     "title": "IonQ shares drop 48% after $1.2B stock deal acq...",
+     "url": "https://pluang.com/en/news-feed/saham-ionq-turun-48-persen-apakah-ini-peluang-beli-2",
+     "source": "Pluang"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "겨울",
    "slug": "겨울",
    "traffic": 200,
    "startedAt": 1795039800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 4,
    "news": [
     {
      "title": "마포구, 겨울철 종합대책 가동…8천가구에 월동대책비",
@@ -128,132 +237,28 @@
    ]
   },
   {
-   "rank": 6,
-   "keyword": "ionq",
-   "slug": "ionq",
-   "traffic": 200,
+   "rank": 10,
+   "keyword": "kb금융그룹",
+   "slug": "kb금융그룹",
+   "traffic": 100,
    "startedAt": 1795039800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Ionq stock hits 52-week low at 24.91 USD",
-     "url": "https://www.investing.com/news/company-news/ionq-stock-hits-52week-low-at-2491-usd-93CH-5033482",
-     "source": "Investing.com"
-    },
-    {
-     "title": "IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?",
-     "url": "https://www.tradingview.com/news/zacks:69b8679b4094b:0-ionq-s-post-earnings-rally-fades-should-investors-book-profits-now/",
-     "source": "TradingView"
-    },
-    {
-     "title": "IonQ Falls 8% as Quantum Computing Stocks Slide; Rigetti Drops 6%, D-Wave Declines 4%",
-     "url": "https://247wallst.com/investing/2026/11/13/ionq-falls-8-as-quantum-computing-stocks-slide-rigetti-drops-6-d-wave-declines-4/",
-     "source": "24/7 Wall St."
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "nvda",
-   "slug": "nvda",
-   "traffic": 200,
-   "startedAt": 1795039800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "CHART OF THE DAY: Nvidia, $NVDA, Needs To Be Up +26% Today Just To Recapture TRADE Support",
-     "url": "https://app.hedgeye.com/insights/190030-chart-of-the-day-nvidia-nvda-needs-to-be-up-26-today-just-to-rec?type=macro%2Cmarket-insights",
-     "source": "Hedgeye"
-    },
-    {
-     "title": "The Closer – NVDA Earnings, 200-Day Break, Salience – 11/18/26",
-     "url": "https://www.bespokepremium.com/the-closer/the-closer-nvda-earnings-200-day-break-salience-11-18-26/",
-     "source": "Bespoke Investment Group"
-    },
-    {
-     "title": "The Indexes Are Hiding How Weak This Market Really Is",
-     "url": "https://pro.thestreet.com/market-commentary/the-indexes-are-hiding-how-weak-this-market-really-is",
-     "source": "RealMoney Pro"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "다우 존스 산업평균지수",
-   "slug": "다우-존스-산업평균지수",
-   "traffic": 200,
-   "startedAt": 1795039200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]",
-     "url": "https://www.hankyung.com/article/202611196100i",
-     "source": "한국경제"
-    },
-    {
-     "title": "엔비디아 호실적에도 S&P500 5일연속 하락…나스닥만 0.4%↑(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119010551072",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[젠슨 황 머니게임 종료] ④ ASIC으로 반격 나서는 아마존·구글·메타",
-     "url": "https://www.newspim.com/news/view/20261118000753",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "lg그룹",
-   "slug": "lg그룹",
-   "traffic": 200,
-   "startedAt": 1795039200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "LG 인사 키워드는 '안정'…권봉석 체제 속 하범종 위상 주목",
-     "url": "https://v.daum.net/v/blm3xd2uQz",
+     "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편",
+     "url": "https://v.daum.net/v/VT9QWXIkki",
      "source": "Daum"
     },
     {
-     "title": "보조금·보상금 뺀 본업은 ‘글쎄’…김동명 LG엔솔 사장, 연임 문턱 넘을까",
-     "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513649",
-     "source": "일요신문"
+     "title": "KB금융, 부문장직 폐지하나…이재근式 '시스템·분권화' 지배구조는",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445371",
+     "source": "연합인포맥스"
     },
     {
-     "title": "LG 임원 인사 초읽기···조직 안정 속 CEO 3인 거취 주목",
-     "url": "https://www.newsway.co.kr/news/view?ud=2026111714411510282",
-     "source": "뉴스웨이"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "새마을금고",
-   "slug": "새마을금고",
-   "traffic": 200,
-   "startedAt": 1795039200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결",
-     "url": "https://www.yna.co.kr/view/AKR20261118146000060",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "새마을금고 서울 자치구 진출...용산구, 새마을금고와 손잡고 지방보조사업자 금융 편의 높인다",
-     "url": "https://biz.heraldcorp.com/article/10941776",
-     "source": "헤럴드경제"
-    },
-    {
-     "title": "양주시, 신협·새마을금고와 보조금 전용계좌 협약…개설처 확대",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755989",
-     "source": "국제뉴스"
+     "title": "국민연금, KB금융 사내이사 후보 이재근 선임안에 찬성",
+     "url": "https://bravo.etoday.co.kr/view/atc_view/20503",
+     "source": "이투데이"
     }
    ]
   }

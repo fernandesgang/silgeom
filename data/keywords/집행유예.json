@@ -1,0 +1,46 @@
+{
+ "keyword": "집행유예",
+ "slug": "집행유예",
+ "firstSeen": 1795044000.0,
+ "lastSeen": 1795047997.0732815,
+ "peakRank": 6,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795047997,
+   6,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "사건 청탁 뇌물받은 뒤 후배에 돈봉투 주려던 경찰간부 집행유예",
+   "url": "https://www.yna.co.kr/view/AKR20261118065000065",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "폭행 사건 무마 청탁에 200만원 받은 경찰 간부…집행유예",
+   "url": "https://www.kyeonggi.com/article/20261118580095",
+   "source": "경기일보"
+  },
+  {
+   "title": "\"불기소로 해 달라\"… 뇌물 받고 돈봉투 주려던 경찰관, 징역형 집유",
+   "url": "https://www.chosun.com/national/court_law/2026/11/18/2KIXTHNIGZFLLFRG25UO4KMSAE/",
+   "source": "조선일보"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "수능-시작",
+  "관광",
+  "weather",
+  "nz-vs-ind",
+  "s-p-500",
+  "제미나이-네온",
+  "ionq",
+  "겨울",
+  "kb금융그룹"
+ ]
+}

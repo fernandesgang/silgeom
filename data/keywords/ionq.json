@@ -2,7 +2,7 @@
  "keyword": "ionq",
  "slug": "ionq",
  "firstSeen": 1795039800.0,
- "lastSeen": 1795044325.6426501,
+ "lastSeen": 1795047997.0732815,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795044326,
    6,
    200
+  ],
+  [
+   1795047997,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Rigetti Sinks 8%, IonQ Down 7% as Quantum Stocks Slide Again Ahead of Nvidia Earnings",
+   "url": "https://www.tikr.com/blog/rigetti-sinks-8-ionq-down-7-as-quantum-stocks-slide-again-ahead-of-nvidia-earnings",
+   "source": "TIKR.com"
+  },
+  {
+   "title": "IonQ shares drop 48% after $1.2B stock deal acq...",
+   "url": "https://pluang.com/en/news-feed/saham-ionq-turun-48-persen-apakah-ini-peluang-beli-2",
+   "source": "Pluang"
+  },
   {
    "title": "Ionq stock hits 52-week low at 24.91 USD",
    "url": "https://www.investing.com/news/company-news/ionq-stock-hits-52week-low-at-2491-usd-93CH-5033482",
@@ -33,6 +48,14 @@
   "2026-11-19"
  ],
  "related": [
+  "수능-시작",
+  "관광",
+  "weather",
+  "nz-vs-ind",
+  "s-p-500",
+  "집행유예",
+  "제미나이-네온",
+  "kb금융그룹",
   "미역국",
   "t1",
   "schd",

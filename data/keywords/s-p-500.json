@@ -1,0 +1,46 @@
+{
+ "keyword": "s&p 500",
+ "slug": "s-p-500",
+ "firstSeen": 1795041600.0,
+ "lastSeen": 1795047997.0732815,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795047997,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off",
+   "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Wall Street Mixed as Rate Hike Anxieties Dampen Sentiment",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852955",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
+   "source": "WSJ"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "수능-시작",
+  "관광",
+  "weather",
+  "nz-vs-ind",
+  "집행유예",
+  "제미나이-네온",
+  "ionq",
+  "겨울",
+  "kb금융그룹"
+ ]
+}
