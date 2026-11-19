@@ -643,7 +643,7 @@
    "firstSeen": 1795065600.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795071199.055673
+   "lastSeen": 1795075987.3972914
   },
   "한덕수 선고": {
    "slug": "한덕수-선고",
@@ -664,21 +664,63 @@
    "firstSeen": 1795067400.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795071199.055673
+   "lastSeen": 1795075987.3972914
   },
   "예비타당성조사": {
    "slug": "예비타당성조사",
    "firstSeen": 1795066800.0,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795071199.055673
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795075987.3972914
   },
   "서울교통공사": {
    "slug": "서울교통공사",
    "firstSeen": 1795065600.0,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795071199.055673
+   "lastSeen": 1795075987.3972914
+  },
+  "lg 임원인사": {
+   "slug": "lg-임원인사",
+   "firstSeen": 1795072200.0,
+   "peakRank": 1,
+   "peakTraffic": 500,
+   "lastSeen": 1795075987.3972914
+  },
+  "주얼리": {
+   "slug": "주얼리",
+   "firstSeen": 1795070400.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795075987.3972914
+  },
+  "해군": {
+   "slug": "해군",
+   "firstSeen": 1795071000.0,
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795075987.3972914
+  },
+  "수능 결시율": {
+   "slug": "수능-결시율",
+   "firstSeen": 1795069200.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795075987.3972914
+  },
+  "민주유공자법": {
+   "slug": "민주유공자법",
+   "firstSeen": 1795067400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795075987.3972914
+  },
+  "버거킹 초콜릿와퍼": {
+   "slug": "버거킹-초콜릿와퍼",
+   "firstSeen": 1795069200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795075987.3972914
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "해군",
+ "slug": "해군",
+ "firstSeen": 1795071000.0,
+ "lastSeen": 1795075987.3972914,
+ "peakRank": 3,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795075987,
+   3,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
+   "url": "https://www.hankyung.com/article/2026111972367",
+   "source": "한국경제"
+  },
+  {
+   "title": "APEC 기간 보란듯 '中 반대쪽' 함경도 찾은 김정은… \"트럼프 러브콜에 연연하지 않는 모습 연출\"",
+   "url": "https://www.chosun.com/politics/north_korea/2026/11/19/OMDLA3RDSNBFZGQJS7DLKW6ROM/",
+   "source": "조선일보"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "lg-임원인사",
+  "주얼리",
+  "수능-결시율",
+  "민주유공자법",
+  "예비타당성조사",
+  "수능-샤프",
+  "버거킹-초콜릿와퍼",
+  "디-에이치-반포-124",
+  "서울교통공사"
+ ]
+}
