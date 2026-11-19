@@ -1,15 +1,41 @@
 {
- "generatedAt": 1795124391,
+ "generatedAt": 1795127311,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "택시",
-   "slug": "택시",
-   "traffic": 1000,
-   "startedAt": 1795120200.0,
+   "keyword": "아파트",
+   "slug": "아파트",
+   "traffic": 5000,
+   "startedAt": 1795122600.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "‘한강벨트’ 용산·동작도 집값 하락",
+     "url": "https://www.khan.co.kr/article/202611192049035",
+     "source": "경향신문"
+    },
+    {
+     "title": "같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석]",
+     "url": "https://www.hankyung.com/article/202611172505Q",
+     "source": "한국경제"
+    },
+    {
+     "title": "서울 아파트값 93주째 상승에도 오름폭 축소‥하락 지역 확대",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6866925_36932.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "택시",
+   "slug": "택시",
+   "traffic": 2000,
+   "startedAt": 1795120200.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
@@ -29,13 +55,39 @@
    ]
   },
   {
-   "rank": 2,
+   "rank": 3,
+   "keyword": "김연경",
+   "slug": "김연경",
+   "traffic": 2000,
+   "startedAt": 1795119000.0,
+   "change": "same",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[포토]'다시 시작한 배구, 살맛납니다!' 표승주 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111918234413089",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[한번에쓱]인생역전은 지금부터 '거미같은 리베로의 수비력을 보여줄게요!' 흥국 고민지 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111918543178586",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[한번에쓱]'다시 시작한 배구, 살맛납니다!' 핑크스파이더 표승주",
+     "url": "https://www.starnewskorea.com/sports/2026/11/19/2026111918234413089",
+     "source": "스타뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "알렉산더 즈베레프",
    "slug": "알렉산더-즈베레프",
    "traffic": 1000,
    "startedAt": 1795119000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
@@ -55,143 +107,39 @@
    ]
   },
   {
-   "rank": 3,
-   "keyword": "김연경",
-   "slug": "김연경",
-   "traffic": 1000,
-   "startedAt": 1795119000.0,
+   "rank": 5,
+   "keyword": "경제",
+   "slug": "경제",
+   "traffic": 500,
+   "startedAt": 1795123200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "김연경 사단 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전('신인감독2')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GNRTCMDCGA4TCMZYG42WENDBGY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
-     "source": "뉴스1"
-    },
-    {
-     "title": "\"드래프트 2번 낙방→배구 그만두려 했다\"…프로 한번 못가본 27세 아포짓,주저앉았다→김연경의 뼈아픈 독설, 일으켜 세울까",
-     "url": "https://www.sportschosun.com/volleyball/2026-11-18/202611180100115400010621",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "천위페이",
-   "slug": "천위페이",
-   "traffic": 1000,
-   "startedAt": 1795111200.0,
-   "change": "down",
-   "diff": 3,
-   "news": [
-    {
-     "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/19/MVQTCNTDGYYDOYZSME2DONDDGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "웹툰",
-   "slug": "웹툰",
-   "traffic": 500,
-   "startedAt": 1795109400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
-     "url": "https://cine21.com/news/view/?mag_id=111294",
-     "source": "씨네21"
-    },
-    {
-     "title": "\"압도적\"…'재혼 황후' 신민아, 외신 찬사 쏟아진 '퀸민아' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111913307297613",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'재혼 황후' 인기에 웹툰 글로벌 조회수 35배 증가",
-     "url": "https://www.yna.co.kr/view/AKR20261119119100005",
+     "title": "北, 라오스와 경제·무역·과학 협력 논의…당·정 교류 이어",
+     "url": "https://www.yna.co.kr/view/AKR20261120015000504",
      "source": "연합뉴스"
+    },
+    {
+     "title": "[AI로 읽는 노동신문] 11월 20일(금)",
+     "url": "https://www.newspim.com/news/view/20261120000053",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "라오스 정부 대표단 평양 도착…北과 경제·무역 협력 논의",
+     "url": "https://www.news1.kr/photos/8219491",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "amd",
-   "slug": "amd",
-   "traffic": 500,
-   "startedAt": 1795103400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "AMD dives on short-seller report of alleged China exposure",
-     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
-     "url": "https://en.fnnews.com/news/202611200329388178",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "Problems at AMD (AMD)",
-     "url": "https://hntrbrk.com/investigations/bank-of-amd",
-     "source": "Hunterbrook"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "한강 벨트",
-   "slug": "한강-벨트",
-   "traffic": 200,
-   "startedAt": 1795119600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "‘한강벨트’ 용산·동작도 집값 하락",
-     "url": "https://www.khan.co.kr/article/202611192049035",
-     "source": "경향신문"
-    },
-    {
-     "title": "강남 급매물 쌓이고 한강벨트 '뚝'…\"집값 드디어 꺾이나\" 전망 갈렸다 - 머니투데이",
-     "url": "https://www.mt.co.kr/estate/2026/11/20/2026111920211718916",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[그래픽] 서울 아파트 매매가격지수 변동률 추이",
-     "url": "https://www.news1.kr/photos/8222999",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "rank": 8,
    "keyword": "축구 감독",
    "slug": "축구-감독",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795117800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
@@ -211,39 +159,13 @@
    ]
   },
   {
-   "rank": 9,
-   "keyword": "해상 풍력 발전",
-   "slug": "해상-풍력-발전",
-   "traffic": 100,
-   "startedAt": 1795117200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
-     "source": "전기신문"
-    },
-    {
-     "title": "신민호 전남광주시의원 \"해상풍력 조성에 지역기업 참여해야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261118143600054",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
+   "rank": 7,
    "keyword": "이정현",
    "slug": "이정현",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795117200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "이정현, 가수로 13년 만에 돌아온다…'테크노 여전사' 내년 초 컴백 예고",
@@ -259,6 +181,84 @@
      "title": "이정현 194억 병원 건물주도, 애엄마도 아니다…‘테크노 여전사’ 내년 컴백 준비 활활",
      "url": "https://m.newsen.com/news_view.php?uid=202611191358492110",
      "source": "뉴스엔"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "지방세",
+   "slug": "지방세",
+   "traffic": 100,
+   "startedAt": 1795122600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "고액-상습체납자 1년새 29% 늘어 1만3697명",
+     "url": "https://www.donga.com/news/Society/article/all/20261118/135050552/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "[서울] 지방세 체납 1위도 '선박왕' 권혁...정부 \"명단 공개\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611182124381996_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "[사설] 체납자 엄정 조치로 조세정의 바로 세워야",
+     "url": "https://app.ihalla.com/article.php?aid=1795100400793015043",
+     "source": "한라일보"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "마우리시오 포체티노",
+   "slug": "마우리시오-포체티노",
+   "traffic": 100,
+   "startedAt": 1795121400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"포체티노는 저를 완전히 바꿔놓았습니다\" 손흥민의 가슴 뭉클한 고백 재조명...맨유 구하러 온 새 감독의 특별한 지도력",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/19/HBQTGOJVG5RDOYTBMI3DKOJYGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "해상 풍력 발전",
+   "slug": "해상-풍력-발전",
+   "traffic": 100,
+   "startedAt": 1795117200.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
+     "source": "전기신문"
+    },
+    {
+     "title": "신민호 전남광주시의원 \"해상풍력 조성에 지역기업 참여해야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118143600054",
+     "source": "연합뉴스"
     }
    ]
   }

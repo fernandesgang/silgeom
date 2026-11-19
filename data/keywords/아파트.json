@@ -1,0 +1,46 @@
+{
+ "keyword": "아파트",
+ "slug": "아파트",
+ "firstSeen": 1795122600.0,
+ "lastSeen": 1795127310.8833637,
+ "peakRank": 1,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795127311,
+   1,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "‘한강벨트’ 용산·동작도 집값 하락",
+   "url": "https://www.khan.co.kr/article/202611192049035",
+   "source": "경향신문"
+  },
+  {
+   "title": "같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석]",
+   "url": "https://www.hankyung.com/article/202611172505Q",
+   "source": "한국경제"
+  },
+  {
+   "title": "서울 아파트값 93주째 상승에도 오름폭 축소‥하락 지역 확대",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6866925_36932.html",
+   "source": "MBC 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "택시",
+  "김연경",
+  "알렉산더-즈베레프",
+  "경제",
+  "축구-감독",
+  "이정현",
+  "지방세",
+  "마우리시오-포체티노",
+  "해상-풍력-발전"
+ ]
+}

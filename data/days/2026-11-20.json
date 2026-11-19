@@ -131,22 +131,22 @@
    "slug": "택시",
    "firstSeen": 1795120200.0,
    "peakRank": 1,
-   "peakTraffic": 1000,
-   "lastSeen": 1795124391.25353
+   "peakTraffic": 2000,
+   "lastSeen": 1795127310.8833637
   },
   "알렉산더 즈베레프": {
    "slug": "알렉산더-즈베레프",
    "firstSeen": 1795119000.0,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795124391.25353
+   "lastSeen": 1795127310.8833637
   },
   "김연경": {
    "slug": "김연경",
    "firstSeen": 1795119000.0,
    "peakRank": 3,
-   "peakTraffic": 1000,
-   "lastSeen": 1795124391.25353
+   "peakTraffic": 2000,
+   "lastSeen": 1795127310.8833637
   },
   "한강 벨트": {
    "slug": "한강-벨트",
@@ -158,23 +158,51 @@
   "축구 감독": {
    "slug": "축구-감독",
    "firstSeen": 1795117800.0,
-   "peakRank": 8,
-   "peakTraffic": 100,
-   "lastSeen": 1795124391.25353
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795127310.8833637
   },
   "해상 풍력 발전": {
    "slug": "해상-풍력-발전",
    "firstSeen": 1795117200.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795124391.25353
+   "lastSeen": 1795127310.8833637
   },
   "이정현": {
    "slug": "이정현",
    "firstSeen": 1795117200.0,
-   "peakRank": 10,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795127310.8833637
+  },
+  "아파트": {
+   "slug": "아파트",
+   "firstSeen": 1795122600.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795127310.8833637
+  },
+  "경제": {
+   "slug": "경제",
+   "firstSeen": 1795123200.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795127310.8833637
+  },
+  "지방세": {
+   "slug": "지방세",
+   "firstSeen": 1795122600.0,
+   "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795124391.25353
+   "lastSeen": 1795127310.8833637
+  },
+  "마우리시오 포체티노": {
+   "slug": "마우리시오-포체티노",
+   "firstSeen": 1795121400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795127310.8833637
   }
  }
 }
