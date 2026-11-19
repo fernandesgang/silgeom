@@ -2,7 +2,7 @@
  "keyword": "앤트로픽",
  "slug": "앤트로픽",
  "firstSeen": 1795098000.0,
- "lastSeen": 1795110406.6863134,
+ "lastSeen": 1795117956.9276838,
  "peakRank": 1,
  "peakTraffic": 5000,
  "history": [
@@ -10,9 +10,29 @@
    1795110407,
    1,
    5000
+  ],
+  [
+   1795117957,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+   "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "앤트로픽, 111.5달러에 거래 시작…시총 2조달러 달성",
+   "url": "https://www.yna.co.kr/view/AKR20261120003100091",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
+   "source": "연합인포맥스"
+  },
   {
    "title": "\"앤트로픽 기관투자자 절반이상 물량 못받아…美위주 배정\"",
    "url": "https://www.yna.co.kr/view/AKR20261120001400072",
@@ -33,6 +53,8 @@
   "2026-11-20"
  ],
  "related": [
+  "천위페이",
+  "웹툰",
   "anthropic-stock",
   "습관",
   "kt-wiz",

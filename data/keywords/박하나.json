@@ -2,7 +2,7 @@
  "keyword": "박하나",
  "slug": "박하나",
  "firstSeen": 1795098600.0,
- "lastSeen": 1795113937.876253,
+ "lastSeen": 1795117956.9276838,
  "peakRank": 9,
  "peakTraffic": 100,
  "history": [
@@ -18,6 +18,11 @@
   ]
  ],
  "news": [
+  {
+   "title": "박하나·김태술 부부, 결혼 1년 만에 부모 된다…쌍둥이 임신",
+   "url": "https://www.newspim.com/news/view/20261119001307",
+   "source": "뉴스핌"
+  },
   {
    "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
    "url": "https://www.yna.co.kr/view/AKR20261119154100005",
@@ -38,6 +43,7 @@
   "2026-11-20"
  ],
  "related": [
+  "천위페이",
   "웹툰",
   "앤트로픽",
   "anthropic-stock",

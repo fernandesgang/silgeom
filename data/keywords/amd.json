@@ -2,7 +2,7 @@
  "keyword": "amd",
  "slug": "amd",
  "firstSeen": 1795103400.0,
- "lastSeen": 1795113937.876253,
+ "lastSeen": 1795117956.9276838,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,24 @@
    1795110407,
    5,
    200
+  ],
+  [
+   1795117957,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Hunterbrook Says It’s Not Just NVIDIA, ‘AMD Has A China Problem Of Its Own,’ With AMD Firmware Now Traced To Blacklisted IEIT Servers",
+   "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
+   "source": "Wccftech"
+  },
+  {
+   "title": "AMD Stock Dives 15% Over Shortseller Report Alleging Export Control Violations to China, Rebounds Later",
+   "url": "https://www.techpowerup.com/355036/amd-stock-dives-15-over-shortseller-report-alleging-export-control-violations-to-china-rebounds-later",
+   "source": "TechPowerUp"
+  },
   {
    "title": "Problems at AMD (AMD)",
    "url": "https://hntrbrk.com/investigations/bank-of-amd",
@@ -63,6 +78,7 @@
   "2026-11-20"
  ],
  "related": [
+  "천위페이",
   "웹툰",
   "앤트로픽",
   "anthropic-stock",

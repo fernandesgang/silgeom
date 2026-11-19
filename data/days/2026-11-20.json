@@ -20,7 +20,7 @@
    "firstSeen": 1795103191.8502982,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "김대두": {
    "slug": "김대두",
@@ -55,42 +55,42 @@
    "firstSeen": 1795103191.8502982,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "박하나": {
    "slug": "박하나",
    "firstSeen": 1795103191.8502982,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "amd": {
    "slug": "amd",
    "firstSeen": 1795103400.0,
    "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "엔화": {
    "slug": "엔화",
    "firstSeen": 1795100400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "kt wiz": {
    "slug": "kt-wiz",
    "firstSeen": 1795107180.0004804,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "플라비오 코볼리": {
    "slug": "플라비오-코볼리",
    "firstSeen": 1795102800.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
   },
   "회계사": {
    "slug": "회계사",
@@ -104,7 +104,7 @@
    "firstSeen": 1795110406.6863134,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795110406.6863134
+   "lastSeen": 1795117956.9276838
   },
   "anthropic stock": {
    "slug": "anthropic-stock",
@@ -118,7 +118,14 @@
    "firstSeen": 1795109400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795113937.876253
+   "lastSeen": 1795117956.9276838
+  },
+  "천위페이": {
+   "slug": "천위페이",
+   "firstSeen": 1795111200.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795117956.9276838
   }
  }
 }

@@ -1,40 +1,66 @@
 {
- "generatedAt": 1795113938,
+ "generatedAt": 1795117957,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "앤트로픽 주가",
-   "slug": "앤트로픽-주가",
+   "keyword": "천위페이",
+   "slug": "천위페이",
+   "traffic": 2000,
+   "startedAt": 1795111200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/19/MVQTCNTDGYYDOYZSME2DONDDGA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "앤트로픽",
+   "slug": "앤트로픽",
    "traffic": 2000,
    "startedAt": 1795098000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"앤트로픽 기관투자자 절반이상 물량 못받아…美위주 배정\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120001400072",
+     "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "앤트로픽, 111.5달러에 거래 시작…시총 2조달러 달성",
+     "url": "https://www.yna.co.kr/view/AKR20261120003100091",
      "source": "연합뉴스"
     },
     {
      "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
      "source": "연합인포맥스"
-    },
-    {
-     "title": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장",
-     "url": "https://www.khan.co.kr/article/202611192045005",
-     "source": "경향신문"
     }
    ]
   },
   {
-   "rank": 2,
+   "rank": 3,
    "keyword": "습관",
    "slug": "습관",
    "traffic": 1000,
    "startedAt": 1795099200.0,
-   "change": "up",
+   "change": "down",
    "diff": 1,
    "news": [
     {
@@ -55,12 +81,12 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 4,
    "keyword": "kt wiz",
    "slug": "kt-wiz",
    "traffic": 500,
    "startedAt": 1795099800.0,
-   "change": "up",
+   "change": "down",
    "diff": 1,
    "news": [
     {
@@ -81,13 +107,13 @@
    ]
   },
   {
-   "rank": 4,
+   "rank": 5,
    "keyword": "웹툰",
    "slug": "웹툰",
    "traffic": 200,
    "startedAt": 1795109400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
@@ -107,13 +133,13 @@
    ]
   },
   {
-   "rank": 5,
+   "rank": 6,
    "keyword": "amd",
    "slug": "amd",
    "traffic": 200,
    "startedAt": 1795103400.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "Problems at AMD (AMD)",
@@ -121,25 +147,25 @@
      "source": "Hunterbrook"
     },
     {
-     "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
-     "url": "https://www.tokenpost.com/news/investing/61491",
-     "source": "www.tokenpost.com"
+     "title": "Hunterbrook Says It’s Not Just NVIDIA, ‘AMD Has A China Problem Of Its Own,’ With AMD Firmware Now Traced To Blacklisted IEIT Servers",
+     "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
+     "source": "Wccftech"
     },
     {
-     "title": "Why are AMD and Broadcom stocks falling in premarket trading on Monday?",
-     "url": "https://invezz.com/en-ae/news/2026/11/16/why-are-amd-and-broadcom-stocks-falling-in-premarket-trading-on-monday/",
-     "source": "Invezz"
+     "title": "AMD Stock Dives 15% Over Shortseller Report Alleging Export Control Violations to China, Rebounds Later",
+     "url": "https://www.techpowerup.com/355036/amd-stock-dives-15-over-shortseller-report-alleging-export-control-violations-to-china-rebounds-later",
+     "source": "TechPowerUp"
     }
    ]
   },
   {
-   "rank": 6,
+   "rank": 7,
    "keyword": "플라비오 코볼리",
    "slug": "플라비오-코볼리",
    "traffic": 200,
    "startedAt": 1795102800.0,
-   "change": "up",
-   "diff": 2,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
@@ -159,7 +185,7 @@
    ]
   },
   {
-   "rank": 7,
+   "rank": 8,
    "keyword": "엔화",
    "slug": "엔화",
    "traffic": 200,
@@ -185,7 +211,7 @@
    ]
   },
   {
-   "rank": 8,
+   "rank": 9,
    "keyword": "프로게이머",
    "slug": "프로게이머",
    "traffic": 200,
@@ -199,40 +225,14 @@
      "source": "중도일보"
     },
     {
-     "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
-     "url": "http://newstoktok.com/article.php?aid=27315247155",
+     "title": "호남대 앵커사업단, ‘2026 호남 e스포츠 시리즈’ 성료",
+     "url": "http://m.newstoktok.com/article.php?aid=27184892173",
      "source": "톡톡뉴스"
     },
     {
      "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539",
      "source": "웹이코노미"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "회계사",
-   "slug": "회계사",
-   "traffic": 100,
-   "startedAt": 1795099200.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "한국만의 독특한 감사인 지정제…감사품질 높였나",
-     "url": "https://core.asiae.co.kr/article/2026111915554393113",
-     "source": "아시아경제"
-    },
-    {
-     "title": "최운열 한공회장 “지정감사 끝나자 가격경쟁 재점화…품질로 경쟁해야” [시그널]",
-     "url": "https://www.sedaily.com/article/20116635",
-     "source": "서울경제"
-    },
-    {
-     "title": "최운열 한공회장, 세계에 신외감법 성과 알려…\"韓 회계투명성 껑충\"",
-     "url": "https://www.news1.kr/finance/general-stock/6360144",
-     "source": "뉴스1"
     }
    ]
   },
@@ -251,14 +251,14 @@
      "source": "연합뉴스"
     },
     {
-     "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
-     "source": "스포츠동아"
-    },
-    {
      "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
      "url": "https://www.mk.co.kr/news/culture/12213951",
      "source": "매일경제"
+    },
+    {
+     "title": "박하나·김태술 부부, 결혼 1년 만에 부모 된다…쌍둥이 임신",
+     "url": "https://www.newspim.com/news/view/20261119001307",
+     "source": "뉴스핌"
     }
    ]
   }
