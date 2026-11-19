@@ -2,9 +2,9 @@
  "keyword": "kt wiz",
  "slug": "kt-wiz",
  "firstSeen": 1795099800.0,
- "lastSeen": 1795117956.9276838,
+ "lastSeen": 1795120952.2531898,
  "peakRank": 3,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795107180,
@@ -25,6 +25,11 @@
    1795117957,
    4,
    500
+  ],
+  [
+   1795120952,
+   3,
+   1000
   ]
  ],
  "news": [

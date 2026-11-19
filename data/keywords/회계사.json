@@ -2,17 +2,37 @@
  "keyword": "회계사",
  "slug": "회계사",
  "firstSeen": 1795099200.0,
- "lastSeen": 1795113937.876253,
- "peakRank": 9,
- "peakTraffic": 100,
+ "lastSeen": 1795120952.2531898,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795107180,
    9,
    100
+  ],
+  [
+   1795120952,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "A Hunt for Test Cheats With Phone Alerts and Eyeglasses Checks",
+   "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+   "source": "The New York Times"
+  },
+  {
+   "title": "In South Korea's make-or-break college exam, even a shirt button can raise suspicion",
+   "url": "https://www.reuters.com/world/asia-pacific/south-koreas-make-or-break-college-exam-even-shirt-button-can-raise-suspicion-2026-11-19/",
+   "source": "Reuters"
+  },
+  {
+   "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+   "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+   "source": "The Guardian"
+  },
   {
    "title": "한국만의 독특한 감사인 지정제…감사품질 높였나",
    "url": "https://core.asiae.co.kr/article/2026111915554393113",
@@ -53,6 +73,7 @@
   "2026-11-20"
  ],
  "related": [
+  "천위페이",
   "웹툰",
   "앤트로픽",
   "anthropic-stock",
