@@ -2,7 +2,7 @@
  "keyword": "지방세",
  "slug": "지방세",
  "firstSeen": 1795122600.0,
- "lastSeen": 1795127310.8833637,
+ "lastSeen": 1795130463.4447408,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,24 @@
    1795127311,
    8,
    100
+  ],
+  [
+   1795130463,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "안산시, 세금 79억8천만 원 체납 203명 홈피에 공개",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041441",
+   "source": "기호일보"
+  },
+  {
+   "title": "‘아! 이 사람이었어?’…서울시가 공개한 올해 지방세 고액체납자 1위는...",
+   "url": "https://www.munhwa.com/article/11632635",
+   "source": "문화일보"
+  },
   {
    "title": "고액-상습체납자 1년새 29% 늘어 1만3697명",
    "url": "https://www.donga.com/news/Society/article/all/20261118/135050552/2",
@@ -33,6 +48,11 @@
   "2026-11-20"
  ],
  "related": [
+  "weather",
+  "미스터트롯",
+  "대학-순위",
+  "lisa-leave-with-me-featured-in-always-lalisa",
+  "육아휴직",
   "아파트",
   "택시",
   "김연경",

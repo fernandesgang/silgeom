@@ -131,8 +131,8 @@
    "slug": "택시",
    "firstSeen": 1795120200.0,
    "peakRank": 1,
-   "peakTraffic": 2000,
-   "lastSeen": 1795127310.8833637
+   "peakTraffic": 5000,
+   "lastSeen": 1795130463.4447408
   },
   "알렉산더 즈베레프": {
    "slug": "알렉산더-즈베레프",
@@ -181,28 +181,63 @@
    "firstSeen": 1795122600.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795127310.8833637
+   "lastSeen": 1795130463.4447408
   },
   "경제": {
    "slug": "경제",
    "firstSeen": 1795123200.0,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795127310.8833637
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795130463.4447408
   },
   "지방세": {
    "slug": "지방세",
    "firstSeen": 1795122600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795127310.8833637
+   "lastSeen": 1795130463.4447408
   },
   "마우리시오 포체티노": {
    "slug": "마우리시오-포체티노",
    "firstSeen": 1795121400.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795127310.8833637
+   "lastSeen": 1795130463.4447408
+  },
+  "weather": {
+   "slug": "weather",
+   "firstSeen": 1795124400.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795130463.4447408
+  },
+  "미스터트롯": {
+   "slug": "미스터트롯",
+   "firstSeen": 1795124400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795130463.4447408
+  },
+  "대학 순위": {
+   "slug": "대학-순위",
+   "firstSeen": 1795125600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795130463.4447408
+  },
+  "lisa leave with me (featured in always lalisa)": {
+   "slug": "lisa-leave-with-me-featured-in-always-lalisa",
+   "firstSeen": 1795125000.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795130463.4447408
+  },
+  "육아휴직": {
+   "slug": "육아휴직",
+   "firstSeen": 1795123800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795130463.4447408
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795127311,
+ "generatedAt": 1795130463,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "아파트",
    "traffic": 5000,
    "startedAt": 1795122600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -17,14 +17,14 @@
      "source": "경향신문"
     },
     {
-     "title": "같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석]",
-     "url": "https://www.hankyung.com/article/202611172505Q",
-     "source": "한국경제"
+     "title": "아파트값 하락세 '한강벨트'로‥외곽은 엇갈려",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867135_37012.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "서울 아파트값 93주째 상승에도 오름폭 축소‥하락 지역 확대",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6866925_36932.html",
-     "source": "MBC 뉴스"
+     "title": "KB부동산 \"강남 3구 이어 용산구도 하락 전환…동탄구 0.87%↑\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445574",
+     "source": "연합인포맥스"
     }
    ]
   },
@@ -32,166 +32,192 @@
    "rank": 2,
    "keyword": "택시",
    "slug": "택시",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795120200.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
-     "source": "주간조선"
+     "title": "강원 영월서 SUV-택시 충돌‥3명 사상",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6867129_36918.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
-     "source": "SBS 뉴스"
+     "title": "[속보]강원 영월군 국도서 중앙선 넘은 택시 SUV와 충돌 2명 사망",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261120.99099006367",
+     "source": "국제신문"
     },
     {
-     "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
-     "source": "연합뉴스TV"
+     "title": "영월 38번 국도서 택시가 중앙선 넘어 충돌…2명 사망 : 사회",
+     "url": "https://news.jkn.co.kr/post/1108722",
+     "source": "재경일보"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "김연경",
-   "slug": "김연경",
+   "keyword": "weather",
+   "slug": "weather",
    "traffic": 2000,
-   "startedAt": 1795119000.0,
-   "change": "same",
+   "startedAt": 1795124400.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[포토]'다시 시작한 배구, 살맛납니다!' 표승주 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111918234413089",
-     "source": "머니투데이"
+     "title": "The worst weather in Monterey County may be over, but rain will continue",
+     "url": "https://www.montereyherald.com/2026/11/19/the-worst-weather-in-monterey-county-may-be-over-but-rain-will-continue/",
+     "source": "Monterey Herald"
     },
     {
-     "title": "[한번에쓱]인생역전은 지금부터 '거미같은 리베로의 수비력을 보여줄게요!' 흥국 고민지 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111918543178586",
-     "source": "머니투데이"
+     "title": "Big Sur Hwy 1, SR 9 in Santa Cruz closed",
+     "url": "https://www.ktvu.com/video/fmc-qy3zmqo68lzubtrj",
+     "source": "KTVU"
     },
     {
-     "title": "[한번에쓱]'다시 시작한 배구, 살맛납니다!' 핑크스파이더 표승주",
-     "url": "https://www.starnewskorea.com/sports/2026/11/19/2026111918234413089",
-     "source": "스타뉴스"
+     "title": "Caltrans closes 35-mile stretch of Highway 1",
+     "url": "https://www.yourcentralvalley.com/news/california/highway-1-big-sur-closed/",
+     "source": "YourCentralValley.com"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "알렉산더 즈베레프",
-   "slug": "알렉산더-즈베레프",
+   "keyword": "경제",
+   "slug": "경제",
    "traffic": 1000,
-   "startedAt": 1795119000.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795123200.0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
-     "url": "https://mobile.newsis.com/photo/NISI20261118_0002294924",
-     "source": "뉴시스"
+     "title": "\"기업 이익, R&D 재투자 우선\"... 국민 55.7% 성과급보다 성장 [시장경제-리얼미터 여론조사]",
+     "url": "https://www.meconomynews.com/news/articleView.html?idxno=203918",
+     "source": "시장경제신문"
     },
     {
-     "title": "테니스 세계 1위 츠베레프, 셸턴 꺾고 ATP 파이널스 4강 선착",
-     "url": "https://www.news1.kr/sports/general-sport/6357509",
-     "source": "뉴스1"
+     "title": "대전창조경제혁신센터, 스타트업 6개사 우즈베키스탄 시장 진출 지원…중앙아시아 진출 교두보 마련",
+     "url": "https://www.etnews.com/20261119000140",
+     "source": "전자신문"
     },
     {
-     "title": "[테니스] ATP 파이널스 조별리그 결과",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755289",
+     "title": "서울 초격차 스타트업·대중견기업 50여곳 밋업…협업 방안 논의",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756426",
      "source": "국제뉴스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "경제",
-   "slug": "경제",
+   "keyword": "미스터트롯",
+   "slug": "미스터트롯",
    "traffic": 500,
-   "startedAt": 1795123200.0,
+   "startedAt": 1795124400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "北, 라오스와 경제·무역·과학 협력 논의…당·정 교류 이어",
-     "url": "https://www.yna.co.kr/view/AKR20261120015000504",
-     "source": "연합뉴스"
+     "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+     "url": "https://www.mk.co.kr/news/musics/12211506",
+     "source": "매일경제"
     },
     {
-     "title": "[AI로 읽는 노동신문] 11월 20일(금)",
-     "url": "https://www.newspim.com/news/view/20261120000053",
-     "source": "뉴스핌"
+     "title": "‘미스터트롯3’ TOP7 콘서트 성료…서울서 투어 마무리 : 연예",
+     "url": "https://news.jkn.co.kr/post/1108804",
+     "source": "재경일보"
     },
     {
-     "title": "라오스 정부 대표단 평양 도착…北과 경제·무역 협력 논의",
-     "url": "https://www.news1.kr/photos/8219491",
-     "source": "뉴스1"
+     "title": "'미스터트롯3' TOP7 콘서트, 눈물의 피날레…완전체 꽃피울 '다시, 우리' 기약하며 (MHN현장)[종합]",
+     "url": "https://mhnse.com/news/articleView.html?idxno=1700829",
+     "source": "MHN스포츠"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "축구 감독",
-   "slug": "축구-감독",
+   "keyword": "대학 순위",
+   "slug": "대학-순위",
    "traffic": 200,
-   "startedAt": 1795117800.0,
-   "change": "up",
-   "diff": 2,
+   "startedAt": 1795125600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
-     "url": "https://www.chosun.com/sports/football/2026/11/19/IMTHHH2XRBGUDDXWFULQ65XX6I/",
-     "source": "조선일보"
+     "title": "모나쉬 대학교는 지속가능성 분야에서 세계 21위를 차지했습니다.",
+     "url": "https://www.vietnam.vn/ko/dai-hoc-monash-dung-thu-21-the-gioi-ve-phat-trien-ben-vung",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
-     "source": "MBC 뉴스"
+     "title": "인천대, QS 세계대학 지속가능성 평가 2년 연속 상승…국내 25위",
+     "url": "https://www.kyeonggi.com/article/20261118580262",
+     "source": "경기일보"
     },
     {
-     "title": "96라인 갈등에 침체된 국대…‘이강인 친구들’이 분위기 바꿨다",
-     "url": "https://www.joongang.co.kr/article/25479997",
-     "source": "중앙일보"
+     "title": "한양대, QS 지속가능성평가 세계 133위…28계단 상승",
+     "url": "https://www.fnnews.com/news/202611191654527119",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "이정현",
-   "slug": "이정현",
-   "traffic": 200,
-   "startedAt": 1795117200.0,
-   "change": "up",
-   "diff": 3,
+   "keyword": "lisa leave with me (featured in always lalisa)",
+   "slug": "lisa-leave-with-me-featured-in-always-lalisa",
+   "traffic": 100,
+   "startedAt": 1795125000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "이정현, 가수로 13년 만에 돌아온다…'테크노 여전사' 내년 초 컴백 예고",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GYZWMY3EMFSWIODEGM2WEODGGA/",
-     "source": "조선일보"
+     "title": "LISA Drops Emotional New Single ‘Leave With Me’ From ‘Always Lalisa’ Movie: Listen",
+     "url": "https://www.billboard.com/music/pop/lisa-new-single-leave-with-me-always-lalisa-movie-watch-video-1236384860/",
+     "source": "Billboard"
     },
     {
-     "title": "이정현, 13년 만의 신곡 녹음 돌입…‘테크노 여전사’도 돌아올까",
-     "url": "https://sports.khan.co.kr/article/202611191728003",
-     "source": "스포츠경향"
+     "title": "BLACKPINK’s Lisa’s New Song Thanks Former Lover for Letting Her Go",
+     "url": "https://zapzee.net/2026/11/19/lisas-leave-with-me-sparks-breakup-song-buzz/",
+     "source": "ZAPZEE"
     },
     {
-     "title": "이정현 194억 병원 건물주도, 애엄마도 아니다…‘테크노 여전사’ 내년 컴백 준비 활활",
-     "url": "https://m.newsen.com/news_view.php?uid=202611191358492110",
-     "source": "뉴스엔"
+     "title": "Watch the 'Always Lalisa' documentary with YouTube Premium on November 18",
+     "url": "https://blog.youtube/culture-and-trends/youtube-premium-always-lalisa-documentary/",
+     "source": "YouTube Official Blog"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "육아휴직",
+   "slug": "육아휴직",
+   "traffic": 100,
+   "startedAt": 1795123800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "임현주, 육아휴직 후 퇴사 논란에 \"내 자리에서 최선 다해\"",
+     "url": "https://www.ytn.co.kr/_sn/0117_202611171034289308",
+     "source": "YTN"
+    },
+    {
+     "title": "'노브라 방송' '안경 뉴스' 임현주 아나, 13년 만에 MBC 떠난다 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111618310346981",
+     "source": "머니투데이"
+    },
+    {
+     "title": "\"두 번 육아휴직 후 먹튀 퇴사? 사실 아냐\"… 임현주 전 아나운서, 작심 해명",
+     "url": "https://www.fnnews.com/news/202611172204230700",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "지방세",
    "slug": "지방세",
    "traffic": 100,
    "startedAt": 1795122600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "고액-상습체납자 1년새 29% 늘어 1만3697명",
@@ -199,30 +225,30 @@
      "source": "동아일보"
     },
     {
-     "title": "[서울] 지방세 체납 1위도 '선박왕' 권혁...정부 \"명단 공개\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611182124381996_005.html",
-     "source": "YTN"
+     "title": "안산시, 세금 79억8천만 원 체납 203명 홈피에 공개",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041441",
+     "source": "기호일보"
     },
     {
-     "title": "[사설] 체납자 엄정 조치로 조세정의 바로 세워야",
-     "url": "https://app.ihalla.com/article.php?aid=1795100400793015043",
-     "source": "한라일보"
+     "title": "‘아! 이 사람이었어?’…서울시가 공개한 올해 지방세 고액체납자 1위는...",
+     "url": "https://www.munhwa.com/article/11632635",
+     "source": "문화일보"
     }
    ]
   },
   {
-   "rank": 9,
+   "rank": 10,
    "keyword": "마우리시오 포체티노",
    "slug": "마우리시오-포체티노",
    "traffic": 100,
    "startedAt": 1795121400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
-     "source": "연합뉴스"
+     "title": "표류하는 맨유… 퍼거슨 이후 감독한테만 1700억 썼다",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/20/LKLFPOHWQZARJLO45OWBXBZGGA/",
+     "source": "조선일보"
     },
     {
      "title": "축구의 묘미는 역시 ‘바이시클킥’",
@@ -230,34 +256,8 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "\"포체티노는 저를 완전히 바꿔놓았습니다\" 손흥민의 가슴 뭉클한 고백 재조명...맨유 구하러 온 새 감독의 특별한 지도력",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/19/HBQTGOJVG5RDOYTBMI3DKOJYGQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "해상 풍력 발전",
-   "slug": "해상-풍력-발전",
-   "traffic": 100,
-   "startedAt": 1795117200.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
-     "source": "전기신문"
-    },
-    {
-     "title": "신민호 전남광주시의원 \"해상풍력 조성에 지역기업 참여해야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261118143600054",
+     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
      "source": "연합뉴스"
     }
    ]

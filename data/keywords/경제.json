@@ -2,17 +2,37 @@
  "keyword": "경제",
  "slug": "경제",
  "firstSeen": 1795123200.0,
- "lastSeen": 1795127310.8833637,
- "peakRank": 5,
- "peakTraffic": 500,
+ "lastSeen": 1795130463.4447408,
+ "peakRank": 4,
+ "peakTraffic": 1000,
  "history": [
   [
    1795127311,
    5,
    500
+  ],
+  [
+   1795130463,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "\"기업 이익, R&D 재투자 우선\"... 국민 55.7% 성과급보다 성장 [시장경제-리얼미터 여론조사]",
+   "url": "https://www.meconomynews.com/news/articleView.html?idxno=203918",
+   "source": "시장경제신문"
+  },
+  {
+   "title": "대전창조경제혁신센터, 스타트업 6개사 우즈베키스탄 시장 진출 지원…중앙아시아 진출 교두보 마련",
+   "url": "https://www.etnews.com/20261119000140",
+   "source": "전자신문"
+  },
+  {
+   "title": "서울 초격차 스타트업·대중견기업 50여곳 밋업…협업 방안 논의",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756426",
+   "source": "국제뉴스"
+  },
   {
    "title": "北, 라오스와 경제·무역·과학 협력 논의…당·정 교류 이어",
    "url": "https://www.yna.co.kr/view/AKR20261120015000504",
@@ -33,6 +53,11 @@
   "2026-11-20"
  ],
  "related": [
+  "weather",
+  "미스터트롯",
+  "대학-순위",
+  "lisa-leave-with-me-featured-in-always-lalisa",
+  "육아휴직",
   "아파트",
   "택시",
   "김연경",

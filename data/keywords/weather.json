@@ -2,7 +2,7 @@
  "keyword": "weather",
  "slug": "weather",
  "firstSeen": 1795041000.0,
- "lastSeen": 1795047997.0732815,
+ "lastSeen": 1795130463.4447408,
  "peakRank": 3,
  "peakTraffic": 2000,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "The worst weather in Monterey County may be over, but rain will continue",
+   "url": "https://www.montereyherald.com/2026/11/19/the-worst-weather-in-monterey-county-may-be-over-but-rain-will-continue/",
+   "source": "Monterey Herald"
+  },
+  {
+   "title": "Big Sur Hwy 1, SR 9 in Santa Cruz closed",
+   "url": "https://www.ktvu.com/video/fmc-qy3zmqo68lzubtrj",
+   "source": "KTVU"
+  },
+  {
+   "title": "Caltrans closes 35-mile stretch of Highway 1",
+   "url": "https://www.yourcentralvalley.com/news/california/highway-1-big-sur-closed/",
+   "source": "YourCentralValley.com"
+  },
   {
    "title": "How El Niño contributed to historic Brevard County flooding | El Niño Week",
    "url": "https://www.wesh.com/article/el-nino-brevard-county-flooding/74438133",
@@ -30,9 +45,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "related": [
+  "아파트",
+  "택시",
+  "경제",
+  "미스터트롯",
+  "대학-순위",
+  "lisa-leave-with-me-featured-in-always-lalisa",
+  "육아휴직",
+  "지방세",
+  "마우리시오-포체티노",
   "수능-시작",
   "관광",
   "nz-vs-ind",

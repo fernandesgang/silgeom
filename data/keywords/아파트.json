@@ -2,7 +2,7 @@
  "keyword": "아파트",
  "slug": "아파트",
  "firstSeen": 1795122600.0,
- "lastSeen": 1795127310.8833637,
+ "lastSeen": 1795130463.4447408,
  "peakRank": 1,
  "peakTraffic": 5000,
  "history": [
@@ -13,6 +13,16 @@
   ]
  ],
  "news": [
+  {
+   "title": "아파트값 하락세 '한강벨트'로‥외곽은 엇갈려",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867135_37012.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "KB부동산 \"강남 3구 이어 용산구도 하락 전환…동탄구 0.87%↑\"",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445574",
+   "source": "연합인포맥스"
+  },
   {
    "title": "‘한강벨트’ 용산·동작도 집값 하락",
    "url": "https://www.khan.co.kr/article/202611192049035",
@@ -33,6 +43,11 @@
   "2026-11-20"
  ],
  "related": [
+  "weather",
+  "미스터트롯",
+  "대학-순위",
+  "lisa-leave-with-me-featured-in-always-lalisa",
+  "육아휴직",
   "택시",
   "김연경",
   "알렉산더-즈베레프",

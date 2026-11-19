@@ -2,7 +2,7 @@
  "keyword": "마우리시오 포체티노",
  "slug": "마우리시오-포체티노",
  "firstSeen": 1795036200.0,
- "lastSeen": 1795127310.8833637,
+ "lastSeen": 1795130463.4447408,
  "peakRank": 9,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,19 @@
    1795040784,
    9,
    100
+  ],
+  [
+   1795130463,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "표류하는 맨유… 퍼거슨 이후 감독한테만 1700억 썼다",
+   "url": "https://www.chosun.com/sports/world-football/2026/11/20/LKLFPOHWQZARJLO45OWBXBZGGA/",
+   "source": "조선일보"
+  },
   {
    "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
    "url": "https://www.yna.co.kr/view/AKR20261119020100007",
@@ -49,6 +59,11 @@
   "2026-11-20"
  ],
  "related": [
+  "weather",
+  "미스터트롯",
+  "대학-순위",
+  "lisa-leave-with-me-featured-in-always-lalisa",
+  "육아휴직",
   "아파트",
   "택시",
   "김연경",
@@ -63,9 +78,6 @@
   "kbo-리그",
   "롯데-자이언츠",
   "안세영",
-  "영화",
-  "오현규",
-  "미사일",
-  "3기신도시-남양주-왕숙지구"
+  "영화"
  ]
 }

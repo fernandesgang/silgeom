@@ -2,9 +2,9 @@
  "keyword": "택시",
  "slug": "택시",
  "firstSeen": 1795032600.0,
- "lastSeen": 1795127310.8833637,
+ "lastSeen": 1795130463.4447408,
  "peakRank": 1,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795037251,
@@ -20,9 +20,29 @@
    1795127311,
    2,
    2000
+  ],
+  [
+   1795130463,
+   2,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "강원 영월서 SUV-택시 충돌‥3명 사상",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6867129_36918.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "[속보]강원 영월군 국도서 중앙선 넘은 택시 SUV와 충돌 2명 사망",
+   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261120.99099006367",
+   "source": "국제신문"
+  },
+  {
+   "title": "영월 38번 국도서 택시가 중앙선 넘어 충돌…2명 사망 : 사회",
+   "url": "https://news.jkn.co.kr/post/1108722",
+   "source": "재경일보"
+  },
   {
    "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
@@ -54,6 +74,11 @@
   "2026-11-20"
  ],
  "related": [
+  "weather",
+  "미스터트롯",
+  "대학-순위",
+  "lisa-leave-with-me-featured-in-always-lalisa",
+  "육아휴직",
   "아파트",
   "경제",
   "지방세",
@@ -68,11 +93,6 @@
   "해상-풍력-발전",
   "이정현",
   "삼전-닉스",
-  "한화-이글스",
-  "한화오션",
-  "김정은",
-  "레인보우로보틱스",
-  "자영업",
-  "gta6-프레임"
+  "한화-이글스"
  ]
 }
