@@ -727,14 +727,14 @@
    "firstSeen": 1795074000.0,
    "peakRank": 1,
    "peakTraffic": 50000,
-   "lastSeen": 1795080072.5991697
+   "lastSeen": 1795084288.8721113
   },
   "수능 등급컷": {
    "slug": "수능-등급컷",
    "firstSeen": 1795074000.0,
    "peakRank": 2,
-   "peakTraffic": 2000,
-   "lastSeen": 1795080072.5991697
+   "peakTraffic": 10000,
+   "lastSeen": 1795084288.8721113
   },
   "수능 끝": {
    "slug": "수능-끝",
@@ -762,7 +762,56 @@
    "firstSeen": 1795074000.0,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795080072.5991697
+   "lastSeen": 1795084288.8721113
+  },
+  "사건": {
+   "slug": "사건",
+   "firstSeen": 1795077000.0,
+   "peakRank": 2,
+   "peakTraffic": 10000,
+   "lastSeen": 1795084288.8721113
+  },
+  "시험장": {
+   "slug": "시험장",
+   "firstSeen": 1795074600.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795084288.8721113
+  },
+  "국어 시험지": {
+   "slug": "국어-시험지",
+   "firstSeen": 1795080000.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795084288.8721113
+  },
+  "셀트리온": {
+   "slug": "셀트리온",
+   "firstSeen": 1795078800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795084288.8721113
+  },
+  "fifa 랭킹": {
+   "slug": "fifa-랭킹",
+   "firstSeen": 1795078800.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795084288.8721113
+  },
+  "sri lanka vs pakistan": {
+   "slug": "sri-lanka-vs-pakistan",
+   "firstSeen": 1795077600.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795084288.8721113
+  },
+  "lg디스플레이": {
+   "slug": "lg디스플레이",
+   "firstSeen": 1795078800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795084288.8721113
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "사건",
+ "slug": "사건",
+ "firstSeen": 1795077000.0,
+ "lastSeen": 1795084288.8721113,
+ "peakRank": 2,
+ "peakTraffic": 10000,
+ "history": [
+  [
+   1795084289,
+   2,
+   10000
+  ]
+ ],
+ "news": [
+  {
+   "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
+   "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
+   "source": "조선일보"
+  },
+  {
+   "title": "[속보] 대법, 한덕수 구속기간 연장 결정…2개월 늘어",
+   "url": "https://news.jtbc.co.kr/article/NB12328879",
+   "source": "JTBC"
+  },
+  {
+   "title": "[속보] 대법원 \"계엄 선포 전, 국헌문란 목적 증명 어려워\"",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6866990_36918.html",
+   "source": "MBC 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-19"
+ ],
+ "related": [
+  "수능-답지",
+  "수능-등급컷",
+  "시험장",
+  "국어-시험지",
+  "셀트리온",
+  "fifa-랭킹",
+  "sri-lanka-vs-pakistan",
+  "lg디스플레이",
+  "라미란"
+ ]
+}
