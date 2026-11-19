@@ -2,17 +2,27 @@
  "keyword": "lg디스플레이",
  "slug": "lg디스플레이",
  "firstSeen": 1795078800.0,
- "lastSeen": 1795084288.8721113,
- "peakRank": 9,
- "peakTraffic": 100,
+ "lastSeen": 1795087673.3095698,
+ "peakRank": 7,
+ "peakTraffic": 200,
  "history": [
   [
    1795084289,
    9,
    100
+  ],
+  [
+   1795087673,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "LG디스플레이 중·대형 사업부 통합…새 CFO에 이정희 전무",
+   "url": "https://www.etnews.com/20261119000405",
+   "source": "전자신문"
+  },
   {
    "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
    "url": "https://www.hankyung.com/article/202611197955g",
@@ -33,6 +43,12 @@
   "2026-11-19"
  ],
  "related": [
+  "안양-정관장-대-부산-kcc",
+  "김다현",
+  "데프트",
+  "수원-kt-대-서울-sk",
+  "bangladesh-vs-south-africa",
+  "수험표-할인",
   "수능-답지",
   "사건",
   "수능-등급컷",

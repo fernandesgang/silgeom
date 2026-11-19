@@ -1,145 +1,119 @@
 {
- "generatedAt": 1795084289,
+ "generatedAt": 1795087673,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "수능 답지",
-   "slug": "수능-답지",
-   "traffic": 50000,
-   "startedAt": 1795074000.0,
-   "change": "same",
+   "keyword": "안양 정관장 대 부산 kcc",
+   "slug": "안양-정관장-대-부산-kcc",
+   "traffic": 1000,
+   "startedAt": 1795081800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "수능 수학, 난이도 작년과 비슷…“중·상위권 변별력 확보”",
-     "url": "https://www.hani.co.kr/arti/society/schooling/1288146.html",
-     "source": "한겨레"
+     "title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 \"변준형 발목, 박지훈 허리 부담\"",
+     "url": "https://www.newspim.com/news/view/20261119001422",
+     "source": "뉴스핌"
     },
     {
-     "title": "국어·영어 쉬워지고 수학은 비슷…수학·탐구 변별력 커질 듯",
-     "url": "https://www.khan.co.kr/article/202611191903011",
-     "source": "경향신문"
+     "title": "[스경X현장]‘독감’ 정관장 문유현, 대표팀 합류도 미룬다",
+     "url": "https://sports.khan.co.kr/article/202611191849003",
+     "source": "스포츠경향"
     },
     {
-     "title": "[수능] EBS \"영어, 작년 수능보다 쉽고 9월 모평보다 어려워\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119161700530",
-     "source": "연합뉴스"
+     "title": "[부상] ‘감기 증세’ 정관장 문유현, DB전 이어 KCC전도 결장···男대표팀은 정상 합류",
+     "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065602737425283",
+     "source": "점프볼"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "사건",
-   "slug": "사건",
-   "traffic": 10000,
-   "startedAt": 1795077000.0,
+   "keyword": "김다현",
+   "slug": "김다현",
+   "traffic": 500,
+   "startedAt": 1795083000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
-     "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
-     "source": "조선일보"
+     "title": "‘가요무대’ 미스김 ‘황홀무대’",
+     "url": "https://sports.khan.co.kr/article/202611171459003",
+     "source": "스포츠경향"
     },
     {
-     "title": "[속보] 대법, 한덕수 구속기간 연장 결정…2개월 늘어",
-     "url": "https://news.jtbc.co.kr/article/NB12328879",
-     "source": "JTBC"
+     "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917",
+     "source": "국제뉴스"
     },
     {
-     "title": "[속보] 대법원 \"계엄 선포 전, 국헌문란 목적 증명 어려워\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866990_36918.html",
-     "source": "MBC 뉴스"
+     "title": "[단독]인기 가수 윤태화 KSB 가요무대 큰 감동 선사 16일 방송",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=325926",
+     "source": "더퍼블릭"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "수능 등급컷",
-   "slug": "수능-등급컷",
-   "traffic": 10000,
-   "startedAt": 1795074000.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "데프트",
+   "slug": "데프트",
+   "traffic": 500,
+   "startedAt": 1795082400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "올해 수능 가채점부터 대학 합격 예측까지…'입시캐스트' 오픈 - 머니투데이",
-     "url": "https://www.mt.co.kr/future/2026/11/19/2026111916281482762",
-     "source": "머니투데이"
+     "title": "'중꺾마' 주인공 '데프트' 김혁규가 돌아왔다… 농심 입단",
+     "url": "https://www.dailyesports.com/view.php?ud=20261119191919733974bcc1e038_27",
+     "source": "데일리e스포츠"
     },
     {
-     "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
-     "url": "https://zdnet.co.kr/view/?no=20261119172357",
-     "source": "지디넷코리아"
+     "title": "[단독] '데프트' 김혁규 \"농심의 진심에 합류 결심, 독기 품고 할 것\" (인터뷰)",
+     "url": "https://www.xportsnews.com/article/2221223",
+     "source": "www.xportsnews.com"
     },
     {
-     "title": "수능 이후 대학입시 대비전략은?[2027 수능]",
-     "url": "https://www.newsis.com/view/NISX20261119_0003875583",
-     "source": "뉴시스"
+     "title": "[오피셜] 돌아온 '데프트', 농심에서 LCK 복귀",
+     "url": "https://www.inven.co.kr/webzine/news/?news=323613",
+     "source": "인벤"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "시험장",
-   "slug": "시험장",
-   "traffic": 1000,
-   "startedAt": 1795074600.0,
+   "keyword": "수원 kt 대 서울 sk",
+   "slug": "수원-kt-대-서울-sk",
+   "traffic": 500,
+   "startedAt": 1795082400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "따뜻한 응원 속 수험생들 입실...경찰·소방 구조도",
-     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611191600559677&s_hcd=",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "[수능] 전북소방본부, 건강 이상 수험생 52명 현장 응급처치",
-     "url": "https://www.yna.co.kr/view/AKR20261119167400055",
+     "title": "◇오늘의 경기(19일)",
+     "url": "https://www.yna.co.kr/view/AKR20261118190800007",
      "source": "연합뉴스"
     },
     {
-     "title": "“준비해 온 대로 차분히 풀어가길”…이천시의회, 수능 시험장 방문 격려",
-     "url": "https://www.kyeonggi.com/article/20261119580510",
-     "source": "경기일보"
+     "title": "[사진]김낙현, 침착하게 레이업슛",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/19/MMYTMNLBHA2DMYJQGU2WEMBSGQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[사진]워니, 3점슛으로 역전 성공 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/202611191908772813O",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "국어 시험지",
-   "slug": "국어-시험지",
-   "traffic": 500,
-   "startedAt": 1795080000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“수능 국영수 풀어라” AI 명령하니…챗GPT 10분도 안돼 만점 [팩플]",
-     "url": "https://www.joongang.co.kr/article/25480229",
-     "source": "중앙일보"
-    },
-    {
-     "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
-     "url": "https://news.jtbc.co.kr/article/NB12328837",
-     "source": "JTBC"
-    },
-    {
-     "title": "제미나이 20~30초 만에… 수능 국어·수학 만점",
-     "url": "https://www.chosun.com/national/national_general/2026/11/19/VKGHUPNIABAFVAHCIKEKZSQBXE/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "셀트리온",
    "slug": "셀트리온",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795078800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
@@ -159,13 +133,13 @@
    ]
   },
   {
-   "rank": 7,
+   "rank": 6,
    "keyword": "fifa 랭킹",
    "slug": "fifa-랭킹",
    "traffic": 200,
    "startedAt": 1795078800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
@@ -185,80 +159,106 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "sri lanka vs pakistan",
-   "slug": "sri-lanka-vs-pakistan",
-   "traffic": 200,
-   "startedAt": 1795077600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
-     "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom",
-     "source": "Cricbuzz"
-    },
-    {
-     "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
-     "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
-     "source": "Yeni Safak English"
-    },
-    {
-     "title": "Sri Lanka on verge of embarrassing double blow following 'costly' WTC deductions",
-     "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-sri-lanka-pakistan-match-report-scores/vrk38s6oex4714r5n0yi159cg",
-     "source": "Fox Sports"
-    }
-   ]
-  },
-  {
-   "rank": 9,
+   "rank": 7,
    "keyword": "lg디스플레이",
    "slug": "lg디스플레이",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795078800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
-    {
-     "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
-     "url": "https://www.hankyung.com/article/202611197955g",
-     "source": "한국경제"
-    },
     {
      "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360",
      "source": "마켓인"
     },
     {
-     "title": "LG디스플레이, 전무 6명·상무 11명 승진…사업부 2개로 재편",
-     "url": "https://www.yna.co.kr/view/AKR20261119143900003",
-     "source": "연합뉴스"
+     "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
+     "url": "https://www.hankyung.com/article/202611197955g",
+     "source": "한국경제"
+    },
+    {
+     "title": "LG디스플레이 중·대형 사업부 통합…새 CFO에 이정희 전무",
+     "url": "https://www.etnews.com/20261119000405",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "sri lanka vs pakistan",
+   "slug": "sri-lanka-vs-pakistan",
+   "traffic": 200,
+   "startedAt": 1795077600.0,
+   "change": "same",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Pakistan close on victory as Sri Lanka reach 167-5 at lunch",
+     "url": "https://www.afp.com/en/pakistan-close-victory-sri-lanka-reach-167-5-lunch",
+     "source": "AFP.com"
+    },
+    {
+     "title": "Kusal Mendis departs after fifty as Sri Lanka take 14-run lead against Pakistan in second Test",
+     "url": "https://www.dawn.com/news/2045665/aamer-jamal-razaullah-strike-for-pakistan-as-sri-lanka-lose-two-wickets-early-on-day-three-of-second-test",
+     "source": "Dawn"
+    },
+    {
+     "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 2nd Test | ESPN.com",
+     "url": "https://www.espn.com/cricket/series/19430/report/1550712/day/3/pakistan-vs-sri-lanka-2nd-test-19430",
+     "source": "ESPN"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "bangladesh vs south africa",
+   "slug": "bangladesh-vs-south-africa",
+   "traffic": 100,
+   "startedAt": 1795082400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
+     "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report-5",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Mahmud: We couldn't create pressure against South Africa's tailenders",
+     "url": "https://www.cricbuzz.com/cricket-news/140963/mahmud-we-couldnt-create-pressure-against-south-africas-tailenders-cricbuzzcom",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "South Africa beats Bangladesh on Day 5 of first cricket test after Harmer shines again",
+     "url": "https://www.wral.com/news/ap/80744-south-africa-beats-bangladesh-on-day-5-of-first-cricket-test-after-harmer-shines-again/",
+     "source": "WRAL"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "라미란",
-   "slug": "라미란",
+   "keyword": "수험표 할인",
+   "slug": "수험표-할인",
    "traffic": 100,
-   "startedAt": 1795074000.0,
-   "change": "same",
+   "startedAt": 1795081200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
-     "url": "https://www.yna.co.kr/view/AKR20261118043900005",
-     "source": "연합뉴스"
+     "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+     "url": "https://www.khan.co.kr/article/202611191716001",
+     "source": "경향신문"
     },
     {
-     "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/",
-     "source": "조선일보"
+     "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
+     "url": "https://www.kyeonggi.com/article/20261118580425",
+     "source": "경기일보"
     },
     {
-     "title": "AI 부정행위 논란 속 고경표가 '최대 수혜자'? [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611181435551476",
-     "source": "YTN"
+     "title": "\"수험표 가져오면 음료 제공\"…세라젬, 체험행사",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875223",
+     "source": "뉴시스"
     }
    ]
   }
