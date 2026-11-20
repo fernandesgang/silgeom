@@ -313,36 +313,36 @@
    "slug": "논현동",
    "firstSeen": 1795133400.0,
    "peakRank": 1,
-   "peakTraffic": 5000,
-   "lastSeen": 1795139356.008994
+   "peakTraffic": 10000,
+   "lastSeen": 1795142452.4190047
   },
   "경기도교육청": {
    "slug": "경기도교육청",
    "firstSeen": 1795135200.0,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795139356.008994
+   "lastSeen": 1795142452.4190047
   },
   "이의리": {
    "slug": "이의리",
    "firstSeen": 1795133400.0,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795139356.008994
+   "lastSeen": 1795142452.4190047
   },
   "유니클로": {
    "slug": "유니클로",
    "firstSeen": 1795133400.0,
    "peakRank": 4,
    "peakTraffic": 1000,
-   "lastSeen": 1795139356.008994
+   "lastSeen": 1795142452.4190047
   },
   "물수리": {
    "slug": "물수리",
    "firstSeen": 1795135200.0,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795139356.008994
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795142452.4190047
   },
   "lpga": {
    "slug": "lpga",
@@ -378,6 +378,41 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795139356.008994
+  },
+  "영장": {
+   "slug": "영장",
+   "firstSeen": 1795135800.0,
+   "peakRank": 1,
+   "peakTraffic": 50000,
+   "lastSeen": 1795142452.4190047
+  },
+  "샌안토니오 대 la 클리퍼스": {
+   "slug": "샌안토니오-대-la-클리퍼스",
+   "firstSeen": 1795136400.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795142452.4190047
+  },
+  "검찰": {
+   "slug": "검찰",
+   "firstSeen": 1795137600.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795142452.4190047
+  },
+  "fc 포항 스틸러스": {
+   "slug": "fc-포항-스틸러스",
+   "firstSeen": 1795136400.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795142452.4190047
+  },
+  "정부": {
+   "slug": "정부",
+   "firstSeen": 1795136400.0,
+   "peakRank": 10,
+   "peakTraffic": 200,
+   "lastSeen": 1795142452.4190047
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "정부",
+ "slug": "정부",
+ "firstSeen": 1795136400.0,
+ "lastSeen": 1795142452.4190047,
+ "peakRank": 10,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795142452,
+   10,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "UN 전자정부평가 결과 관련 브리핑",
+   "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156790048",
+   "source": "대한민국 정책브리핑"
+  },
+  {
+   "title": "한국, 유엔 전자정부평가서 12년 만에 세계 1위 탈환",
+   "url": "https://www.khan.co.kr/article/202611200956001",
+   "source": "경향신문"
+  },
+  {
+   "title": "李대통령, 전자정부 1위 탈환에 \"국민 체감이 중요…개인정보보호 철저\"",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445734",
+   "source": "연합인포맥스"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "영장",
+  "논현동",
+  "물수리",
+  "경기도교육청",
+  "이의리",
+  "유니클로",
+  "샌안토니오-대-la-클리퍼스",
+  "검찰",
+  "fc-포항-스틸러스"
+ ]
+}
