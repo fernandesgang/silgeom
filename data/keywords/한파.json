@@ -1,0 +1,46 @@
+{
+ "keyword": "한파",
+ "slug": "한파",
+ "firstSeen": 1795200600.0,
+ "lastSeen": 1795207085.190639,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795207085,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "'수능 한파' 주말까지 더 심해진다...호남·제주 대설주의보",
+   "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611201102112705",
+   "source": "YTN 사이언스"
+  },
+  {
+   "title": "[내일날씨] 아침 최저 영하 6도 추위…충청·전라 곳곳 눈",
+   "url": "https://edata.ekn.kr/article/view/ekn202611190008",
+   "source": "기후에너지데이터뱅크"
+  },
+  {
+   "title": "수능 한파에 서해안 대설까지…내일까지 최대 10cm",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8717555",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
+  "장윤정",
+  "알아흘리-사우디-대-알나스르",
+  "며느리",
+  "트럼프",
+  "al-ahli-vs-al-nassr",
+  "riemann-hypothesis",
+  "변상-일",
+  "fear-and-greed"
+ ]
+}

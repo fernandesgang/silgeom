@@ -1,0 +1,46 @@
+{
+ "keyword": "트럼프",
+ "slug": "트럼프",
+ "firstSeen": 1795197000.0,
+ "lastSeen": 1795207085.190639,
+ "peakRank": 6,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795207085,
+   6,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "시진핑은 한창 연설 중인데... 80세 트럼프 꾸벅, 졸았나?",
+   "url": "https://www.chosun.com/international/international_general/2026/11/20/JQSXIBUW7BH7NKQ7UTE7QCIQPM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "트럼프 “한반도 위협 대응 논의”…미·중·러 정상회담 성과 강조",
+   "url": "https://www.voakorea.com/a/trump-press-conference-112026/8226161.html",
+   "source": "VOA 한국어 홈페이지"
+  },
+  {
+   "title": "소문난 잔치 먹을 것 없었다‥'쇼'하러 왔다 간 미중러",
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867373_37004.html",
+   "source": "MBC 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
+  "장윤정",
+  "알아흘리-사우디-대-알나스르",
+  "며느리",
+  "한파",
+  "al-ahli-vs-al-nassr",
+  "riemann-hypothesis",
+  "변상-일",
+  "fear-and-greed"
+ ]
+}

@@ -1,6 +1,18 @@
 {
  "ranks": {
   "india a cricket team vs nepal national cricket team standings": 1,
+  "장윤정": 2,
+  "알아흘리 사우디 대 알나스르": 3,
+  "며느리": 4,
+  "한파": 5,
+  "트럼프": 6,
+  "al-ahli vs al-nassr": 7,
+  "riemann hypothesis": 8,
+  "변상 일": 9,
+  "fear and greed": 10
+ },
+ "prevRanks": {
+  "india a cricket team vs nepal national cricket team standings": 1,
   "부동산": 2,
   "리만가설 증명": 3,
   "알아흘리 사우디 대 알나스르": 4,
@@ -10,16 +22,5 @@
   "riemann hypothesis": 8,
   "세계사 2 번": 9
  },
- "prevRanks": {
-  "india a cricket team vs nepal national cricket team standings": 1,
-  "부동산": 2,
-  "알아흘리 사우디 대 알나스르": 3,
-  "의·치의학교육입문검사": 4,
-  "공포지수": 5,
-  "연준": 6,
-  "오현민": 7,
-  "riemann hypothesis": 8,
-  "세계사 2 번": 9
- },
- "changedAt": 1795204140.8447008
+ "changedAt": 1795207085.190639
 }
