@@ -1,56 +1,56 @@
 {
- "generatedAt": 1795177953,
+ "generatedAt": 1795182658,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "ind-a vs nep",
-   "slug": "ind-a-vs-nep",
+   "keyword": "흥국생명",
+   "slug": "흥국생명",
    "traffic": 2000,
-   "startedAt": 1795168800.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795175400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "India A vs Nepal Live Score, ACC Men's Asia Cup Rising Stars 2026: Tilak Varma, Kumar Kushagra fifties take India out of danger",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-nepal-acc-mens-asia-cup-rising-stars-2026-live-score-match-today-scorecard-result-west-end-park-international-cricket-stadium/liveblog/136018863.cms",
-     "source": "The Times of India"
+     "title": "한국배구연맹·흥국생명, 관중 사망 사고에 애도‥각 구단, 응급 대응 매뉴얼 재점검",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867278_36946.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "Excitel Broadband steps up as Global Sponsor of the DP World Asia Cup Rising Stars 2026",
-     "url": "https://www.medianews4u.com/excitel-broadband-steps-up-as-global-sponsor-of-the-dp-world-asia-cup-rising-stars-2026/",
-     "source": "MediaNews4U"
+     "title": "인천서 여자프로배구 보던 남성...쓰러진 뒤 끝내 숨져",
+     "url": "https://www.kyeonggi.com/article/20261119580667",
+     "source": "경기일보"
     },
     {
-     "title": "Vaibhav Sooryavanshi dismissed for 26 off 32 balls against Nepal in Asia Cup Rising Stars",
-     "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-26-india-a-nepal-asia-cup-rising-stars-2026/article71724092.ece",
-     "source": "Sportstar"
+     "title": "프로배구 관람 중이던 관객 사망에…KOVO·흥국생명 “깊은 애도”",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288319.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "벼",
-   "slug": "벼",
+   "keyword": "이진우 부검",
+   "slug": "이진우-부검",
    "traffic": 2000,
-   "startedAt": 1795168200.0,
+   "startedAt": 1795170600.0,
    "change": "up",
-   "diff": 1,
+   "diff": 2,
    "news": [
     {
-     "title": "벼 수매대금 미지급 논란…농가 피해액 20억원 넘어",
-     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208975",
-     "source": "농업인신문"
+     "title": "'리트 만점자' 타살 흔적 없어...AI 구매 등 확인 주력",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611202137115598",
+     "source": "YTN"
     },
     {
-     "title": "벼 수매대금 미지급 사태 대처할 보호대책 마련해야",
-     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208916",
-     "source": "농업인신문"
+     "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329002",
+     "source": "JTBC"
     },
     {
-     "title": "\"내년 심을 벼종자 신청하세요\"…국립종자원, 정부보급종 보급",
-     "url": "https://www.yna.co.kr/view/AKR20261119055100030",
-     "source": "연합뉴스"
+     "title": "\"한쪽선 쓰레기로 보였어도 좋은 형이었다\" 서울대 치대 동기들 이진우 애도",
+     "url": "https://www.news1.kr/society/general-society/6360360",
+     "source": "뉴스1"
     }
    ]
   },
@@ -60,7 +60,7 @@
    "slug": "국민연금공단",
    "traffic": 1000,
    "startedAt": 1795171200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -82,48 +82,22 @@
   },
   {
    "rank": 4,
-   "keyword": "이진우 부검",
-   "slug": "이진우-부검",
-   "traffic": 1000,
-   "startedAt": 1795170600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329002",
-     "source": "JTBC"
-    },
-    {
-     "title": "리트 만점자 고발인 \"남은 흔적 어떻게든 찾아달라\" 거듭 촉구",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120203808bkQ",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717283",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 5,
    "keyword": "2027 수능 만점자",
    "slug": "2027-수능-만점자",
    "traffic": 1000,
    "startedAt": 1795169400.0,
-   "change": "same",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": []
   },
   {
-   "rank": 6,
+   "rank": 5,
    "keyword": "신영수",
    "slug": "신영수",
    "traffic": 500,
    "startedAt": 1795171800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "한고은♥신영수, 알고 보니 ‘무당♥스님’ 궁합…“자식 없는 사주”",
@@ -143,60 +117,65 @@
    ]
   },
   {
-   "rank": 7,
-   "keyword": "토마스 뮐러",
-   "slug": "토마스-뮐러",
-   "traffic": 500,
-   "startedAt": 1795167600.0,
-   "change": "up",
-   "diff": 1,
+   "rank": 6,
+   "keyword": "홍진경",
+   "slug": "홍진경",
+   "traffic": 200,
+   "startedAt": 1795176600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698852",
-     "source": "인터풋볼"
+     "title": "‘180cm·47kg’ 홍진경, 식단 관리 비법 공개..“과식 줄일 수 있어” (공부왕찐천재)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GY2TOZLEMY3DSYZTHBSDIYTEGQ/",
+     "source": "조선일보"
     },
     {
-     "title": "손흥민과 생각 달랐다…뮐러 소신 발언 “강등 없는 MLS, 목숨 걸고 싸우는 유럽과 수준 달라”",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101041",
-     "source": "포포투"
+     "title": "“14시간 수면” 홍진경, 멜라토닌 과다 복용..김숙 “두들겨 맞았냐” (공부왕찐천재 홍진경)",
+     "url": "https://www.koreadaily.com/article/20261119025005183",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "홍진경, 데뷔 33년째 몸매 관리 비결…아보카도·김 도시락 공개",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135057685/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "대구 fc",
+   "slug": "대구-fc",
+   "traffic": 100,
+   "startedAt": 1795177200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722619",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "이번엔 수원FC 차례…수원 삼성 이어 다이렉트 승격에 도전",
+     "url": "https://sports.donga.com/sports/article/all/20261119/135053547/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "대구FC, 22일 올 시즌 마지막 홈경기…상대는 김해FC",
+     "url": "https://www.imaeil.com/page/view/2026111913255176836",
+     "source": "매일신문"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "초과근무",
-   "slug": "초과근무",
-   "traffic": 200,
-   "startedAt": 1795168800.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "[단독] 82억 특활비 부활시킨 靑, 이번엔 \"초과근무수당 2배 올려달라\"",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html",
-     "source": "뉴데일리"
-    },
-    {
-     "title": "여야, 예결소위서 '국무총리 특활비·규제개혁추진단' 예산 공방(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261117043351001",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "여야, 예결위 예산소위서 총리 특활비 등 공방…野 \"절반 감액해야\" 與 \"식물 총리 하란 것\"",
-     "url": "https://www.newsis.com/view/NISX20261117_0003872286",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
    "keyword": "최미나수",
    "slug": "최미나수",
    "traffic": 100,
    "startedAt": 1795171200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "[사진]윤경호 '대세 배우'",
@@ -204,40 +183,14 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "[사진]엔하이픈 제이크 '왕자님의 여유'",
-     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GIYGKMZYGQ2DSODDG5SDCZLDGI/",
-     "source": "Chosunbiz"
-    },
-    {
      "title": "'2026 MAMA' 간 김혜수, 볼륨 강조한 드레스 자태…'시선 강탈' - 머니투데이",
      "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112019044436645",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "전북특별자치도지사",
-   "slug": "전북특별자치도지사",
-   "traffic": 100,
-   "startedAt": 1795168800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "전북선관위, '현금 지급·미신고 계좌 지출' 도지사 후보 고발",
-     "url": "https://www.yna.co.kr/view/AKR20261120166300055",
-     "source": "연합뉴스"
     },
     {
-     "title": "신고않은 계좌서 선거비용 지출한 도지사 후보…경찰 고발돼",
-     "url": "https://www.nocutnews.co.kr/news/6610457",
-     "source": "노컷뉴스"
-    },
-    {
-     "title": "안성시의회 의장, 선거법 위반 혐의로 검찰 송치…정치자금 논란 확대",
-     "url": "https://www.gokorea.kr/news/articleView.html?idxno=885639",
-     "source": "공감신문"
+     "title": "[사진]리센느 리브 '바람과 함께'",
+     "url": "https://www.osen.co.kr/article/G1112912938",
+     "source": "OSEN"
     }
    ]
   }

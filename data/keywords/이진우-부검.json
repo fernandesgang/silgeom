@@ -2,17 +2,32 @@
  "keyword": "이진우 부검",
  "slug": "이진우-부검",
  "firstSeen": 1795170600.0,
- "lastSeen": 1795177952.5119426,
- "peakRank": 4,
- "peakTraffic": 1000,
+ "lastSeen": 1795182657.6449785,
+ "peakRank": 2,
+ "peakTraffic": 2000,
  "history": [
   [
    1795177953,
    4,
    1000
+  ],
+  [
+   1795182658,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "'리트 만점자' 타살 흔적 없어...AI 구매 등 확인 주력",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611202137115598",
+   "source": "YTN"
+  },
+  {
+   "title": "\"한쪽선 쓰레기로 보였어도 좋은 형이었다\" 서울대 치대 동기들 이진우 애도",
+   "url": "https://www.news1.kr/society/general-society/6360360",
+   "source": "뉴스1"
+  },
   {
    "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
    "url": "https://news.jtbc.co.kr/article/NB12329002",
@@ -33,6 +48,9 @@
   "2026-11-20"
  ],
  "related": [
+  "흥국생명",
+  "홍진경",
+  "대구-fc",
   "ind-a-vs-nep",
   "벼",
   "국민연금공단",

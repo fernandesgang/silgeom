@@ -816,9 +816,9 @@
   "2027 수능 만점자": {
    "slug": "2027-수능-만점자",
    "firstSeen": 1795169400.0,
-   "peakRank": 5,
+   "peakRank": 4,
    "peakTraffic": 1000,
-   "lastSeen": 1795177952.5119426
+   "lastSeen": 1795182657.6449785
   },
   "스타벅스": {
    "slug": "스타벅스",
@@ -860,28 +860,49 @@
    "firstSeen": 1795171200.0,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795177952.5119426
+   "lastSeen": 1795182657.6449785
   },
   "이진우 부검": {
    "slug": "이진우-부검",
    "firstSeen": 1795170600.0,
-   "peakRank": 4,
-   "peakTraffic": 1000,
-   "lastSeen": 1795177952.5119426
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795182657.6449785
   },
   "신영수": {
    "slug": "신영수",
    "firstSeen": 1795171800.0,
-   "peakRank": 6,
+   "peakRank": 5,
    "peakTraffic": 500,
-   "lastSeen": 1795177952.5119426
+   "lastSeen": 1795182657.6449785
   },
   "최미나수": {
    "slug": "최미나수",
    "firstSeen": 1795171200.0,
-   "peakRank": 9,
+   "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795177952.5119426
+   "lastSeen": 1795182657.6449785
+  },
+  "흥국생명": {
+   "slug": "흥국생명",
+   "firstSeen": 1795175400.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795182657.6449785
+  },
+  "홍진경": {
+   "slug": "홍진경",
+   "firstSeen": 1795176600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795182657.6449785
+  },
+  "대구 fc": {
+   "slug": "대구-fc",
+   "firstSeen": 1795177200.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795182657.6449785
   }
  }
 }
