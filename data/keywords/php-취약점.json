@@ -1,0 +1,46 @@
+{
+ "keyword": "php 취약점",
+ "slug": "php-취약점",
+ "firstSeen": 1795132200.0,
+ "lastSeen": 1795139356.008994,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795139356,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
+   "url": "https://news.hada.io/topic?id=37452",
+   "source": "GeekNews"
+  },
+  {
+   "title": "PHP 치명적 결함 패치...특정 웹서버 설정 시 코드 실행 가능",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147402",
+   "source": "보안뉴스"
+  },
+  {
+   "title": "AI 해킹으로 불안한데…PHP서 또 치명적 취약점 발견",
+   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20261120.99099006370",
+   "source": "국제신문"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "논현동",
+  "경기도교육청",
+  "이의리",
+  "유니클로",
+  "물수리",
+  "lpga",
+  "2호선",
+  "h-m",
+  "전북특별자치도교육청"
+ ]
+}

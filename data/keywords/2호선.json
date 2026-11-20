@@ -1,0 +1,46 @@
+{
+ "keyword": "2호선",
+ "slug": "2호선",
+ "firstSeen": 1795130400.0,
+ "lastSeen": 1795139356.008994,
+ "peakRank": 8,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795139356,
+   8,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "서울 지하철 2호선 성수지선 양방향 운행 중지",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "서울지하철 노조 오늘부터 준법투쟁 돌입···출근길 시민들 “차이 모르겠어”",
+   "url": "https://www.khan.co.kr/article/202611201025011",
+   "source": "경향신문"
+  },
+  {
+   "title": "국토부, 철도 파업 대비 비상수송 점검…“철저히 대비”",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717528",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "논현동",
+  "경기도교육청",
+  "이의리",
+  "유니클로",
+  "물수리",
+  "lpga",
+  "php-취약점",
+  "h-m",
+  "전북특별자치도교육청"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "keyword": "lpga",
+ "slug": "lpga",
+ "firstSeen": 1795131600.0,
+ "lastSeen": 1795139356.008994,
+ "peakRank": 6,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795139356,
+   6,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+   "source": "news.sbs.co.kr"
+  },
+  {
+   "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
+   "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
+   "source": "아시아경제"
+  },
+  {
+   "title": "Jeeno Thitikul Birdies the Last 5 holes to Share the Lead in LPGA Tour Season Finale",
+   "url": "https://www.lpga.com/news/2026/jeeno-thitikul-birdies-the-last-5-holes-to-share-the-lead-in-lpga-tour-season-finale",
+   "source": "LPGA"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "논현동",
+  "경기도교육청",
+  "이의리",
+  "유니클로",
+  "물수리",
+  "php-취약점",
+  "2호선",
+  "h-m",
+  "전북특별자치도교육청"
+ ]
+}
