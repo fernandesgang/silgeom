@@ -630,6 +630,76 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795157544.4579916
+  },
+  "하정우": {
+   "slug": "하정우",
+   "firstSeen": 1795156200.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795162129.5148563
+  },
+  "이부진": {
+   "slug": "이부진",
+   "firstSeen": 1795155000.0,
+   "peakRank": 2,
+   "peakTraffic": 10000,
+   "lastSeen": 1795162129.5148563
+  },
+  "임지열": {
+   "slug": "임지열",
+   "firstSeen": 1795158000.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795162129.5148563
+  },
+  "이범호": {
+   "slug": "이범호",
+   "firstSeen": 1795158000.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795162129.5148563
+  },
+  "레버리지": {
+   "slug": "레버리지",
+   "firstSeen": 1795156800.0,
+   "peakRank": 5,
+   "peakTraffic": 2000,
+   "lastSeen": 1795162129.5148563
+  },
+  "장승수": {
+   "slug": "장승수",
+   "firstSeen": 1795155000.0,
+   "peakRank": 6,
+   "peakTraffic": 1000,
+   "lastSeen": 1795162129.5148563
+  },
+  "마마 2026": {
+   "slug": "마마-2026",
+   "firstSeen": 1795158000.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795162129.5148563
+  },
+  "설경구": {
+   "slug": "설경구",
+   "firstSeen": 1795155600.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795162129.5148563
+  },
+  "mama 2026": {
+   "slug": "mama-2026",
+   "firstSeen": 1795155000.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795162129.5148563
+  },
+  "fifa u-17 월드컵": {
+   "slug": "fifa-u-17-월드컵",
+   "firstSeen": 1795158000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795162129.5148563
   }
  }
 }
