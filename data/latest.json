@@ -1,264 +1,248 @@
 {
- "generatedAt": 1795170120,
+ "generatedAt": 1795174158,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "005930",
-   "slug": "005930",
-   "traffic": 5000,
-   "startedAt": 1795159800.0,
-   "change": "same",
+   "keyword": "김장",
+   "slug": "김장",
+   "traffic": 2000,
+   "startedAt": 1795167000.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Samsung Electronics (KOSE:A005930) Stock Still Looks Undervalued on Earnings",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-kose-a005930-stock-161427305.html",
-     "source": "Yahoo Finance"
+     "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
+     "source": "국제신문"
     },
     {
-     "title": "Samsung Stocks Rise for Second Day as Memory Demand Signals Pile Up",
-     "url": "https://www.tradingview.com/news/gurufocus:1d8549d09094b:0-samsung-stocks-rise-for-second-day-as-memory-demand-signals-pile-up/",
-     "source": "TradingView"
+     "title": "한성대 ESG센터, 삼선동 저소득 180가구에 김장 김치 전달",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876956",
+     "source": "뉴시스"
     },
     {
-     "title": "Samsung Booked Tech's Biggest-Ever Quarterly Operating Profit; When Announced, Its Stock Price Dropped",
-     "url": "https://www.strata-gee.com/samsung-booked-techs-biggest-ever-quarterly-operating-profit-when-announced-its-stock-price-dropped/",
-     "source": "Strata-gee.com"
+     "title": "포항시새마을회, 사랑의 김장 담그기&나눔 행사로 겨울나기 온정 전해",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722666",
+     "source": "뉴스타운"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "황재균",
-   "slug": "황재균",
+   "keyword": "ind-a vs nep",
+   "slug": "ind-a-vs-nep",
    "traffic": 1000,
-   "startedAt": 1795161000.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795168800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "전현무, 마당발인 줄 알았더니 “사적으로 만나는 사람 5명도 안돼”(‘현무로드’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/G4ZWCOJUGVTGEYTFME3DMZBQME/",
-     "source": "조선일보"
+     "title": "India A vs Nepal live streaming: When and where to watch Rising Stars Asia Cup 2026 match?",
+     "url": "https://sports.yahoo.com/articles/india-vs-nepal-live-streaming-172600133.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "전현무 \"밖서 만나는 사람 다섯…한 명이 황재균\"",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876691",
-     "source": "뉴시스"
+     "title": "Excitel Broadband steps up as Global Sponsor of the DP World Asia Cup Rising Stars 2026",
+     "url": "https://www.medianews4u.com/excitel-broadband-steps-up-as-global-sponsor-of-the-dp-world-asia-cup-rising-stars-2026/",
+     "source": "MediaNews4U"
     },
     {
-     "title": "황재균, 전현무 전화 한 통에 일본행…“어제 연락받고 새벽 비행기 탔다”",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135051768/1",
-     "source": "스포츠동아"
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177148/player/1448181/bowling",
+     "source": "Cricbuzz"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "푸른길",
-   "slug": "푸른길",
-   "traffic": 500,
-   "startedAt": 1795162200.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "벼",
+   "slug": "벼",
+   "traffic": 1000,
+   "startedAt": 1795168200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "[문화연예 플러스] 손석구, '푸른길'서 또 형사 역할 도전",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866494_37012.html",
-     "source": "MBC 뉴스"
+     "title": "벼 수매대금 미지급 논란…농가 피해액 20억원 넘어",
+     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208975",
+     "source": "농업인신문"
     },
     {
-     "title": "집요한 추적 끝에 마주한 긴장감…'푸른길'의 서늘한 스릴 [영화있슈] - 머니투데이",
-     "url": "https://www.mt.co.kr/culture/2026/11/19/2026111808472621758",
-     "source": "머니투데이"
+     "title": "벼 수매대금 미지급 사태 대처할 보호대책 마련해야",
+     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208916",
+     "source": "농업인신문"
     },
     {
-     "title": "'이노세와 김석의 만남'",
-     "url": "https://www.newspim.com/news/view/20261117000708",
-     "source": "뉴스핌"
+     "title": "“올바른 쌀값 농민이 정해야”…파주 농민단체, 시청 앞 볏가마 야적 투쟁 돌입",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363743048",
+     "source": "중부일보"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "교수",
-   "slug": "교수",
-   "traffic": 500,
-   "startedAt": 1795159200.0,
-   "change": "up",
-   "diff": 4,
+   "keyword": "굿파트너2",
+   "slug": "굿파트너2",
+   "traffic": 1000,
+   "startedAt": 1795167600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "김병규 교수 “AI 캐릭터챗 시장 무섭게 성장…도파민 보상 다음은 감정 의존”",
-     "url": "https://www.sedaily.com/article/20117112",
-     "source": "서울경제"
+     "title": "'굿파트너2'서 로펌대표 된 장나라 \"전작 재미 유지하려 애썼죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120147300005",
+     "source": "연합뉴스"
     },
     {
-     "title": "이경상 KAIST 교수 \"AI로 개인 생산성 올랐는데 조직 생산성은 안 올라\"",
-     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/20/2026112050288.html",
-     "source": "뉴데일리 충청세종"
+     "title": "스튜디오앤뉴, '굿파트너2' 제작 참여…메가 히트 IP로 연타석 흥행 노린다",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MY2GMYLEHFQWCYZVMY3DOYJRMY/",
+     "source": "조선일보"
     },
     {
-     "title": "생각할 시간에 묻고 ‘복붙’ 합니다…직장인 3분의2, AI 없으면 일 못해",
-     "url": "https://stock.mk.co.kr/news/view/1201077",
-     "source": "매일경제 마켓"
+     "title": "김혜윤-장나라 '우리는 굿파트너'",
+     "url": "https://www.mt.co.kr/photo/202611201501044796",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "정유라",
-   "slug": "정유라",
-   "traffic": 200,
-   "startedAt": 1795162200.0,
-   "change": "up",
-   "diff": 4,
-   "news": [
-    {
-     "title": "\"장기라도 팔고 싶어\" 무릎 꿇었던 정유라…최순실 병원비 재차 호소 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/19/2026111823270936147",
-     "source": "머니투데이"
-    },
-    {
-     "title": "\"최후의 순간까지 박 대통령 편이었던 엄마 외면 말라\"…정유라, 병원비 지원 재차 호소",
-     "url": "https://busan.fnnews.com/news/202611190635493105",
-     "source": "부산파이낸셜뉴스"
-    },
-    {
-     "title": "정유라 “박근혜 대통령 편이었던 어머니 살려 달라”…병원비 다시 호소",
-     "url": "https://www.kyeonggi.com/article/20261118580642",
-     "source": "경기일보"
-    }
-   ]
+   "keyword": "2027 수능 만점자",
+   "slug": "2027-수능-만점자",
+   "traffic": 500,
+   "startedAt": 1795169400.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
   },
   {
    "rank": 6,
-   "keyword": "디플러스기아",
-   "slug": "디플러스기아",
-   "traffic": 200,
-   "startedAt": 1795161000.0,
-   "change": "same",
+   "keyword": "스타벅스",
+   "slug": "스타벅스",
+   "traffic": 500,
+   "startedAt": 1795167600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] T1 떠난 '도란' 최현준, 차기 행선지는 디플러스 기아 유력",
-     "url": "https://www.xportsnews.com/article/2221545",
-     "source": "www.xportsnews.com"
+     "title": "스타벅스, ’부드러운 생크림 카스텔라’ 700원 인상…11년 만",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611201453244Qv",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "[오피셜] ‘도란’ 최현준, T1과 2년 동행 끝내고 FA 시장으로",
-     "url": "https://www.koreadaily.com/article/20261119041710118",
-     "source": "미주중앙일보"
+     "title": "스타벅스 디저트 ‘부생카’ 11년 만에 첫 가격 인상… 700원 오른다",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3450737",
+     "source": "천지일보"
     },
     {
-     "title": "T1을 떠난 첫 번째 선수",
-     "url": "https://www.vietnam.vn/ko/nguoi-dau-tien-phai-roi-t1",
-     "source": "Vietnam.vn"
+     "title": "“애들 최애 빵인데” 스타벅스, 11년 만에 ‘부생카’ 가격 인상",
+     "url": "https://www.mk.co.kr/news/business/12214933",
+     "source": "매일경제"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "닛케이 평균주가",
-   "slug": "닛케이-평균주가",
+   "keyword": "초과근무",
+   "slug": "초과근무",
    "traffic": 200,
-   "startedAt": 1795160400.0,
-   "change": "same",
+   "startedAt": 1795168800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "앤트로픽 쏠림·대중규제 우려 … 반도체株 곤두박질",
-     "url": "https://www.mk.co.kr/news/stock/12214868",
-     "source": "매일경제"
+     "title": "[단독] 82억 특활비 부활시킨 靑, 이번엔 \"초과근무수당 2배 올려달라\"",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html",
+     "source": "뉴데일리"
     },
     {
-     "title": "[기획] 손정의도 “그때 투자할 걸”… 앤트로픽 IPO 흥행 신기록",
-     "url": "https://www.dt.co.kr/article/12096157",
-     "source": "www.dt.co.kr"
-    },
-    {
-     "title": "日소프트뱅크, 장중 16% 폭락…아시아 증시 매도세 주도",
-     "url": "https://www.yna.co.kr/view/AKR20261120109800009",
+     "title": "여야, 예결소위서 '국무총리 특활비·규제개혁추진단' 예산 공방(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261117043351001",
      "source": "연합뉴스"
+    },
+    {
+     "title": "여야, 예결위 예산소위서 총리 특활비 등 공방…野 \"절반 감액해야\" 與 \"식물 총리 하란 것\"",
+     "url": "https://www.newsis.com/view/NISX20261117_0003872286",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "김치의 날",
-   "slug": "김치의-날",
-   "traffic": 100,
-   "startedAt": 1795164000.0,
+   "keyword": "토마스 뮐러",
+   "slug": "토마스-뮐러",
+   "traffic": 200,
+   "startedAt": 1795167600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "김혜경 여사, 제7회 김치의 날 기념식 - 포토 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74425&pageIndex=1",
-     "source": "대한민국 정책브리핑"
+     "title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698852",
+     "source": "인터풋볼"
     },
     {
-     "title": "김장 양념 질문받은 김혜경 여사 “이건 기밀인데…”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261120/135060404/2",
-     "source": "동아일보"
+     "title": "손흥민·메시 뛰는 MLS 수준 충격 평가...레전드 뮐러 작심 고백 \"강등 없고 압박도 없어! 수비는 안일해\"",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101056",
+     "source": "포포투"
     },
     {
-     "title": "김장체험 나선 金여사…\"김치, 세계인의 식탁에 오래 머물길\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120118200001",
-     "source": "연합뉴스"
+     "title": "손흥민과 생각 달랐다…뮐러 소신 발언 “강등 없는 MLS, 목숨 걸고 싸우는 유럽과 수준 달라”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101041",
+     "source": "포포투"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "헝거게임",
-   "slug": "헝거게임",
-   "traffic": 100,
-   "startedAt": 1795164000.0,
+   "keyword": "이더리움",
+   "slug": "이더리움",
+   "traffic": 200,
+   "startedAt": 1795167000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "캣니스의 스승은 어떻게 살아남았나…24년 전으로 돌아간 ‘헝거게임’",
-     "url": "https://www.donga.com/news/Culture/article/all/20261120/135060632/1",
-     "source": "동아일보"
+     "title": "비트코인·금도 와르르 … 글로벌 자산시장 패닉",
+     "url": "https://stock.mk.co.kr/news/view/1203359",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
-     "url": "https://www.yna.co.kr/view/AKR20261114033700005",
-     "source": "연합뉴스"
+     "title": "비트코인 8439만 원대 하락, 금리인상 부담에 투심 악화 '1차 방어선' 6만 달러",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452467",
+     "source": "비즈니스포스트"
     },
     {
-     "title": "25년 전 추첨의 날, 저항은 이미 시작되었다",
-     "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003286439",
-     "source": "오마이스타"
+     "title": "휘청이는 비트코인…NH증권 \"디베이스먼트 재부각 필요\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445655",
+     "source": "연합인포맥스"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "ktx 지연",
-   "slug": "ktx-지연",
+   "keyword": "전북특별자치도지사",
+   "slug": "전북특별자치도지사",
    "traffic": 100,
-   "startedAt": 1795161000.0,
+   "startedAt": 1795168800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "부산행 KTX 고장에 450명 환승…16개 열차 지연",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120115059aNB",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "부산행 KTX 동대구역 부근서 고장…잦은 지연에 승객 불만",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261120.99099006577",
-     "source": "국제신문"
-    },
-    {
-     "title": "KTX 고장에 경부선 열차 81편 지연…저녁까지 운행 차질(종합2보)",
-     "url": "https://www.yna.co.kr/view/AKR20261120059452053",
+     "title": "전북도의회 \"전북을 로봇·수소 초광역특구로 지정해야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120093700055",
      "source": "연합뉴스"
+    },
+    {
+     "title": "전북도의회 \"특별법 조속히 제정해 로봇·수소 특구 지정하라\"",
+     "url": "https://www.news1.kr/local/jeonbuk/6360858",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"로봇·수소 초광역특구 전북 지정\"…도의회, 촉구 건의안",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876520",
+     "source": "뉴시스"
     }
    ]
   }
