@@ -1,0 +1,45 @@
+{
+ "keyword": "조국",
+ "slug": "조국",
+ "firstSeen": 1795161600.0,
+ "lastSeen": 1795166181.4193463,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795166181,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "민주, 의총서 ‘조희대 대법원장 탄핵 추진’ 당론 결정",
+   "url": "https://www.chosun.com/politics/assembly/2026/11/20/JCC32DKLRFDENO4HJG7UKCNCHM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "與 조희대 탄핵추진단 \"한덕수 내란 판결 탄핵 사유 포함 검토\" - 머니투데이",
+   "url": "https://www.mt.co.kr/politics/2026/11/20/2026112017121837119",
+   "source": "머니투데이"
+  },
+  {
+   "title": "대법 ‘국헌문란 목적’ 엄밀히…고위직 내란 혐의 ‘축소 처벌’ 우려",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1288331.html",
+   "source": "한겨레"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "005930",
+  "이지영",
+  "황재균",
+  "푸른길",
+  "디플러스기아",
+  "닛케이-평균주가",
+  "교수",
+  "정유라"
+ ]
+}

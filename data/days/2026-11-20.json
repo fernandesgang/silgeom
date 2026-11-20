@@ -700,6 +700,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795162129.5148563
+  },
+  "005930": {
+   "slug": "005930",
+   "firstSeen": 1795159800.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795166181.4193463
+  },
+  "이지영": {
+   "slug": "이지영",
+   "firstSeen": 1795159800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795166181.4193463
+  },
+  "황재균": {
+   "slug": "황재균",
+   "firstSeen": 1795161000.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795166181.4193463
+  },
+  "푸른길": {
+   "slug": "푸른길",
+   "firstSeen": 1795162200.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795166181.4193463
+  },
+  "조국": {
+   "slug": "조국",
+   "firstSeen": 1795161600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795166181.4193463
+  },
+  "디플러스기아": {
+   "slug": "디플러스기아",
+   "firstSeen": 1795161000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795166181.4193463
+  },
+  "닛케이 평균주가": {
+   "slug": "닛케이-평균주가",
+   "firstSeen": 1795160400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795166181.4193463
+  },
+  "교수": {
+   "slug": "교수",
+   "firstSeen": 1795159200.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795166181.4193463
+  },
+  "정유라": {
+   "slug": "정유라",
+   "firstSeen": 1795162200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795166181.4193463
   }
  }
 }
