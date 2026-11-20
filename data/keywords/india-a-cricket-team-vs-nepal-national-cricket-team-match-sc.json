@@ -2,17 +2,37 @@
  "keyword": "india a cricket team vs nepal national cricket team match scorecard",
  "slug": "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
  "firstSeen": 1795182000.0,
- "lastSeen": 1795185818.3979259,
+ "lastSeen": 1795189502.4801142,
  "peakRank": 7,
- "peakTraffic": 100,
+ "peakTraffic": 200,
  "history": [
   [
    1795185818,
    7,
    100
+  ],
+  [
+   1795189502,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "4th Match, Group B (D/N), Asia Cup Rising Stars (50 Overs) at Doha, Nov 20 2026",
+   "url": "https://www.espn.com/cricket/series/1562333/commentary/1562345/india-a-vs-nepal-4th-match-group-b-asia-cup-rising-stars-50-overs-2026-27",
+   "source": "ESPN"
+  },
+  {
+   "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+   "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1",
+   "source": "Cricbuzz"
+  },
+  {
+   "title": "Tilak Varma and Kumar Kushagra Hit Centuries to Propel India A Total",
+   "url": "https://newsable.asianetnews.com/sports/tilak-varma-and-kumar-kushagra-hit-centuries-to-propel-india-a-total-articleshow-16b1lhq",
+   "source": "Asianet Newsable"
+  },
   {
    "title": "IND-A skipper Tilak Varma hammers his 7th List A hundred",
    "url": "https://www.newsbytesapp.com/news/sports/tilak-varma-slams-solid-107-versus-nepal-in-50-over-format/story",
@@ -30,9 +50,13 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "related": [
+  "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",
+  "두산",
+  "오현민",
   "엔비디아",
   "컴포즈",
   "펍지",

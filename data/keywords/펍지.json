@@ -2,17 +2,27 @@
  "keyword": "펍지",
  "slug": "펍지",
  "firstSeen": 1795181400.0,
- "lastSeen": 1795185818.3979259,
+ "lastSeen": 1795189502.4801142,
  "peakRank": 3,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795185818,
    3,
    200
+  ],
+  [
+   1795189502,
+   5,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "히마스-탄부 사건 이후 PUBG의 박스오피스 순위가 급락했다.",
+   "url": "https://www.vietnam.vn/ko/pubg-roi-tu-do-tren-bang-xep-hang-doanh-thu-sau-vu-himass-tanvuu",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드",
    "url": "https://www.pubg.com/ko/news/11414",
@@ -30,9 +40,13 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "related": [
+  "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",
+  "두산",
+  "오현민",
   "엔비디아",
   "컴포즈",
   "류효영",
