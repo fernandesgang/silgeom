@@ -2,7 +2,7 @@
  "keyword": "엔비디아",
  "slug": "엔비디아",
  "firstSeen": 1795182000.0,
- "lastSeen": 1795193252.1053905,
+ "lastSeen": 1795196759.120457,
  "peakRank": 1,
  "peakTraffic": 5000,
  "history": [
@@ -19,6 +19,11 @@
   [
    1795193252,
    2,
+   5000
+  ],
+  [
+   1795196759,
+   3,
    5000
   ]
  ],
@@ -59,6 +64,7 @@
   "2026-11-21"
  ],
  "related": [
+  "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
   "부동산",
   "공포지수",
   "연준",

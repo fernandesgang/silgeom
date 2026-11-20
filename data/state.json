@@ -1,5 +1,16 @@
 {
  "ranks": {
+  "india a cricket team vs nepal national cricket team standings": 1,
+  "부동산": 2,
+  "엔비디아": 3,
+  "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘": 4,
+  "펍지": 5,
+  "공포지수": 6,
+  "연준": 7,
+  "오현민": 8,
+  "세계사 2 번": 9
+ },
+ "prevRanks": {
   "부동산": 1,
   "엔비디아": 2,
   "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘": 3,
@@ -10,16 +21,5 @@
   "류효영": 8,
   "세계사 2 번": 9
  },
- "prevRanks": {
-  "엔비디아": 1,
-  "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘": 2,
-  "컴포즈": 3,
-  "두산": 4,
-  "펍지": 5,
-  "오현민": 6,
-  "india a cricket team vs nepal national cricket team match scorecard": 7,
-  "류효영": 8,
-  "김대두": 9
- },
- "changedAt": 1795193252.1053905
+ "changedAt": 1795196759.120457
 }

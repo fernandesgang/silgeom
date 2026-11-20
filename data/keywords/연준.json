@@ -2,7 +2,7 @@
  "keyword": "연준",
  "slug": "연준",
  "firstSeen": 1795188000.0,
- "lastSeen": 1795193252.1053905,
+ "lastSeen": 1795196759.120457,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795193252,
    6,
    200
+  ],
+  [
+   1795196759,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "美연준 고위인사 \"AI로 경제 과열…모든 선택지 가능\"",
+   "url": "https://www.yna.co.kr/view/AKR20261120031500072",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "\"충격 줘야 할지도\"‥또 '빅스텝' 거론",
+   "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6866901_36967.html",
+   "source": "MBC 뉴스"
+  },
   {
    "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
    "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
@@ -33,6 +53,7 @@
   "2026-11-21"
  ],
  "related": [
+  "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
   "부동산",
   "엔비디아",
   "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",

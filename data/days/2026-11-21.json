@@ -6,14 +6,14 @@
    "firstSeen": 1795189502.4801142,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘": {
    "slug": "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",
    "firstSeen": 1795189502.4801142,
    "peakRank": 2,
    "peakTraffic": 5000,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "컴포즈": {
    "slug": "컴포즈",
@@ -34,14 +34,14 @@
    "firstSeen": 1795189502.4801142,
    "peakRank": 4,
    "peakTraffic": 1000,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "오현민": {
    "slug": "오현민",
    "firstSeen": 1795189502.4801142,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "india a cricket team vs nepal national cricket team match scorecard": {
    "slug": "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
@@ -69,28 +69,35 @@
    "firstSeen": 1795193252.1053905,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "공포지수": {
    "slug": "공포지수",
    "firstSeen": 1795188600.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "연준": {
    "slug": "연준",
    "firstSeen": 1795188000.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
   },
   "세계사 2 번": {
    "slug": "세계사-2-번",
    "firstSeen": 1795188600.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795193252.1053905
+   "lastSeen": 1795196759.120457
+  },
+  "india a cricket team vs nepal national cricket team standings": {
+   "slug": "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
+   "firstSeen": 1795191000.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795196759.120457
   }
  }
 }
