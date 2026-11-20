@@ -530,29 +530,29 @@
    "slug": "하마",
    "firstSeen": 1795149000.0,
    "peakRank": 1,
-   "peakTraffic": 200,
-   "lastSeen": 1795153877.3315685
+   "peakTraffic": 500,
+   "lastSeen": 1795157544.4579916
   },
   "안개": {
    "slug": "안개",
    "firstSeen": 1795148400.0,
    "peakRank": 2,
-   "peakTraffic": 200,
-   "lastSeen": 1795153877.3315685
+   "peakTraffic": 500,
+   "lastSeen": 1795157544.4579916
   },
   "한화이글스": {
    "slug": "한화이글스",
    "firstSeen": 1795148400.0,
    "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795153877.3315685
+   "lastSeen": 1795157544.4579916
   },
   "웨이모": {
    "slug": "웨이모",
    "firstSeen": 1795147800.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795153877.3315685
+   "lastSeen": 1795157544.4579916
   },
   "대기업": {
    "slug": "대기업",
@@ -580,7 +580,7 @@
    "firstSeen": 1795148400.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795153877.3315685
+   "lastSeen": 1795157544.4579916
   },
   "경북매일신문": {
    "slug": "경북매일신문",
@@ -595,6 +595,41 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795153877.3315685
+  },
+  "빅뱅 기립": {
+   "slug": "빅뱅-기립",
+   "firstSeen": 1795152000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795157544.4579916
+  },
+  "레미콘": {
+   "slug": "레미콘",
+   "firstSeen": 1795150800.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795157544.4579916
+  },
+  "리사 수": {
+   "slug": "리사-수",
+   "firstSeen": 1795150800.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795157544.4579916
+  },
+  "빅뱅": {
+   "slug": "빅뱅",
+   "firstSeen": 1795150200.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795157544.4579916
+  },
+  "대상 공원 빅 트리": {
+   "slug": "대상-공원-빅-트리",
+   "firstSeen": 1795150200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795157544.4579916
   }
  }
 }

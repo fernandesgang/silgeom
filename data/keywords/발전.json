@@ -2,7 +2,7 @@
  "keyword": "발전",
  "slug": "발전",
  "firstSeen": 1795148400.0,
- "lastSeen": 1795153877.3315685,
+ "lastSeen": 1795157544.4579916,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,19 @@
    1795153877,
    8,
    100
+  ],
+  [
+   1795157544,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "서부발전, 재생에너지 전문가 20명 위촉…사업개발 역량 강화",
+   "url": "https://www.news1.kr/local/daejeon-chungnam/6360999",
+   "source": "뉴스1"
+  },
   {
    "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
    "url": "https://biz.chosun.com/industry/company/2026/11/20/QTNPOR6PDJCUDARRRJKJWKNHKM/",
@@ -33,6 +43,11 @@
   "2026-11-20"
  ],
  "related": [
+  "빅뱅-기립",
+  "레미콘",
+  "리사-수",
+  "빅뱅",
+  "대상-공원-빅-트리",
   "하마",
   "안개",
   "한화이글스",

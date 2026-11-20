@@ -1,25 +1,129 @@
 {
- "generatedAt": 1795153877,
+ "generatedAt": 1795157544,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "하마",
-   "slug": "하마",
-   "traffic": 200,
-   "startedAt": 1795149000.0,
+   "keyword": "빅뱅 기립",
+   "slug": "빅뱅-기립",
+   "traffic": 2000,
+   "startedAt": 1795152000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
-     "url": "https://www.donga.com/news/Inter/article/all/20261120/135058463/1",
+     "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
+     "url": "https://www.khan.co.kr/article/202611201044001",
+     "source": "경향신문"
+    },
+    {
+     "title": "빅뱅·씨엘, 같은 날 4시간 차 신곡 컴백…그 시절 'YG 패밀리' 소환[SC초점]",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/20/GU3WKZRYMMYTKNZWGJQTONZRG4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "빅뱅, 오늘(20일) 새 디지털 싱글 기습 공개…데뷔 20주년 대미 장식",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855191",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "레미콘",
+   "slug": "레미콘",
+   "traffic": 500,
+   "startedAt": 1795150800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722299",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809",
+     "source": "중부일보"
+    },
+    {
+     "title": "소프트자이온, 레미콘 품질업무자동화 플랫폼 '위시드콘(Weseed CON)' 출시",
+     "url": "https://www.etnews.com/20261117000118",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "리사 수",
+   "slug": "리사-수",
+   "traffic": 500,
+   "startedAt": 1795150800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
+     "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1",
      "source": "동아일보"
     },
+    {
+     "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
+     "url": "https://www.khan.co.kr/article/202611191250001",
+     "source": "경향신문"
+    },
+    {
+     "title": "젠슨 황의 불륜 스캔들…두 여자의 주얼리를 보면 삶이 보인다 [민은미의 파인주얼리]",
+     "url": "https://www.hankyung.com/article/202611169480i",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "빅뱅",
+   "slug": "빅뱅",
+   "traffic": 500,
+   "startedAt": 1795150200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[현장포토] \"강렬한 눈.코.입\"…태양, 카리스마 폭발",
+     "url": "https://www.dispatch.co.kr/2351045",
+     "source": "디스패치"
+    },
+    {
+     "title": "[포토] 태양의 밈 부자 서커스",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525402",
+     "source": "iMBC 연예"
+    },
+    {
+     "title": "[사진]빅뱅 태양, '멋진 패션센스 뽐내며 출국'",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/19/MUYDAYJQGAZGGZRQHE4TCNBRHE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "하마",
+   "slug": "하마",
+   "traffic": 500,
+   "startedAt": 1795149000.0,
+   "change": "down",
+   "diff": 4,
+   "news": [
     {
      "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
      "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/",
      "source": "조선일보"
+    },
+    {
+     "title": "美동물원 인기하마 피요나, 관객이 던진 털모자 먹고 사망",
+     "url": "https://www.donga.com/news/Inter/article/all/20261120/135058433/1",
+     "source": "동아일보"
     },
     {
      "title": "\"피오나, 고마웠어\"…美 '스타 하마' 사망에 애도 물결",
@@ -29,13 +133,13 @@
    ]
   },
   {
-   "rank": 2,
+   "rank": 6,
    "keyword": "안개",
    "slug": "안개",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795148400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 4,
    "news": [
     {
      "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
@@ -55,18 +159,18 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 7,
    "keyword": "한화이글스",
    "slug": "한화이글스",
    "traffic": 200,
    "startedAt": 1795148400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 4,
    "news": [
     {
-     "title": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012055272273",
-     "source": "머니투데이"
+     "title": "MLB 탬파베이 우완 숄턴스, 한국 온다…국내 구단과 협상 막바지",
+     "url": "https://www.yna.co.kr/view/AKR20261120059700007",
+     "source": "연합뉴스"
     },
     {
      "title": "154km 팔색조 투수, ‘WS 준우승’ 탬파베이에서 방출→한국에 온다 “볼넷·장타 억제 뛰어나”",
@@ -74,20 +178,20 @@
      "source": "조선일보"
     },
     {
-     "title": "MLB 탬파베이 우완 숄턴스, 한국 온다…국내 구단과 협상 막바지",
-     "url": "https://www.yna.co.kr/view/AKR20261120059700007",
-     "source": "연합뉴스"
+     "title": "'현역 빅리거' 숄텐스가 한국 온다고?…KBO행 가능성 제기 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/sports/2026/11/20/2026112009505939458",
+     "source": "머니투데이"
     }
    ]
   },
   {
-   "rank": 4,
+   "rank": 8,
    "keyword": "웨이모",
    "slug": "웨이모",
    "traffic": 200,
    "startedAt": 1795147800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 4,
    "news": [
     {
      "title": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단",
@@ -107,91 +211,39 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "대기업",
-   "slug": "대기업",
-   "traffic": 200,
-   "startedAt": 1795147200.0,
+   "rank": 9,
+   "keyword": "대상 공원 빅 트리",
+   "slug": "대상-공원-빅-트리",
+   "traffic": 100,
+   "startedAt": 1795150200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "작년 대기업 본사가 받은 상표권 사용료 역대 ‘최대’···쿠팡, 내부거래 금액 ‘톱5’ 진입",
-     "url": "https://www.khan.co.kr/article/202611191649001",
+     "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2020041",
+     "source": "경남도민일보"
+    },
+    {
+     "title": "‘흉물 논란’ 창원 빅트리, 실내 전망대로 대폭 손질",
+     "url": "https://www.khan.co.kr/article/202611191316001",
      "source": "경향신문"
-    },
-    {
-     "title": "\"공시집단 소속 국내 계열사 매출 약 35%, 내부거래서 발생\" - 머니투데이",
-     "url": "https://www.mt.co.kr/economy/2026/11/19/2026111908081052143",
-     "source": "머니투데이"
-    },
-    {
-     "title": "규제대상 내부거래 비중…10대 그룹이 2배",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445525",
-     "source": "연합인포맥스"
     }
    ]
   },
   {
-   "rank": 6,
-   "keyword": "리야드",
-   "slug": "리야드",
-   "traffic": 200,
-   "startedAt": 1795146600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119155051079",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[이 시각 세계] 후티 반군, 사우디 80층 빌딩에 미사일 공격",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867150_37012.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[속보]후티군, 사우디의 공항 · 은행· 공군기지· 석유시설 보복 공습",
-     "url": "https://www.newsis.com/view/NISX20261120_0003875964",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "라이어",
-   "slug": "라이어",
-   "traffic": 200,
-   "startedAt": 1795146600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'라이어' 빌런 유연석, 경찰에게도 악행…결국 덜미 잡힐까",
-     "url": "https://m.imbc.com/enews/view/525326",
-     "source": "MBC"
-    },
-    {
-     "title": "‘성폭행 피해 호소’ 서현진 불신 확대, 가족도 못 믿어 (라이어)",
-     "url": "https://sports.donga.com/ent/article/all/20261120/135060532/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'라이어' 백재영 작가 \"유연석, 배우로서 만만치 않은 선택…용기에 감동\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611181025594569",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "rank": 8,
+   "rank": 10,
    "keyword": "발전",
    "slug": "발전",
    "traffic": 100,
    "startedAt": 1795148400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
@@ -204,61 +256,9 @@
      "source": "천지일보"
     },
     {
-     "title": "“사업개발 자문 확대”…서부발전, 재생에너지 전문가 20명 위촉",
-     "url": "https://www.mk.co.kr/news/business/12214496",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "경북매일신문",
-   "slug": "경북매일신문",
-   "traffic": 100,
-   "startedAt": 1795148400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "84세에 수능 도전 최고령 수험생…“타인에 희망되길”",
-     "url": "https://www.donga.com/news/Society/article/all/20261119/135053691/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "엘리베이터 갇혀 구조된 수험생, 84세 만학도 \"대학 꿈\" 도전…대구·경북 수능날",
-     "url": "https://www.imaeil.com/page/view/2026111915123843806",
-     "source": "매일신문"
-    },
-    {
-     "title": "66세 어르신의 수능 도전",
-     "url": "https://www.news1.kr/photos/8221861",
+     "title": "서부발전, 재생에너지 전문가 20명 위촉…사업개발 역량 강화",
+     "url": "https://www.news1.kr/local/daejeon-chungnam/6360999",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "박은정",
-   "slug": "박은정",
-   "traffic": 100,
-   "startedAt": 1795146600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "대덕구의회, 교섭단체 운영·지원 근거 마련",
-     "url": "https://www.dtnews24.com/news/articleView.html?idxno=817421",
-     "source": "디트NEWS24"
-    },
-    {
-     "title": "122일 파행 빚더니…의원 의정활동 지원부터 서두르는 대덕구의회",
-     "url": "https://www.news1.kr/local/daejeon-chungnam/6360879",
-     "source": "뉴스1"
-    },
-    {
-     "title": "이삼남 대덕구의원, 의회 교섭단체 '제도화' 추진",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758219",
-     "source": "국제뉴스"
     }
    ]
   }
