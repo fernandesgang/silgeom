@@ -294,6 +294,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795213408.38951
+  },
+  "연예인": {
+   "slug": "연예인",
+   "firstSeen": 1795212600.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795217048.8602755
+  },
+  "nvda": {
+   "slug": "nvda",
+   "firstSeen": 1795213200.0,
+   "peakRank": 2,
+   "peakTraffic": 200,
+   "lastSeen": 1795217048.8602755
+  },
+  "경기남부": {
+   "slug": "경기남부",
+   "firstSeen": 1795212600.0,
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795217048.8602755
+  },
+  "나스닥 100": {
+   "slug": "나스닥-100",
+   "firstSeen": 1795212600.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795217048.8602755
+  },
+  "공매도": {
+   "slug": "공매도",
+   "firstSeen": 1795212600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795217048.8602755
+  },
+  "부고": {
+   "slug": "부고",
+   "firstSeen": 1795212000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795217048.8602755
+  },
+  "경찰관": {
+   "slug": "경찰관",
+   "firstSeen": 1795213200.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795217048.8602755
+  },
+  "한국항공우주산업": {
+   "slug": "한국항공우주산업",
+   "firstSeen": 1795213200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795217048.8602755
+  },
+  "가덕도신공항": {
+   "slug": "가덕도신공항",
+   "firstSeen": 1795212600.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795217048.8602755
+  },
+  "대전광역시": {
+   "slug": "대전광역시",
+   "firstSeen": 1795212000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795217048.8602755
   }
  }
 }

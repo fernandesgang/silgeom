@@ -1,0 +1,46 @@
+{
+ "keyword": "공매도",
+ "slug": "공매도",
+ "firstSeen": 1795212600.0,
+ "lastSeen": 1795217048.8602755,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795217049,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
+   "url": "https://stock.mk.co.kr/news/view/1203507",
+   "source": "매일경제 마켓"
+  },
+  {
+   "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6867106_36932.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688",
+   "source": "마켓인"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "연예인",
+  "nvda",
+  "경기남부",
+  "나스닥-100",
+  "부고",
+  "경찰관",
+  "한국항공우주산업",
+  "가덕도신공항",
+  "대전광역시"
+ ]
+}

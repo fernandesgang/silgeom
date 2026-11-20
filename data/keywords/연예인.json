@@ -1,0 +1,46 @@
+{
+ "keyword": "연예인",
+ "slug": "연예인",
+ "firstSeen": 1795212600.0,
+ "lastSeen": 1795217048.8602755,
+ "peakRank": 1,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795217049,
+   1,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "\"집 샀다\" 자랑하더니 3개월 만에…'영끌' 연예인도 한숨 [머니팁]",
+   "url": "https://www.hankyung.com/article/202611209874v",
+   "source": "한국경제"
+  },
+  {
+   "title": "남유정, 영끌해서 서울에 집 샀다더니 “금리 상승으로 대출 이자 부담”[핫피플]",
+   "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWIYTCHFSGIYTCGJTGMNRWGU/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "“갚아야 할 빚 많은데”…‘영끌’로 집 산 걸그룹 출신女, 금리상승에 한숨",
+   "url": "https://www.mk.co.kr/news/culture/12214487",
+   "source": "매일경제"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "nvda",
+  "경기남부",
+  "나스닥-100",
+  "공매도",
+  "부고",
+  "경찰관",
+  "한국항공우주산업",
+  "가덕도신공항",
+  "대전광역시"
+ ]
+}

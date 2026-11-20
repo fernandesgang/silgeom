@@ -2,17 +2,37 @@
  "keyword": "nvda",
  "slug": "nvda",
  "firstSeen": 1795039800.0,
- "lastSeen": 1795044325.6426501,
- "peakRank": 7,
+ "lastSeen": 1795217048.8602755,
+ "peakRank": 2,
  "peakTraffic": 200,
  "history": [
   [
    1795044326,
    7,
    200
+  ],
+  [
+   1795217049,
+   2,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+   "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+   "source": "Reuters"
+  },
+  {
+   "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
+   "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+   "source": "Yahoo Finance"
+  },
+  {
+   "title": "California targets Nvidia in China AI chip probe",
+   "url": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
+   "source": "BBC"
+  },
   {
    "title": "CHART OF THE DAY: Nvidia, $NVDA, Needs To Be Up +26% Today Just To Recapture TRADE Support",
    "url": "https://app.hedgeye.com/insights/190030-chart-of-the-day-nvidia-nvda-needs-to-be-up-26-today-just-to-rec?type=macro%2Cmarket-insights",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-21"
  ],
  "related": [
+  "연예인",
+  "경기남부",
+  "나스닥-100",
+  "공매도",
+  "부고",
+  "경찰관",
+  "한국항공우주산업",
+  "가덕도신공항",
+  "대전광역시",
   "미역국",
   "t1",
   "schd",

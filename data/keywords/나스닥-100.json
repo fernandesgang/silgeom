@@ -1,0 +1,46 @@
+{
+ "keyword": "나스닥 100",
+ "slug": "나스닥-100",
+ "firstSeen": 1795212600.0,
+ "lastSeen": 1795217048.8602755,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795217049,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
+   "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262316128-nasdaq-100-drawdown-20-percent-intraday-15-percent-backtest-tradingkey",
+   "source": "TradingKey"
+  },
+  {
+   "title": "나스닥 선물, 한때 26,280.5포인트로 밀려 4월 중순 이후 최저",
+   "url": "https://www.tokenpost.kr/news/breaking/441375",
+   "source": "토큰포스트"
+  },
+  {
+   "title": "나스닥 선물 0.74%, S&P500 선물 0.34% 하락",
+   "url": "https://www.tokenpost.kr/news/market/441360",
+   "source": "토큰포스트"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "연예인",
+  "nvda",
+  "경기남부",
+  "공매도",
+  "부고",
+  "경찰관",
+  "한국항공우주산업",
+  "가덕도신공항",
+  "대전광역시"
+ ]
+}
