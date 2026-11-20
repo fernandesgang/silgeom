@@ -2,7 +2,7 @@
  "keyword": "new zealand vs india",
  "slug": "new-zealand-vs-india",
  "firstSeen": 1795039800.0,
- "lastSeen": 1795044325.6426501,
+ "lastSeen": 1795134032.7492864,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795044326,
    4,
    200
+  ],
+  [
+   1795134033,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 1st Test",
+   "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/ball-by-ball-commentary",
+   "source": "Cricinfo"
+  },
+  {
+   "title": "Nicholls ton leads New Zealand fightback to 243-5 in first India Test",
+   "url": "https://www.afp.com/en/nicholls-ton-leads-new-zealand-fightback-243-5-first-india-test-0",
+   "source": "AFP.com"
+  },
+  {
+   "title": "NZ vs IND: Jasprit Bumrah Surpasses Javagal Srinath To Enter Top 10 List Of Indian Wicket Taker In Tests",
+   "url": "https://www.sportscapemagazine.com/blog/nz-vs-ind-jasprit-bumrah-surpasses-javagal-srinath-to-enter-top-10-list-of-indian-wicket-taker-in-tests",
+   "source": "Sportscape Magazine"
+  },
   {
    "title": "In windy Wellington, India begin new era with history and form against them",
    "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/match-preview",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "related": [
+  "파운드리",
+  "중산층",
+  "오상욱",
+  "주한-미군",
+  "눈",
+  "tqqq",
+  "vix",
+  "ai-데이터-센터",
+  "오픈ai",
   "미역국",
   "t1",
   "schd",

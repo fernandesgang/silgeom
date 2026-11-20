@@ -1,0 +1,46 @@
+{
+ "keyword": "주한 미군",
+ "slug": "주한-미군",
+ "firstSeen": 1795128600.0,
+ "lastSeen": 1795134032.7492864,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795134033,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "[단독] 美 AI기반 패트리엇 요격체계, 한국에서 최초 전력화",
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/19/2ZOSY4EQCFGUJOBE43MNLX4RAM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "주한미군, 패트리엇 포대 '통합운용 시스템' IBCS 본격 전력화",
+   "url": "https://www.yna.co.kr/view/AKR20261119133800504",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "주한미군 패트리엇 포대, 美육군 첫 IBCS 운용 인증…방공망 통합 속도",
+   "url": "https://www.donga.com/news/article/all/20261119/135056413/1",
+   "source": "동아일보"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "파운드리",
+  "중산층",
+  "오상욱",
+  "눈",
+  "tqqq",
+  "vix",
+  "ai-데이터-센터",
+  "new-zealand-vs-india",
+  "오픈ai"
+ ]
+}

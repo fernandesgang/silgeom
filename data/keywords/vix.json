@@ -1,0 +1,46 @@
+{
+ "keyword": "vix",
+ "slug": "vix",
+ "firstSeen": 1795127400.0,
+ "lastSeen": 1795134032.7492864,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795134033,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "It’s Getting More and More Volatile for Stocks",
+   "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111926/card/it-s-getting-more-and-more-volatile-for-stocks-ROSooZcFbkLpYiu56lWF",
+   "source": "Barron's"
+  },
+  {
+   "title": "AAPL 261120 395.00C (AAPL261120C395000) Stock Options Chain | Quotes & News",
+   "url": "https://www.moomoo.com/options/AAPL261120C395000-US?chain_id=Name1K9-3FXPhg.1kse6g0&global_content=%7B%22promote_id%22%3A13643,%22sub_promote_id%22%3A62,%22f%22%3A%22www.moomoocn.com%2Foptions%2FTSLA260327C495000-US%22%7D",
+   "source": "Moomoo"
+  },
+  {
+   "title": "VIX Climbs to 27.7 as S&P 500 Options Signal Broader Stress",
+   "url": "https://www.tokenpost.com/news/investing/59826",
+   "source": "www.tokenpost.com"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "파운드리",
+  "중산층",
+  "오상욱",
+  "주한-미군",
+  "눈",
+  "tqqq",
+  "ai-데이터-센터",
+  "new-zealand-vs-india",
+  "오픈ai"
+ ]
+}
