@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795196759,
+ "generatedAt": 1795200351,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
    "traffic": 5000,
    "startedAt": 1795191000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -22,9 +22,9 @@
      "source": "Yahoo Sports"
     },
     {
-     "title": "India A vs Nepal Highlights, ACC Men's Asia Cup Rising Stars 2026: India bowl out Nepal for 26, clinch 306-run win",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-nepal-acc-mens-asia-cup-rising-stars-2026-live-score-match-today-scorecard-result-west-end-park-international-cricket-stadium/liveblog/136018863.cms",
-     "source": "The Times of India"
+     "title": "What are the lowest totals in one-day cricket? | List A includes domestic 50-over games, ODIs | Inshorts",
+     "url": "https://inshorts.com/en/news/what-are-the-lowest-totals-in-one-day-cricket--1795191032097",
+     "source": "Inshorts"
     }
    ]
   },
@@ -34,95 +34,85 @@
    "slug": "부동산",
    "traffic": 5000,
    "startedAt": 1795186200.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718593",
      "source": "KBS 뉴스"
+    },
+    {
+     "title": "내년 부동산 공시가 현실화율 69%로 동결",
+     "url": "https://www.donga.com/news/Economy/article/all/20261120/135063731/2",
+     "source": "동아일보"
     },
     {
      "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
      "url": "https://www.khan.co.kr/article/202611202007001",
      "source": "경향신문"
-    },
-    {
-     "title": "현실화율 동결에도…서울 고가 단지 '세 부담 확대' 전망",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445813",
-     "source": "연합인포맥스"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "엔비디아",
-   "slug": "엔비디아",
-   "traffic": 5000,
-   "startedAt": 1795182000.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "알아흘리 사우디 대 알나스르",
+   "slug": "알아흘리-사우디-대-알나스르",
+   "traffic": 500,
+   "startedAt": 1795195200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "젠슨 황 딸 폭언까지 터졌다…\"직원에 '금붕어' 호칭\" 논란",
-     "url": "https://www.hankyung.com/article/2026111982051",
-     "source": "한국경제"
+     "title": "Al Ahli vs Al Nassr: Saudi Pro League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6j9k2l339lzt",
+     "source": "BBC"
     },
     {
-     "title": "젠슨 황 몰락의 진짜 이유...루비오와 매파의 '제거 작전'",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611202259212218_005.html",
-     "source": "YTN"
+     "title": "Ivan Toney, Bento, Ibanez, Felix: Where Al Ahli vs Al Nassr will be won or lost",
+     "url": "https://sports.yahoo.com/articles/ivan-toney-bento-ibanez-felix-120000553.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "엔비디아, 6거래일새 시총 893조원 증발…\"하락 안끝났다\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01882726645647688",
-     "source": "마켓인"
+     "title": "Ronaldo leads Al-Nassr's attack in the Clasico, Al-Buraikan on the Al-Ahli bench",
+     "url": "https://www.livescore.com/en/news/football/more/ronaldo-leads-al-nassrs-attack-in-the-clasico-al-buraikan-on-the-al-ahli-bench-goal/",
+     "source": "LiveScore"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
-   "slug": "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",
-   "traffic": 5000,
-   "startedAt": 1795181400.0,
-   "change": "down",
-   "diff": 1,
-   "news": []
-  },
-  {
-   "rank": 5,
-   "keyword": "펍지",
-   "slug": "펍지",
-   "traffic": 1000,
-   "startedAt": 1795181400.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "의·치의학교육입문검사",
+   "slug": "의-치의학교육입문검사",
+   "traffic": 200,
+   "startedAt": 1795189800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드",
-     "url": "https://www.pubg.com/ko/news/11414",
-     "source": "PUBG: BATTLEGROUNDS"
+     "title": "\"대치동 몸테크, 이제 끝나나\"…AI 커닝 사태가 흔든 '학군지 집값'의 미래",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874947",
+     "source": "뉴시스"
     },
     {
-     "title": "PUBG, 베트남 선수 불매운동 여파로 스팀 매출 순위 12계단 급락",
-     "url": "https://chaovietnam.co.kr/195002/",
-     "source": "씬짜오베트남"
+     "title": "[자막뉴스] \"6년 준비해 합격\" 입 연 협성대 엠디트 수석…\"자료 모두 공개\" 냥이 딱지 벗나?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856029",
+     "source": "SBS 뉴스"
     },
     {
-     "title": "히마스-탄부 사건 이후 타격을 입은 PUBG가 한국 최고의 인기 K팝 그룹에 '도움'을 요청했다.",
-     "url": "https://www.vietnam.vn/ko/sa-sut-sau-vu-himass-tanvuu-pubg-cau-cuu-nhom-nhac-hot-nhat-han-quoc",
-     "source": "Vietnam.vn"
+     "title": "'미트 수석'도 AI 커닝 의혹 제기되자…\"1년 아닌 6년 준비\" 성적표 공개",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57329",
+     "source": "주간조선"
     }
    ]
   },
   {
-   "rank": 6,
+   "rank": 5,
    "keyword": "공포지수",
    "slug": "공포지수",
    "traffic": 200,
    "startedAt": 1795188600.0,
-   "change": "down",
+   "change": "up",
    "diff": 1,
    "news": [
     {
@@ -143,38 +133,38 @@
    ]
   },
   {
-   "rank": 7,
+   "rank": 6,
    "keyword": "연준",
    "slug": "연준",
    "traffic": 200,
    "startedAt": 1795188000.0,
-   "change": "down",
+   "change": "up",
    "diff": 1,
    "news": [
     {
-     "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824",
-     "source": "연합인포맥스"
+     "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
+     "source": "머니투데이"
     },
     {
-     "title": "美연준 고위인사 \"AI로 경제 과열…모든 선택지 가능\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120031500072",
-     "source": "연합뉴스"
+     "title": "TXT 연준, 자취 10년 차 절친 서범준과 '소분메이트' 결성",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758418",
+     "source": "국제뉴스"
     },
     {
-     "title": "\"충격 줘야 할지도\"‥또 '빅스텝' 거론",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6866901_36967.html",
-     "source": "MBC 뉴스"
+     "title": "TXT 연준, 절친의 조카 위해 유아차 선물 “아기 너무 좋아해” (나혼산)",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525544",
+     "source": "iMBC 연예"
     }
    ]
   },
   {
-   "rank": 8,
+   "rank": 7,
    "keyword": "오현민",
    "slug": "오현민",
    "traffic": 200,
    "startedAt": 1795183200.0,
-   "change": "down",
+   "change": "up",
    "diff": 1,
    "news": [
     {
@@ -191,6 +181,32 @@
      "title": "‘데블스 플랜3’ 오현민 “출연진 비난하지 말아달라”",
      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007564",
      "source": "아시아투데이"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "riemann hypothesis",
+   "slug": "riemann-hypothesis",
+   "traffic": 100,
+   "startedAt": 1795195200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+     "source": "Scientific American"
+    },
+    {
+     "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
+     "url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b",
+     "source": "WSJ"
+    },
+    {
+     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+     "source": "The Verge"
     }
    ]
   },

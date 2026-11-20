@@ -2,7 +2,7 @@
  "keyword": "부동산",
  "slug": "부동산",
  "firstSeen": 1795186200.0,
- "lastSeen": 1795196759.120457,
+ "lastSeen": 1795200351.433151,
  "peakRank": 1,
  "peakTraffic": 5000,
  "history": [
@@ -18,6 +18,16 @@
   ]
  ],
  "news": [
+  {
+   "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8718593",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "내년 부동산 공시가 현실화율 69%로 동결",
+   "url": "https://www.donga.com/news/Economy/article/all/20261120/135063731/2",
+   "source": "동아일보"
+  },
   {
    "title": "현실화율 동결에도…서울 고가 단지 '세 부담 확대' 전망",
    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445813",
@@ -43,6 +53,9 @@
   "2026-11-21"
  ],
  "related": [
+  "알아흘리-사우디-대-알나스르",
+  "의-치의학교육입문검사",
+  "riemann-hypothesis",
   "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
   "엔비디아",
   "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",
