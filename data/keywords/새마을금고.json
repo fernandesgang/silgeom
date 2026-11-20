@@ -2,7 +2,7 @@
  "keyword": "새마을금고",
  "slug": "새마을금고",
  "firstSeen": 1795039200.0,
- "lastSeen": 1795044325.6426501,
+ "lastSeen": 1795213408.38951,
  "peakRank": 10,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795044326,
    10,
    200
+  ],
+  [
+   1795213408,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "해운대구 재송1동 지역사회보장협의체, 취약계층 50세대에 `사랑의 김장김치` 전달",
+   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006534",
+   "source": "국제신문"
+  },
+  {
+   "title": "해운대구 반여1·4동 MG새마을금고, 반여1동에 MG희망나눔 김치 전달",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026112010070745549",
+   "source": "부산일보"
+  },
+  {
+   "title": "인제군자원봉사센터, 취약계층 170가구에 김장 김치 전달",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756329",
+   "source": "국제뉴스"
+  },
   {
    "title": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결",
    "url": "https://www.yna.co.kr/view/AKR20261118146000060",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-21"
  ],
  "related": [
+  "생계",
+  "김연경",
+  "카리나",
+  "김민재",
+  "비트코인",
+  "포스코",
+  "조원태",
+  "빙하",
+  "박은정",
   "미역국",
   "t1",
   "schd",

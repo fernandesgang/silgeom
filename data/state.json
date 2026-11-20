@@ -1,5 +1,17 @@
 {
  "ranks": {
+  "생계": 1,
+  "김연경": 2,
+  "카리나": 3,
+  "김민재": 4,
+  "비트코인": 5,
+  "포스코": 6,
+  "조원태": 7,
+  "빙하": 8,
+  "박은정": 9,
+  "새마을금고": 10
+ },
+ "prevRanks": {
   "황유민": 1,
   "장윤정": 2,
   "김호령": 3,
@@ -10,17 +22,5 @@
   "한국수력원자력": 8,
   "tqqq": 9
  },
- "prevRanks": {
-  "india a cricket team vs nepal national cricket team standings": 1,
-  "장윤정": 2,
-  "알아흘리 사우디 대 알나스르": 3,
-  "며느리": 4,
-  "한파": 5,
-  "트럼프": 6,
-  "al-ahli vs al-nassr": 7,
-  "riemann hypothesis": 8,
-  "변상 일": 9,
-  "fear and greed": 10
- },
- "changedAt": 1795210015.432244
+ "changedAt": 1795213408.38951
 }

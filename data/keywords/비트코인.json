@@ -1,0 +1,46 @@
+{
+ "keyword": "비트코인",
+ "slug": "비트코인",
+ "firstSeen": 1795208400.0,
+ "lastSeen": 1795213408.38951,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795213408,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "[영상] 젠슨 황 쇼크에 AI 투심 ‘휘청’…주식·코인·금 동반 급락",
+   "url": "https://www.sedaily.com/article/20115807",
+   "source": "서울경제"
+  },
+  {
+   "title": "코인셰어스 CEO, AI로 비트코인 하락 설명…AI주도 하락",
+   "url": "https://kr.beincrypto.com/coinshares-ceo-ai-bitcoin-slide/",
+   "source": "BeInCrypto"
+  },
+  {
+   "title": "블록체인 뜨는데…내 코인은 왜 안 오를까 [홍익희의 비트코인 이야기]",
+   "url": "https://www.mk.co.kr/news/columnists/12207940",
+   "source": "매일경제"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "생계",
+  "김연경",
+  "카리나",
+  "김민재",
+  "포스코",
+  "조원태",
+  "빙하",
+  "박은정",
+  "새마을금고"
+ ]
+}
