@@ -1,0 +1,46 @@
+{
+ "keyword": "농구",
+ "slug": "농구",
+ "firstSeen": 1795179000.0,
+ "lastSeen": 1795185818.3979259,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795185818,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "1R MVP 이해란 26점 폭발…여자농구 삼성생명, 4연승·단독 선두",
+   "url": "https://www.yna.co.kr/view/AKR20261120176400007",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "‘삼성생명 돌풍의 핵심’ 이해란, 데뷔 첫 라운드 MVP 수상",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8718495",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "[AI상보] '이해란 26점' 삼성생명, 하나은행 꺾고 4연승…단독 선두 도약",
+   "url": "https://www.newspim.com/news/view/20261120001208",
+   "source": "뉴스핌"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "엔비디아",
+  "컴포즈",
+  "펍지",
+  "류효영",
+  "kumar-kushagra",
+  "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
+  "김대두",
+  "비정규직",
+  "대구-fc"
+ ]
+}

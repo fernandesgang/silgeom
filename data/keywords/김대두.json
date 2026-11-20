@@ -2,7 +2,7 @@
  "keyword": "김대두",
  "slug": "김대두",
  "firstSeen": 1795096800.0,
- "lastSeen": 1795103191.8502982,
+ "lastSeen": 1795185818.3979259,
  "peakRank": 4,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795103192,
    4,
    500
+  ],
+  [
+   1795185818,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "[꼬꼬무 찐리뷰]\"갓난아기까지 죽였다\" 55일간 17명 살해…'대한민국 최초 연쇄살인마' 김대두의 소름 돋는 전말",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855694",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "표창원, '17명 살해' 김대두 사건에 충격 분석…\"지금 기준으론 기소 못해\" ('꼬꼬무')",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZTDGNJZMVRGCN3EMY3WENDFGU/",
+   "source": "조선일보"
+  },
+  {
+   "title": "17명 죽이고 뺏은 돈 고작 2만5천원…웃으며 범행 재연한 韓 최초 연쇄살인마",
+   "url": "https://www.newsis.com/view/NISX20261120_0003875968",
+   "source": "뉴시스"
+  },
   {
    "title": "55일간 17명 살해한 최초 연쇄살인마 김대두…'꼬꼬무', 그가 남긴 '수수께끼 엽서'의 정체는?",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854020",
@@ -33,6 +53,15 @@
   "2026-11-20"
  ],
  "related": [
+  "엔비디아",
+  "컴포즈",
+  "펍지",
+  "류효영",
+  "농구",
+  "kumar-kushagra",
+  "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
+  "비정규직",
+  "대구-fc",
   "앤트로픽-주가",
   "ant",
   "습관",

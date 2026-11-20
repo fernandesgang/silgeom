@@ -1,0 +1,46 @@
+{
+ "keyword": "엔비디아",
+ "slug": "엔비디아",
+ "firstSeen": 1795182000.0,
+ "lastSeen": 1795185818.3979259,
+ "peakRank": 1,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795185818,
+   1,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
+   "url": "https://www.etnews.com/20261120000030",
+   "source": "전자신문"
+  },
+  {
+   "title": "美, 중국 기업에 AI칩 88만개 수출 승인, 실제 선적은 미지수",
+   "url": "https://www.newspim.com/news/view/20261120001224",
+   "source": "뉴스핌"
+  },
+  {
+   "title": "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/11/20/2026112009474380780",
+   "source": "머니투데이"
+  }
+ ],
+ "days": [
+  "2026-11-20"
+ ],
+ "related": [
+  "컴포즈",
+  "펍지",
+  "류효영",
+  "농구",
+  "kumar-kushagra",
+  "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
+  "김대두",
+  "비정규직",
+  "대구-fc"
+ ]
+}
