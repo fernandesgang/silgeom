@@ -2,17 +2,27 @@
  "keyword": "벼",
  "slug": "벼",
  "firstSeen": 1795168200.0,
- "lastSeen": 1795174158.098497,
- "peakRank": 3,
- "peakTraffic": 1000,
+ "lastSeen": 1795177952.5119426,
+ "peakRank": 2,
+ "peakTraffic": 2000,
  "history": [
   [
    1795174158,
    3,
    1000
+  ],
+  [
+   1795177953,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "\"내년 심을 벼종자 신청하세요\"…국립종자원, 정부보급종 보급",
+   "url": "https://www.yna.co.kr/view/AKR20261119055100030",
+   "source": "연합뉴스"
+  },
   {
    "title": "벼 수매대금 미지급 논란…농가 피해액 20억원 넘어",
    "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208975",
@@ -33,6 +43,10 @@
   "2026-11-20"
  ],
  "related": [
+  "국민연금공단",
+  "이진우-부검",
+  "신영수",
+  "최미나수",
   "김장",
   "ind-a-vs-nep",
   "굿파트너2",

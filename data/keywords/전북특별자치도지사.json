@@ -2,7 +2,7 @@
  "keyword": "전북특별자치도지사",
  "slug": "전북특별자치도지사",
  "firstSeen": 1795168800.0,
- "lastSeen": 1795174158.098497,
+ "lastSeen": 1795177952.5119426,
  "peakRank": 10,
  "peakTraffic": 100,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "전북선관위, '현금 지급·미신고 계좌 지출' 도지사 후보 고발",
+   "url": "https://www.yna.co.kr/view/AKR20261120166300055",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "신고않은 계좌서 선거비용 지출한 도지사 후보…경찰 고발돼",
+   "url": "https://www.nocutnews.co.kr/news/6610457",
+   "source": "노컷뉴스"
+  },
+  {
+   "title": "안성시의회 의장, 선거법 위반 혐의로 검찰 송치…정치자금 논란 확대",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=885639",
+   "source": "공감신문"
+  },
   {
    "title": "전북도의회 \"전북을 로봇·수소 초광역특구로 지정해야\"",
    "url": "https://www.yna.co.kr/view/AKR20261120093700055",
@@ -33,6 +48,10 @@
   "2026-11-20"
  ],
  "related": [
+  "국민연금공단",
+  "이진우-부검",
+  "신영수",
+  "최미나수",
   "김장",
   "ind-a-vs-nep",
   "벼",

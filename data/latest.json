@@ -1,46 +1,20 @@
 {
- "generatedAt": 1795174158,
+ "generatedAt": 1795177953,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김장",
-   "slug": "김장",
-   "traffic": 2000,
-   "startedAt": 1795167000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
-     "source": "국제신문"
-    },
-    {
-     "title": "한성대 ESG센터, 삼선동 저소득 180가구에 김장 김치 전달",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876956",
-     "source": "뉴시스"
-    },
-    {
-     "title": "포항시새마을회, 사랑의 김장 담그기&나눔 행사로 겨울나기 온정 전해",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722666",
-     "source": "뉴스타운"
-    }
-   ]
-  },
-  {
-   "rank": 2,
    "keyword": "ind-a vs nep",
    "slug": "ind-a-vs-nep",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795168800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "India A vs Nepal live streaming: When and where to watch Rising Stars Asia Cup 2026 match?",
-     "url": "https://sports.yahoo.com/articles/india-vs-nepal-live-streaming-172600133.html",
-     "source": "Yahoo Sports"
+     "title": "India A vs Nepal Live Score, ACC Men's Asia Cup Rising Stars 2026: Tilak Varma, Kumar Kushagra fifties take India out of danger",
+     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-nepal-acc-mens-asia-cup-rising-stars-2026-live-score-match-today-scorecard-result-west-end-park-international-cricket-stadium/liveblog/136018863.cms",
+     "source": "The Times of India"
     },
     {
      "title": "Excitel Broadband steps up as Global Sponsor of the DP World Asia Cup Rising Stars 2026",
@@ -48,20 +22,20 @@
      "source": "MediaNews4U"
     },
     {
-     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-     "url": "https://www.cricbuzz.com/player-match-performance/match/177148/player/1448181/bowling",
-     "source": "Cricbuzz"
+     "title": "Vaibhav Sooryavanshi dismissed for 26 off 32 balls against Nepal in Asia Cup Rising Stars",
+     "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-26-india-a-nepal-asia-cup-rising-stars-2026/article71724092.ece",
+     "source": "Sportstar"
     }
    ]
   },
   {
-   "rank": 3,
+   "rank": 2,
    "keyword": "벼",
    "slug": "벼",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795168200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "벼 수매대금 미지급 논란…농가 피해액 20억원 넘어",
@@ -74,35 +48,61 @@
      "source": "농업인신문"
     },
     {
-     "title": "“올바른 쌀값 농민이 정해야”…파주 농민단체, 시청 앞 볏가마 야적 투쟁 돌입",
-     "url": "https://www.joongboo.com/news/articleView.html?idxno=363743048",
-     "source": "중부일보"
+     "title": "\"내년 심을 벼종자 신청하세요\"…국립종자원, 정부보급종 보급",
+     "url": "https://www.yna.co.kr/view/AKR20261119055100030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "국민연금공단",
+   "slug": "국민연금공단",
+   "traffic": 1000,
+   "startedAt": 1795171200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "어르신~ '복지로' 간편해졌어요!",
+     "url": "https://news.mtn.co.kr/article/2026112010173722714",
+     "source": "MTN 머니투데이방송"
+    },
+    {
+     "title": "국민연금, 기초연금 온라인 신청 퀴즈 이벤트…400명에게 상품권",
+     "url": "https://www.news1.kr/bio/welfare-medical/6360637",
+     "source": "뉴스1"
+    },
+    {
+     "title": "기초연금 신청 더 간편하게…배우자 동의도 모바일로",
+     "url": "https://www.dailian.co.kr/news/view/1717759/%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B8%88-%EC%8B%A0%EC%B2%AD-%EB%8D%94-%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C%EB%B0%B0%EC%9A%B0%EC%9E%90-%EB%8F%99%EC%9D%98-2026",
+     "source": "데일리안"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "굿파트너2",
-   "slug": "굿파트너2",
+   "keyword": "이진우 부검",
+   "slug": "이진우-부검",
    "traffic": 1000,
-   "startedAt": 1795167600.0,
+   "startedAt": 1795170600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'굿파트너2'서 로펌대표 된 장나라 \"전작 재미 유지하려 애썼죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120147300005",
-     "source": "연합뉴스"
+     "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329002",
+     "source": "JTBC"
     },
     {
-     "title": "스튜디오앤뉴, '굿파트너2' 제작 참여…메가 히트 IP로 연타석 흥행 노린다",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MY2GMYLEHFQWCYZVMY3DOYJRMY/",
-     "source": "조선일보"
+     "title": "리트 만점자 고발인 \"남은 흔적 어떻게든 찾아달라\" 거듭 촉구",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120203808bkQ",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "김혜윤-장나라 '우리는 굿파트너'",
-     "url": "https://www.mt.co.kr/photo/202611201501044796",
-     "source": "머니투데이"
+     "title": "‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717283",
+     "source": "KBS 뉴스"
     }
    ]
   },
@@ -110,46 +110,67 @@
    "rank": 5,
    "keyword": "2027 수능 만점자",
    "slug": "2027-수능-만점자",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795169400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": []
   },
   {
    "rank": 6,
-   "keyword": "스타벅스",
-   "slug": "스타벅스",
+   "keyword": "신영수",
+   "slug": "신영수",
    "traffic": 500,
-   "startedAt": 1795167600.0,
+   "startedAt": 1795171800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "스타벅스, ’부드러운 생크림 카스텔라’ 700원 인상…11년 만",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611201453244Qv",
-     "source": "연합뉴스TV"
+     "title": "한고은♥신영수, 알고 보니 ‘무당♥스님’ 궁합…“자식 없는 사주”",
+     "url": "https://sports.khan.co.kr/article/202611201444003",
+     "source": "스포츠경향"
     },
     {
-     "title": "스타벅스 디저트 ‘부생카’ 11년 만에 첫 가격 인상… 700원 오른다",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3450737",
-     "source": "천지일보"
+     "title": "'파묘' 자문 고춘자, 한고은에게 \"연예인 안 했으면 무속인 됐을 것\"",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6360587",
+     "source": "뉴스1"
     },
     {
-     "title": "“애들 최애 빵인데” 스타벅스, 11년 만에 ‘부생카’ 가격 인상",
-     "url": "https://www.mk.co.kr/news/business/12214933",
+     "title": "“자식 없는 팔자”…‘파묘’ 무속인, 한고은♥신영수 부부에 충격 신점",
+     "url": "https://www.mk.co.kr/news/hot-issues/12214276",
      "source": "매일경제"
     }
    ]
   },
   {
    "rank": 7,
+   "keyword": "토마스 뮐러",
+   "slug": "토마스-뮐러",
+   "traffic": 500,
+   "startedAt": 1795167600.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698852",
+     "source": "인터풋볼"
+    },
+    {
+     "title": "손흥민과 생각 달랐다…뮐러 소신 발언 “강등 없는 MLS, 목숨 걸고 싸우는 유럽과 수준 달라”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101041",
+     "source": "포포투"
+    }
+   ]
+  },
+  {
+   "rank": 8,
    "keyword": "초과근무",
    "slug": "초과근무",
    "traffic": 200,
    "startedAt": 1795168800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "[단독] 82억 특활비 부활시킨 靑, 이번엔 \"초과근무수당 2배 올려달라\"",
@@ -169,54 +190,28 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "토마스 뮐러",
-   "slug": "토마스-뮐러",
-   "traffic": 200,
-   "startedAt": 1795167600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698852",
-     "source": "인터풋볼"
-    },
-    {
-     "title": "손흥민·메시 뛰는 MLS 수준 충격 평가...레전드 뮐러 작심 고백 \"강등 없고 압박도 없어! 수비는 안일해\"",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101056",
-     "source": "포포투"
-    },
-    {
-     "title": "손흥민과 생각 달랐다…뮐러 소신 발언 “강등 없는 MLS, 목숨 걸고 싸우는 유럽과 수준 달라”",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101041",
-     "source": "포포투"
-    }
-   ]
-  },
-  {
    "rank": 9,
-   "keyword": "이더리움",
-   "slug": "이더리움",
-   "traffic": 200,
-   "startedAt": 1795167000.0,
+   "keyword": "최미나수",
+   "slug": "최미나수",
+   "traffic": 100,
+   "startedAt": 1795171200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "비트코인·금도 와르르 … 글로벌 자산시장 패닉",
-     "url": "https://stock.mk.co.kr/news/view/1203359",
-     "source": "매일경제 마켓"
+     "title": "[사진]윤경호 '대세 배우'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GZQWENZTMFSGMZDEHFQWKOLCGQ/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "비트코인 8439만 원대 하락, 금리인상 부담에 투심 악화 '1차 방어선' 6만 달러",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452467",
-     "source": "비즈니스포스트"
+     "title": "[사진]엔하이픈 제이크 '왕자님의 여유'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GIYGKMZYGQ2DSODDG5SDCZLDGI/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "휘청이는 비트코인…NH증권 \"디베이스먼트 재부각 필요\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445655",
-     "source": "연합인포맥스"
+     "title": "'2026 MAMA' 간 김혜수, 볼륨 강조한 드레스 자태…'시선 강탈' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112019044436645",
+     "source": "머니투데이"
     }
    ]
   },
@@ -226,23 +221,23 @@
    "slug": "전북특별자치도지사",
    "traffic": 100,
    "startedAt": 1795168800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "전북도의회 \"전북을 로봇·수소 초광역특구로 지정해야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120093700055",
+     "title": "전북선관위, '현금 지급·미신고 계좌 지출' 도지사 후보 고발",
+     "url": "https://www.yna.co.kr/view/AKR20261120166300055",
      "source": "연합뉴스"
     },
     {
-     "title": "전북도의회 \"특별법 조속히 제정해 로봇·수소 특구 지정하라\"",
-     "url": "https://www.news1.kr/local/jeonbuk/6360858",
-     "source": "뉴스1"
+     "title": "신고않은 계좌서 선거비용 지출한 도지사 후보…경찰 고발돼",
+     "url": "https://www.nocutnews.co.kr/news/6610457",
+     "source": "노컷뉴스"
     },
     {
-     "title": "\"로봇·수소 초광역특구 전북 지정\"…도의회, 촉구 건의안",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876520",
-     "source": "뉴시스"
+     "title": "안성시의회 의장, 선거법 위반 혐의로 검찰 송치…정치자금 논란 확대",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=885639",
+     "source": "공감신문"
     }
    ]
   }
