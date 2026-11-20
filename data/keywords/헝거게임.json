@@ -2,7 +2,7 @@
  "keyword": "헝거게임",
  "slug": "헝거게임",
  "firstSeen": 1794999000.0,
- "lastSeen": 1795007958.6375785,
+ "lastSeen": 1795170120.220901,
  "peakRank": 7,
  "peakTraffic": 200,
  "history": [
@@ -20,9 +20,29 @@
    1795007959,
    8,
    200
+  ],
+  [
+   1795170120,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "캣니스의 스승은 어떻게 살아남았나…24년 전으로 돌아간 ‘헝거게임’",
+   "url": "https://www.donga.com/news/Culture/article/all/20261120/135060632/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
+   "url": "https://www.yna.co.kr/view/AKR20261114033700005",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "25년 전 추첨의 날, 저항은 이미 시작되었다",
+   "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003286439",
+   "source": "오마이스타"
+  },
   {
    "title": "[포토] 엘 패닝 ‘동화 속 비주얼’",
    "url": "https://www.seoul.co.kr/news/entertainment/foreigncountryN/2026/11/17/20261117500296",
@@ -40,9 +60,19 @@
   }
  ],
  "days": [
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-20"
  ],
  "related": [
+  "005930",
+  "황재균",
+  "푸른길",
+  "교수",
+  "정유라",
+  "디플러스기아",
+  "닛케이-평균주가",
+  "김치의-날",
+  "ktx-지연",
   "교통-사고",
   "cuaca-besok",
   "twitch",
@@ -53,8 +83,6 @@
   "삼양식품",
   "gta5",
   "국제신문",
-  "유칼",
-  "포스코노동조합",
-  "미래에셋생명"
+  "유칼"
  ]
 }

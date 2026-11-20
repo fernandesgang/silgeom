@@ -2,17 +2,37 @@
  "keyword": "교수",
  "slug": "교수",
  "firstSeen": 1795159200.0,
- "lastSeen": 1795166181.4193463,
- "peakRank": 8,
- "peakTraffic": 200,
+ "lastSeen": 1795170120.220901,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795166181,
    8,
    200
+  ],
+  [
+   1795170120,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "김병규 교수 “AI 캐릭터챗 시장 무섭게 성장…도파민 보상 다음은 감정 의존”",
+   "url": "https://www.sedaily.com/article/20117112",
+   "source": "서울경제"
+  },
+  {
+   "title": "이경상 KAIST 교수 \"AI로 개인 생산성 올랐는데 조직 생산성은 안 올라\"",
+   "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/20/2026112050288.html",
+   "source": "뉴데일리 충청세종"
+  },
+  {
+   "title": "생각할 시간에 묻고 ‘복붙’ 합니다…직장인 3분의2, AI 없으면 일 못해",
+   "url": "https://stock.mk.co.kr/news/view/1201077",
+   "source": "매일경제 마켓"
+  },
   {
    "title": "엄애선 한양대 교수팀, 딸기 독소 생성 미생물 규명…농산물 위생관리 연구",
    "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72114",
@@ -33,6 +53,9 @@
   "2026-11-20"
  ],
  "related": [
+  "김치의-날",
+  "헝거게임",
+  "ktx-지연",
   "005930",
   "이지영",
   "황재균",

@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795166181,
+ "generatedAt": 1795170120,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "005930",
    "traffic": 5000,
    "startedAt": 1795159800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -30,38 +30,12 @@
   },
   {
    "rank": 2,
-   "keyword": "이지영",
-   "slug": "이지영",
-   "traffic": 1000,
-   "startedAt": 1795159800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“얘들아, 큰일 났다”…‘일타강사’ 이지영의 예측 등급 컷은? [잇슈#태그]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718540",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "\"큰일 났네\"…'수능 3분 컷' 이지영, 올해 문제 풀더니",
-     "url": "https://www.hankyung.com/article/202611209605H",
-     "source": "한국경제"
-    },
-    {
-     "title": "이지혜 세무사 남편, 5년 공부해서 합격했는데…AI부정사태에 \"분노 치밀어 올라\"[핫피플]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GE4GKMZSG4YDON3CMFQWEYJWMM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "황재균",
    "slug": "황재균",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795161000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "전현무, 마당발인 줄 알았더니 “사적으로 만나는 사람 5명도 안돼”(‘현무로드’)",
@@ -81,13 +55,13 @@
    ]
   },
   {
-   "rank": 4,
+   "rank": 3,
    "keyword": "푸른길",
    "slug": "푸른길",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795162200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "[문화연예 플러스] 손석구, '푸른길'서 또 형사 역할 도전",
@@ -107,28 +81,54 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "조국",
-   "slug": "조국",
-   "traffic": 200,
-   "startedAt": 1795161600.0,
-   "change": "new",
-   "diff": 0,
+   "rank": 4,
+   "keyword": "교수",
+   "slug": "교수",
+   "traffic": 500,
+   "startedAt": 1795159200.0,
+   "change": "up",
+   "diff": 4,
    "news": [
     {
-     "title": "민주, 의총서 ‘조희대 대법원장 탄핵 추진’ 당론 결정",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/20/JCC32DKLRFDENO4HJG7UKCNCHM/",
-     "source": "조선일보"
+     "title": "김병규 교수 “AI 캐릭터챗 시장 무섭게 성장…도파민 보상 다음은 감정 의존”",
+     "url": "https://www.sedaily.com/article/20117112",
+     "source": "서울경제"
     },
     {
-     "title": "與 조희대 탄핵추진단 \"한덕수 내란 판결 탄핵 사유 포함 검토\" - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/20/2026112017121837119",
+     "title": "이경상 KAIST 교수 \"AI로 개인 생산성 올랐는데 조직 생산성은 안 올라\"",
+     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/20/2026112050288.html",
+     "source": "뉴데일리 충청세종"
+    },
+    {
+     "title": "생각할 시간에 묻고 ‘복붙’ 합니다…직장인 3분의2, AI 없으면 일 못해",
+     "url": "https://stock.mk.co.kr/news/view/1201077",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "정유라",
+   "slug": "정유라",
+   "traffic": 200,
+   "startedAt": 1795162200.0,
+   "change": "up",
+   "diff": 4,
+   "news": [
+    {
+     "title": "\"장기라도 팔고 싶어\" 무릎 꿇었던 정유라…최순실 병원비 재차 호소 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111823270936147",
      "source": "머니투데이"
     },
     {
-     "title": "대법 ‘국헌문란 목적’ 엄밀히…고위직 내란 혐의 ‘축소 처벌’ 우려",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288331.html",
-     "source": "한겨레"
+     "title": "\"최후의 순간까지 박 대통령 편이었던 엄마 외면 말라\"…정유라, 병원비 지원 재차 호소",
+     "url": "https://busan.fnnews.com/news/202611190635493105",
+     "source": "부산파이낸셜뉴스"
+    },
+    {
+     "title": "정유라 “박근혜 대통령 편이었던 어머니 살려 달라”…병원비 다시 호소",
+     "url": "https://www.kyeonggi.com/article/20261118580642",
+     "source": "경기일보"
     }
    ]
   },
@@ -138,7 +138,7 @@
    "slug": "디플러스기아",
    "traffic": 200,
    "startedAt": 1795161000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -164,9 +164,14 @@
    "slug": "닛케이-평균주가",
    "traffic": 200,
    "startedAt": 1795160400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
+    {
+     "title": "앤트로픽 쏠림·대중규제 우려 … 반도체株 곤두박질",
+     "url": "https://www.mk.co.kr/news/stock/12214868",
+     "source": "매일경제"
+    },
     {
      "title": "[기획] 손정의도 “그때 투자할 걸”… 앤트로픽 IPO 흥행 신기록",
      "url": "https://www.dt.co.kr/article/12096157",
@@ -176,63 +181,84 @@
      "title": "日소프트뱅크, 장중 16% 폭락…아시아 증시 매도세 주도",
      "url": "https://www.yna.co.kr/view/AKR20261120109800009",
      "source": "연합뉴스"
-    },
-    {
-     "title": "앤트로픽 쏠림·대중규제 우려 … 반도체株 곤두박질",
-     "url": "https://stock.mk.co.kr/news/view/1203358",
-     "source": "매일경제 마켓"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "교수",
-   "slug": "교수",
-   "traffic": 200,
-   "startedAt": 1795159200.0,
+   "keyword": "김치의 날",
+   "slug": "김치의-날",
+   "traffic": 100,
+   "startedAt": 1795164000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "엄애선 한양대 교수팀, 딸기 독소 생성 미생물 규명…농산물 위생관리 연구",
-     "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72114",
-     "source": "한국영농신문"
+     "title": "김혜경 여사, 제7회 김치의 날 기념식 - 포토 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74425&pageIndex=1",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "건국대 이현출 교수 ‘21세기 정치와 한국민주주의' 출간.. '인구감소/기후위기/AI 시대 한국 민주주의 과제 짚어'",
-     "url": "https://www.veritas-a.com/news/articleView.html?idxno=638434",
-     "source": "베리타스알파"
+     "title": "김장 양념 질문받은 김혜경 여사 “이건 기밀인데…”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261120/135060404/2",
+     "source": "동아일보"
     },
     {
-     "title": "\"양극화·AI 시대 공동체 해법 모색\"…민주주의의 나아갈 방향",
-     "url": "https://www.news1.kr/life-culture/book/6357404",
-     "source": "뉴스1"
+     "title": "김장체험 나선 金여사…\"김치, 세계인의 식탁에 오래 머물길\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120118200001",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "정유라",
-   "slug": "정유라",
+   "keyword": "헝거게임",
+   "slug": "헝거게임",
    "traffic": 100,
-   "startedAt": 1795162200.0,
+   "startedAt": 1795164000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"장기라도 팔고 싶어\" 무릎 꿇었던 정유라…최순실 병원비 재차 호소 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/19/2026111823270936147",
-     "source": "머니투데이"
+     "title": "캣니스의 스승은 어떻게 살아남았나…24년 전으로 돌아간 ‘헝거게임’",
+     "url": "https://www.donga.com/news/Culture/article/all/20261120/135060632/1",
+     "source": "동아일보"
     },
     {
-     "title": "\"최후의 순간까지 박 대통령 편이었던 엄마 외면 말라\"…정유라, 병원비 지원 재차 호소",
-     "url": "https://busan.fnnews.com/news/202611190635493105",
-     "source": "부산파이낸셜뉴스"
+     "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
+     "url": "https://www.yna.co.kr/view/AKR20261114033700005",
+     "source": "연합뉴스"
     },
     {
-     "title": "정유라 “박근혜 대통령 편이었던 어머니 살려 달라”…병원비 다시 호소",
-     "url": "https://www.kyeonggi.com/article/20261118580642",
-     "source": "경기일보"
+     "title": "25년 전 추첨의 날, 저항은 이미 시작되었다",
+     "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003286439",
+     "source": "오마이스타"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "ktx 지연",
+   "slug": "ktx-지연",
+   "traffic": 100,
+   "startedAt": 1795161000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "부산행 KTX 고장에 450명 환승…16개 열차 지연",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120115059aNB",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "부산행 KTX 동대구역 부근서 고장…잦은 지연에 승객 불만",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261120.99099006577",
+     "source": "국제신문"
+    },
+    {
+     "title": "KTX 고장에 경부선 열차 81편 지연…저녁까지 운행 차질(종합2보)",
+     "url": "https://www.yna.co.kr/view/AKR20261120059452053",
+     "source": "연합뉴스"
     }
    ]
   }
