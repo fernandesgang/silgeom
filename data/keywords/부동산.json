@@ -1,0 +1,45 @@
+{
+ "keyword": "부동산",
+ "slug": "부동산",
+ "firstSeen": 1795186200.0,
+ "lastSeen": 1795193252.1053905,
+ "peakRank": 1,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795193252,
+   1,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+   "url": "https://www.chosun.com/economy/real_estate/2026/11/21/T2N6SYATRBDYJOGZ3A4LGNKKGA/",
+   "source": "조선일보"
+  },
+  {
+   "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
+   "url": "https://www.khan.co.kr/article/202611202007001",
+   "source": "경향신문"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "엔비디아",
+  "미국-반도체-수출-통제로-인한-삼성전자와-tsmc의-중국-출하-중단-뉴스-알려줘",
+  "펍지",
+  "공포지수",
+  "연준",
+  "오현민",
+  "류효영",
+  "세계사-2-번"
+ ]
+}
