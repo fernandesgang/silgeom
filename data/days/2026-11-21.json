@@ -131,15 +131,15 @@
    "slug": "장윤정",
    "firstSeen": 1795203000.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795207085.190639
+   "peakTraffic": 2000,
+   "lastSeen": 1795210015.432244
   },
   "며느리": {
    "slug": "며느리",
    "firstSeen": 1795203000.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795207085.190639
+   "peakTraffic": 500,
+   "lastSeen": 1795210015.432244
   },
   "한파": {
    "slug": "한파",
@@ -175,6 +175,55 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795207085.190639
+  },
+  "황유민": {
+   "slug": "황유민",
+   "firstSeen": 1795206000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795210015.432244
+  },
+  "김호령": {
+   "slug": "김호령",
+   "firstSeen": 1795205400.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795210015.432244
+  },
+  "김수현": {
+   "slug": "김수현",
+   "firstSeen": 1795204800.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795210015.432244
+  },
+  "아틀레틱 대 에스파뇰": {
+   "slug": "아틀레틱-대-에스파뇰",
+   "firstSeen": 1795204800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795210015.432244
+  },
+  "당구": {
+   "slug": "당구",
+   "firstSeen": 1795206000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795210015.432244
+  },
+  "한국수력원자력": {
+   "slug": "한국수력원자력",
+   "firstSeen": 1795204800.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795210015.432244
+  },
+  "tqqq": {
+   "slug": "tqqq",
+   "firstSeen": 1795203600.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795210015.432244
   }
  }
 }

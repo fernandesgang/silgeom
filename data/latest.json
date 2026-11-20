@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795207085,
+ "generatedAt": 1795210015,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "india a cricket team vs nepal national cricket team standings",
-   "slug": "india-a-cricket-team-vs-nepal-national-cricket-team-standing",
-   "traffic": 5000,
-   "startedAt": 1795191000.0,
-   "change": "same",
+   "keyword": "황유민",
+   "slug": "황유민",
+   "traffic": 2000,
+   "startedAt": 1795206000.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "India A beat Nepal, India A won by 306 runs",
-     "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/live-cricket-score",
-     "source": "Cricinfo"
+     "title": "김아림, LPGA 시즌 최종전 투어 챔피언십 첫날 공동 선두",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718205",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "Nepal bowled out for 26 by India A: Why it won't be the lowest ODI total ever",
-     "url": "https://sports.yahoo.com/articles/nepal-bowled-26-india-why-160544669.html",
-     "source": "Yahoo Sports"
+     "title": "유해란, 투어 챔피언십 첫날 공동 4위",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261120_0002297379&provider_id=&cID=&type=Main&catg=&idx=7",
+     "source": "뉴시스"
     },
     {
-     "title": "India A vs Nepal Highlights, ACC Men's Asia Cup Rising Stars 2026: India bowl out Nepal for 26, clinch 306-run win",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-nepal-acc-mens-asia-cup-rising-stars-2026-live-score-match-today-scorecard-result-west-end-park-international-cricket-stadium/liveblog/136018863.cms",
-     "source": "The Times of India"
+     "title": "유해란·최혜진 출격…LPGA 최종전 우승 정조준",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611192328491Gn",
+     "source": "연합뉴스TV"
     }
    ]
   },
@@ -32,9 +32,9 @@
    "rank": 2,
    "keyword": "장윤정",
    "slug": "장윤정",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795203000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -56,38 +56,80 @@
   },
   {
    "rank": 3,
-   "keyword": "알아흘리 사우디 대 알나스르",
-   "slug": "알아흘리-사우디-대-알나스르",
-   "traffic": 500,
-   "startedAt": 1795195200.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "김호령",
+   "slug": "김호령",
+   "traffic": 1000,
+   "startedAt": 1795205400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League",
-     "url": "https://www.foxsports.com/stories/soccer/cristiano-ronaldo-misses-penalty-al-nassr-falls-3rd-saudio-pro-league",
-     "source": "FOX Sports"
+     "title": "‘중견수 대어’ 최지훈 SSG 잔류…FA C등급 김호령 거취에 촉각",
+     "url": "https://www.donga.com/news/Sports/article/all/20261120/135062951/1",
+     "source": "동아일보"
     },
     {
-     "title": "Cristiano Ronaldo upstaged by England star as Al-Nassr beaten",
-     "url": "https://www.the-independent.com/bulletin/sport/al-ahli-al-nassr-result-cristiano-ronaldo-ivan-toney-b3088954.html",
-     "source": "The Independent"
+     "title": "[프로야구] 외야 남은 FA 최대어, KIA 김호령 두산 정수빈 행선지는",
+     "url": "https://www.newspim.com/news/view/20261119001002",
+     "source": "뉴스핌"
     },
     {
-     "title": "Cristiano Ronaldo reaches 986 career goals: Where is Lionel Messi standing in the race to 1,000?",
-     "url": "https://bolavip.com/en/soccer/cristiano-ronaldo-reaches-986-career-goals-where-is-lionel-messi-standing-in-the-race-to-1000",
-     "source": "Bolavip US"
+     "title": "최지훈·오태곤 잡은 SSG, 남은 내부 FA 문승원 뿐…외부 FA도 '눈독'",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874949",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "며느리",
-   "slug": "며느리",
-   "traffic": 200,
-   "startedAt": 1795203000.0,
+   "keyword": "김수현",
+   "slug": "김수현",
+   "traffic": 1000,
+   "startedAt": 1795204800.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "법원 \"사생활 논란' 김수현 측, 쿠쿠에 모델료 8억원 돌려줘야\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261120149251004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "법원 “‘사생활 의혹’ 김수현 소속사가 쿠쿠에 8억 원 배상”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718583",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "김수현 측, 광고주에 또 거액 물어준다…쿠쿠에 8.7억 배상 판결",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57328",
+     "source": "주간조선"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "아틀레틱 대 에스파뇰",
+   "slug": "아틀레틱-대-에스파뇰",
+   "traffic": 500,
+   "startedAt": 1795204800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "아틀레틱 클럽 대 에스파뇰 경기 예측: 다득점 경기가 예상됩니다.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-athletic-club-vs-espanyol-hua-hen-man-doi-cong",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "며느리",
+   "slug": "며느리",
+   "traffic": 500,
+   "startedAt": 1795203000.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "젖 먹이는 며느리에게 홈캠 영상 보내라는 시부…\"기저귀 가는 것도 요구\"",
@@ -107,158 +149,80 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "한파",
-   "slug": "한파",
-   "traffic": 200,
-   "startedAt": 1795200600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'수능 한파' 주말까지 더 심해진다...호남·제주 대설주의보",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611201102112705",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "[내일날씨] 아침 최저 영하 6도 추위…충청·전라 곳곳 눈",
-     "url": "https://edata.ekn.kr/article/view/ekn202611190008",
-     "source": "기후에너지데이터뱅크"
-    },
-    {
-     "title": "수능 한파에 서해안 대설까지…내일까지 최대 10cm",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717555",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "트럼프",
-   "slug": "트럼프",
-   "traffic": 200,
-   "startedAt": 1795197000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "시진핑은 한창 연설 중인데... 80세 트럼프 꾸벅, 졸았나?",
-     "url": "https://www.chosun.com/international/international_general/2026/11/20/JQSXIBUW7BH7NKQ7UTE7QCIQPM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "트럼프 “한반도 위협 대응 논의”…미·중·러 정상회담 성과 강조",
-     "url": "https://www.voakorea.com/a/trump-press-conference-112026/8226161.html",
-     "source": "VOA 한국어 홈페이지"
-    },
-    {
-     "title": "소문난 잔치 먹을 것 없었다‥'쇼'하러 왔다 간 미중러",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867373_37004.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
    "rank": 7,
-   "keyword": "al-ahli vs al-nassr",
-   "slug": "al-ahli-vs-al-nassr",
-   "traffic": 100,
-   "startedAt": 1795200600.0,
+   "keyword": "당구",
+   "slug": "당구",
+   "traffic": 200,
+   "startedAt": 1795206000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr",
-     "url": "https://www.reutersconnect.com/item/saudi-pro-league-al-ahli-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxRTI0Tkk",
-     "source": "Reuters Connect"
+     "title": "제16회 중구청장배·제17회 연맹회장배 당구대회 개최",
+     "url": "https://www.junggunews.com/news/articleView.html?idxno=42979",
+     "source": "중구신문"
     },
     {
-     "title": "Al-Ahli Jeddah vs Al-Nassr - Prediction, where to watch, kick-off time and line-ups 15-10-2026",
-     "url": "https://onefootball.com/en/betting/predictions/al-ahli-jeddah-vs-al-nassr-15-10-2026",
-     "source": "OneFootball"
+     "title": "‘대학 자퇴하고 당구선수 데뷔’ LPBA 이선영 “반대하던 부모님 4강 진출하자 기뻐하셔”",
+     "url": "https://mkbn.mk.co.kr/news/sports/12214637",
+     "source": "mkbn.mk.co.kr"
     },
     {
-     "title": "Ronaldo leads Al-Nassr's attack in the Clasico, Al-Buraikan on the Al-Ahli bench",
-     "url": "https://www.goal.com/en/news/ronaldo-leads-al-nassr-s-attack-in-the-clasico-al-buraikan-on-the-al-ahli-bench/blt1f13bfa68eda6d8d",
-     "source": "Goal.com"
+     "title": "“우연히 만나 운명이 된 당구…0대2로 뒤진 막판이라 마인드셋”",
+     "url": "https://www.sedaily.com/article/20117103",
+     "source": "서울경제"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "riemann hypothesis",
-   "slug": "riemann-hypothesis",
-   "traffic": 100,
-   "startedAt": 1795195200.0,
-   "change": "same",
+   "keyword": "한국수력원자력",
+   "slug": "한국수력원자력",
+   "traffic": 200,
+   "startedAt": 1795204800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
-     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-     "source": "Scientific American"
+     "title": "한수원 “대우건설 컨소시엄과 체코원전 시공 공동협약 종료”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718545",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "Anthropic mathematician Levent Alpoge claims Claude helped prove the Riemann Hypothesis",
-     "url": "https://runtimewire.com/article/alpoge-claims-claude-riemann-hypothesis-proof",
-     "source": "RuntimeWire"
+     "title": "체코 두코바니원전 냉각탑 2파전…한수원, 후속발주 ‘착착’",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375054",
+     "source": "전기신문"
     },
     {
-     "title": "Anthropic Employee Says “Proved the Riemann Hypothesis”... Could Be a Milestone for AI Singularity if True",
-     "url": "https://en.fnnews.com/news/202611210414035344",
-     "source": "파이낸셜뉴스"
+     "title": "[단독 ]26조 체코 원전 ‘수익성 비상’… 한수원, ‘현지화율 60%’ 체코 요구 대응 착수",
+     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315838",
+     "source": "스트레이트뉴스"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "변상 일",
-   "slug": "변상-일",
-   "traffic": 100,
-   "startedAt": 1795194600.0,
+   "keyword": "tqqq",
+   "slug": "tqqq",
+   "traffic": 200,
+   "startedAt": 1795203600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "변상일 9단, 1% 승률 극복하고 삼성화재배 첫 우승",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718510",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "신진서 22연승 끊더니, 결승에선 '승률 1%'도 뒤집었다... 변상일, 15번째 도전 끝에 삼성화재배 첫 우승 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/20/2026112022055493325",
-     "source": "머니투데이"
-    },
-    {
-     "title": "‘불사조’ 변상일, 지옥에서 살아 돌아오다 [서정보 기자의 반집패]",
-     "url": "https://www.donga.com/news/Sports/article/all/20261120/135061698/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "fear and greed",
-   "slug": "fear-and-greed",
-   "traffic": 100,
-   "startedAt": 1795191600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-     "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-breaks-below-60k-crypto-163559501.html",
+     "title": "EXCLUSIVE: Tesla Still Rules Leveraged ETFs, but Anthropic IPO and Micron’s Rise Signal What’s Next",
+     "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-tesla-still-rules-leveraged-033004009.html",
      "source": "Yahoo Finance"
     },
     {
-     "title": "Fear & Greed Index falls to 14 as extreme fear grips markets",
-     "url": "https://cryptobriefing.com/fear-greed-index-falls-to-14-extreme-fear/",
-     "source": "Crypto Briefing"
+     "title": "Pain in TQQQ, SOXL may offer silver lining for tech stocks - SocGen",
+     "url": "https://seekingalpha.com/news/4674377-pain-in-tqqq-soxl-may-offer-silver-lining-for-tech-stocks-socgen",
+     "source": "Seeking Alpha"
     },
     {
-     "title": "Social Fears Are COOLING As Crypto Searches For Relief",
-     "url": "https://app.santiment.net/insights/read/social-fears-are-cooling-as-crypto-searches-for-relief-11332",
-     "source": "Santiment"
+     "title": "TQQQ and SOXL are close to giving back all annual gains while underlying ETFs are still up, SocGen notes",
+     "url": "https://tradersunion.com/news/market-voices/show/4308773-tqqq-soxl-yearly-gains/",
+     "source": "Traders Union"
     }
    ]
   }
