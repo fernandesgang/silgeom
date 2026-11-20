@@ -1,172 +1,99 @@
 {
- "generatedAt": 1795142452,
+ "generatedAt": 1795146096,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "영장",
-   "slug": "영장",
-   "traffic": 50000,
-   "startedAt": 1795135800.0,
+   "keyword": "손흥민",
+   "slug": "손흥민",
+   "traffic": 10000,
+   "startedAt": 1795138800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[속보] 교육부 \"수능 전자기기 부정행위 총 111건 적발\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120073100530",
+     "title": "'149억 원' 손흥민, MLS 연봉 4위‥부동의 1위는 메시",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867190_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "'149억원' 손흥민, 10월 기준 MLS 연봉 4위…메시는 부동의 1위",
+     "url": "https://www.yna.co.kr/view/AKR20261120045800007",
      "source": "연합뉴스"
     },
     {
-     "title": "성균관대 면접용 가운·앞치마까지 등장…대학들, 이번 주말 수시논술 앞두고 새 지침 마련",
-     "url": "https://www.hani.co.kr/arti/society/schooling/1288299.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "각종 대책에도 쏟아진 부정행위…대학 논술 시험장도 비상",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120095529LHL",
+     "title": "‘149억’ 손흥민, MLS 연봉 4위…레반도프스키·그리에즈만 가세에 두 계단 하락",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120094541sky",
      "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "논현동",
-   "slug": "논현동",
-   "traffic": 10000,
-   "startedAt": 1795133400.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "배치표",
+   "slug": "배치표",
+   "traffic": 2000,
+   "startedAt": 1795141800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874712",
-     "source": "뉴시스"
+     "title": "‘불수능’ 사라지자 SKY 문턱 껑충… 서울대 의예 298점·경영 287점 전망",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135059516/1",
+     "source": "동아일보"
     },
     {
-     "title": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MIZWGOJWGU3GEZDGMJSTGYRRG4/",
-     "source": "Chosunbiz"
+     "title": "[단독][2027수능 가채점배치표] 빅5 의대, 고대 의대 298점 '최고' (종로)",
+     "url": "https://www.veritas-a.com/news/articleView.html?idxno=638289",
+     "source": "베리타스알파"
     },
     {
-     "title": "유희열에 ‘연 4.4억’ 내는 안테나…2배 큰 ‘198억’ 유재석 건물로 이사가나?",
-     "url": "https://www.sportsseoul.com/news/read/1651112",
-     "source": "스포츠서울"
+     "title": "SKY 의대 합격선 ‘298점’… 작년보다 최고 10점 올라",
+     "url": "https://www.munhwa.com/article/11632917",
+     "source": "문화일보"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "물수리",
-   "slug": "물수리",
-   "traffic": 1000,
-   "startedAt": 1795135200.0,
-   "change": "up",
-   "diff": 2,
+   "keyword": "시애틀 사운더스 대 솔트레이크",
+   "slug": "시애틀-사운더스-대-솔트레이크",
+   "traffic": 2000,
+   "startedAt": 1795140600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
-     "source": "KBS 뉴스"
+     "title": "SEAvRSL 101 Preview: All you need to know when the Sounders host Real Salt Lake in the 2026 Audi MLS Cup Playoffs Wildcard Round, pres. by Ticketmaster",
+     "url": "https://www.soundersfc.com/news/seavrsl-101-preview-all-you-need-to-know-when-the-sounders-host-real-salt-lake-in-the-2026-audi-mls-cup-playoffs-wildcard-round-pres-by-ticketmaster",
+     "source": "Seattle Sounders FC"
     },
     {
-     "title": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
-     "url": "https://www.khan.co.kr/article/202611191400001",
-     "source": "경향신문"
+     "title": "Expectations be damned: Sounders enter playoffs with something to prove",
+     "url": "https://www.sounderatheart.com/2026/11/expectations-be-damned-sounders-enter-playoffs-with-something-to-prove/",
+     "source": "Sounder at Heart"
     },
     {
-     "title": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
-     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
-     "source": "서울Pn"
+     "title": "How Sounders can still salvage a disappointing season",
+     "url": "https://www.seattletimes.com/sports/sounders/sounders-try-to-salvage-disappointing-season-in-mls-playoffs/",
+     "source": "The Seattle Times"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "경기도교육청",
-   "slug": "경기도교육청",
-   "traffic": 1000,
-   "startedAt": 1795135200.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "[수능] 전북 'AI부정행위' 없어…응시방법 위반 등은 적발(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119068751055",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "2027 대입수능 이모저모, 모두가 한마음…올해 수능도 큰 사고없이 마무리",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073141",
-     "source": "경상일보"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "이의리",
-   "slug": "이의리",
-   "traffic": 1000,
-   "startedAt": 1795133400.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "“일본까지 다시 갔는데…” KIA 이의리, 선발 복귀보다 먼저 풀어야 할 숙제",
-     "url": "http://www.ftimes.kr/news/articleView.html?idxno=41243",
-     "source": "FT스포츠"
-    },
-    {
-     "title": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "유니클로",
-   "slug": "유니클로",
-   "traffic": 1000,
-   "startedAt": 1795133400.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
-     "url": "https://www.hankyung.com/article/2026111982391",
-     "source": "한국경제"
-    },
-    {
-     "title": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119033100009",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“아무것도 이룬 게 없다” 2주간 통곡한 손정의…“AI에 남은 인생 바친다”",
-     "url": "https://www.joongang.co.kr/article/25479855",
-     "source": "중앙일보"
-    }
-   ]
-  },
-  {
-   "rank": 7,
    "keyword": "샌안토니오 대 la 클리퍼스",
    "slug": "샌안토니오-대-la-클리퍼스",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795136400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
+    {
+     "title": "How to Watch Clippers vs. Spurs for Free: TV Channels, Live Stream Options",
+     "url": "https://sports.yahoo.com/articles/watch-clippers-vs-spurs-free-000000389.html",
+     "source": "Yahoo Sports"
+    },
     {
      "title": "It’s time for Basketball: San Antonio Spurs vs Los Angeles Clippers",
      "url": "https://www.poundingtherock.com/spurs-discussion-threads/110410/its-time-for-basketball-san-antonio-spurs-vs-los-angeles-clippers",
@@ -176,11 +103,84 @@
      "title": "Clippers vs. Spurs Prediction, Odds and Best NBA Prop Bets for Thursday, Nov. 19",
      "url": "https://www.si.com/betting/clippers-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-19-2026",
      "source": "Sports Illustrated"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "키오스크",
+   "slug": "키오스크",
+   "traffic": 500,
+   "startedAt": 1795140600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
+     "source": "주간조선"
     },
     {
-     "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Spurs",
-     "url": "https://www.nba.com/clippers/news/clippers-vs-spurs-preview-2026-11-19",
-     "source": "NBA.com"
+     "title": "“카페 키오스크 앞 어르신 손 덜덜…” 직원 날 선 말투 ‘뭇매’",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288156.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "커피 마시려다 봉변…\"손까지 덜덜\" 카페 영상 확산하자",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854828",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "굿파트너",
+   "slug": "굿파트너",
+   "traffic": 500,
+   "startedAt": 1795140000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“상간녀 5명 월화수목금 느낌 엄청나” 장나라, 불륜 사건에 ‘경악’",
+     "url": "https://www.twig24.com/news/entertainments/2026/11/18/20261118500099",
+     "source": "TWIG"
+    },
+    {
+     "title": "인연 잇는다…펀치, '굿파트너2' 첫 OST 가창",
+     "url": "https://www.etnews.com/20261120000022",
+     "source": "전자신문"
+    },
+    {
+     "title": "SBS 새 드라마 '굿파트너2', 내일 첫 방송",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852793",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "제네시스 g80",
+   "slug": "제네시스-g80",
+   "traffic": 500,
+   "startedAt": 1795138800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "제네시스, ‘G80 하이브리드’ LA서 첫 공개…연비 34% 개선",
+     "url": "https://www.khan.co.kr/article/202611200923001",
+     "source": "경향신문"
+    },
+    {
+     "title": "\"주유소 사장님, 저 당분간 못 와요\"…확 달라진 국산차 정체",
+     "url": "https://www.hankyung.com/article/202611209146g",
+     "source": "한국경제"
+    },
+    {
+     "title": "제네시스, LA 오토쇼서 G80 하이브리드 최초 공개... 북미 고급 하이브리드 시장 첫발",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/20/DESJLW7PAJHYZEWBJMUWCZCCQY/",
+     "source": "조선일보"
     }
    ]
   },
@@ -190,7 +190,7 @@
    "slug": "검찰",
    "traffic": 200,
    "startedAt": 1795137600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -199,51 +199,25 @@
      "source": "조선일보"
     },
     {
-     "title": "이재명 탈옥법 폐지 촉구 규탄사 하는 정점식",
-     "url": "https://www.newsis.com/view/NISI20261120_0021539949",
-     "source": "뉴시스"
+     "title": "홍대로 간 국민의힘 \"특검법 폐기해야‥조희대 탄핵은 광기\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6867200_36911.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "국힘, 홍대·신촌 일대서 조작기소 특검법 폐지 촉구 도보행진",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6867164_36911.html",
-     "source": "MBC 뉴스"
+     "title": "검찰미래위, '李대통령 기소' 위례 개발비리 등 3건 재논의",
+     "url": "https://www.yna.co.kr/view/AKR20261120079000004",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "fc 포항 스틸러스",
-   "slug": "fc-포항-스틸러스",
-   "traffic": 200,
-   "startedAt": 1795136400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[공식발표] 5년 만에 파이널B 추락→팬들은 ‘응원 보이콧’ 선언…위기의 포항, 변화 약속 “말이 아닌 행동·결과로 보여드리겠다”",
-     "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-5%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%82%E1%85%A5%E1%86%AFb-%E1%84%8E%E1%85%AE%E1%84%85%E1%85%A1%E1%86%A8%E2%86%92%E1%84%91%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%BA-%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%B1%E1%84%80%E1%85%B5%E1%84%8B%E1%85%B4-%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%86%BC-%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA-%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%89%E1%85%A9%E1%86%A8-%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB-%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC-%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A6%E1%86%BB%E1%84%83%E1%85%A1/blt0db667d3c5b727e8",
-     "source": "Goal.com"
-    },
-    {
-     "title": "포항스틸러스 \"달라지는 모습 보여주겠습니다\"",
-     "url": "https://www.imaeil.com/page/view/2026111911042341782",
-     "source": "매일신문"
-    },
-    {
-     "title": "포항, 김성재 체제 첫 승 도전…21일 안양전서 박찬용 100경기 시상식도 진행",
-     "url": "https://m.news.nate.com/view/20261120n00135",
-     "source": "네이트"
-    }
-   ]
-  },
-  {
-   "rank": 10,
    "keyword": "정부",
    "slug": "정부",
    "traffic": 200,
    "startedAt": 1795136400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "UN 전자정부평가 결과 관련 브리핑",
@@ -256,9 +230,9 @@
      "source": "경향신문"
     },
     {
-     "title": "李대통령, 전자정부 1위 탈환에 \"국민 체감이 중요…개인정보보호 철저\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445734",
-     "source": "연합인포맥스"
+     "title": "이 대통령 \"전자정부 세계 1위, 국민 더 나은 일상으로 이어갈 것\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6867208_36911.html",
+     "source": "MBC 뉴스"
     }
    ]
   }
