@@ -2,7 +2,7 @@
  "keyword": "쇼메이커",
  "slug": "쇼메이커",
  "firstSeen": 1795096800.0,
- "lastSeen": 1795103191.8502982,
+ "lastSeen": 1795278077.760598,
  "peakRank": 7,
  "peakTraffic": 200,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "[단독] ‘카나비’ 서진혁, ‘씨맥’ 품으로 가나… DK행 유력, 최종 협상 진행 중",
+   "url": "https://www.koreadaily.com/article/20261119231915586",
+   "source": "미주중앙일보"
+  },
+  {
+   "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
+   "url": "https://www.osen.co.kr/article/G1112913126",
+   "source": "OSEN"
+  },
+  {
+   "title": "‘쇼메이커·스매쉬·씨맥’ 잔류…디플러스 기아, 핵심 전력 지켰다",
+   "url": "https://www.kukinews.com/article/view/kuk202611200021",
+   "source": "쿠키뉴스"
+  },
   {
    "title": "DK, '쇼메이커' 허수 재계약…'스매쉬'·김대호 감독도 잔류 [공식]",
    "url": "https://www.xportsnews.com/article/2221246",
@@ -30,9 +45,19 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-22"
  ],
  "related": [
+  "첼시-대-리즈-유나이티드",
+  "코번트리-대-크리스털-팰리스",
+  "채령",
+  "엑셀방송",
+  "chelsea-vs-leeds",
+  "장동혁",
+  "우니온-베를린-대-라이프치히",
+  "민효린",
+  "장동민",
   "앤트로픽-주가",
   "ant",
   "습관",
