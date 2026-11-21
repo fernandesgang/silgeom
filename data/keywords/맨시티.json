@@ -2,7 +2,7 @@
  "keyword": "맨시티",
  "slug": "맨시티",
  "firstSeen": 1795266600.0,
- "lastSeen": 1795271203.6621644,
+ "lastSeen": 1795274545.865922,
  "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795271204,
    1,
    1000
+  ],
+  [
+   1795274546,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Apollo Global Management LLC Class A, 맨시티 구단주 측 20억 달러 대출 철회",
+   "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2182874",
+   "source": "Investing.com 한국어"
+  },
+  {
+   "title": "맨체스터 시티는 프리미어 리그와의 법적 분쟁에서 매우 불리한 입장에 놓여 있다.",
+   "url": "https://www.vietnam.vn/ko/man-city-gap-bat-loi-lon-trong-cuoc-chien-phap-ly-voi-premier-league",
+   "source": "Vietnam.vn"
+  },
+  {
+   "title": "\"맨시티 잡으려던 후원사 소송이 오히려 맨시티 지갑 털게 생겼다\" PL 18개 구단 찬성...수천억 부담 가능성 - 머니투데이",
+   "url": "https://www.mt.co.kr/sports/2026/11/20/202611200856772503O",
+   "source": "머니투데이"
+  },
   {
    "title": "엔조 마레스카 감독, \"핵심은 꾸준함\"",
    "url": "https://kr.mancity.com/news/mens/manchester-city-v-fulham-enzo-maresca-preview-written-20-nov-63930792",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-22"
  ],
  "related": [
+  "첼시-대-리즈-유나이티드",
+  "ai-버블",
+  "george-munsey",
+  "묀헨글라트바흐-대-도르트문트",
+  "우니온-베를린-대-라이프치히",
+  "그것이-알고싶다",
+  "김혜윤",
   "김세의",
   "로또1251",
   "전시-작전통제권",
