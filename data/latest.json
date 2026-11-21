@@ -1,139 +1,93 @@
 {
- "generatedAt": 1795263674,
+ "generatedAt": 1795268251,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "강원 fc 대 대전 하나 시티즌 순위",
-   "slug": "강원-fc-대-대전-하나-시티즌-순위",
+   "keyword": "man city vs fulham",
+   "slug": "man-city-vs-fulham",
    "traffic": 1000,
-   "startedAt": 1795254000.0,
-   "change": "same",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 2,
-   "keyword": "이정후",
-   "slug": "이정후",
-   "traffic": 500,
-   "startedAt": 1795257000.0,
+   "startedAt": 1795261200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"내보내야\" vs \"팔기 어렵다\"…SF 이정후 두고 엇갈린 시선",
-     "url": "https://www.yna.co.kr/view/AKR20261121025500007",
+     "title": "Manchester City vs Fulham: Premier League preview, team news, stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
+     "source": "BBC"
+    },
+    {
+     "title": "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more!",
+     "url": "https://www.skysports.com/football/news/13611640/premier-league-predictions-and-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+     "source": "Sky Sports"
+    },
+    {
+     "title": "O'Reilly, Bouaddi, Foden start as City make three changes",
+     "url": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856",
+     "source": "Manchester City FC"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "로또1251",
+   "slug": "로또1251",
+   "traffic": 500,
+   "startedAt": 1795262400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[속보] 로또 제1251회 1등 14명, 20억 대박…‘14, 18, 19, 29, 40, 45’",
+     "url": "https://www.mk.co.kr/news/society/12215342",
+     "source": "매일경제"
+    },
+    {
+     "title": "1251회 로또 1등 14명…당첨금 각 20억7천만원(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261121050800002",
      "source": "연합뉴스"
     },
     {
-     "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[MLB] 美 매체 \"SF, 슈미트 지키고 이정후 트레이드해야\"",
-     "url": "https://www.newspim.com/news/view/20261121000081",
-     "source": "뉴스핌"
+     "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257",
+     "source": "이데일리"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "최백호",
-   "slug": "최백호",
-   "traffic": 500,
-   "startedAt": 1795255200.0,
-   "change": "down",
-   "diff": 1,
-   "news": []
-  },
-  {
-   "rank": 4,
-   "keyword": "김종국",
-   "slug": "김종국",
-   "traffic": 500,
-   "startedAt": 1795254000.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "김종국 “내가 알기로는 월세만 2억”…이서진 “나사 온 줄” 감탄한 새 회사",
-     "url": "https://www.mk.co.kr/news/hot-issues/12215136",
-     "source": "매일경제"
-    },
-    {
-     "title": "무엇이든 해줄지니 - 비서진 : 김종국, 감탄이 절로 나오는 독보적인 보이스로 고깃집에서 열창한",
-     "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC483687620?div=live_end",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "\"월세 2억\" 뉴욕대 금수저 이서진도 놀랐다···김종국 초호화 소속사 소개('비서진')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GBRDAZTCGUZWEZLGGU2GGZRZMQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "파워리프팅",
-   "slug": "파워리프팅",
-   "traffic": 500,
-   "startedAt": 1795253400.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "파워리프팅 노무라 유, 227.5kg 금메달·종합 은메달",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282523",
-     "source": "톱스타뉴스"
-    },
-    {
-     "title": "\"허벅지 둘레 64cm\" 日 여성 선수, 227.5kg 번쩍! '체급의 3.6배' 괴력 미쳤다...\"생애 첫 세계대회서 데드리프트 金\"",
-     "url": "https://www.osen.co.kr/article/G1112911421",
-     "source": "OSEN"
-    },
-    {
-     "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
-     "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500051",
-     "source": "서울신문"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "npl",
    "slug": "npl",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795259400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
-    {
-     "title": "Match Predictions: Nepal Premier League 2026 - Final - Lumbini Lions vs Sudurpaschim Royals - 21st November",
-     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-final-lumbini-lions-vs-sudurpaschim-royals-21st-november/114455.htm",
-     "source": "Cricket World"
-    },
     {
      "title": "Nepal Premier League final 2026 live stream, TV channel and start time for Sudur Paschim Royals vs. Lumbini Lions",
      "url": "https://www.sportingnews.com/in/cricket/news/nepal-premier-league-final-2026-live-stream-tv-channel-start-time-royals-lions/518ead895a8cfd7eba5f8d91",
      "source": "Sporting News"
     },
     {
-     "title": "Fans protest after failing to secure tickets for NPL final match",
-     "url": "https://english.deshsanchar.com/fans-protest-after-failing-to-secure-tickets-for-npl-final-match/",
-     "source": "Deshsanchar"
+     "title": "Lumbini set Sudurpaschim a target of 156 in NPL final",
+     "url": "https://kathmandupost.com/cricket/2026/11/21/lumbini-set-sudurpaschim-a-target-of-156-in-npl-final",
+     "source": "The Kathmandu Post"
+    },
+    {
+     "title": "NPL Final Draws Large Crowd at TU Cricket Ground",
+     "url": "https://english.ratopati.com/story/87674/spectators-throng-tribhuvan-university-cricket-ground-to-watch-npl-final",
+     "source": "Ratopati"
     }
    ]
   },
   {
-   "rank": 7,
+   "rank": 4,
    "keyword": "전투기 조종사",
    "slug": "전투기-조종사",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795258200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "전투기 조종사도 주머니에 쏙···이란 전쟁 미군 사로잡은 ‘이 간식’",
@@ -153,10 +107,36 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "마타",
-   "slug": "마타",
-   "traffic": 200,
+   "rank": 5,
+   "keyword": "이정후",
+   "slug": "이정후",
+   "traffic": 500,
+   "startedAt": 1795257000.0,
+   "change": "down",
+   "diff": 3,
+   "news": [
+    {
+     "title": "\"내보내야\" vs \"팔기 어렵다\"…SF 이정후 두고 엇갈린 시선",
+     "url": "https://www.yna.co.kr/view/AKR20261121025500007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[MLB] 美 매체 \"SF, 슈미트 지키고 이정후 트레이드해야\"",
+     "url": "https://www.newspim.com/news/view/20261121000081",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "김정균",
+   "slug": "김정균",
+   "traffic": 500,
    "startedAt": 1795256400.0,
    "change": "new",
    "diff": 0,
@@ -179,54 +159,54 @@
    ]
   },
   {
-   "rank": 9,
-   "keyword": "로이킴",
-   "slug": "로이킴",
+   "rank": 7,
+   "keyword": "김세의",
+   "slug": "김세의",
    "traffic": 200,
-   "startedAt": 1795255800.0,
-   "change": "down",
-   "diff": 4,
-   "news": [
-    {
-     "title": "존박, 도대체 몇 다리를 걸치는 거야…'마성의 남자'의 최종 선택은? (놀뭐)",
-     "url": "https://biz.chosun.com/entertainment/tv/2026/11/21/MI3WGM3CGQ3DENDBMI4TKMJRHA/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "맥도날드랩 대세 존박 쟁탈전 \"네가 파트너 둘 골라라\"",
-     "url": "https://www.newsis.com/view/NISX20261121_0003877715",
-     "source": "뉴시스"
-    },
-    {
-     "title": "권정열·로이킴에 김민석·정은지까지 가요제 가세… 치열한 '존박 쟁탈전'",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759066",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "김민석",
-   "slug": "김민석",
-   "traffic": 100,
-   "startedAt": 1795256400.0,
+   "startedAt": 1795263600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261121040151001",
+     "title": "김세의 '명예훼손·모욕 혐의' 또 기소…피해자 13명",
+     "url": "https://www.yna.co.kr/view/AKR20261120167900004",
      "source": "연합뉴스"
     },
     {
-     "title": "與 '1030 청년 연설대전' 개최…김민석 \"새로운 민주당 역사의 장 열려\"(종합)",
-     "url": "https://www.newsis.com/view/NISX20261121_0003877824",
-     "source": "뉴시스"
+     "title": "김세의, 은현장·권영세·전광훈 등 13명 명예훼손·협박 혐의로 추가 기소",
+     "url": "https://www.segye.com/newsView/20261120514469",
+     "source": "세계일보"
     },
     {
-     "title": "목 축이는 김민석 대표",
-     "url": "https://www.news1.kr/photos/8226254",
-     "source": "뉴스1"
+     "title": "'가세연' 김세의, 김수현·쯔양 이어 또 기소…'장사의 신' 등 피해자만 13명 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/20/2026112020513452615",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "lotto result 6/45",
+   "slug": "lotto-result-6-45",
+   "traffic": 200,
+   "startedAt": 1795263000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "No winner for P563.29M jackpot in Nov. 20 lotto draws",
+     "url": "https://cebudailynews.inquirer.net/786915/no-winner-for-p563-29m-jackpot-in-nov-20-lotto-draws",
+     "source": "Cebu Daily News"
+    },
+    {
+     "title": "PCSO Lotto Results: Lone Lotto 6/42 winner gets P26.9M in November 19, 2026 draw",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/1010135/pcso-lotto-results-lone-lotto-6-42-winner-gets-p26-9m-in-november-19-2026-draw/story/",
+     "source": "GMA Network"
+    },
+    {
+     "title": "A bettor from Davao del Sur won the PHP26.9-million jackpot in Thursday night's Lotto 6/42 draw, the Philippine Charity Sweepstakes Office says Friday (Nov. 20, 2026). The winning combination was 15-40-08-34-23-10, earning the bettor PHP26,912,539.06. |",
+     "url": "https://www.facebook.com/pnagovph/posts/a-bettor-from-davao-del-sur-won-the-php269-million-jackpot-in-thursday-nights-lo/1566075908902191/",
+     "source": "Facebook"
     }
    ]
   }

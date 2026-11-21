@@ -895,21 +895,21 @@
    "firstSeen": 1795257000.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795263674.032456
+   "lastSeen": 1795268250.6452508
   },
   "npl": {
    "slug": "npl",
    "firstSeen": 1795259400.0,
-   "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795263674.032456
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795268250.6452508
   },
   "전투기 조종사": {
    "slug": "전투기-조종사",
    "firstSeen": 1795258200.0,
-   "peakRank": 7,
-   "peakTraffic": 200,
-   "lastSeen": 1795263674.032456
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795268250.6452508
   },
   "마타": {
    "slug": "마타",
@@ -924,6 +924,41 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795263674.032456
+  },
+  "man city vs fulham": {
+   "slug": "man-city-vs-fulham",
+   "firstSeen": 1795261200.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795268250.6452508
+  },
+  "로또1251": {
+   "slug": "로또1251",
+   "firstSeen": 1795262400.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795268250.6452508
+  },
+  "김정균": {
+   "slug": "김정균",
+   "firstSeen": 1795256400.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795268250.6452508
+  },
+  "김세의": {
+   "slug": "김세의",
+   "firstSeen": 1795263600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795268250.6452508
+  },
+  "lotto result 6/45": {
+   "slug": "lotto-result-6-45",
+   "firstSeen": 1795263000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795268250.6452508
   }
  }
 }
