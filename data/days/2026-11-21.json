@@ -599,9 +599,9 @@
   "전북 대 fc 서울": {
    "slug": "전북-대-fc-서울",
    "firstSeen": 1795234200.0,
-   "peakRank": 4,
-   "peakTraffic": 2000,
-   "lastSeen": 1795239023.199839
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795242662.6445785
   },
   "탈선": {
    "slug": "탈선",
@@ -615,7 +615,7 @@
    "firstSeen": 1795233000.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795239023.199839
+   "lastSeen": 1795242662.6445785
   },
   "맥도날드": {
    "slug": "맥도날드",
@@ -630,6 +630,62 @@
    "peakRank": 9,
    "peakTraffic": 200,
    "lastSeen": 1795239023.199839
+  },
+  "농산물": {
+   "slug": "농산물",
+   "firstSeen": 1795237800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795242662.6445785
+  },
+  "휴대 전화": {
+   "slug": "휴대-전화",
+   "firstSeen": 1795233000.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795242662.6445785
+  },
+  "2026 mama - 오사카 (11/20)": {
+   "slug": "2026-mama-오사카-11-20",
+   "firstSeen": 1795233000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795242662.6445785
+  },
+  "후티": {
+   "slug": "후티",
+   "firstSeen": 1795238400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795242662.6445785
+  },
+  "유현 조": {
+   "slug": "유현-조",
+   "firstSeen": 1795237200.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795242662.6445785
+  },
+  "피겨스케이팅": {
+   "slug": "피겨스케이팅",
+   "firstSeen": 1795235400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795242662.6445785
+  },
+  "콜레라": {
+   "slug": "콜레라",
+   "firstSeen": 1795238400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795242662.6445785
+  },
+  "의성군": {
+   "slug": "의성군",
+   "firstSeen": 1795234800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795242662.6445785
   }
  }
 }
