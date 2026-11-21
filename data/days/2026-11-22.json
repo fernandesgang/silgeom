@@ -69,14 +69,14 @@
    "firstSeen": 1795273200.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795284941.0849776
+   "lastSeen": 1795287751.6166587
   },
   "엑셀방송": {
    "slug": "엑셀방송",
    "firstSeen": 1795273800.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795284941.0849776
+   "lastSeen": 1795287751.6166587
   },
   "chelsea vs leeds": {
    "slug": "chelsea-vs-leeds",
@@ -90,7 +90,7 @@
    "firstSeen": 1795278077.760598,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795284941.0849776
+   "lastSeen": 1795287751.6166587
   },
   "쇼메이커": {
    "slug": "쇼메이커",
@@ -118,14 +118,14 @@
    "firstSeen": 1795274400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795284941.0849776
+   "lastSeen": 1795287751.6166587
   },
   "뉴캐슬 대 아스널": {
    "slug": "뉴캐슬-대-아스널",
    "firstSeen": 1795279200.0,
    "peakRank": 1,
-   "peakTraffic": 2000,
-   "lastSeen": 1795284941.0849776
+   "peakTraffic": 5000,
+   "lastSeen": 1795287751.6166587
   },
   "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업": {
    "slug": "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
@@ -133,6 +133,13 @@
    "peakRank": 7,
    "peakTraffic": 100,
    "lastSeen": 1795284941.0849776
+  },
+  "newcastle vs arsenal": {
+   "slug": "newcastle-vs-arsenal",
+   "firstSeen": 1795282200.0,
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795287751.6166587
   }
  }
 }

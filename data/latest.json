@@ -1,14 +1,14 @@
 {
- "generatedAt": 1795284941,
+ "generatedAt": 1795287752,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "뉴캐슬 대 아스널",
    "slug": "뉴캐슬-대-아스널",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795279200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -40,27 +40,27 @@
   },
   {
    "rank": 3,
-   "keyword": "chelsea vs leeds",
-   "slug": "chelsea-vs-leeds",
-   "traffic": 500,
-   "startedAt": 1795272600.0,
-   "change": "same",
+   "keyword": "newcastle vs arsenal",
+   "slug": "newcastle-vs-arsenal",
+   "traffic": 200,
+   "startedAt": 1795282200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
-     "url": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
+     "title": "Newcastle United vs Arsenal: Premier League preview, team news, stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
      "source": "BBC"
     },
     {
-     "title": "Leeds overturn Chelsea lead with 4-1 win as Alonso suffers fifth league defeat",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/22/NJOCZG4RBJDSVBE4EYNBHKBMSE/",
-     "source": "Chosunbiz"
+     "title": "Premier League live scores: Arsenal face Newcastle in final game after Leeds thrash Chelsea at Stamford Bridge",
+     "url": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/",
+     "source": "The New York Times"
     },
     {
-     "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – as it happened",
-     "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
-     "source": "The Guardian"
+     "title": "Team news: Eze in, Guimaraes starts at Newcastle",
+     "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
+     "source": "Arsenal.com"
     }
    ]
   },
@@ -139,32 +139,6 @@
      "title": "이 대통령, 대장동 인터뷰 공유…“5,500억 공익 환수가 배임인가”",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8719095",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
-   "slug": "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
-   "traffic": 100,
-   "startedAt": 1795278000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Match commentary and highlights: Tottenham 2-0 Ipswich",
-     "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score",
-     "source": "Sky Sports"
-    },
-    {
-     "title": "Roberto De Zerbi reveals how long Mathys Tel will be missing for Tottenham",
-     "url": "https://www.spurs-web.com/spurs-news/roberto-de-zerbi-reveals-how-long-mathys-tel-will-be-missing-for-tottenham/",
-     "source": "Spurs Web"
-    },
-    {
-     "title": "Licensable picture: Premier League - Tottenham Hotspur v Ipswich Town",
-     "url": "https://www.reutersconnect.com/item/premier-league-tottenham-hotspur-v-ipswich-town/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxOVJTU0M",
-     "source": "Reuters Connect"
     }
    ]
   }

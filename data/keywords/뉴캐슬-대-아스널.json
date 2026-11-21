@@ -2,14 +2,19 @@
  "keyword": "뉴캐슬 대 아스널",
  "slug": "뉴캐슬-대-아스널",
  "firstSeen": 1795279200.0,
- "lastSeen": 1795284941.0849776,
+ "lastSeen": 1795287751.6166587,
  "peakRank": 1,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795284941,
    1,
    2000
+  ],
+  [
+   1795287752,
+   1,
+   5000
   ]
  ],
  "news": [
@@ -33,6 +38,7 @@
   "2026-11-22"
  ],
  "related": [
+  "newcastle-vs-arsenal",
   "채령",
   "chelsea-vs-leeds",
   "권순우",
