@@ -2,7 +2,7 @@
  "keyword": "주거",
  "slug": "주거",
  "firstSeen": 1795240800.0,
- "lastSeen": 1795247214.5656343,
+ "lastSeen": 1795250375.5914772,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795247215,
    5,
    200
+  ],
+  [
+   1795250376,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "“원룸에 밥상 펼 자리는 있어야”…‘최저주거기준’ 15년 만에 넓어질까?",
+   "url": "https://www.khan.co.kr/article/202611210700011",
+   "source": "경향신문"
+  },
+  {
+   "title": "중산층도 공공임대 입주?…‘보편형’ 기준 놓고 갑론을박",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03863846645647688",
+   "source": "마켓인"
+  },
+  {
+   "title": "\"1인 가구 최저주거면적 14㎡→최대 21㎡로 확대해야\"",
+   "url": "https://www.yna.co.kr/view/AKR20261120114300003",
+   "source": "연합뉴스"
+  },
   {
    "title": "미추홀구 주거복지센터, 주민 대상 주거복지·임대주택 교육",
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758672",
@@ -33,6 +53,8 @@
   "2026-11-21"
  ],
  "related": [
+  "산불",
+  "삼성전자-tsmc-중국-반도체-출하-중단-및-국내-증시-영향-최신-뉴스-알려줘",
   "손정의",
   "리야드",
   "마피아42",

@@ -692,56 +692,56 @@
    "firstSeen": 1795239600.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "리야드": {
    "slug": "리야드",
    "firstSeen": 1795242000.0,
    "peakRank": 2,
    "peakTraffic": 2000,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "마피아42": {
    "slug": "마피아42",
    "firstSeen": 1795239000.0,
    "peakRank": 3,
    "peakTraffic": 2000,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "부산 대 충북청주": {
    "slug": "부산-대-충북청주",
    "firstSeen": 1795241400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "주거": {
    "slug": "주거",
    "firstSeen": 1795240800.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "김연정": {
    "slug": "김연정",
    "firstSeen": 1795240800.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "카타르 축구 국가대표팀": {
    "slug": "카타르-축구-국가대표팀",
    "firstSeen": 1795239600.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "수원삼성": {
    "slug": "수원삼성",
    "firstSeen": 1795239600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795247214.5656343
+   "lastSeen": 1795250375.5914772
   },
   "컬리": {
    "slug": "컬리",
@@ -749,6 +749,20 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795247214.5656343
+  },
+  "산불": {
+   "slug": "산불",
+   "firstSeen": 1795245600.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795250375.5914772
+  },
+  "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘": {
+   "slug": "삼성전자-tsmc-중국-반도체-출하-중단-및-국내-증시-영향-최신-뉴스-알려줘",
+   "firstSeen": 1795244400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795250375.5914772
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795247215,
+ "generatedAt": 1795250376,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "손정의",
    "traffic": 5000,
    "startedAt": 1795239600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -34,7 +34,7 @@
    "slug": "리야드",
    "traffic": 2000,
    "startedAt": 1795242000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -44,13 +44,13 @@
     },
     {
      "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121001800079",
-     "source": "연합뉴스"
+     "url": "https://imnews.imbc.com/news/2026/world/article/6867405_36925.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "리야드 상공서 ‘쾅’ 폭발음…사우디 “후티 탄도미사일 3발 요격”",
-     "url": "https://www.donga.com/news/Inter/article/all/20261121/135064634/1",
-     "source": "동아일보"
+     "title": "후티, 사우디 '1조달러' 국부펀드 본사 공격",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04063926645647688",
+     "source": "마켓인"
     }
    ]
   },
@@ -60,7 +60,7 @@
    "slug": "마피아42",
    "traffic": 2000,
    "startedAt": 1795239000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -69,8 +69,8 @@
      "source": "연합뉴스"
     },
     {
-     "title": "개장 직후 최대 4시간 대기…웹젠 ‘디펜폭’에 주말 지스타 관람객 몰려",
-     "url": "https://zdnet.co.kr/view/?no=20261121130015",
+     "title": "대형 게임사만 있나…지스타서 빛난 예비 게임 개발자들의 열정",
+     "url": "https://zdnet.co.kr/view/?no=20261121163857",
      "source": "지디넷코리아"
     },
     {
@@ -82,48 +82,74 @@
   },
   {
    "rank": 4,
-   "keyword": "부산 대 충북청주",
-   "slug": "부산-대-충북청주",
-   "traffic": 200,
-   "startedAt": 1795241400.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 5,
-   "keyword": "주거",
-   "slug": "주거",
-   "traffic": 200,
-   "startedAt": 1795240800.0,
+   "keyword": "산불",
+   "slug": "산불",
+   "traffic": 500,
+   "startedAt": 1795245600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "미추홀구 주거복지센터, 주민 대상 주거복지·임대주택 교육",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758672",
-     "source": "국제뉴스"
+     "title": "‘동두천 자연인’ 김민, 산불 초기 진화…외투 타는 와중에 큰불 막았다",
+     "url": "https://www.munhwa.com/article/11632986",
+     "source": "문화일보"
     },
     {
-     "title": "인천 미추홀구 주거복지센터 맞춤형 임대주택 안내 교육 실시",
-     "url": "https://kpenews.com/View.aspx?No=4323052",
-     "source": "한국정경신문"
+     "title": "불길 속 머리만 겨우 보였다…산불 진화한 배우 김민의 아찔한 모습",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57337",
+     "source": "주간조선"
     },
     {
-     "title": "“현장 대응력 높인다”…과천시 주거복지센터, 복지 담당자 주거복지 실무교육 실시",
-     "url": "https://www.kyeonggi.com/article/20261116580215",
-     "source": "경기일보"
+     "title": "‘동두천 자연인’ 김민 소화기 들고 산불 진화···외투까지 탔다",
+     "url": "https://weekly.khan.co.kr/article/202611210832001",
+     "source": "주간경향"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘",
+   "slug": "삼성전자-tsmc-중국-반도체-출하-중단-및-국내-증시-영향-최신-뉴스-알려줘",
+   "traffic": 200,
+   "startedAt": 1795244400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "엔비디아 이어 AMD도 '중국 리스크'?...제재 기업에 기술 유출 의혹",
+     "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611201104357456",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
+     "source": "마켓인"
+    },
+    {
+     "title": "美 대중 반도체 규제에 반도체株 조정…반등 버팀목은 'AI 수요'",
+     "url": "https://www.news1.kr/finance/general-stock/6361213",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 6,
+   "keyword": "부산 대 충북청주",
+   "slug": "부산-대-충북청주",
+   "traffic": 200,
+   "startedAt": 1795241400.0,
+   "change": "down",
+   "diff": 2,
+   "news": []
+  },
+  {
+   "rank": 7,
    "keyword": "김연정",
    "slug": "김연정",
    "traffic": 200,
    "startedAt": 1795240800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
@@ -143,13 +169,39 @@
    ]
   },
   {
-   "rank": 7,
+   "rank": 8,
+   "keyword": "주거",
+   "slug": "주거",
+   "traffic": 200,
+   "startedAt": 1795240800.0,
+   "change": "down",
+   "diff": 3,
+   "news": [
+    {
+     "title": "“원룸에 밥상 펼 자리는 있어야”…‘최저주거기준’ 15년 만에 넓어질까?",
+     "url": "https://www.khan.co.kr/article/202611210700011",
+     "source": "경향신문"
+    },
+    {
+     "title": "중산층도 공공임대 입주?…‘보편형’ 기준 놓고 갑론을박",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03863846645647688",
+     "source": "마켓인"
+    },
+    {
+     "title": "\"1인 가구 최저주거면적 14㎡→최대 21㎡로 확대해야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120114300003",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "카타르 축구 국가대표팀",
    "slug": "카타르-축구-국가대표팀",
    "traffic": 200,
    "startedAt": 1795239600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
@@ -169,13 +221,13 @@
    ]
   },
   {
-   "rank": 8,
+   "rank": 10,
    "keyword": "수원삼성",
    "slug": "수원삼성",
    "traffic": 100,
    "startedAt": 1795239600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "수원삼성, 4년 만의 K리그1 복귀 이어 K리그2 우승…경남전 3-1 완승",
@@ -183,66 +235,14 @@
      "source": "경인일보"
     },
     {
-     "title": "이정효 감독 “수원 삼성답게 홈 팬 앞에서 우승으로 승격할 것”",
-     "url": "https://www.kyeonggi.com/article/20261121580058",
-     "source": "경기일보"
+     "title": "이정효의 수원 삼성, 우승 트로피 안고 1부 리그 복귀",
+     "url": "https://www.chosun.com/sports/football/2026/11/21/Q2NTFSRIPNCX7PN2RSOKDVCR7Y/",
+     "source": "조선일보"
     },
     {
      "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
      "url": "https://www.yna.co.kr/view/AKR20261121039700007",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "컬리",
-   "slug": "컬리",
-   "traffic": 100,
-   "startedAt": 1795238400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "컬리 \"큐레이터 1만699명 개인정보 유출‥일부 주민번호 포함\"",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867349_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "컬리서 1만여명 개인정보 유출…최대 15만원 적립금 보상",
-     "url": "https://www.kyeonggi.com/article/20261120580309",
-     "source": "경기일보"
-    },
-    {
-     "title": "컬리 개인정보 유출 사고, 큐레이터 1만699명·일반 고객 2명 피해",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147426",
-     "source": "보안뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "콜레라",
-   "slug": "콜레라",
-   "traffic": 100,
-   "startedAt": 1795238400.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "10년 만에 국내서 콜레라 환자 발생‥질병청 \"감염 경로 파악 중\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6867275_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "쇼크·사망 부르는 콜레라, 한국서 10년 만 발생…'쌀뜨물 설사' 의심을 - 머니투데이",
-     "url": "https://www.mt.co.kr/thebio/2026/11/20/2026112014085876352",
-     "source": "머니투데이"
     }
    ]
   }
