@@ -846,35 +846,35 @@
    "firstSeen": 1795254000.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795260165.7029977
+   "lastSeen": 1795263674.032456
   },
   "최백호": {
    "slug": "최백호",
    "firstSeen": 1795255200.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795260165.7029977
+   "lastSeen": 1795263674.032456
   },
   "김종국": {
    "slug": "김종국",
    "firstSeen": 1795254000.0,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795260165.7029977
+   "lastSeen": 1795263674.032456
   },
   "로이킴": {
    "slug": "로이킴",
    "firstSeen": 1795255800.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795260165.7029977
+   "lastSeen": 1795263674.032456
   },
   "파워리프팅": {
    "slug": "파워리프팅",
    "firstSeen": 1795253400.0,
-   "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795260165.7029977
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795263674.032456
   },
   "빅뱅 마마": {
    "slug": "빅뱅-마마",
@@ -889,6 +889,41 @@
    "peakRank": 9,
    "peakTraffic": 200,
    "lastSeen": 1795260165.7029977
+  },
+  "이정후": {
+   "slug": "이정후",
+   "firstSeen": 1795257000.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795263674.032456
+  },
+  "npl": {
+   "slug": "npl",
+   "firstSeen": 1795259400.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795263674.032456
+  },
+  "전투기 조종사": {
+   "slug": "전투기-조종사",
+   "firstSeen": 1795258200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795263674.032456
+  },
+  "마타": {
+   "slug": "마타",
+   "firstSeen": 1795256400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795263674.032456
+  },
+  "김민석": {
+   "slug": "김민석",
+   "firstSeen": 1795256400.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795263674.032456
   }
  }
 }
