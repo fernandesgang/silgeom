@@ -2,14 +2,19 @@
  "keyword": "위기",
  "slug": "위기",
  "firstSeen": 1795287000.0,
- "lastSeen": 1795290995.9144247,
- "peakRank": 6,
- "peakTraffic": 100,
+ "lastSeen": 1795293011.7069776,
+ "peakRank": 4,
+ "peakTraffic": 200,
  "history": [
   [
    1795290996,
    6,
    100
+  ],
+  [
+   1795293012,
+   4,
+   200
   ]
  ],
  "news": [
@@ -33,6 +38,7 @@
   "2026-11-22"
  ],
  "related": [
+  "레알-마드리드-대-셀타-비고",
   "뉴캐슬-대-아스널",
   "newcastle-vs-arsenal",
   "아스날",

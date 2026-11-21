@@ -2,7 +2,7 @@
  "keyword": "샬케 대 슈투트가르트",
  "slug": "샬케-대-슈투트가르트",
  "firstSeen": 1795281000.0,
- "lastSeen": 1795290995.9144247,
+ "lastSeen": 1795293011.7069776,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795290996,
    4,
    200
+  ],
+  [
+   1795293012,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
+   "url": "https://news.jkn.co.kr/post/1113280",
+   "source": "재경일보"
+  },
+  {
+   "title": "황희찬, 2년 연속 대참사 위기…17위 추락에 재정난까지 '초비상'! 9억 못 채우면 승점 삭감까지",
+   "url": "https://yourfield.nexon.com/today/view/2025052909553714772?type=popular",
+   "source": "Your Field"
+  },
   {
    "title": "‘韓 국가대표’ 황희찬의 독일 복귀가 이렇게 험난하다…샬케, 홈에서 아직도 0골→7경기 연속 무승, 감독도 “공격에서 해결책 찾아야”",
    "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698959",
@@ -33,6 +48,7 @@
   "2026-11-22"
  ],
  "related": [
+  "레알-마드리드-대-셀타-비고",
   "뉴캐슬-대-아스널",
   "newcastle-vs-arsenal",
   "아스날",

@@ -125,7 +125,7 @@
    "firstSeen": 1795279200.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795290995.9144247
+   "lastSeen": 1795293011.7069776
   },
   "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업": {
    "slug": "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
@@ -146,21 +146,28 @@
    "firstSeen": 1795281600.0,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795290995.9144247
+   "lastSeen": 1795293011.7069776
   },
   "샬케 대 슈투트가르트": {
    "slug": "샬케-대-슈투트가르트",
    "firstSeen": 1795281000.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795290995.9144247
+   "lastSeen": 1795293011.7069776
   },
   "위기": {
    "slug": "위기",
    "firstSeen": 1795287000.0,
-   "peakRank": 6,
-   "peakTraffic": 100,
-   "lastSeen": 1795290995.9144247
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795293011.7069776
+  },
+  "레알 마드리드 대 셀타 비고": {
+   "slug": "레알-마드리드-대-셀타-비고",
+   "firstSeen": 1795288800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795293011.7069776
   }
  }
 }
