@@ -1,41 +1,15 @@
 {
- "generatedAt": 1795298134,
+ "generatedAt": 1795300091,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "강사",
-   "slug": "강사",
-   "traffic": 1000,
-   "startedAt": 1795293600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-     "url": "https://www.munhwa.com/article/11633008",
-     "source": "문화일보"
-    },
-    {
-     "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "사망 당일 새벽 짐 정리...집주인에 \"탈출 도와달라\" [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611212227231160_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "rank": 2,
    "keyword": "배추",
    "slug": "배추",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795293000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "새마을운동 남원시지회, 사랑의 김장나누기 봉사활동",
@@ -55,12 +29,38 @@
    ]
   },
   {
+   "rank": 2,
+   "keyword": "강사",
+   "slug": "강사",
+   "traffic": 1000,
+   "startedAt": 1795293600.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
+     "url": "https://www.munhwa.com/article/11633008",
+     "source": "문화일보"
+    },
+    {
+     "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "사망 당일 새벽 짐 정리...집주인에 \"탈출 도와달라\" [앵커리포트]",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611212227231160_005.html",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
    "rank": 3,
    "keyword": "지수",
    "slug": "지수",
    "traffic": 500,
    "startedAt": 1795293600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -74,20 +74,46 @@
      "source": "하퍼스 바자 코리아"
     },
     {
-     "title": "지수, 뱅헤어에 짙은 스모키 화장…뾰족한 블랙 네일까지 '파격 변신'",
-     "url": "https://www.osen.co.kr/article/G1112908679",
-     "source": "OSEN"
+     "title": "블랙핑크 지수, 청순 벗고 ‘퇴폐미’ 장착…아찔한 송곳 네일 “입술 찌를라”",
+     "url": "https://sports.khan.co.kr/article/202611111811003",
+     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 4,
+   "keyword": "경제",
+   "slug": "경제",
+   "traffic": 500,
+   "startedAt": 1795293600.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다",
+     "url": "https://www.dailian.co.kr/news/view/1717961/%E4%B8%AD-%EA%B2%BD%EC%A0%9C-%E2%80%98%EC%9E%A5%EA%B8%B0%EB%B6%88%ED%99%A9-%EA%B7%B8%EB%A6%BC%EC%9E%90%E2%80%99-%EC%A7%99%EC%96%B4%EC%A1%8C%EB%8B%A4-2026",
+     "source": "데일리안"
+    },
+    {
+     "title": "2026년 10월까지 중국 고정자산투자 감소폭 확대 - 뉴스 및 통계",
+     "url": "https://www.indexbox.io/ko/blog/china-fixed-asset-investment-falls-81-in-january-october-2026/",
+     "source": "IndexBox"
+    },
+    {
+     "title": "\"AI 수출이 먹여 살리지만, 내수는 꽁꽁\"… 中 10월 소매판매 0.4% 증가에 그쳐 '양극화' 심화",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111612321999100c8c1c064d_1",
+     "source": "글로벌이코노믹"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "알렉산더 즈베레프",
    "slug": "알렉산더-즈베레프",
    "traffic": 500,
    "startedAt": 1795292400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "라파엘 호다르, 니토 ATP 파이널서 벤 셸턴 상대 포핸드",
@@ -107,91 +133,91 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "경제",
-   "slug": "경제",
-   "traffic": 200,
-   "startedAt": 1795293600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121026100002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "반도체 호황에 국민소득 4만달러?…체감 안 된다는 사람들 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/economy/2026/11/22/2026112010222846998",
-     "source": "머니투데이"
-    },
-    {
-     "title": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445804",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
    "rank": 6,
-   "keyword": "베냐민 네타냐후",
-   "slug": "베냐민-네타냐후",
-   "traffic": 200,
-   "startedAt": 1795292400.0,
+   "keyword": "kbs",
+   "slug": "kbs",
+   "traffic": 100,
+   "startedAt": 1795296000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "트럼프는 서두르지 않겠다는데‥이란 추가공격 압박 커져",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6867488_36925.html",
-     "source": "MBC 뉴스"
+     "title": "Heo Gak Reveals 24kg Weight Loss Journey on KBS Show",
+     "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/21/I462DOD54RGM5LWIEHN7QDZSEM/",
+     "source": "조선일보"
     },
     {
-     "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
-     "url": "https://www.yna.co.kr/view/AKR20261122001000071",
-     "source": "연합뉴스"
+     "title": "Huh Gak Sheds 24 kg → Someday’s First Terrestrial Music Show Stage in 17 Years... ‘The Seasons’ Packed With Performances",
+     "url": "https://www.mk.co.kr/en/hot-issues/12215248",
+     "source": "매일경제"
     },
     {
-     "title": "트럼프 \"이란 핵무기 보유 막을 영구 합의 원해\"…협상 재개 모색",
-     "url": "https://www.newsis.com/view/NISX20261122_0003877866",
-     "source": "뉴시스"
+     "title": "Heo Gak, Stormy Weight Loss of 24 kg [Sung Si-kyung's Eardrum Boyfriend]",
+     "url": "https://www.starnewskorea.com/en/star/2026/11/20/2026112014122935929",
+     "source": "스타뉴스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "레알마드리드",
-   "slug": "레알마드리드",
+   "keyword": "최미나수",
+   "slug": "최미나수",
    "traffic": 100,
-   "startedAt": 1795293600.0,
+   "startedAt": 1795294800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[오피셜] 레알 마드리드, 뒷문 철저히 지킨다...'세계 최고 골키퍼' 쿠르투아와 재계약 발표, 2028년까지 동행",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021034",
-     "source": "SPOTV NEWS"
+     "title": "드레스 입고 덜덜 떤 최미나수…김연경 \"괜찮으세요?\"",
+     "url": "https://www.newsis.com/view/NISX20261121_0003877589",
+     "source": "뉴시스"
     },
     {
-     "title": "‘차세대 에이스’ 아르다 귈러, 레알과 2032년까지 대형 재계약···연봉·바이아웃 대폭 인상 ‘판매불가’",
-     "url": "https://sports.khan.co.kr/article/202611191053003",
-     "source": "스포츠경향"
+     "title": "[사진]앤팀 조-하루아-케이 '남신 분위기'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/22/GEZGCMJUGZSTCNRVGU3DOMZRMQ/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "'18세에 레알 마드리드 합류, 33세까지 레알 마드리드에서 뛴다'…'이강인과 악연' 발베르데 재계약 합의",
-     "url": "https://mydaily.co.kr/page/view/2026112020392333638",
-     "source": "마이데일리"
+     "title": "최미나수, 노출 드레스 입고 '몸 덜덜'...김연경 \"괜찮냐\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112107404471705",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "쇼트트랙",
+   "slug": "쇼트트랙",
+   "traffic": 100,
+   "startedAt": 1795294800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719143",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "'첫 금' 신동민, 男쇼트트랙 위기 평가에 \"조금만 기다려주세요\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121047400007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'은퇴 예고' 최민정, 쇼트트랙 월드투어 1000m 3연속 금메달",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867495_36946.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "송미령",
    "slug": "송미령",
    "traffic": 100,
    "startedAt": 1795293000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "농식품부 장관, 현장·전문가와 함께 농촌 사회연대경제 활성화를 위한 방안 논의",
@@ -207,32 +233,6 @@
      "title": "농어촌 기본소득, 돌봄·일자리로 잇는다…사회연대경제 연계 논의",
      "url": "https://www.newsis.com/view/NISX20261120_0003876035",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "토토",
-   "slug": "토토",
-   "traffic": 100,
-   "startedAt": 1795292400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[오늘의 영상] 초대 챔피언 등극…에이스 지소연 효과",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719222",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "결승골 넣고 '초대 MVP' 받고도 \"숨고 싶었다\"... '지메시' 지소연이 웃지 못한 이유 [이천 현장] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/22/2026112116232226672",
-     "source": "머니투데이"
-    },
-    {
-     "title": "수원FC 위민-세종 스포츠토토, 여자축구 첫 컵대회 정상 놓고 격돌",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337406",
-     "source": "인천일보"
     }
    ]
   }

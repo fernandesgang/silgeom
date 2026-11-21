@@ -2,7 +2,7 @@
  "keyword": "kbs",
  "slug": "kbs",
  "firstSeen": 1795063200.0,
- "lastSeen": 1795067421.70955,
+ "lastSeen": 1795300090.7961047,
  "peakRank": 3,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795067422,
    3,
    1000
+  ],
+  [
+   1795300091,
+   6,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "Heo Gak Reveals 24kg Weight Loss Journey on KBS Show",
+   "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/21/I462DOD54RGM5LWIEHN7QDZSEM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "Huh Gak Sheds 24 kg → Someday’s First Terrestrial Music Show Stage in 17 Years... ‘The Seasons’ Packed With Performances",
+   "url": "https://www.mk.co.kr/en/hot-issues/12215248",
+   "source": "매일경제"
+  },
+  {
+   "title": "Heo Gak, Stormy Weight Loss of 24 kg [Sung Si-kyung's Eardrum Boyfriend]",
+   "url": "https://www.starnewskorea.com/en/star/2026/11/20/2026112014122935929",
+   "source": "스타뉴스"
+  },
   {
    "title": "[Photo] 'Bye, Summer'",
    "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/18/3MJUMBGPW5HJ7PADZEX5NCL7P4/",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-22"
  ],
  "related": [
+  "배추",
+  "강사",
+  "지수",
+  "경제",
+  "알렉산더-즈베레프",
+  "최미나수",
+  "쇼트트랙",
+  "송미령",
   "이진우-심정지",
   "박찬종",
   "체포",

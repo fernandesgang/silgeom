@@ -2,7 +2,7 @@
  "keyword": "경제",
  "slug": "경제",
  "firstSeen": 1795123200.0,
- "lastSeen": 1795298133.626698,
+ "lastSeen": 1795300090.7961047,
  "peakRank": 4,
  "peakTraffic": 1000,
  "history": [
@@ -20,9 +20,29 @@
    1795298134,
    5,
    200
+  ],
+  [
+   1795300091,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다",
+   "url": "https://www.dailian.co.kr/news/view/1717961/%E4%B8%AD-%EA%B2%BD%EC%A0%9C-%E2%80%98%EC%9E%A5%EA%B8%B0%EB%B6%88%ED%99%A9-%EA%B7%B8%EB%A6%BC%EC%9E%90%E2%80%99-%EC%A7%99%EC%96%B4%EC%A1%8C%EB%8B%A4-2026",
+   "source": "데일리안"
+  },
+  {
+   "title": "2026년 10월까지 중국 고정자산투자 감소폭 확대 - 뉴스 및 통계",
+   "url": "https://www.indexbox.io/ko/blog/china-fixed-asset-investment-falls-81-in-january-october-2026/",
+   "source": "IndexBox"
+  },
+  {
+   "title": "\"AI 수출이 먹여 살리지만, 내수는 꽁꽁\"… 中 10월 소매판매 0.4% 증가에 그쳐 '양극화' 심화",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111612321999100c8c1c064d_1",
+   "source": "글로벌이코노믹"
+  },
   {
    "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
    "url": "https://www.yna.co.kr/view/AKR20261121026100002",
@@ -74,6 +94,9 @@
   "2026-11-22"
  ],
  "related": [
+  "kbs",
+  "최미나수",
+  "쇼트트랙",
   "강사",
   "배추",
   "지수",
@@ -90,9 +113,6 @@
   "택시",
   "김연경",
   "알렉산더-즈베레프",
-  "축구-감독",
-  "이정현",
-  "지방세",
-  "마우리시오-포체티노"
+  "축구-감독"
  ]
 }

@@ -195,35 +195,35 @@
    "firstSeen": 1795293600.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795298133.626698
+   "lastSeen": 1795300090.7961047
   },
   "배추": {
    "slug": "배추",
    "firstSeen": 1795293000.0,
-   "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795298133.626698
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795300090.7961047
   },
   "지수": {
    "slug": "지수",
    "firstSeen": 1795293600.0,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795298133.626698
+   "lastSeen": 1795300090.7961047
   },
   "알렉산더 즈베레프": {
    "slug": "알렉산더-즈베레프",
    "firstSeen": 1795292400.0,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795298133.626698
+   "lastSeen": 1795300090.7961047
   },
   "경제": {
    "slug": "경제",
    "firstSeen": 1795293600.0,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795298133.626698
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795300090.7961047
   },
   "베냐민 네타냐후": {
    "slug": "베냐민-네타냐후",
@@ -244,7 +244,7 @@
    "firstSeen": 1795293000.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795298133.626698
+   "lastSeen": 1795300090.7961047
   },
   "토토": {
    "slug": "토토",
@@ -252,6 +252,27 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795298133.626698
+  },
+  "kbs": {
+   "slug": "kbs",
+   "firstSeen": 1795296000.0,
+   "peakRank": 6,
+   "peakTraffic": 100,
+   "lastSeen": 1795300090.7961047
+  },
+  "최미나수": {
+   "slug": "최미나수",
+   "firstSeen": 1795294800.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795300090.7961047
+  },
+  "쇼트트랙": {
+   "slug": "쇼트트랙",
+   "firstSeen": 1795294800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795300090.7961047
   }
  }
 }
