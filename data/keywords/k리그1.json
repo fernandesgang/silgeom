@@ -1,0 +1,45 @@
+{
+ "keyword": "k리그1",
+ "slug": "k리그1",
+ "firstSeen": 1795252800.0,
+ "lastSeen": 1795256721.7938788,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795256722,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
+   "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "승리의 기쁨",
+   "url": "https://www.news1.kr/photos/8226316",
+   "source": "뉴스1"
+  },
+  {
+   "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
+   "url": "https://www.yna.co.kr/view/AKR20261121039700007",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "굴",
+  "중일-관계",
+  "성리",
+  "류효영",
+  "광주공항",
+  "삼성-엑시노스",
+  "멜라니아-트럼프",
+  "sri-lanka-a-vs-hong-kong"
+ ]
+}

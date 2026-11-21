@@ -2,17 +2,37 @@
  "keyword": "굴",
  "slug": "굴",
  "firstSeen": 1795249200.0,
- "lastSeen": 1795253256.7954009,
- "peakRank": 3,
- "peakTraffic": 200,
+ "lastSeen": 1795256721.7938788,
+ "peakRank": 1,
+ "peakTraffic": 1000,
  "history": [
   [
    1795253257,
    3,
    200
+  ],
+  [
+   1795256722,
+   1,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "부안군, 홍합양식장에 연승식 굴 양식 성공…10t 수확 성과",
+   "url": "https://www.yna.co.kr/view/AKR20261120109300055",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "'연승식 굴 10t 첫 수확'…부안군 대체 양식품종 시범사업 결실",
+   "url": "https://www.newsis.com/view/NISX20261120_0003876715",
+   "source": "뉴시스"
+  },
+  {
+   "title": "부안 바다서 굴 양식 새 가능성 확인…어업인 소득 다변화 기대",
+   "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817354",
+   "source": "전라일보"
+  },
   {
    "title": "'노로바이러스' 미리 알고, 더 건강하게 다녀오세요 - 전체 | 카드/한컷 | 멀티미디어",
    "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154&pWise=sub&pWiseSub=C4",
@@ -33,6 +53,10 @@
   "2026-11-21"
  ],
  "related": [
+  "중일-관계",
+  "성리",
+  "k리그1",
+  "삼성-엑시노스",
   "류효영",
   "산불",
   "은지원",

@@ -1,15 +1,93 @@
 {
- "generatedAt": 1795253257,
+ "generatedAt": 1795256722,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
+   "keyword": "굴",
+   "slug": "굴",
+   "traffic": 1000,
+   "startedAt": 1795249200.0,
+   "change": "up",
+   "diff": 2,
+   "news": [
+    {
+     "title": "부안군, 홍합양식장에 연승식 굴 양식 성공…10t 수확 성과",
+     "url": "https://www.yna.co.kr/view/AKR20261120109300055",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'연승식 굴 10t 첫 수확'…부안군 대체 양식품종 시범사업 결실",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876715",
+     "source": "뉴시스"
+    },
+    {
+     "title": "부안 바다서 굴 양식 새 가능성 확인…어업인 소득 다변화 기대",
+     "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817354",
+     "source": "전라일보"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "중일 관계",
+   "slug": "중일-관계",
+   "traffic": 500,
+   "startedAt": 1795251600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "일본 국민 61% “한국에 친근감”…86% “중국에 친근감 없어”",
+     "url": "https://www.khan.co.kr/article/202611211158001",
+     "source": "경향신문"
+    },
+    {
+     "title": "일본인 극과 극…‘한국에 친근감’ 62%, ‘중일관계 나쁘다’ 93%",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1288434.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "한국에 친근감 느끼는 일본인, 62%로 역대 최고…중국엔 냉랭",
+     "url": "https://www.yna.co.kr/view/AKR20261121029800073",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "성리",
+   "slug": "성리",
+   "traffic": 500,
+   "startedAt": 1795249800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "성리→장한별 출연 '무명전설' 전국투어, 대구서 앵콜",
+     "url": "https://enter.etoday.co.kr/news/view/305549",
+     "source": "비즈엔터"
+    },
+    {
+     "title": "[단독]가수 하루, MBN '무명전설' 대구 앵콜콘 전석 매진",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=327894",
+     "source": "더퍼블릭"
+    },
+    {
+     "title": "'무명전설' TOP7, 오늘(21일) 대구 앵콜…두 달 만에 무대 재개",
+     "url": "https://www.youthassembly.kr/news/1046311",
+     "source": "유스연합"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "류효영",
    "slug": "류효영",
    "traffic": 500,
    "startedAt": 1795247400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "류화영은 결혼…쌍둥이 류효영은 ‘돌싱’ 이태성과 데이트 ‘스킨십까지’(‘신랑수업2’)",
@@ -29,169 +107,39 @@
    ]
   },
   {
-   "rank": 2,
-   "keyword": "산불",
-   "slug": "산불",
-   "traffic": 500,
-   "startedAt": 1795245600.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "불길 속 머리만 겨우 보였다…산불 진화한 배우 김민의 아찔한 모습",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57337",
-     "source": "주간조선"
-    },
-    {
-     "title": "‘동두천 자연인’ 김민 소화기 들고 산불 진화···외투까지 탔다",
-     "url": "https://weekly.khan.co.kr/article/202611210832001",
-     "source": "주간경향"
-    },
-    {
-     "title": "'동두천 자연인' 김민, 고성 산불 초기 진화…직접 소화기 들고 뛰어들었다",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856222",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "굴",
-   "slug": "굴",
-   "traffic": 200,
-   "startedAt": 1795249200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'노로바이러스' 미리 알고, 더 건강하게 다녀오세요 - 전체 | 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154&pWise=sub&pWiseSub=C4",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "노로바이러스 식중독 절반이 겨울철…“가열용 굴 생식 주의” [헬시타임]",
-     "url": "https://www.sedaily.com/article/20116855",
-     "source": "서울경제"
-    },
-    {
-     "title": "김장 후 굴보쌈 꿀맛…\"포장지 안 보고 먹었다간\" 무서운 경고",
-     "url": "https://www.hankyung.com/article/2026112091177",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "은지원",
-   "slug": "은지원",
-   "traffic": 200,
-   "startedAt": 1795246800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'살림남' 환희, 28년 만에 브라이언 성대 모사 도전! 또다시 앙숙되나? - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112115257285737",
-     "source": "머니투데이"
-    },
-    {
-     "title": "은지원, 탈퇴 고지용·강성훈 생각났나..플투에 \"너희는 완전체 되기 쉽네\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MNSTMNLGG43GKNBUGVRDGYZYMY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "플라이 투 더 스카이, 8년 만에 완전체 컴백…오늘(21일) 신곡 발매",
-     "url": "https://sports.donga.com/ent/article/all/20261121/135064590/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
    "rank": 5,
-   "keyword": "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘",
-   "slug": "삼성전자-tsmc-중국-반도체-출하-중단-및-국내-증시-영향-최신-뉴스-알려줘",
+   "keyword": "k리그1",
+   "slug": "k리그1",
    "traffic": 200,
-   "startedAt": 1795244400.0,
-   "change": "same",
+   "startedAt": 1795252800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "엔비디아 이어 AMD도 '중국 리스크'?...제재 기업에 기술 유출 의혹",
-     "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611201104357456",
-     "source": "YTN 사이언스"
+     "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
-     "source": "마켓인"
-    },
-    {
-     "title": "美 대중 반도체 규제에 반도체株 조정…반등 버팀목은 'AI 수요'",
-     "url": "https://www.news1.kr/finance/general-stock/6361213",
+     "title": "승리의 기쁨",
+     "url": "https://www.news1.kr/photos/8226316",
      "source": "뉴스1"
+    },
+    {
+     "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
+     "url": "https://www.yna.co.kr/view/AKR20261121039700007",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "멜라니아 트럼프",
-   "slug": "멜라니아-트럼프",
-   "traffic": 100,
-   "startedAt": 1795249200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "멜라니아 새 다큐 공개…\"트럼프 주변에 '예스맨' 너무 많아\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121028300075",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'멜라니아: 더 시리즈' 시사회 참석한 멜라니아 여사",
-     "url": "https://mobile.newsis.com/photo/NISI20261120_0002297858",
-     "source": "뉴시스"
-    },
-    {
-     "title": "트럼프와 결혼 생활? 아내 멜라니아 “남편에게 진실 말한다…주변에 ‘예스맨’ 너무 많아”",
-     "url": "https://biz.heraldcorp.com/article/10944750",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "sri lanka a vs hong kong",
-   "slug": "sri-lanka-a-vs-hong-kong",
-   "traffic": 100,
-   "startedAt": 1795248600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Sri Lanka A vs Hong Kong and Bangladesh A vs Afghanistan A match predictions – Asia Cup Rising Stars 2026",
-     "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-5th-6th-match-sri-lanka-a-vs-hong-kong-bangladesh-a-vs-afghanistan-a-november-21st/114454.htm",
-     "source": "Cricket World"
-    },
-    {
-     "title": "Sri Lanka A vs Hong Kong LIVE Streaming: When And Where To Watch Rising Stars Asia Cup",
-     "url": "https://www.ndtvprofit.com/sports/sri-lanka-a-vs-hong-kong-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-12356449",
-     "source": "NDTV Profit"
-    },
-    {
-     "title": "Sri Lanka A Bats First Against Hong Kong China in Doha",
-     "url": "https://cwibc.co.id/en/sri-lanka-hong-kong-doha",
-     "source": "cwibc.co.id"
-    }
-   ]
-  },
-  {
-   "rank": 8,
    "keyword": "광주공항",
    "slug": "광주공항",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795248600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "[제철남] 군 공항 투표, 무안의 진짜 목소리는?",
@@ -211,54 +159,80 @@
    ]
   },
   {
-   "rank": 9,
-   "keyword": "종묘",
-   "slug": "종묘",
+   "rank": 7,
+   "keyword": "삼성 엑시노스",
+   "slug": "삼성-엑시노스",
    "traffic": 100,
-   "startedAt": 1795246200.0,
+   "startedAt": 1795252200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "종묘 앞 ‘145m 아파트’ 못 짓는다...유산위, 유적 보존 방안 부결",
-     "url": "https://www.hani.co.kr/arti/culture/culture_general/1288428.html",
-     "source": "한겨레"
+     "title": "GameNative's new update brings reliable PC gaming to Pixels and Samsung Exynos",
+     "url": "https://tech.yahoo.com/gaming/articles/gamenatives-brings-reliable-pc-gaming-124728335.html",
+     "source": "Yahoo Tech"
     },
     {
-     "title": "종묘 앞 재개발, 내년 3월 착공 사실상 무산",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/21/UCC22HIS5BG5XDAMM5FAVFUVCM/",
-     "source": "조선일보"
+     "title": "GameNative Android PC game emulator prepares graphics fixes for Mali, PowerVR and Xclipse GPUs",
+     "url": "https://videocardz.com/newz/gamenative-android-pc-game-emulator-prepares-graphics-fixes-for-mali-powervr-and-xclipse-gpus",
+     "source": "VideoCardz.com"
     },
     {
-     "title": "서울시, 국가유산청 ‘세운4구역’ 보존 방안 부결에 강력 반발",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718587",
-     "source": "KBS 뉴스"
+     "title": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones",
+     "url": "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/",
+     "source": "Android Authority"
     }
    ]
   },
   {
-   "rank": 10,
-   "keyword": "신성일",
-   "slug": "신성일",
+   "rank": 8,
+   "keyword": "멜라니아 트럼프",
+   "slug": "멜라니아-트럼프",
    "traffic": 100,
-   "startedAt": 1795243200.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795249200.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
-     "title": "신성일기념관 개관 1주년 음악회, 21일 영천서 개최",
-     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6359296",
-     "source": "뉴스1"
+     "title": "멜라니아 새 다큐 공개…\"트럼프 주변에 '예스맨' 너무 많아\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121028300075",
+     "source": "연합뉴스"
     },
     {
-     "title": "벌써 7만명 다녀간 중장년 ‘추억 성지’…주말엔 박해미 뜬다",
-     "url": "https://www.koreadaily.com/article/20261120130053831",
-     "source": "미주중앙일보"
+     "title": "'멜라니아: 더 시리즈' 시사회 참석한 멜라니아 여사",
+     "url": "https://mobile.newsis.com/photo/NISI20261120_0002297858",
+     "source": "뉴시스"
     },
     {
-     "title": "영천시, 21일 신성일기념관 개관 1주년 기념 음악회 연다",
-     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427202",
-     "source": "데일리한국"
+     "title": "트럼프와 결혼 생활? 아내 멜라니아 “남편에게 진실 말한다…주변에 ‘예스맨’ 너무 많아”",
+     "url": "https://biz.heraldcorp.com/article/10944750",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "sri lanka a vs hong kong",
+   "slug": "sri-lanka-a-vs-hong-kong",
+   "traffic": 100,
+   "startedAt": 1795248600.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
+    {
+     "title": "Sri Lanka A begin title bid against Afghanistan today",
+     "url": "https://dailynews.lk/2026/11/19/sports/1051826/sri-lanka-a-begin-title-bid-against-afghanistan-today/",
+     "source": "Ceylon Daily News"
+    },
+    {
+     "title": "Sri Lanka A Bats First Against Hong Kong China in Doha",
+     "url": "https://cwibc.co.id/en/sri-lanka-hong-kong-doha",
+     "source": "cwibc.co.id"
+    },
+    {
+     "title": "Sri Lanka A Bat First Against Hong Kong on November 21",
+     "url": "https://demokratis.co.id/en/sri-lanka-hong-kong-rising-stars",
+     "source": "Demokratis.co.id"
     }
    ]
   }
