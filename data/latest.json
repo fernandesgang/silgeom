@@ -1,77 +1,145 @@
 {
- "generatedAt": 1795231774,
+ "generatedAt": 1795235464,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "동아일보",
-   "slug": "동아일보",
+   "keyword": "퇴직금",
+   "slug": "퇴직금",
    "traffic": 2000,
-   "startedAt": 1795219800.0,
-   "change": "up",
-   "diff": 1,
-   "news": []
+   "startedAt": 1795229400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "연금개미가 사랑한 美 지수 ETF…빅테크 중복투자 ‘함정’ 피해야 [S머니+]",
+     "url": "https://www.sedaily.com/article/20117111",
+     "source": "서울경제"
+    },
+    {
+     "title": "“퇴직금 9000만원” 그 50대, 6년만에 5억 모은 ‘독한 연금술’ [머니스쿨⑥]",
+     "url": "https://www.joongang.co.kr/article/25479427",
+     "source": "중앙일보"
+    },
+    {
+     "title": "\"12월 31일 넘기면 사라집니다..\" 60대 연금저축·IRP 세금 148만원 환급 조건",
+     "url": "https://v.daum.net/v/2H4lzo6bBU",
+     "source": "Daum"
+    }
+   ]
   },
   {
    "rank": 2,
-   "keyword": "편의점",
-   "slug": "편의점",
-   "traffic": 1000,
-   "startedAt": 1795223400.0,
-   "change": "up",
-   "diff": 3,
+   "keyword": "대통령",
+   "slug": "대통령",
+   "traffic": 2000,
+   "startedAt": 1795229400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "CU, 딘토와 '위니 더 푸' 색조 화장품 출시…책갈피 굿즈 동봉",
-     "url": "https://www.yna.co.kr/view/AKR20261119024400030",
+     "title": "李대통령 \"울산 방문해 시민들 만나…관광 많이 오시라\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121029500001",
      "source": "연합뉴스"
     },
     {
-     "title": "화장품 사면 곰돌이 푸 책갈피가…CU, 딘토와 색조 화장품 선봬",
-     "url": "https://zdnet.co.kr/view/?no=20261119134658",
-     "source": "지디넷코리아"
+     "title": "“AI 고속도로가 대한민국의 미래 연다”…울산 AI데이터센터 찾은 이재명 대통령 [현장 화보]",
+     "url": "https://www.khan.co.kr/article/202611211311001",
+     "source": "경향신문"
     },
     {
-     "title": "CU, 딘토 협업 '위니 더 푸' 색조 화장품 4종 출시",
-     "url": "https://www.etnews.com/20261119000188",
-     "source": "전자신문"
+     "title": "안전모 착용하는 이재명 대통령",
+     "url": "https://www.newsis.com/view/NISI20261121_0021541210",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "경부선",
-   "slug": "경부선",
-   "traffic": 500,
-   "startedAt": 1795225800.0,
+   "keyword": "구자욱",
+   "slug": "구자욱",
+   "traffic": 2000,
+   "startedAt": 1795229400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[속보] 코레일 \"천안∼조치원∼대전·서대전 구간 버스 연계 수송",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611211112093328_005.html",
-     "source": "YTN"
+     "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
+     "source": "조선일보"
     },
     {
-     "title": "’경부선 화물열차 탈선’에 일반열차 멈춰…복구 장시간 소요",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121101015fgK",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "경부선 탈선에 대전역서 수험생 '발 동동'…\"논술 보러 가야 하는데 KTX 매진\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121025300063",
+     "title": "빅리그 노리는 구자욱…MLB 사무국, 신분 조회 요청",
+     "url": "https://www.yna.co.kr/view/AKR20261120144000007",
      "source": "연합뉴스"
+    },
+    {
+     "title": "‘MLB 사무국 신분조회 요청’ FA 최대어 구자욱, 정말 ML 진출할까…12월 직장폐쇄 전 결정된다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611210648774670O",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "알테오젠",
-   "slug": "알테오젠",
-   "traffic": 200,
-   "startedAt": 1795227000.0,
+   "keyword": "김혜성",
+   "slug": "김혜성",
+   "traffic": 1000,
+   "startedAt": 1795228800.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "\"내가 다저스 가지 말랬잖아\" 강정호 만류에도 LA행 택한 김혜성, 에이전트 추천까지 뿌리친 이유",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/GM3GCYRUHEYDENBZMQ2WEYZQGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "MLB 다저스, 내야수 로이스 트레이드 영입…김혜성 비상",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719102",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "LA다저스, 내야수 루이스 트레이드 영입…김혜성 어쩌나",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121111250jdj",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "마이크론 테크놀로지",
+   "slug": "마이크론-테크놀로지",
+   "traffic": 500,
+   "startedAt": 1795228200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "마이크론테크놀로지, AI 투자 우려에 7거래일 연속 하락…주가 14%↓",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01230006645648016",
+     "source": "마켓인"
+    },
+    {
+     "title": "마이크론 메모리반도체 불황 대비해 '방어 전략' 집중, 삼성전자 SK하이닉스와 새 경쟁 국면",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452393",
+     "source": "비즈니스포스트"
+    },
+    {
+     "title": "마이크론 CTO \"메모리 반도체 공급 제약 2027년에 더 심화\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445660",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "알테오젠",
+   "slug": "알테오젠",
+   "traffic": 500,
+   "startedAt": 1795227000.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
@@ -91,158 +159,90 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "박윤영",
-   "slug": "박윤영",
-   "traffic": 200,
-   "startedAt": 1795225200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "KT스카이라이프, 케이블TV 자회사 KT HCN 흡수합병…인수 5년 만",
-     "url": "https://v.daum.net/v/tHi0T671fe",
-     "source": "Daum"
-    },
-    {
-     "title": "KT스카이라이프, 자회사 HCN 흡수합병키로…내년 6월 합병",
-     "url": "https://www.yna.co.kr/view/AKR20261119172000017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "KT스카이라이프와 한 몸 되는 HCN… 내부에선 “졸속 합병”",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338599",
-     "source": "미디어오늘"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "두산베어스",
-   "slug": "두산베어스",
-   "traffic": 200,
-   "startedAt": 1795222200.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "돈 못지않은 ‘진정성’… 프로야구 FA전쟁[소소한 복도통신]",
-     "url": "https://www.munhwa.com/article/11632753",
-     "source": "문화일보"
-    },
-    {
-     "title": "두산·SSG도 원한다구? 사연 좀 들어볼까",
-     "url": "https://sports.khan.co.kr/article/202611200600016",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "'이틀간 173억 계약 터졌다' 역대급 스토브리그 시작인가, 변수는 12월 ML 직장폐쇄…원태인·구자욱은 어디로?",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/19/HAZDGNZTGBRWEYZVGA2GCNJWME/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
    "rank": 7,
-   "keyword": "jisoo sun showers (from \"the angry birds movie 3”)",
-   "slug": "jisoo-sun-showers-from-the-angry-birds-movie-3",
-   "traffic": 100,
-   "startedAt": 1795224600.0,
+   "keyword": "이현중",
+   "slug": "이현중",
+   "traffic": 200,
+   "startedAt": 1795230000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
-     "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
-     "source": "Rolling Stone"
+     "title": "‘4쿼터에만 3점 5방’ 이현중, 25득점 G리그 개인 최다득점",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8713824",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "Jisoo Brings Her Childhood Creation Shumon To Life In “Sun Showers” Video",
-     "url": "https://www.thatericalper.com/2026/11/20/jisoo-brings-her-childhood-creation-shumon-to-life-in-sun-showers-video/",
-     "source": "That Eric Alper"
+     "title": "'3점슛 6개 폭발' 대한민국 에이스의 NBA 도전 청신호→25점 커리어 하이 '현중 리', 꿈의 무대 향해 성큼",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698549",
+     "source": "인터풋볼"
     },
     {
-     "title": "JISOO Brightens the Day With Bubbly ‘Sun Showers’ Single From ‘The Angry Birds Movie 3’ Soundtrack: Stream It Now",
-     "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/jisoo-brightens-day-bubbly-sun-185828437.html",
-     "source": "Yahoo"
+     "title": "NBA 도전 중인 한국 농구 에이스 이현중, G리그서 21득점",
+     "url": "https://www.imaeil.com/page/view/2026111515345186431",
+     "source": "매일신문"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "nh농협카드",
-   "slug": "nh농협카드",
-   "traffic": 100,
-   "startedAt": 1795223400.0,
-   "change": "same",
+   "keyword": "kt",
+   "slug": "kt",
+   "traffic": 200,
+   "startedAt": 1795230000.0,
+   "change": "new",
    "diff": 0,
-   "news": [
-    {
-     "title": "“뛰어난 활약으로 브랜드 가치 높였다” NH농협카드 당구단, 농협금융스포츠단 납회식서 높은 평가",
-     "url": "https://mkbn.mk.co.kr/news/sports/12215015",
-     "source": "mkbn.mk.co.kr"
-    },
-    {
-     "title": "NH농협금융, '2026 스포츠단 납회식' 개최…선수단 격려",
-     "url": "https://www.newspim.com/news/view/20261118001359",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "NH농협금융, 스포츠단 지원으로 비인기 종목 육성 '앞장'",
-     "url": "https://www.g-enews.com/article/Finance/2026/11/202611181123447185cd0bfacc1c_1",
-     "source": "글로벌이코노믹"
-    }
-   ]
+   "news": []
   },
   {
    "rank": 9,
-   "keyword": "매일경제",
-   "slug": "매일경제",
-   "traffic": 100,
-   "startedAt": 1795223400.0,
-   "change": "same",
+   "keyword": "catl",
+   "slug": "catl",
+   "traffic": 200,
+   "startedAt": 1795229400.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "국방홍보원, 매일경제와 국방·안보 콘텐츠 발굴 위한 MOU 체결",
-     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6360931",
-     "source": "뉴스1"
+     "title": "POSCO Group Signs Long-Term Lithium Supply Deal with CATL",
+     "url": "https://dbr.donga.com/kfocus/view/en/article_no/3965",
+     "source": "동아비즈니스리뷰"
     },
     {
-     "title": "국방홍보원·매일경제 손잡았다…국방·안보 콘텐츠 협력 강화",
-     "url": "https://www.mk.co.kr/news/politics/12214688",
-     "source": "매일경제"
+     "title": "POSCO Group signs lithium supply deal with China's CATL through 2028",
+     "url": "https://biz.chosun.com/en/en-industry/2026/11/18/MCEZ7PPJ7FDULBNLQNNY3CGDS4/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "[포토] 국방·안보 홍보 협력 강화 위한 업무협약 체결",
-     "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399546",
-     "source": "파이낸스투데이"
+     "title": "Posco, CATL signs 3-year lithium supply deal",
+     "url": "https://www.koreaherald.com/article/10941739",
+     "source": "The Korea Herald"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "전북특별자치도",
-   "slug": "전북특별자치도",
-   "traffic": 100,
-   "startedAt": 1795220400.0,
-   "change": "same",
+   "keyword": "전소미",
+   "slug": "전소미",
+   "traffic": 200,
+   "startedAt": 1795228200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "전북도, 서해안과 내륙 잇는 도로망 53㎞ 정비 '속도'",
-     "url": "https://www.yna.co.kr/view/AKR20261120061500055",
-     "source": "연합뉴스"
+     "title": "전소미, 아이오아이 무대서 혼자 검은 옷 입은 이유 \"오히려 안 튀려고\"",
+     "url": "https://www.newsis.com/view/NISX20261120_0003877021",
+     "source": "뉴시스"
     },
     {
-     "title": "전북자치도, 서해안·내륙 도로망 53㎞ 정비 속도…군산·고창·정읍 12월 준공 목표",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=355158",
-     "source": "녹색경제신문"
+     "title": "전소미, 아이오아이 의상 차별 논란에 입 열었다 \"내가 튀려고 했다고?\"[Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/music/2026/11/20/HA3DCMZTHAYTSZBYGFSDCNZRGE/",
+     "source": "조선일보"
     },
     {
-     "title": "전북도, 국·지방도 8개 사업 53㎞ 정비…서해안·내륙 연결 강화",
-     "url": "https://www.newspim.com/news/view/20261120000371",
-     "source": "뉴스핌"
+     "title": "다 흰 옷인데 혼자 검은 옷…\"튀고 싶지 않았다\" 전소미 해명 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112015210050064",
+     "source": "머니투데이"
     }
    ]
   }

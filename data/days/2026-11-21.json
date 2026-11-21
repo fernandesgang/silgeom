@@ -509,8 +509,8 @@
    "slug": "알테오젠",
    "firstSeen": 1795227000.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795231774.2557518
+   "peakTraffic": 500,
+   "lastSeen": 1795235463.8032827
   },
   "박윤영": {
    "slug": "박윤영",
@@ -525,6 +525,69 @@
    "peakRank": 7,
    "peakTraffic": 100,
    "lastSeen": 1795231774.2557518
+  },
+  "퇴직금": {
+   "slug": "퇴직금",
+   "firstSeen": 1795229400.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795235463.8032827
+  },
+  "대통령": {
+   "slug": "대통령",
+   "firstSeen": 1795229400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795235463.8032827
+  },
+  "구자욱": {
+   "slug": "구자욱",
+   "firstSeen": 1795229400.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795235463.8032827
+  },
+  "김혜성": {
+   "slug": "김혜성",
+   "firstSeen": 1795228800.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795235463.8032827
+  },
+  "마이크론 테크놀로지": {
+   "slug": "마이크론-테크놀로지",
+   "firstSeen": 1795228200.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795235463.8032827
+  },
+  "이현중": {
+   "slug": "이현중",
+   "firstSeen": 1795230000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795235463.8032827
+  },
+  "kt": {
+   "slug": "kt",
+   "firstSeen": 1795230000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795235463.8032827
+  },
+  "catl": {
+   "slug": "catl",
+   "firstSeen": 1795229400.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795235463.8032827
+  },
+  "전소미": {
+   "slug": "전소미",
+   "firstSeen": 1795228200.0,
+   "peakRank": 10,
+   "peakTraffic": 200,
+   "lastSeen": 1795235463.8032827
   }
  }
 }
