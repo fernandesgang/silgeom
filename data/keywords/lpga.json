@@ -2,7 +2,7 @@
  "keyword": "lpga",
  "slug": "lpga",
  "firstSeen": 1795131600.0,
- "lastSeen": 1795225825.824846,
+ "lastSeen": 1795228793.738323,
  "peakRank": 3,
  "peakTraffic": 1000,
  "history": [
@@ -18,6 +18,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "Megha Ganne Takes One-Shot Lead After Round 2 of LPGA Q-Series Final Qualifying",
+   "url": "https://www.lpga.com/news/2026/megha-ganne-takes-one-shot-lead-after-round-2-of-lpga-q-series-final-qualifying",
+   "source": "LPGA"
+  },
+  {
+   "title": "LPGA Q-Series 2026 Preview: A Look at the Newest Professionals",
+   "url": "https://www.epsontour.com/news/2026/lpga-q-series-2026-preview-a-look-at-the-newest-professionals",
+   "source": "Epson Tour"
+  },
+  {
+   "title": "LPGA Q-Series 2026: Chiara Tamburlini and Julia Gregg share early lead at Final Qualifying",
+   "url": "https://www.amateurgolf.com/golf-tournament-news/lpga-q-series-2026-final-qualifying-live-scoring-results",
+   "source": "AmateurGolf.com"
+  },
   {
    "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
    "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
@@ -49,6 +64,12 @@
   "2026-11-21"
  ],
  "related": [
+  "동아일보",
+  "편의점",
+  "두산베어스",
+  "nh농협카드",
+  "매일경제",
+  "전북특별자치도",
   "패딩",
   "반도체",
   "지스타",
@@ -62,9 +83,6 @@
   "이의리",
   "유니클로",
   "물수리",
-  "php-취약점",
-  "2호선",
-  "h-m",
-  "전북특별자치도교육청"
+  "php-취약점"
  ]
 }

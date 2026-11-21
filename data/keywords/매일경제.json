@@ -1,0 +1,46 @@
+{
+ "keyword": "매일경제",
+ "slug": "매일경제",
+ "firstSeen": 1795223400.0,
+ "lastSeen": 1795228793.738323,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795228794,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "국방홍보원, 매일경제와 국방·안보 콘텐츠 발굴 위한 MOU 체결",
+   "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6360931",
+   "source": "뉴스1"
+  },
+  {
+   "title": "국방홍보원·매일경제 손잡았다…국방·안보 콘텐츠 협력 강화",
+   "url": "https://www.mk.co.kr/news/politics/12214688",
+   "source": "매일경제"
+  },
+  {
+   "title": "[포토] 국방·안보 홍보 협력 강화 위한 업무협약 체결",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399546",
+   "source": "파이낸스투데이"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "패딩",
+  "동아일보",
+  "lpga",
+  "지스타",
+  "편의점",
+  "두산베어스",
+  "공군사관학교",
+  "nh농협카드",
+  "전북특별자치도"
+ ]
+}

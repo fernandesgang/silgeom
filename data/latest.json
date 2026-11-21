@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795225826,
+ "generatedAt": 1795228794,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "패딩",
    "traffic": 10000,
    "startedAt": 1795219800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -30,29 +30,13 @@
   },
   {
    "rank": 2,
-   "keyword": "반도체",
-   "slug": "반도체",
-   "traffic": 5000,
-   "startedAt": 1795217400.0,
+   "keyword": "동아일보",
+   "slug": "동아일보",
+   "traffic": 2000,
+   "startedAt": 1795219800.0,
    "change": "new",
    "diff": 0,
-   "news": [
-    {
-     "title": "“반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야”",
-     "url": "https://www.chosun.com/economy/weeklybiz/2026/11/21/E6ALXTVRWRGODKPHHSVIY4SVOI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"반도체 호황이지만 파급은 미미…10억원당 취업유발 2.4명\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121094731WfU",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "[한창헌의 단상] 호황의 역설",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445735",
-     "source": "연합인포맥스"
-    }
-   ]
+   "news": []
   },
   {
    "rank": 3,
@@ -60,23 +44,23 @@
    "slug": "lpga",
    "traffic": 1000,
    "startedAt": 1795219200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
-     "source": "news.sbs.co.kr"
+     "title": "Megha Ganne Takes One-Shot Lead After Round 2 of LPGA Q-Series Final Qualifying",
+     "url": "https://www.lpga.com/news/2026/megha-ganne-takes-one-shot-lead-after-round-2-of-lpga-q-series-final-qualifying",
+     "source": "LPGA"
     },
     {
-     "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
-     "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
-     "source": "아시아경제"
+     "title": "LPGA Q-Series 2026 Preview: A Look at the Newest Professionals",
+     "url": "https://www.epsontour.com/news/2026/lpga-q-series-2026-preview-a-look-at-the-newest-professionals",
+     "source": "Epson Tour"
     },
     {
-     "title": "Thitikul talks spark on back nine during two rounds at CME",
-     "url": "https://www.golfchannel.com/watch/lpga/thitikul-talks-spark-on-back-nine-during-two-rounds-at-cme",
-     "source": "Golf Channel"
+     "title": "LPGA Q-Series 2026: Chiara Tamburlini and Julia Gregg share early lead at Final Qualifying",
+     "url": "https://www.amateurgolf.com/golf-tournament-news/lpga-q-series-2026-final-qualifying-live-scoring-results",
+     "source": "AmateurGolf.com"
     }
    ]
   },
@@ -84,155 +68,181 @@
    "rank": 4,
    "keyword": "지스타",
    "slug": "지스타",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795219200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
-     "url": "https://www.yna.co.kr/view/AKR20261120133000017",
+     "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
+     "url": "https://www.yna.co.kr/view/AKR20261121029700017",
      "source": "연합뉴스"
     },
     {
-     "title": "'지스타 2026'으로 보는 게임산업 변화는?",
-     "url": "https://stock.mk.co.kr/news/view/1203323",
-     "source": "매일경제 마켓"
+     "title": "원작 속 전장을 직접 지휘하다…웹젠 ‘디겜폭: 라스트 스테이지’ 시연해보니",
+     "url": "https://zdnet.co.kr/view/?no=20261121112733",
+     "source": "지디넷코리아"
     },
     {
-     "title": "도쿄게임쇼는 북적이는데… 게임사 빠지고 썰렁한 지스타, 이대로 괜찮나",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/20/KNQMUH46XFC3BDZOJMXEPXISUE/",
-     "source": "조선일보"
+     "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
+     "url": "https://stock.mk.co.kr/news/view/1203595",
+     "source": "매일경제 마켓"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "문경시",
-   "slug": "문경시",
+   "keyword": "편의점",
+   "slug": "편의점",
    "traffic": 500,
-   "startedAt": 1795217400.0,
+   "startedAt": 1795223400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "문경시, 공공열분해시설 설치사업 추진 방향 검토",
-     "url": "http://www.mgnews.kr/default/index_view_page.php?part_idx=197&idx=77238",
-     "source": "문경시민신문"
+     "title": "CU, 딘토와 '위니 더 푸' 색조 화장품 출시…책갈피 굿즈 동봉",
+     "url": "https://www.yna.co.kr/view/AKR20261119024400030",
+     "source": "연합뉴스"
     },
     {
-     "title": "수백억 ‘플라스틱 열분해’…줄줄이 ‘포기’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715850",
-     "source": "KBS 뉴스"
+     "title": "화장품 사면 곰돌이 푸 책갈피가…CU, 딘토와 색조 화장품 선봬",
+     "url": "https://zdnet.co.kr/view/?no=20261119134658",
+     "source": "지디넷코리아"
     },
     {
-     "title": "문경시, 공공열분해설비 제작 중지…사업 타당성 재검토",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758765",
-     "source": "국제뉴스"
+     "title": "CU, 딘토 협업 '위니 더 푸' 색조 화장품 4종 출시",
+     "url": "https://www.etnews.com/20261119000188",
+     "source": "전자신문"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "공군사관학교",
-   "slug": "공군사관학교",
+   "keyword": "두산베어스",
+   "slug": "두산베어스",
    "traffic": 200,
-   "startedAt": 1795219200.0,
+   "startedAt": 1795222200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
-     "source": "한겨레"
+     "title": "돈 못지않은 ‘진정성’… 프로야구 FA전쟁[소소한 복도통신]",
+     "url": "https://www.munhwa.com/article/11632753",
+     "source": "문화일보"
     },
     {
-     "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
-     "url": "https://www.kyeonggi.com/article/20261120580310",
-     "source": "경기일보"
+     "title": "두산·SSG도 원한다구? 사연 좀 들어볼까",
+     "url": "https://sports.khan.co.kr/article/202611200600016",
+     "source": "스포츠경향"
     },
     {
-     "title": "사관학교에서도 전자기기 부정행위…공사, 생도 1명 퇴교 처분",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718753",
-     "source": "KBS 뉴스"
+     "title": "'이틀간 173억 계약 터졌다' 역대급 스토브리그 시작인가, 변수는 12월 ML 직장폐쇄…원태인·구자욱은 어디로?",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/19/HAZDGNZTGBRWEYZVGA2GCNJWME/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "브루노 마스",
-   "slug": "브루노-마스",
+   "keyword": "공군사관학교",
+   "slug": "공군사관학교",
    "traffic": 200,
-   "startedAt": 1795218000.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795219200.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "Bruno Mars remembers his late father and the musical lessons he passed down",
-     "url": "https://abcnews.com/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867",
-     "source": "ABC News - Breaking News, Latest News and Videos"
+     "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
+     "url": "https://www.yna.co.kr/view/AKR20261120176600504",
+     "source": "연합뉴스"
     },
     {
-     "title": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
-     "source": "Los Angeles Times"
+     "title": "공군사관학교도 6월에 시험문제 불법촬영…3학년 생도 퇴교",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135063726/1",
+     "source": "동아일보"
     },
     {
-     "title": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
-     "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
-     "source": "Billboard"
+     "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+     "url": "https://www.kyeonggi.com/article/20261120580310",
+     "source": "경기일보"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "공인회계사",
-   "slug": "공인회계사",
-   "traffic": 200,
-   "startedAt": 1795218000.0,
+   "keyword": "nh농협카드",
+   "slug": "nh농협카드",
+   "traffic": 100,
+   "startedAt": 1795223400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04487046645647688",
-     "source": "마켓인"
+     "title": "“뛰어난 활약으로 브랜드 가치 높였다” NH농협카드 당구단, 농협금융스포츠단 납회식서 높은 평가",
+     "url": "https://mkbn.mk.co.kr/news/sports/12215015",
+     "source": "mkbn.mk.co.kr"
     },
     {
-     "title": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
-     "url": "https://www.news1.kr/world/northeast-asia/6361423",
-     "source": "뉴스1"
+     "title": "NH농협금융, '2026 스포츠단 납회식' 개최…선수단 격려",
+     "url": "https://www.newspim.com/news/view/20261118001359",
+     "source": "뉴스핌"
     },
     {
-     "title": "공인회계사 시험 합격한 14세…日 역대 최연소 기록 경신",
-     "url": "https://www.hankyung.com/article/2026112009647",
-     "source": "한국경제"
+     "title": "NH농협금융, '스포츠단 납회식'",
+     "url": "https://www.metroseoul.co.kr/article/20261118500266",
+     "source": "메트로신문"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "안양시",
-   "slug": "안양시",
+   "keyword": "매일경제",
+   "slug": "매일경제",
    "traffic": 100,
-   "startedAt": 1795218000.0,
+   "startedAt": 1795223400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "남양주시, 내년도 예산안 2조5천868억 편성…10.3%↑",
-     "url": "https://www.yna.co.kr/view/AKR20261120123600060",
+     "title": "국방홍보원, 매일경제와 국방·안보 콘텐츠 발굴 위한 MOU 체결",
+     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6360931",
+     "source": "뉴스1"
+    },
+    {
+     "title": "국방홍보원·매일경제 손잡았다…국방·안보 콘텐츠 협력 강화",
+     "url": "https://www.mk.co.kr/news/politics/12214688",
+     "source": "매일경제"
+    },
+    {
+     "title": "[포토] 국방·안보 홍보 협력 강화 위한 업무협약 체결",
+     "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399546",
+     "source": "파이낸스투데이"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "전북특별자치도",
+   "slug": "전북특별자치도",
+   "traffic": 100,
+   "startedAt": 1795220400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "전북도, 서해안과 내륙 잇는 도로망 53㎞ 정비 '속도'",
+     "url": "https://www.yna.co.kr/view/AKR20261120061500055",
      "source": "연합뉴스"
     },
     {
-     "title": "최대호 안양시장, 2027년 시정운영방향 발표…‘안양의 완성’ 향한 본격 도약",
-     "url": "https://www.kyeonggi.com/article/20261120580236",
-     "source": "경기일보"
+     "title": "전북자치도, 서해안·내륙 도로망 53㎞ 정비 속도…군산·고창·정읍 12월 준공 목표",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=355158",
+     "source": "녹색경제신문"
     },
     {
-     "title": "안양시의회, 정례회 개회…예산안심사·행감 착수",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876940",
-     "source": "뉴시스"
+     "title": "전북도, 국·지방도 8개 사업 53㎞ 정비…서해안·내륙 연결 강화",
+     "url": "https://www.newspim.com/news/view/20261120000371",
+     "source": "뉴스핌"
     }
    ]
   }

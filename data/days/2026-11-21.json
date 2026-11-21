@@ -398,7 +398,7 @@
    "firstSeen": 1795219800.0,
    "peakRank": 1,
    "peakTraffic": 10000,
-   "lastSeen": 1795225825.824846
+   "lastSeen": 1795228793.738323
   },
   "반도체": {
    "slug": "반도체",
@@ -412,14 +412,14 @@
    "firstSeen": 1795219200.0,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795225825.824846
+   "lastSeen": 1795228793.738323
   },
   "지스타": {
    "slug": "지스타",
    "firstSeen": 1795219200.0,
    "peakRank": 4,
-   "peakTraffic": 500,
-   "lastSeen": 1795225825.824846
+   "peakTraffic": 1000,
+   "lastSeen": 1795228793.738323
   },
   "문경시": {
    "slug": "문경시",
@@ -433,7 +433,7 @@
    "firstSeen": 1795219200.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795225825.824846
+   "lastSeen": 1795228793.738323
   },
   "브루노 마스": {
    "slug": "브루노-마스",
@@ -455,6 +455,48 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795225825.824846
+  },
+  "동아일보": {
+   "slug": "동아일보",
+   "firstSeen": 1795219800.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795228793.738323
+  },
+  "편의점": {
+   "slug": "편의점",
+   "firstSeen": 1795223400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795228793.738323
+  },
+  "두산베어스": {
+   "slug": "두산베어스",
+   "firstSeen": 1795222200.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795228793.738323
+  },
+  "nh농협카드": {
+   "slug": "nh농협카드",
+   "firstSeen": 1795223400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795228793.738323
+  },
+  "매일경제": {
+   "slug": "매일경제",
+   "firstSeen": 1795223400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795228793.738323
+  },
+  "전북특별자치도": {
+   "slug": "전북특별자치도",
+   "firstSeen": 1795220400.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795228793.738323
   }
  }
 }

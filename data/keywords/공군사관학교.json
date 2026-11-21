@@ -2,7 +2,7 @@
  "keyword": "공군사관학교",
  "slug": "공군사관학교",
  "firstSeen": 1795219200.0,
- "lastSeen": 1795225825.824846,
+ "lastSeen": 1795228793.738323,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795225826,
    6,
    200
+  ],
+  [
+   1795228794,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
+   "url": "https://www.yna.co.kr/view/AKR20261120176600504",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "공군사관학교도 6월에 시험문제 불법촬영…3학년 생도 퇴교",
+   "url": "https://www.donga.com/news/Society/article/all/20261120/135063726/1",
+   "source": "동아일보"
+  },
   {
    "title": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
    "url": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
@@ -33,6 +48,12 @@
   "2026-11-21"
  ],
  "related": [
+  "동아일보",
+  "편의점",
+  "두산베어스",
+  "nh농협카드",
+  "매일경제",
+  "전북특별자치도",
   "패딩",
   "반도체",
   "lpga",
