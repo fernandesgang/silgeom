@@ -118,14 +118,14 @@
    "firstSeen": 1795274400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795287751.6166587
+   "lastSeen": 1795290995.9144247
   },
   "뉴캐슬 대 아스널": {
    "slug": "뉴캐슬-대-아스널",
    "firstSeen": 1795279200.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795287751.6166587
+   "lastSeen": 1795290995.9144247
   },
   "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업": {
    "slug": "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
@@ -137,9 +137,30 @@
   "newcastle vs arsenal": {
    "slug": "newcastle-vs-arsenal",
    "firstSeen": 1795282200.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795290995.9144247
+  },
+  "아스날": {
+   "slug": "아스날",
+   "firstSeen": 1795281600.0,
    "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795290995.9144247
+  },
+  "샬케 대 슈투트가르트": {
+   "slug": "샬케-대-슈투트가르트",
+   "firstSeen": 1795281000.0,
+   "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795287751.6166587
+   "lastSeen": 1795290995.9144247
+  },
+  "위기": {
+   "slug": "위기",
+   "firstSeen": 1795287000.0,
+   "peakRank": 6,
+   "peakTraffic": 100,
+   "lastSeen": 1795290995.9144247
   }
  }
 }

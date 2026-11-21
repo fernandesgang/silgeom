@@ -2,17 +2,32 @@
  "keyword": "newcastle vs arsenal",
  "slug": "newcastle-vs-arsenal",
  "firstSeen": 1795282200.0,
- "lastSeen": 1795287751.6166587,
- "peakRank": 3,
- "peakTraffic": 200,
+ "lastSeen": 1795290995.9144247,
+ "peakRank": 2,
+ "peakTraffic": 500,
  "history": [
   [
    1795287752,
    3,
    200
+  ],
+  [
+   1795290996,
+   2,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Match Summary",
+   "url": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+   "source": "BBC"
+  },
+  {
+   "title": "Arsenal fail to capitalise on Manchester City slip-up",
+   "url": "https://www.goal.com/en/news/arsenal-fail-to-capitalise-on-manchester-city-slip-up/blt4ec3cbd7f7ade5df",
+   "source": "Goal.com"
+  },
   {
    "title": "Newcastle United vs Arsenal: Premier League preview, team news, stats & head-to-head",
    "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
@@ -33,6 +48,9 @@
   "2026-11-22"
  ],
  "related": [
+  "아스날",
+  "샬케-대-슈투트가르트",
+  "위기",
   "뉴캐슬-대-아스널",
   "채령",
   "권순우",
