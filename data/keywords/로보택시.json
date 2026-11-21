@@ -1,0 +1,46 @@
+{
+ "keyword": "로보택시",
+ "slug": "로보택시",
+ "firstSeen": 1795215600.0,
+ "lastSeen": 1795220644.753429,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795220645,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수",
+   "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026111909131263385",
+   "source": "아시아경제"
+  },
+  {
+   "title": "모셔널, SAE 레벨 4 로보택시 상용 서비스 위한 안전 프레임워크 공개",
+   "url": "https://www.autoelectronics.co.kr/article/articleView.asp?idx=7208",
+   "source": "https://www.autoelectronics.co.kr/"
+  },
+  {
+   "title": "美 우버 \"현대차 모셔널 로보택시 올 4분기 상용화\"",
+   "url": "https://www.creditnews.kr/news/articleView.html?idxno=32724",
+   "source": "한국신용신문"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "연예인",
+  "추성훈",
+  "nvda",
+  "경기남부",
+  "경찰관",
+  "나스닥-100",
+  "베냐민-네타냐후",
+  "mu",
+  "한국항공우주산업"
+ ]
+}

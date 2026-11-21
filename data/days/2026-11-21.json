@@ -300,28 +300,28 @@
    "firstSeen": 1795212600.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795217048.8602755
+   "lastSeen": 1795220644.753429
   },
   "nvda": {
    "slug": "nvda",
    "firstSeen": 1795213200.0,
    "peakRank": 2,
-   "peakTraffic": 200,
-   "lastSeen": 1795217048.8602755
+   "peakTraffic": 500,
+   "lastSeen": 1795220644.753429
   },
   "경기남부": {
    "slug": "경기남부",
    "firstSeen": 1795212600.0,
    "peakRank": 3,
-   "peakTraffic": 200,
-   "lastSeen": 1795217048.8602755
+   "peakTraffic": 500,
+   "lastSeen": 1795220644.753429
   },
   "나스닥 100": {
    "slug": "나스닥-100",
    "firstSeen": 1795212600.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795217048.8602755
+   "lastSeen": 1795220644.753429
   },
   "공매도": {
    "slug": "공매도",
@@ -340,16 +340,16 @@
   "경찰관": {
    "slug": "경찰관",
    "firstSeen": 1795213200.0,
-   "peakRank": 7,
-   "peakTraffic": 100,
-   "lastSeen": 1795217048.8602755
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795220644.753429
   },
   "한국항공우주산업": {
    "slug": "한국항공우주산업",
    "firstSeen": 1795213200.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795217048.8602755
+   "lastSeen": 1795220644.753429
   },
   "가덕도신공항": {
    "slug": "가덕도신공항",
@@ -364,6 +364,34 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795217048.8602755
+  },
+  "추성훈": {
+   "slug": "추성훈",
+   "firstSeen": 1795216200.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795220644.753429
+  },
+  "베냐민 네타냐후": {
+   "slug": "베냐민-네타냐후",
+   "firstSeen": 1795215600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795220644.753429
+  },
+  "로보택시": {
+   "slug": "로보택시",
+   "firstSeen": 1795215600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795220644.753429
+  },
+  "mu": {
+   "slug": "mu",
+   "firstSeen": 1795214400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795220644.753429
   }
  }
 }

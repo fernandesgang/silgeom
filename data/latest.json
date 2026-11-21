@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795217049,
+ "generatedAt": 1795220645,
  "geo": "KR",
  "items": [
   {
@@ -8,34 +8,60 @@
    "slug": "연예인",
    "traffic": 2000,
    "startedAt": 1795212600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "\"집 샀다\" 자랑하더니 3개월 만에…'영끌' 연예인도 한숨 [머니팁]",
-     "url": "https://www.hankyung.com/article/202611209874v",
-     "source": "한국경제"
+     "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135063902/1",
+     "source": "동아일보"
     },
     {
-     "title": "남유정, 영끌해서 서울에 집 샀다더니 “금리 상승으로 대출 이자 부담”[핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWIYTCHFSGIYTCGJTGMNRWGU/",
-     "source": "Chosunbiz"
+     "title": "'성폭행 유죄' 강지환도 고영욱처럼…틱톡 하루 만에 '삭제' 굴욕 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112020104015314",
+     "source": "머니투데이"
     },
     {
-     "title": "“갚아야 할 빚 많은데”…‘영끌’로 집 산 걸그룹 출신女, 금리상승에 한숨",
-     "url": "https://www.mk.co.kr/news/culture/12214487",
-     "source": "매일경제"
+     "title": "‘스태프 성폭행’ 강지환 근황? ‘뜨개질’하며 틱톡 라이브",
+     "url": "https://sports.khan.co.kr/article/202611191749003",
+     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "nvda",
-   "slug": "nvda",
-   "traffic": 200,
-   "startedAt": 1795213200.0,
+   "keyword": "추성훈",
+   "slug": "추성훈",
+   "traffic": 500,
+   "startedAt": 1795216200.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "야노시호, ♥추성훈 패배에 죄책감까지…\"내 탓 아닌가, 우울했다\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MMZDKNDCMY4GEZDGMYZDAZJZHA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "추성훈, 21일 고척돔서 은퇴전…격투기 국내 최다 2만1177석 매진",
+     "url": "https://www.newspim.com/news/view/20261120000925",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "'20년 격투 인생' 마침표 찍는 추성훈 \"이기는 것이 진짜 의리\"",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875201",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "nvda",
+   "slug": "nvda",
+   "traffic": 500,
+   "startedAt": 1795213200.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
@@ -48,46 +74,72 @@
      "source": "Yahoo Finance"
     },
     {
-     "title": "California targets Nvidia in China AI chip probe",
-     "url": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
-     "source": "BBC"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "경기남부",
-   "slug": "경기남부",
-   "traffic": 200,
-   "startedAt": 1795212600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[사설]거래 절벽 속 쌓이는 아파트 매물… 공급 적기 놓치지 말아야",
-     "url": "https://www.donga.com/news/Opinion/article/all/20261120/135063785/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01252966645648016",
-     "source": "마켓인"
-    },
-    {
-     "title": "봄 이사철 '전세 가뭄' 심해질 텐데…치솟는 전셋값, 꺾이는 집값 흔든다 - 머니투데이",
-     "url": "https://www.mt.co.kr/estate/2026/11/20/2026111923093133290",
-     "source": "머니투데이"
+     "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+     "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+     "source": "CNBC"
     }
    ]
   },
   {
    "rank": 4,
+   "keyword": "경기남부",
+   "slug": "경기남부",
+   "traffic": 500,
+   "startedAt": 1795212600.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
+     "url": "https://www.fnnews.com/news/202611201430139857",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "경기 남부 아파트값 고공행진…광교 22억 신고가에 서울 외곽 추월",
+     "url": "http://www.snakorea.com/news/articleView.html?idxno=1065174",
+     "source": "서울뉴스통신"
+    },
+    {
+     "title": "기흥 국평이 16억…반도체벨트 집값 줄줄이 전고점 돌파",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875586",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "경찰관",
+   "slug": "경찰관",
+   "traffic": 200,
+   "startedAt": 1795213200.0,
+   "change": "up",
+   "diff": 2,
+   "news": [
+    {
+     "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "수능날 '시계 문제' 겪은 수험생…경찰관도 서울대생도 손목시계 풀었다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645647688&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "\"엄마, 시계 멈췄어\" 당황한 삼수생...경찰이 '수백만원 시계' 건넸다[오따뉴] - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/20/2026112006293468961",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 6,
    "keyword": "나스닥 100",
    "slug": "나스닥-100",
    "traffic": 200,
    "startedAt": 1795212600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
@@ -107,143 +159,91 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "공매도",
-   "slug": "공매도",
-   "traffic": 200,
-   "startedAt": 1795212600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
-     "url": "https://stock.mk.co.kr/news/view/1203507",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867106_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688",
-     "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "부고",
-   "slug": "부고",
-   "traffic": 200,
-   "startedAt": 1795212000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[부음] 심원보(금호건설 홍보IR팀 팀장)씨 부친상",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001551",
-     "source": "IT조선"
-    },
-    {
-     "title": "[부고] 심원보 금호건설 홍보IR팀 팀장 부친상",
-     "url": "https://www.etoday.co.kr/news/view/2651080",
-     "source": "이투데이"
-    },
-    {
-     "title": "[부고] 심원보(금호건설 홍보IR팀) 씨 부친상",
-     "url": "https://www.newspim.com/news/view/20261120001213",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
    "rank": 7,
-   "keyword": "경찰관",
-   "slug": "경찰관",
+   "keyword": "베냐민 네타냐후",
+   "slug": "베냐민-네타냐후",
    "traffic": 100,
-   "startedAt": 1795213200.0,
+   "startedAt": 1795215600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
-     "source": "YTN"
+     "title": "\"한번 더 이란 공격\" 美 설득나선 네타냐후",
+     "url": "https://www.chosun.com/international/mideast-africa-latin/2026/11/21/EVQQJ6DDLNBHXF57ORXIRF6RHY/",
+     "source": "조선일보"
     },
     {
-     "title": "\"엄마, 시계 멈췄어\" 당황한 삼수생...경찰이 '수백만원 시계' 건넸다[오따뉴] - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/20/2026112006293468961",
-     "source": "머니투데이"
+     "title": "트럼프 대통령, “이란이 합의 원하지만 수용 가능한 조건 아냐”",
+     "url": "https://www.voakorea.com/a/us-iran-/8226197.html",
+     "source": "VOA 한국어 홈페이지"
     },
     {
-     "title": "수능날 딸 배웅했는데 청천벽력…\"잘 쓰세요\" 뜻밖 손길",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854826",
-     "source": "SBS 뉴스"
+     "title": "서두르지 않겠다는 트럼프…“미·이스라엘군은 이란 공격 채비”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718957",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "한국항공우주산업",
-   "slug": "한국항공우주산업",
+   "keyword": "로보택시",
+   "slug": "로보택시",
    "traffic": 100,
-   "startedAt": 1795213200.0,
+   "startedAt": 1795215600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[박성진의 국방 B컷](70) 무기 중개상은 왜 ‘KF-21, FA-50 미사일 전력화’의 잡음을 노리나",
-     "url": "https://weekly.khan.co.kr/article/202611201509001",
-     "source": "주간경향"
+     "title": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수",
+     "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026111909131263385",
+     "source": "아시아경제"
     },
     {
-     "title": "“한국항공우주, 10년전과 완전히 달라진 체급…엔진 공급이 병목”",
-     "url": "https://stock.mk.co.kr/news/view/1202951",
-     "source": "매일경제 마켓"
+     "title": "모셔널, SAE 레벨 4 로보택시 상용 서비스 위한 안전 프레임워크 공개",
+     "url": "https://www.autoelectronics.co.kr/article/articleView.asp?idx=7208",
+     "source": "https://www.autoelectronics.co.kr/"
     },
     {
-     "title": "[단독] [밀덕텔링] KF-21 ‘전자전기’ 첫 공개…재밍 포드 3개에 AI까지 달았다",
-     "url": "https://bizhankook.com/articles/kf21-electronic-warfare-version-unveiled.html",
-     "source": "비즈한국"
+     "title": "美 우버 \"현대차 모셔널 로보택시 올 4분기 상용화\"",
+     "url": "https://www.creditnews.kr/news/articleView.html?idxno=32724",
+     "source": "한국신용신문"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "가덕도신공항",
-   "slug": "가덕도신공항",
+   "keyword": "mu",
+   "slug": "mu",
    "traffic": 100,
-   "startedAt": 1795212600.0,
+   "startedAt": 1795214400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'모두의카드' 반값 할인, 내년 연중 상시화 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/estate/2026/11/20/2026111920143897539",
-     "source": "머니투데이"
+     "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
+     "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734",
+     "source": "Barron's"
     },
     {
-     "title": "가덕도신공항 내년 예산, 2200억 원 더해져 총 6511억 원으로 늘어",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261120.99099006399",
-     "source": "국제신문"
+     "title": "Micron Stock (MU) Crashes Over 11% to Historic Bargain Levels. Wall Street Still Sees 169% Upside.",
+     "url": "https://www.tipranks.com/news/micron-stock-mu-crashes-over-11-to-historic-bargain-levels-wall-street-still-sees-169-upside",
+     "source": "TipRanks"
     },
     {
-     "title": "경기 주요 철도·도로 사업 내년도 예산안 일부 증액",
-     "url": "https://www.kgnews.co.kr/news/article.html?no=920374",
-     "source": "경기신문"
+     "title": "Micron (MU) Stock Falls 12% in Five Days, but Hedge Funds Keep Buying",
+     "url": "https://blockonomi.com/micron-mu-stock-falls-12-in-five-days-but-hedge-funds-keep-buying/",
+     "source": "Blockonomi"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "대전광역시",
-   "slug": "대전광역시",
+   "keyword": "한국항공우주산업",
+   "slug": "한국항공우주산업",
    "traffic": 100,
-   "startedAt": 1795212000.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795213200.0,
+   "change": "down",
+   "diff": 2,
    "news": []
   }
  ]

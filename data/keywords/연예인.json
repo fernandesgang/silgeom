@@ -2,7 +2,7 @@
  "keyword": "연예인",
  "slug": "연예인",
  "firstSeen": 1795212600.0,
- "lastSeen": 1795217048.8602755,
+ "lastSeen": 1795220644.753429,
  "peakRank": 1,
  "peakTraffic": 2000,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
+   "url": "https://www.donga.com/news/Society/article/all/20261120/135063902/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "'성폭행 유죄' 강지환도 고영욱처럼…틱톡 하루 만에 '삭제' 굴욕 - 머니투데이",
+   "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112020104015314",
+   "source": "머니투데이"
+  },
+  {
+   "title": "‘스태프 성폭행’ 강지환 근황? ‘뜨개질’하며 틱톡 라이브",
+   "url": "https://sports.khan.co.kr/article/202611191749003",
+   "source": "스포츠경향"
+  },
   {
    "title": "\"집 샀다\" 자랑하더니 3개월 만에…'영끌' 연예인도 한숨 [머니팁]",
    "url": "https://www.hankyung.com/article/202611209874v",
@@ -33,6 +48,10 @@
   "2026-11-21"
  ],
  "related": [
+  "추성훈",
+  "베냐민-네타냐후",
+  "로보택시",
+  "mu",
   "nvda",
   "경기남부",
   "나스닥-100",

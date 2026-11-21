@@ -2,9 +2,9 @@
  "keyword": "nvda",
  "slug": "nvda",
  "firstSeen": 1795039800.0,
- "lastSeen": 1795217048.8602755,
+ "lastSeen": 1795220644.753429,
  "peakRank": 2,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795044326,
@@ -15,9 +15,19 @@
    1795217049,
    2,
    200
+  ],
+  [
+   1795220645,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+   "source": "CNBC"
+  },
   {
    "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
    "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
@@ -54,6 +64,10 @@
   "2026-11-21"
  ],
  "related": [
+  "추성훈",
+  "베냐민-네타냐후",
+  "로보택시",
+  "mu",
   "연예인",
   "경기남부",
   "나스닥-100",
@@ -69,8 +83,6 @@
   "new-zealand-vs-india",
   "겨울",
   "ionq",
-  "다우-존스-산업평균지수",
-  "lg그룹",
-  "새마을금고"
+  "다우-존스-산업평균지수"
  ]
 }

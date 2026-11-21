@@ -2,17 +2,37 @@
  "keyword": "경기남부",
  "slug": "경기남부",
  "firstSeen": 1795212600.0,
- "lastSeen": 1795217048.8602755,
+ "lastSeen": 1795220644.753429,
  "peakRank": 3,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795217049,
    3,
    200
+  ],
+  [
+   1795220645,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
+   "url": "https://www.fnnews.com/news/202611201430139857",
+   "source": "파이낸셜뉴스"
+  },
+  {
+   "title": "경기 남부 아파트값 고공행진…광교 22억 신고가에 서울 외곽 추월",
+   "url": "http://www.snakorea.com/news/articleView.html?idxno=1065174",
+   "source": "서울뉴스통신"
+  },
+  {
+   "title": "기흥 국평이 16억…반도체벨트 집값 줄줄이 전고점 돌파",
+   "url": "https://www.newsis.com/view/NISX20261119_0003875586",
+   "source": "뉴시스"
+  },
   {
    "title": "[사설]거래 절벽 속 쌓이는 아파트 매물… 공급 적기 놓치지 말아야",
    "url": "https://www.donga.com/news/Opinion/article/all/20261120/135063785/2",
@@ -33,6 +53,10 @@
   "2026-11-21"
  ],
  "related": [
+  "추성훈",
+  "베냐민-네타냐후",
+  "로보택시",
+  "mu",
   "연예인",
   "nvda",
   "나스닥-100",

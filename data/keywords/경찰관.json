@@ -2,17 +2,27 @@
  "keyword": "경찰관",
  "slug": "경찰관",
  "firstSeen": 1795213200.0,
- "lastSeen": 1795217048.8602755,
- "peakRank": 7,
- "peakTraffic": 100,
+ "lastSeen": 1795220644.753429,
+ "peakRank": 5,
+ "peakTraffic": 200,
  "history": [
   [
    1795217049,
    7,
    100
+  ],
+  [
+   1795220645,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "수능날 '시계 문제' 겪은 수험생…경찰관도 서울대생도 손목시계 풀었다",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645647688&mediaCodeNo=257",
+   "source": "이데일리"
+  },
   {
    "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
    "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
@@ -33,6 +43,10 @@
   "2026-11-21"
  ],
  "related": [
+  "추성훈",
+  "베냐민-네타냐후",
+  "로보택시",
+  "mu",
   "연예인",
   "nvda",
   "경기남부",
