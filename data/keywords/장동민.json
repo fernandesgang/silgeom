@@ -2,17 +2,37 @@
  "keyword": "장동민",
  "slug": "장동민",
  "firstSeen": 1795271400.0,
- "lastSeen": 1795278077.760598,
- "peakRank": 10,
+ "lastSeen": 1795281612.3534017,
+ "peakRank": 9,
  "peakTraffic": 100,
  "history": [
   [
    1795278078,
    10,
    100
+  ],
+  [
+   1795281612,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "[TV톡] '데블스 플랜3' 재재의 재발견",
+   "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525451",
+   "source": "iMBC 연예"
+  },
+  {
+   "title": "'데블스 플랜3' PD \"유배지 도입한 건…\" 넷플릭스 글로벌 톱10 진입도",
+   "url": "https://www.nocutnews.co.kr/news/6610097",
+   "source": "노컷뉴스"
+  },
+  {
+   "title": "\"천재의 귀환\"...장동민 美친 활약으로 공개되자마자 '화제성 1위' 씹어먹은 韓예능 (데블스 플랜3)",
+   "url": "https://mhnse.com/news/articleView.html?idxno=1703770",
+   "source": "MHN스포츠"
+  },
   {
    "title": "‘독박투어’ 김재원 “역사 잘 알면 사람이 삐딱해져”",
    "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525580",
@@ -33,6 +53,7 @@
   "2026-11-22"
  ],
  "related": [
+  "권순우",
   "첼시-대-리즈-유나이티드",
   "코번트리-대-크리스털-팰리스",
   "채령",

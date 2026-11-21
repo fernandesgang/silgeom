@@ -2,17 +2,32 @@
  "keyword": "코번트리 대 크리스털 팰리스",
  "slug": "코번트리-대-크리스털-팰리스",
  "firstSeen": 1795271400.0,
- "lastSeen": 1795278077.760598,
- "peakRank": 2,
+ "lastSeen": 1795281612.3534017,
+ "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
   [
    1795278078,
    2,
    1000
+  ],
+  [
+   1795281612,
+   1,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Coventry City x Crystal Palace - Highlights, Summary and Match Report",
+   "url": "https://sports.yahoo.com/articles/coventry-city-x-crystal-palace-151100636.html",
+   "source": "Yahoo Sports"
+  },
+  {
+   "title": "Strand Larsen heads Palace level with Coventry",
+   "url": "https://www.nbcsports.com/watch/watch/premier-league/jorgen-strand-larsen-heads-crystal-palace-level-at-2-2-with-coventry",
+   "source": "NBC Sports"
+  },
   {
    "title": "Coventry vs Crystal Palace LIVE! Premier League match updates, news and score",
    "url": "https://www.skysports.com/football/live-blog/13610683/coventry-vs-crystal-palace-live-premier-league-match-updates-news-and-score",
@@ -33,6 +48,7 @@
   "2026-11-22"
  ],
  "related": [
+  "권순우",
   "첼시-대-리즈-유나이티드",
   "채령",
   "엑셀방송",

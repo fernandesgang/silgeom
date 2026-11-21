@@ -2,17 +2,37 @@
  "keyword": "chelsea vs leeds",
  "slug": "chelsea-vs-leeds",
  "firstSeen": 1795272600.0,
- "lastSeen": 1795278077.760598,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795281612.3534017,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795278078,
    5,
    200
+  ],
+  [
+   1795281612,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Bournemouth 2-0 Nottingham Forest: Evanilson scores again in Premier League win",
+   "url": "https://www.bbc.com/sport/football/live/cr5y18vyynlxt",
+   "source": "BBC"
+  },
+  {
+   "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
+   "url": "https://weaintgotnohistory.sbnation.com/premier-league/174205/chelsea-fans-preferred-lineup-against-leeds-united-back-four-and-mike-penders",
+   "source": "We Ain't Got No History"
+  },
+  {
+   "title": "Daniel Farke provides fitness updates on Stach, Okafor and Calvert-Lewin ahead of Chelsea",
+   "url": "https://www.leedsunited.com/en/news/daniel-farke-provides-fitness-updates-on-stach-okafor-and-calvert-lewin-ahead-of-chelsea",
+   "source": "Leeds United | Official Website"
+  },
   {
    "title": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups",
    "url": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
@@ -33,6 +53,7 @@
   "2026-11-22"
  ],
  "related": [
+  "권순우",
   "첼시-대-리즈-유나이티드",
   "코번트리-대-크리스털-팰리스",
   "채령",

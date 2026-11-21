@@ -1,41 +1,15 @@
 {
- "generatedAt": 1795278078,
+ "generatedAt": 1795281612,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "첼시 대 리즈 유나이티드",
-   "slug": "첼시-대-리즈-유나이티드",
-   "traffic": 2000,
-   "startedAt": 1795270200.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "첼시 대 리즈: 상대 전적 통계 및 역사적 이정표",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/chelsea-vs-leeds-thong-ke-doi-dau-va-nhung-cot-moc-lich-su-1803727.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "첼시와 알론소 감독이 직면한 어려운 딜레마.",
-     "url": "https://www.vietnam.vn/ko/chelsea-va-bai-toan-nan-giai-cho-hlv-alonso",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-chelsea-vs-leeds-diem-nong-cuoc-dua-top-dau",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "rank": 2,
    "keyword": "코번트리 대 크리스털 팰리스",
    "slug": "코번트리-대-크리스털-팰리스",
    "traffic": 1000,
    "startedAt": 1795271400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "Coventry vs Crystal Palace LIVE! Premier League match updates, news and score",
@@ -43,35 +17,87 @@
      "source": "Sky Sports"
     },
     {
-     "title": "Coventry City vs Crystal Palace: Premier League preview, team news, stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c6pw42nwwgvjt",
-     "source": "BBC"
+     "title": "Coventry City x Crystal Palace - Highlights, Summary and Match Report",
+     "url": "https://sports.yahoo.com/articles/coventry-city-x-crystal-palace-151100636.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "Licensable picture: Premier League - Coventry City v Crystal Palace",
-     "url": "https://www.reutersconnect.com/item/premier-league-coventry-city-v-crystal-palace/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxNkZISVA",
-     "source": "Reuters Connect"
+     "title": "Strand Larsen heads Palace level with Coventry",
+     "url": "https://www.nbcsports.com/watch/watch/premier-league/jorgen-strand-larsen-heads-crystal-palace-level-at-2-2-with-coventry",
+     "source": "NBC Sports"
     }
    ]
   },
   {
-   "rank": 3,
+   "rank": 2,
    "keyword": "채령",
    "slug": "채령",
    "traffic": 500,
    "startedAt": 1795273200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": []
   },
   {
+   "rank": 3,
+   "keyword": "chelsea vs leeds",
+   "slug": "chelsea-vs-leeds",
+   "traffic": 500,
+   "startedAt": 1795272600.0,
+   "change": "up",
+   "diff": 2,
+   "news": [
+    {
+     "title": "Bournemouth 2-0 Nottingham Forest: Evanilson scores again in Premier League win",
+     "url": "https://www.bbc.com/sport/football/live/cr5y18vyynlxt",
+     "source": "BBC"
+    },
+    {
+     "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
+     "url": "https://weaintgotnohistory.sbnation.com/premier-league/174205/chelsea-fans-preferred-lineup-against-leeds-united-back-four-and-mike-penders",
+     "source": "We Ain't Got No History"
+    },
+    {
+     "title": "Daniel Farke provides fitness updates on Stach, Okafor and Calvert-Lewin ahead of Chelsea",
+     "url": "https://www.leedsunited.com/en/news/daniel-farke-provides-fitness-updates-on-stach-okafor-and-calvert-lewin-ahead-of-chelsea",
+     "source": "Leeds United | Official Website"
+    }
+   ]
+  },
+  {
    "rank": 4,
+   "keyword": "권순우",
+   "slug": "권순우",
+   "traffic": 200,
+   "startedAt": 1795274400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344",
+     "source": "테니스코리아"
+    },
+    {
+     "title": "권순우, 프랑스 메츠 챌린저 결승 진출…2시간 7분 혈투 뒤 역전승",
+     "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19876",
+     "source": "테니스피플"
+    },
+    {
+     "title": "권순우, 프리즈미치 잡고 메츠 챌린저 4강 진출",
+     "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19875",
+     "source": "테니스피플"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "엑셀방송",
    "slug": "엑셀방송",
    "traffic": 200,
    "startedAt": 1795273800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
@@ -91,54 +117,28 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "chelsea vs leeds",
-   "slug": "chelsea-vs-leeds",
-   "traffic": 200,
-   "startedAt": 1795272600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups",
-     "url": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
-     "source": "Sky Sports"
-    },
-    {
-     "title": "Alonso gives injury update on Caicedo, Joao Pedro, James, Gittens and more",
-     "url": "https://www.talkchelsea.net/injury-news/caicedo-pedro-gittens-james-injury-update-alonso/",
-     "source": "Talk Chelsea"
-    },
-    {
-     "title": "How to watch Chelsea vs Leeds United soccer for free today: English Premier League live stream, TV channel, o",
-     "url": "https://www.oregonlive.com/tv/2026/11/how-to-watch-chelsea-vs-leeds-united-soccer-for-free-today-english-premier-league-live-stream-tv-channel-odds.html",
-     "source": "OregonLive.com"
-    }
-   ]
-  },
-  {
    "rank": 6,
    "keyword": "장동혁",
    "slug": "장동혁",
    "traffic": 200,
    "startedAt": 1795272600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "이 대통령 \"5500억 환수가 배임이면…\" 대장동 업자 인터뷰 SNS에 공유",
-     "url": "https://news.jtbc.co.kr/article/NB12329146",
-     "source": "JTBC"
+     "title": "국힘, 대구서 장외 집회… \"조희대 탄핵 땐 정권 붕괴\"",
+     "url": "https://www.chosun.com/politics/politics_general/2026/11/21/CJUVIRF2TRGYZMKZ4LDPRCMCRM/",
+     "source": "조선일보"
     },
     {
-     "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
-     "source": "연합뉴스TV"
+     "title": "이번엔 대구 집결한 국힘 \"몽땅 교도소에\"‥민주 \"그럴 자격 있나\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867508_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "이 대통령, 대장동 인터뷰 공유…“5,500억 공익 환수가 배임인가”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719095",
-     "source": "KBS 뉴스"
+     "title": "국민의힘, '조작기소 특검법' 폐지 촉구",
+     "url": "https://www.yna.co.kr/view/PYH20261120043900013",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -148,7 +148,7 @@
    "slug": "쇼메이커",
    "traffic": 200,
    "startedAt": 1795270800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -170,38 +170,12 @@
   },
   {
    "rank": 8,
-   "keyword": "우니온 베를린 대 라이프치히",
-   "slug": "우니온-베를린-대-라이프치히",
-   "traffic": 200,
-   "startedAt": 1795270200.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "Confirmed lineups: 1.FC Union Berlin vs. RB Leipzig",
-     "url": "https://sports.yahoo.com/articles/confirmed-lineups-1-fc-union-133000412.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Union Berlin vs RB Leipzig: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c6vg2pxggjzpt",
-     "source": "BBC"
-    },
-    {
-     "title": "Licensable picture: Bundesliga - 1. FC Union Berlin v RB Leipzig",
-     "url": "https://www.reutersconnect.com/item/bundesliga-1-fc-union-berlin-v-rb-leipzig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxNkgzSVc",
-     "source": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "rank": 9,
    "keyword": "민효린",
    "slug": "민효린",
    "traffic": 100,
    "startedAt": 1795272600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "빅뱅, 데뷔 20주년에 'MAMA' 수상 겹경사..\"기분 좋은 상\"",
@@ -221,28 +195,28 @@
    ]
   },
   {
-   "rank": 10,
+   "rank": 9,
    "keyword": "장동민",
    "slug": "장동민",
    "traffic": 100,
    "startedAt": 1795271400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "‘독박투어’ 김재원 “역사 잘 알면 사람이 삐딱해져”",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525580",
+     "title": "[TV톡] '데블스 플랜3' 재재의 재발견",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525451",
      "source": "iMBC 연예"
     },
     {
-     "title": "인기 여행 예능프로그램, 김해 소개한다",
-     "url": "http://www.gnmaeil.com/news/articleView.html?idxno=599140",
-     "source": "경남매일"
+     "title": "'데블스 플랜3' PD \"유배지 도입한 건…\" 넷플릭스 글로벌 톱10 진입도",
+     "url": "https://www.nocutnews.co.kr/news/6610097",
+     "source": "노컷뉴스"
     },
     {
-     "title": "'독박투어' 김준호, “아빠는 역사 다 알지” 김해 역사 투어에서 준비된 '아빠미’ 폭발",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021166",
-     "source": "SPOTV NEWS"
+     "title": "\"천재의 귀환\"...장동민 美친 활약으로 공개되자마자 '화제성 1위' 씹어먹은 韓예능 (데블스 플랜3)",
+     "url": "https://mhnse.com/news/articleView.html?idxno=1703770",
+     "source": "MHN스포츠"
     }
    ]
   }

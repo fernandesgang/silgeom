@@ -60,58 +60,65 @@
   "코번트리 대 크리스털 팰리스": {
    "slug": "코번트리-대-크리스털-팰리스",
    "firstSeen": 1795278077.760598,
-   "peakRank": 2,
+   "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
   },
   "채령": {
    "slug": "채령",
    "firstSeen": 1795273200.0,
-   "peakRank": 3,
+   "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
   },
   "엑셀방송": {
    "slug": "엑셀방송",
    "firstSeen": 1795273800.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
   },
   "chelsea vs leeds": {
    "slug": "chelsea-vs-leeds",
    "firstSeen": 1795278077.760598,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795278077.760598
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795281612.3534017
   },
   "장동혁": {
    "slug": "장동혁",
    "firstSeen": 1795278077.760598,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
   },
   "쇼메이커": {
    "slug": "쇼메이커",
    "firstSeen": 1795278077.760598,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
   },
   "민효린": {
    "slug": "민효린",
    "firstSeen": 1795278077.760598,
-   "peakRank": 9,
+   "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
   },
   "장동민": {
    "slug": "장동민",
    "firstSeen": 1795278077.760598,
-   "peakRank": 10,
+   "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795278077.760598
+   "lastSeen": 1795281612.3534017
+  },
+  "권순우": {
+   "slug": "권순우",
+   "firstSeen": 1795274400.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795281612.3534017
   }
  }
 }
