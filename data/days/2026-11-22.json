@@ -125,7 +125,7 @@
    "firstSeen": 1795279200.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795293011.7069776
+   "lastSeen": 1795295786.1553612
   },
   "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업": {
    "slug": "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
@@ -146,28 +146,49 @@
    "firstSeen": 1795281600.0,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795293011.7069776
+   "lastSeen": 1795295786.1553612
   },
   "샬케 대 슈투트가르트": {
    "slug": "샬케-대-슈투트가르트",
    "firstSeen": 1795281000.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795293011.7069776
+   "lastSeen": 1795295786.1553612
   },
   "위기": {
    "slug": "위기",
    "firstSeen": 1795287000.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795293011.7069776
+   "lastSeen": 1795295786.1553612
   },
   "레알 마드리드 대 셀타 비고": {
    "slug": "레알-마드리드-대-셀타-비고",
    "firstSeen": 1795288800.0,
    "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795295786.1553612
+  },
+  "왕즈이": {
+   "slug": "왕즈이",
+   "firstSeen": 1795291200.0,
+   "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795293011.7069776
+   "lastSeen": 1795295786.1553612
+  },
+  "arsenal": {
+   "slug": "arsenal",
+   "firstSeen": 1795279800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795295786.1553612
+  },
+  "입양": {
+   "slug": "입양",
+   "firstSeen": 1795290000.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795295786.1553612
   }
  }
 }

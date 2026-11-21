@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795293012,
+ "generatedAt": 1795295786,
  "geo": "KR",
  "items": [
   {
@@ -32,36 +32,62 @@
    "rank": 2,
    "keyword": "레알 마드리드 대 셀타 비고",
    "slug": "레알-마드리드-대-셀타-비고",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795288800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "How to watch Real Madrid vs. Celta Vigo online for free",
-     "url": "https://mashable.com/entertainment/real-madrid-celta-vigo-la-liga-2026-live-stream-for-free",
-     "source": "Mashable"
+     "title": "Real Madrid legend spotted in attendance at Celta Vigo clash",
+     "url": "https://sports.yahoo.com/articles/real-madrid-legend-spotted-attendance-202500077.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "Real Madrid vs. Celta Vigo Predictions: Vinicius Junior Returns As Madrid Seek Ninth Consecutive Win",
-     "url": "https://www.si.com/soccer/real-madrid-vs-celta-vigo-predictions-vinicius-junior-returns-madrid-ninth-consecutive-win",
-     "source": "Sports Illustrated"
+     "title": "Real Madrid vs Celta Vigo: Spanish La Liga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6205wg000g8t",
+     "source": "BBC"
     },
     {
-     "title": "Real Madrid-Celta: Football Returns to the Bernabéu",
-     "url": "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-celta-a-por-la-novena-victoria-consecutiva-en-el-regreso-a-la-liga-21-11-2026",
+     "title": "Real Madrid starting lineup against Celta",
+     "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-ante-el-celta-21-11-2026",
      "source": "Real Madrid CF | Web Oficial"
     }
    ]
   },
   {
    "rank": 3,
+   "keyword": "왕즈이",
+   "slug": "왕즈이",
+   "traffic": 1000,
+   "startedAt": 1795291200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'안세영 피했더니 이번엔 왕즈이가 기다렸다' 일본 '배드민턴 요정' 미야자키, 2주 연속 같은 상대에게 무릎, 준결승서 탈락",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/21/GI2GKMTEGQYDKNJUMRSDIMRSGQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'55연승' 안세영과 경쟁할 7명 다 나왔다... 유일한 패배 안긴 왕즈이부터 '여자단식 최다' 11번째 파이널스 앞둔 인타논까지 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/2026112106483211136",
+     "source": "머니투데이"
+    },
+    {
+     "title": "10점 차 뒤집은 인도 19세 신예, 세계 4위 천위페이 꺾었다",
+     "url": "https://www.etoday.co.kr/news/view/2650865",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "아스날",
    "slug": "아스날",
    "traffic": 500,
    "startedAt": 1795281600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
@@ -81,39 +107,65 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "위기",
-   "slug": "위기",
-   "traffic": 200,
-   "startedAt": 1795287000.0,
-   "change": "up",
-   "diff": 2,
+   "rank": 5,
+   "keyword": "arsenal",
+   "slug": "arsenal",
+   "traffic": 500,
+   "startedAt": 1795279800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121046400099",
-     "source": "연합뉴스"
+     "title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
+     "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
+     "source": "BBC"
     },
     {
-     "title": "이란군 \"방공미사일로 美 F-16 전투기 공격…비상착륙\"",
-     "url": "https://www.news1.kr/world/middleeast-africa/6361755",
-     "source": "뉴스1"
+     "title": "Licensable picture: Premier League - Newcastle United v Arsenal",
+     "url": "https://www.reutersconnect.com/item/premier-league-newcastle-united-v-arsenal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxRUE0WlQ",
+     "source": "Reuters Connect"
     },
     {
-     "title": "이란, 미 F-16 손상·드론 격추 주장…오만 인근 유조선 피격",
-     "url": "https://kr.investing.com/news/economy-news/article-2186171",
-     "source": "Investing.com 한국어"
+     "title": "'Not good news!' - Mikel Arteta confirms MRI scan for David Raya after Arsenal goalkeeper suffers injury against Newcastle",
+     "url": "https://www.goal.com/en-sa/news/-mikel-arteta-confirms-mri-scan-david-raya-arsenal-goalkeeper-injury-newcastle-/blt2e69625a442f68f8",
+     "source": "Goal.com"
     }
    ]
   },
   {
-   "rank": 5,
+   "rank": 6,
+   "keyword": "위기",
+   "slug": "위기",
+   "traffic": 200,
+   "startedAt": 1795287000.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
+    {
+     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+     "url": "https://www.yna.co.kr/view/AKR20261122002700099",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "2028 유엔 해양총회…성과로 이어지려면",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8714693",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "폐막일 넘긴 기후총회, 캄보디아 학교를 보라",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287058",
+     "source": "OhmyNews"
+    }
+   ]
+  },
+  {
+   "rank": 7,
    "keyword": "샬케 대 슈투트가르트",
    "slug": "샬케-대-슈투트가르트",
    "traffic": 200,
    "startedAt": 1795281000.0,
    "change": "down",
-   "diff": 1,
+   "diff": 2,
    "news": [
     {
      "title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
@@ -129,6 +181,32 @@
      "title": "황희찬, 2년 연속 대참사 위기…17위 추락에 재정난까지 '초비상'! 9억 못 채우면 승점 삭감까지",
      "url": "https://yourfield.nexon.com/today/view/2025052909553714772?type=popular",
      "source": "Your Field"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "입양",
+   "slug": "입양",
+   "traffic": 100,
+   "startedAt": 1795290000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-3",
+     "url": "https://www.worldkorean.net/news/articleView.html?idxno=58274",
+     "source": "월드코리안뉴스"
+    },
+    {
+     "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-2",
+     "url": "https://www.worldkorean.net/news/articleView.html?idxno=58236",
+     "source": "월드코리안뉴스"
+    },
+    {
+     "title": "유기 동물 구조에서 입양까지...'반려동물 복지센터'",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611220022451002",
+     "source": "YTN"
     }
    ]
   }

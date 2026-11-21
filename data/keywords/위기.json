@@ -2,7 +2,7 @@
  "keyword": "위기",
  "slug": "위기",
  "firstSeen": 1795287000.0,
- "lastSeen": 1795293011.7069776,
+ "lastSeen": 1795295786.1553612,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,29 @@
    1795293012,
    4,
    200
+  ],
+  [
+   1795295786,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+   "url": "https://www.yna.co.kr/view/AKR20261122002700099",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "2028 유엔 해양총회…성과로 이어지려면",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8714693",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "폐막일 넘긴 기후총회, 캄보디아 학교를 보라",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287058",
+   "source": "OhmyNews"
+  },
   {
    "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
    "url": "https://www.yna.co.kr/view/AKR20261121046400099",
@@ -38,6 +58,9 @@
   "2026-11-22"
  ],
  "related": [
+  "왕즈이",
+  "arsenal",
+  "입양",
   "레알-마드리드-대-셀타-비고",
   "뉴캐슬-대-아스널",
   "newcastle-vs-arsenal",
