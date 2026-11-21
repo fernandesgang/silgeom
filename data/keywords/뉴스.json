@@ -1,0 +1,44 @@
+{
+ "keyword": "뉴스",
+ "slug": "뉴스",
+ "firstSeen": 1795299000.0,
+ "lastSeen": 1795302927.8670437,
+ "peakRank": 4,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795302928,
+   4,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "지방 분양시장서 ‘첫 브랜드’ 아파트 선전…완판에 웃돈 거래까지",
+   "url": "https://www.etoday.co.kr/news/view/2650922",
+   "source": "이투데이"
+  },
+  {
+   "title": "지방은 미분양 천지?…잘 팔린 아파트도 있다",
+   "url": "https://news.bizwatch.co.kr/article/real_estate/2026/11/17/0027",
+   "source": "비즈워치"
+  },
+  {
+   "title": "입주 물량 반토막 난 지방···새 아파트 찾는 수요 늘었다",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026112009105073240",
+   "source": "뉴스웨이"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "구자욱",
+  "젠슨-황",
+  "ai-데이터-센터",
+  "이정효",
+  "추미애",
+  "편지",
+  "laliga"
+ ]
+}

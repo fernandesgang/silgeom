@@ -2,17 +2,37 @@
  "keyword": "ai 데이터 센터",
  "slug": "ai-데이터-센터",
  "firstSeen": 1795126800.0,
- "lastSeen": 1795134032.7492864,
- "peakRank": 8,
- "peakTraffic": 200,
+ "lastSeen": 1795302927.8670437,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795134033,
    8,
    200
+  ],
+  [
+   1795302928,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "李, 울산 전통시장서 “내년에는 좀 더 좋아질 것”…‘최애’ 배추전 구입",
+   "url": "https://www.donga.com/news/Politics/article/all/20261121/135065075/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "산업화의 중심 울산, AI 시대 새로운 도약을 기대합니다.",
+   "url": "https://www.president.go.kr/social-media/2iOowGQS",
+   "source": "대한민국 청와대"
+  },
+  {
+   "title": "이 대통령, 울산 AI 데이터센터 현장 방문…“속도가 생명”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719207",
+   "source": "KBS 뉴스"
+  },
   {
    "title": "춘천기업혁신파크, AI데이터센터로 의료·바이오 생태계 모색",
    "url": "https://www.yna.co.kr/view/AKR20261119147700062",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-22"
  ],
  "related": [
+  "구자욱",
+  "젠슨-황",
+  "뉴스",
+  "이정효",
+  "추미애",
+  "편지",
+  "laliga",
   "파운드리",
   "중산층",
   "오상욱",

@@ -273,6 +273,62 @@
    "peakRank": 8,
    "peakTraffic": 100,
    "lastSeen": 1795300090.7961047
+  },
+  "구자욱": {
+   "slug": "구자욱",
+   "firstSeen": 1795297800.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795302927.8670437
+  },
+  "젠슨 황": {
+   "slug": "젠슨-황",
+   "firstSeen": 1795296600.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795302927.8670437
+  },
+  "ai 데이터 센터": {
+   "slug": "ai-데이터-센터",
+   "firstSeen": 1795297200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795302927.8670437
+  },
+  "뉴스": {
+   "slug": "뉴스",
+   "firstSeen": 1795299000.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795302927.8670437
+  },
+  "이정효": {
+   "slug": "이정효",
+   "firstSeen": 1795297800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795302927.8670437
+  },
+  "추미애": {
+   "slug": "추미애",
+   "firstSeen": 1795297800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795302927.8670437
+  },
+  "편지": {
+   "slug": "편지",
+   "firstSeen": 1795298400.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795302927.8670437
+  },
+  "laliga": {
+   "slug": "laliga",
+   "firstSeen": 1795298400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795302927.8670437
   }
  }
 }

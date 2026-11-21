@@ -1,238 +1,212 @@
 {
- "generatedAt": 1795300091,
+ "generatedAt": 1795302928,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "배추",
-   "slug": "배추",
-   "traffic": 2000,
-   "startedAt": 1795293000.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "구자욱",
+   "slug": "구자욱",
+   "traffic": 5000,
+   "startedAt": 1795297800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "새마을운동 남원시지회, 사랑의 김장나누기 봉사활동",
-     "url": "https://sjbnews.com/news/news.php?number=893138&year=2026",
-     "source": "새전북신문"
+     "title": "‘MLB 사무국 신분조회 요청’ FA 최대어 구자욱, 정말 ML 진출할까…12월 직장폐쇄 전 결정된다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611210648774670O",
+     "source": "머니투데이"
     },
     {
-     "title": "[금주의 의정부시] 의정부1동주민센터, 취약계층 위한 ‘사랑가득 김장나눔’ 개최 外",
-     "url": "https://www.joongboo.com/local/articleView.html?idxno=363743145",
-     "source": "중부일보"
+     "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
+     "source": "조선일보"
     },
     {
-     "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
-     "source": "국제신문"
+     "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
+     "url": "https://star.fnnews.com/article/202611190838400274",
+     "source": "fn스타"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "강사",
-   "slug": "강사",
-   "traffic": 1000,
-   "startedAt": 1795293600.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "젠슨 황",
+   "slug": "젠슨-황",
+   "traffic": 5000,
+   "startedAt": 1795296600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-     "url": "https://www.munhwa.com/article/11633008",
-     "source": "문화일보"
+     "title": "“낙태했어야” “머리 열어 소변” “금붕어”…안하무인 젠슨황 父女",
+     "url": "https://www.donga.com/news/Inter/article/all/20261121/135065038/2",
+     "source": "동아일보"
     },
     {
-     "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
-     "source": "MBC 뉴스"
+     "title": "“불륜 아니다” “너의 뇌에 오줌 누겠다”···젠슨 황 퇴출 부른 건 거짓말과 상습 폭언",
+     "url": "https://www.khan.co.kr/article/202611211444001",
+     "source": "경향신문"
     },
     {
-     "title": "사망 당일 새벽 짐 정리...집주인에 \"탈출 도와달라\" [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611212227231160_005.html",
-     "source": "YTN"
+     "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
+     "url": "https://stock.mk.co.kr/news/view/1203585",
+     "source": "매일경제 마켓"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "지수",
-   "slug": "지수",
-   "traffic": 500,
-   "startedAt": 1795293600.0,
-   "change": "same",
+   "keyword": "ai 데이터 센터",
+   "slug": "ai-데이터-센터",
+   "traffic": 1000,
+   "startedAt": 1795297200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "中 톱스타 들러리 만든 '디올 지수'…영하 3도 베이징 녹였다 [K컬처 인사이드]",
-     "url": "https://www.hankyung.com/article/202611200313H",
-     "source": "한국경제"
+     "title": "李, 울산 전통시장서 “내년에는 좀 더 좋아질 것”…‘최애’ 배추전 구입",
+     "url": "https://www.donga.com/news/Politics/article/all/20261121/135065075/2",
+     "source": "동아일보"
     },
     {
-     "title": "블랙핑크 지수가 다녀간 방콕 여행 명소 6곳",
-     "url": "https://www.harpersbazaar.co.kr/article/1913142",
-     "source": "하퍼스 바자 코리아"
+     "title": "산업화의 중심 울산, AI 시대 새로운 도약을 기대합니다.",
+     "url": "https://www.president.go.kr/social-media/2iOowGQS",
+     "source": "대한민국 청와대"
     },
     {
-     "title": "블랙핑크 지수, 청순 벗고 ‘퇴폐미’ 장착…아찔한 송곳 네일 “입술 찌를라”",
-     "url": "https://sports.khan.co.kr/article/202611111811003",
-     "source": "스포츠경향"
+     "title": "이 대통령, 울산 AI 데이터센터 현장 방문…“속도가 생명”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719207",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "경제",
-   "slug": "경제",
+   "keyword": "뉴스",
+   "slug": "뉴스",
    "traffic": 500,
-   "startedAt": 1795293600.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795299000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다",
-     "url": "https://www.dailian.co.kr/news/view/1717961/%E4%B8%AD-%EA%B2%BD%EC%A0%9C-%E2%80%98%EC%9E%A5%EA%B8%B0%EB%B6%88%ED%99%A9-%EA%B7%B8%EB%A6%BC%EC%9E%90%E2%80%99-%EC%A7%99%EC%96%B4%EC%A1%8C%EB%8B%A4-2026",
-     "source": "데일리안"
+     "title": "지방 분양시장서 ‘첫 브랜드’ 아파트 선전…완판에 웃돈 거래까지",
+     "url": "https://www.etoday.co.kr/news/view/2650922",
+     "source": "이투데이"
     },
     {
-     "title": "2026년 10월까지 중국 고정자산투자 감소폭 확대 - 뉴스 및 통계",
-     "url": "https://www.indexbox.io/ko/blog/china-fixed-asset-investment-falls-81-in-january-october-2026/",
-     "source": "IndexBox"
+     "title": "지방은 미분양 천지?…잘 팔린 아파트도 있다",
+     "url": "https://news.bizwatch.co.kr/article/real_estate/2026/11/17/0027",
+     "source": "비즈워치"
     },
     {
-     "title": "\"AI 수출이 먹여 살리지만, 내수는 꽁꽁\"… 中 10월 소매판매 0.4% 증가에 그쳐 '양극화' 심화",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111612321999100c8c1c064d_1",
-     "source": "글로벌이코노믹"
+     "title": "입주 물량 반토막 난 지방···새 아파트 찾는 수요 늘었다",
+     "url": "https://www.newsway.co.kr/news/view?ud=2026112009105073240",
+     "source": "뉴스웨이"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "알렉산더 즈베레프",
-   "slug": "알렉산더-즈베레프",
+   "keyword": "이정효",
+   "slug": "이정효",
    "traffic": 500,
-   "startedAt": 1795292400.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795297800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "라파엘 호다르, 니토 ATP 파이널서 벤 셸턴 상대 포핸드",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758896",
-     "source": "국제뉴스"
+     "title": "“내년엔 꼴찌부터 시작”···리그 우승 확정에 이정효는 냉정했다",
+     "url": "https://www.khan.co.kr/article/202611212030001",
+     "source": "경향신문"
     },
     {
-     "title": "테니스 셸턴, 생애 첫 ATP 파이널스 4강 진출…알카라스와 대결",
-     "url": "https://www.news1.kr/sports/general-sport/6360430",
+     "title": "'이것이 대한민국 축구 명문의 역사다' 수원삼성, K리그2 우승으로 한국 프로축구 최초 대기록 완성...1·2부부터 아시아 정상까지 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/22/202611212222776505O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "승리의 기쁨",
+     "url": "https://www.news1.kr/photos/8226316",
      "source": "뉴스1"
-    },
-    {
-     "title": "[ATP 파이널스] 8개월 공백 딛고 첫 토리노行… 피스의 2026시즌 해피엔딩",
-     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54301",
-     "source": "테니스코리아"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "kbs",
-   "slug": "kbs",
-   "traffic": 100,
-   "startedAt": 1795296000.0,
+   "keyword": "추미애",
+   "slug": "추미애",
+   "traffic": 200,
+   "startedAt": 1795297800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Heo Gak Reveals 24kg Weight Loss Journey on KBS Show",
-     "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/21/I462DOD54RGM5LWIEHN7QDZSEM/",
+     "title": "추미애 “한덕수 판결 순억지···조희대 탄핵, 좌고우면하면 안 돼”",
+     "url": "https://www.khan.co.kr/article/202611211912001",
+     "source": "경향신문"
+    },
+    {
+     "title": "여 “사법정의 바로세워야”…야 “친위쿠데타 심판”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719307",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "한동훈 \"與, 조희대 탄핵 발의 12월 3일 꼭 하라... 모두 감옥갈 것\"",
+     "url": "https://www.chosun.com/politics/politics_general/2026/11/21/I2RBF6PPEJBOFHWRFYN6BRZCPQ/",
      "source": "조선일보"
-    },
-    {
-     "title": "Huh Gak Sheds 24 kg → Someday’s First Terrestrial Music Show Stage in 17 Years... ‘The Seasons’ Packed With Performances",
-     "url": "https://www.mk.co.kr/en/hot-issues/12215248",
-     "source": "매일경제"
-    },
-    {
-     "title": "Heo Gak, Stormy Weight Loss of 24 kg [Sung Si-kyung's Eardrum Boyfriend]",
-     "url": "https://www.starnewskorea.com/en/star/2026/11/20/2026112014122935929",
-     "source": "스타뉴스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "최미나수",
-   "slug": "최미나수",
+   "keyword": "편지",
+   "slug": "편지",
    "traffic": 100,
-   "startedAt": 1795294800.0,
+   "startedAt": 1795298400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "드레스 입고 덜덜 떤 최미나수…김연경 \"괜찮으세요?\"",
-     "url": "https://www.newsis.com/view/NISX20261121_0003877589",
-     "source": "뉴시스"
+     "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "[사진]앤팀 조-하루아-케이 '남신 분위기'",
-     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/22/GEZGCMJUGZSTCNRVGU3DOMZRMQ/",
-     "source": "Chosunbiz"
+     "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+     "url": "https://busan.fnnews.com/news/202611201111489476?pg=mny",
+     "source": "부산파이낸셜뉴스"
     },
     {
-     "title": "최미나수, 노출 드레스 입고 '몸 덜덜'...김연경 \"괜찮냐\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112107404471705",
-     "source": "머니투데이"
+     "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+     "url": "https://www.fnnews.com/news/202611201111489476",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "쇼트트랙",
-   "slug": "쇼트트랙",
+   "keyword": "laliga",
+   "slug": "laliga",
    "traffic": 100,
-   "startedAt": 1795294800.0,
+   "startedAt": 1795298400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719143",
-     "source": "KBS 뉴스"
+     "title": "Real Madrid defeats Celta Vigo 2-1 to secure 11th win of the season : 라리가 : JKN",
+     "url": "https://news.jkn.co.kr/editions/english/post/1113445",
+     "source": "재경일보"
     },
     {
-     "title": "'첫 금' 신동민, 男쇼트트랙 위기 평가에 \"조금만 기다려주세요\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121047400007",
-     "source": "연합뉴스"
+     "title": "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26",
+     "url": "https://www.reutersconnect.com/item/real-madrid-cf-vs-real-club-celta-de-vigo-202627-national-league-112126/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBXMUxVWDE",
+     "source": "Reuters Connect"
     },
     {
-     "title": "'은퇴 예고' 최민정, 쇼트트랙 월드투어 1000m 3연속 금메달",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6867495_36946.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "송미령",
-   "slug": "송미령",
-   "traffic": 100,
-   "startedAt": 1795293000.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "농식품부 장관, 현장·전문가와 함께 농촌 사회연대경제 활성화를 위한 방안 논의",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458131",
-     "source": "서울Pn"
-    },
-    {
-     "title": "농어촌 기본소득, 지역 일자리로 이어질까…송미령 장관, 현장 의견 청취",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04024566645647688",
-     "source": "마켓인"
-    },
-    {
-     "title": "농어촌 기본소득, 돌봄·일자리로 잇는다…사회연대경제 연계 논의",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876035",
-     "source": "뉴시스"
+     "title": "Incredible Mbappe miss and Bellingham milestone: Real Madrid come from behind on Vini Jr.'s return",
+     "url": "https://www.goal.com/en/news/incredible-mbappe-miss-and-bellingham-milestone-real-madrid-come-from-behind-on-vini-jr-s-return/bltbcb65c2a22120dc5",
+     "source": "Goal.com"
     }
    ]
   }

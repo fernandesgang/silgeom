@@ -2,17 +2,27 @@
  "keyword": "구자욱",
  "slug": "구자욱",
  "firstSeen": 1795229400.0,
- "lastSeen": 1795235463.8032827,
- "peakRank": 3,
- "peakTraffic": 2000,
+ "lastSeen": 1795302927.8670437,
+ "peakRank": 1,
+ "peakTraffic": 5000,
  "history": [
   [
    1795235464,
    3,
    2000
+  ],
+  [
+   1795302928,
+   1,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
+   "url": "https://star.fnnews.com/article/202611190838400274",
+   "source": "fn스타"
+  },
   {
    "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
    "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
@@ -30,9 +40,17 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-22"
  ],
  "related": [
+  "젠슨-황",
+  "ai-데이터-센터",
+  "뉴스",
+  "이정효",
+  "추미애",
+  "편지",
+  "laliga",
   "퇴직금",
   "대통령",
   "김혜성",
