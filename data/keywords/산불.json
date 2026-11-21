@@ -2,17 +2,27 @@
  "keyword": "산불",
  "slug": "산불",
  "firstSeen": 1795245600.0,
- "lastSeen": 1795250375.5914772,
- "peakRank": 4,
+ "lastSeen": 1795253256.7954009,
+ "peakRank": 2,
  "peakTraffic": 500,
  "history": [
   [
    1795250376,
    4,
    500
+  ],
+  [
+   1795253257,
+   2,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "'동두천 자연인' 김민, 고성 산불 초기 진화…직접 소화기 들고 뛰어들었다",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856222",
+   "source": "SBS 뉴스"
+  },
   {
    "title": "‘동두천 자연인’ 김민, 산불 초기 진화…외투 타는 와중에 큰불 막았다",
    "url": "https://www.munhwa.com/article/11632986",
@@ -33,6 +43,14 @@
   "2026-11-21"
  ],
  "related": [
+  "류효영",
+  "굴",
+  "은지원",
+  "멜라니아-트럼프",
+  "sri-lanka-a-vs-hong-kong",
+  "광주공항",
+  "종묘",
+  "신성일",
   "손정의",
   "리야드",
   "마피아42",

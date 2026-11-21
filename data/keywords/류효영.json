@@ -2,9 +2,9 @@
  "keyword": "류효영",
  "slug": "류효영",
  "firstSeen": 1795180200.0,
- "lastSeen": 1795193252.1053905,
- "peakRank": 4,
- "peakTraffic": 200,
+ "lastSeen": 1795253256.7954009,
+ "peakRank": 1,
+ "peakTraffic": 500,
  "history": [
   [
    1795185818,
@@ -15,9 +15,24 @@
    1795189502,
    8,
    200
+  ],
+  [
+   1795253257,
+   1,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "류화영은 결혼…쌍둥이 류효영은 ‘돌싱’ 이태성과 데이트 ‘스킨십까지’(‘신랑수업2’)",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GZTDCMRXGA3DAMBTMJRTAYLGGE/",
+   "source": "조선일보"
+  },
+  {
+   "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
+   "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
+   "source": "뉴스1"
+  },
   {
    "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
    "url": "https://ichannela.com/program/clip/000000560995.do",
@@ -49,6 +64,15 @@
   "2026-11-21"
  ],
  "related": [
+  "산불",
+  "굴",
+  "은지원",
+  "삼성전자-tsmc-중국-반도체-출하-중단-및-국내-증시-영향-최신-뉴스-알려줘",
+  "멜라니아-트럼프",
+  "sri-lanka-a-vs-hong-kong",
+  "광주공항",
+  "종묘",
+  "신성일",
   "부동산",
   "공포지수",
   "연준",
@@ -59,11 +83,6 @@
   "엔비디아",
   "컴포즈",
   "펍지",
-  "농구",
-  "kumar-kushagra",
-  "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
-  "김대두",
-  "비정규직",
-  "대구-fc"
+  "농구"
  ]
 }
