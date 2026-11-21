@@ -1,0 +1,46 @@
+{
+ "keyword": "보이저 1호",
+ "slug": "보이저-1호",
+ "firstSeen": 1795233000.0,
+ "lastSeen": 1795239023.199839,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795239023,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "[그래픽] 보이저 1호 '1광일' 거리 통과",
+   "url": "https://www.yna.co.kr/view/GYH20261117000600044",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "우주 심연에서 날아온 ’생존 신호’…보이저 1호 ’1광일 전파’ 수신",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120140419XEz",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
+   "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html",
+   "source": "한겨레"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "대통령",
+  "빅터-레이예스",
+  "퇴직금",
+  "전북-대-fc-서울",
+  "탈선",
+  "이현중",
+  "맥도날드",
+  "전현무",
+  "kt"
+ ]
+}

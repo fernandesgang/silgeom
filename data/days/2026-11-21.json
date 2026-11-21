@@ -530,15 +530,15 @@
    "slug": "퇴직금",
    "firstSeen": 1795229400.0,
    "peakRank": 1,
-   "peakTraffic": 2000,
-   "lastSeen": 1795235463.8032827
+   "peakTraffic": 5000,
+   "lastSeen": 1795239023.199839
   },
   "대통령": {
    "slug": "대통령",
    "firstSeen": 1795229400.0,
-   "peakRank": 2,
-   "peakTraffic": 2000,
-   "lastSeen": 1795235463.8032827
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795239023.199839
   },
   "구자욱": {
    "slug": "구자욱",
@@ -564,16 +564,16 @@
   "이현중": {
    "slug": "이현중",
    "firstSeen": 1795230000.0,
-   "peakRank": 7,
-   "peakTraffic": 200,
-   "lastSeen": 1795235463.8032827
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795239023.199839
   },
   "kt": {
    "slug": "kt",
    "firstSeen": 1795230000.0,
    "peakRank": 8,
    "peakTraffic": 200,
-   "lastSeen": 1795235463.8032827
+   "lastSeen": 1795239023.199839
   },
   "catl": {
    "slug": "catl",
@@ -588,6 +588,48 @@
    "peakRank": 10,
    "peakTraffic": 200,
    "lastSeen": 1795235463.8032827
+  },
+  "빅터 레이예스": {
+   "slug": "빅터-레이예스",
+   "firstSeen": 1795231800.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795239023.199839
+  },
+  "전북 대 fc 서울": {
+   "slug": "전북-대-fc-서울",
+   "firstSeen": 1795234200.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795239023.199839
+  },
+  "탈선": {
+   "slug": "탈선",
+   "firstSeen": 1795232400.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795239023.199839
+  },
+  "보이저 1호": {
+   "slug": "보이저-1호",
+   "firstSeen": 1795233000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795239023.199839
+  },
+  "맥도날드": {
+   "slug": "맥도날드",
+   "firstSeen": 1795232400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795239023.199839
+  },
+  "전현무": {
+   "slug": "전현무",
+   "firstSeen": 1795232400.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795239023.199839
   }
  }
 }
