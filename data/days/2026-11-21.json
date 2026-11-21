@@ -937,7 +937,7 @@
    "firstSeen": 1795262400.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795268250.6452508
+   "lastSeen": 1795271203.6621644
   },
   "김정균": {
    "slug": "김정균",
@@ -949,16 +949,51 @@
   "김세의": {
    "slug": "김세의",
    "firstSeen": 1795263600.0,
-   "peakRank": 7,
-   "peakTraffic": 200,
-   "lastSeen": 1795268250.6452508
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795271203.6621644
   },
   "lotto result 6/45": {
    "slug": "lotto-result-6-45",
    "firstSeen": 1795263000.0,
-   "peakRank": 8,
+   "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795268250.6452508
+   "lastSeen": 1795271203.6621644
+  },
+  "맨시티": {
+   "slug": "맨시티",
+   "firstSeen": 1795266600.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795271203.6621644
+  },
+  "전시 작전통제권": {
+   "slug": "전시-작전통제권",
+   "firstSeen": 1795266600.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795271203.6621644
+  },
+  "노동 시장": {
+   "slug": "노동-시장",
+   "firstSeen": 1795266000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795271203.6621644
+  },
+  "와콤": {
+   "slug": "와콤",
+   "firstSeen": 1795264200.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795271203.6621644
+  },
+  "탬파베이 레이스": {
+   "slug": "탬파베이-레이스",
+   "firstSeen": 1795264200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795271203.6621644
   }
  }
 }
