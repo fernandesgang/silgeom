@@ -459,44 +459,72 @@
   "동아일보": {
    "slug": "동아일보",
    "firstSeen": 1795219800.0,
-   "peakRank": 2,
+   "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795228793.738323
+   "lastSeen": 1795231774.2557518
   },
   "편의점": {
    "slug": "편의점",
    "firstSeen": 1795223400.0,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795228793.738323
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795231774.2557518
   },
   "두산베어스": {
    "slug": "두산베어스",
    "firstSeen": 1795222200.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795228793.738323
+   "lastSeen": 1795231774.2557518
   },
   "nh농협카드": {
    "slug": "nh농협카드",
    "firstSeen": 1795223400.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795228793.738323
+   "lastSeen": 1795231774.2557518
   },
   "매일경제": {
    "slug": "매일경제",
    "firstSeen": 1795223400.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795228793.738323
+   "lastSeen": 1795231774.2557518
   },
   "전북특별자치도": {
    "slug": "전북특별자치도",
    "firstSeen": 1795220400.0,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795228793.738323
+   "lastSeen": 1795231774.2557518
+  },
+  "경부선": {
+   "slug": "경부선",
+   "firstSeen": 1795225800.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795231774.2557518
+  },
+  "알테오젠": {
+   "slug": "알테오젠",
+   "firstSeen": 1795227000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795231774.2557518
+  },
+  "박윤영": {
+   "slug": "박윤영",
+   "firstSeen": 1795225200.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795231774.2557518
+  },
+  "jisoo sun showers (from \"the angry birds movie 3”)": {
+   "slug": "jisoo-sun-showers-from-the-angry-birds-movie-3",
+   "firstSeen": 1795224600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795231774.2557518
   }
  }
 }
