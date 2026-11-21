@@ -1,0 +1,45 @@
+{
+ "keyword": "문경시",
+ "slug": "문경시",
+ "firstSeen": 1795217400.0,
+ "lastSeen": 1795225825.824846,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795225826,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "문경시, 공공열분해시설 설치사업 추진 방향 검토",
+   "url": "http://www.mgnews.kr/default/index_view_page.php?part_idx=197&idx=77238",
+   "source": "문경시민신문"
+  },
+  {
+   "title": "수백억 ‘플라스틱 열분해’…줄줄이 ‘포기’",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715850",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "문경시, 공공열분해설비 제작 중지…사업 타당성 재검토",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758765",
+   "source": "국제뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "패딩",
+  "반도체",
+  "lpga",
+  "지스타",
+  "공군사관학교",
+  "브루노-마스",
+  "공인회계사",
+  "안양시"
+ ]
+}

@@ -2,17 +2,32 @@
  "keyword": "lpga",
  "slug": "lpga",
  "firstSeen": 1795131600.0,
- "lastSeen": 1795139356.008994,
- "peakRank": 6,
- "peakTraffic": 500,
+ "lastSeen": 1795225825.824846,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795139356,
    6,
    500
+  ],
+  [
+   1795225826,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
+   "source": "news.sbs.co.kr"
+  },
+  {
+   "title": "Thitikul talks spark on back nine during two rounds at CME",
+   "url": "https://www.golfchannel.com/watch/lpga/thitikul-talks-spark-on-back-nine-during-two-rounds-at-cme",
+   "source": "Golf Channel"
+  },
   {
    "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
    "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
@@ -30,9 +45,18 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "related": [
+  "패딩",
+  "반도체",
+  "지스타",
+  "문경시",
+  "공군사관학교",
+  "브루노-마스",
+  "공인회계사",
+  "안양시",
   "논현동",
   "경기도교육청",
   "이의리",

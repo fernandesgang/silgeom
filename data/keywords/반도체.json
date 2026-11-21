@@ -1,0 +1,45 @@
+{
+ "keyword": "반도체",
+ "slug": "반도체",
+ "firstSeen": 1795217400.0,
+ "lastSeen": 1795225825.824846,
+ "peakRank": 2,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795225826,
+   2,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "“반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야”",
+   "url": "https://www.chosun.com/economy/weeklybiz/2026/11/21/E6ALXTVRWRGODKPHHSVIY4SVOI/",
+   "source": "조선일보"
+  },
+  {
+   "title": "\"반도체 호황이지만 파급은 미미…10억원당 취업유발 2.4명\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121094731WfU",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "[한창헌의 단상] 호황의 역설",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445735",
+   "source": "연합인포맥스"
+  }
+ ],
+ "days": [
+  "2026-11-21"
+ ],
+ "related": [
+  "패딩",
+  "lpga",
+  "지스타",
+  "문경시",
+  "공군사관학교",
+  "브루노-마스",
+  "공인회계사",
+  "안양시"
+ ]
+}
