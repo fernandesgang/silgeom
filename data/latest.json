@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795281612,
+ "generatedAt": 1795284941,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "코번트리 대 크리스털 팰리스",
-   "slug": "코번트리-대-크리스털-팰리스",
-   "traffic": 1000,
-   "startedAt": 1795271400.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "뉴캐슬 대 아스널",
+   "slug": "뉴캐슬-대-아스널",
+   "traffic": 2000,
+   "startedAt": 1795279200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "Coventry vs Crystal Palace LIVE! Premier League match updates, news and score",
-     "url": "https://www.skysports.com/football/live-blog/13610683/coventry-vs-crystal-palace-live-premier-league-match-updates-news-and-score",
-     "source": "Sky Sports"
+     "title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
+     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217112",
+     "source": "풋볼리스트"
     },
     {
-     "title": "Coventry City x Crystal Palace - Highlights, Summary and Match Report",
-     "url": "https://sports.yahoo.com/articles/coventry-city-x-crystal-palace-151100636.html",
-     "source": "Yahoo Sports"
+     "title": "뉴캐슬 복귀와 아스날에서 브루노 기마랑이스의 큰 도전",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/ngay-tro-lai-newcastle-va-thach-thuc-lon-cua-bruno-guimaraes-tai-arsenal-1803974.ldo",
+     "source": "Laodong.vn"
     },
     {
-     "title": "Strand Larsen heads Palace level with Coventry",
-     "url": "https://www.nbcsports.com/watch/watch/premier-league/jorgen-strand-larsen-heads-crystal-palace-level-at-2-2-with-coventry",
-     "source": "NBC Sports"
+     "title": "뉴캐슬 대 아스널 ​​축구 경기 생중계: 프리미어 리그 11라운드",
+     "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-newcastle-vs-arsenal-vong-11-ngoai-hang-anh",
+     "source": "Vietnam.vn"
     }
    ]
   },
@@ -34,8 +34,8 @@
    "slug": "채령",
    "traffic": 500,
    "startedAt": 1795273200.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": []
   },
   {
@@ -44,23 +44,23 @@
    "slug": "chelsea-vs-leeds",
    "traffic": 500,
    "startedAt": 1795272600.0,
-   "change": "up",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "Bournemouth 2-0 Nottingham Forest: Evanilson scores again in Premier League win",
-     "url": "https://www.bbc.com/sport/football/live/cr5y18vyynlxt",
+     "title": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
+     "url": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
      "source": "BBC"
     },
     {
-     "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
-     "url": "https://weaintgotnohistory.sbnation.com/premier-league/174205/chelsea-fans-preferred-lineup-against-leeds-united-back-four-and-mike-penders",
-     "source": "We Ain't Got No History"
+     "title": "Leeds overturn Chelsea lead with 4-1 win as Alonso suffers fifth league defeat",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/22/NJOCZG4RBJDSVBE4EYNBHKBMSE/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "Daniel Farke provides fitness updates on Stach, Okafor and Calvert-Lewin ahead of Chelsea",
-     "url": "https://www.leedsunited.com/en/news/daniel-farke-provides-fitness-updates-on-stach-okafor-and-calvert-lewin-ahead-of-chelsea",
-     "source": "Leeds United | Official Website"
+     "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – as it happened",
+     "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+     "source": "The Guardian"
     }
    ]
   },
@@ -70,7 +70,7 @@
    "slug": "권순우",
    "traffic": 200,
    "startedAt": 1795274400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -96,13 +96,13 @@
    "slug": "엑셀방송",
    "traffic": 200,
    "startedAt": 1795273800.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
-     "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1",
-     "source": "스포츠동아"
+     "title": "'그것이 알고싶다', 女 줄세워 가학 벌칙…'사이버 룸살롱' 엑셀 방송의 충격 실태 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440",
+     "source": "머니투데이"
     },
     {
      "title": "'그것이 알고싶다'(그알) 딸의 방송 본 아버지 제보로 드러난 '엑셀 방송' 실태",
@@ -110,9 +110,9 @@
      "source": "국제뉴스"
     },
     {
-     "title": "벗고 때리고 괴식 먹이고…'그알', '사이버 룸살롱' 엑셀 방송 실태 파헤친다",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855261",
-     "source": "SBS 뉴스"
+     "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
+     "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1",
+     "source": "스포츠동아"
     }
    ]
   },
@@ -126,97 +126,45 @@
    "diff": 0,
    "news": [
     {
-     "title": "국힘, 대구서 장외 집회… \"조희대 탄핵 땐 정권 붕괴\"",
-     "url": "https://www.chosun.com/politics/politics_general/2026/11/21/CJUVIRF2TRGYZMKZ4LDPRCMCRM/",
-     "source": "조선일보"
+     "title": "이 대통령 \"5500억 환수가 배임이면…\" 대장동 업자 인터뷰 SNS에 공유",
+     "url": "https://news.jtbc.co.kr/article/NB12329146",
+     "source": "JTBC"
     },
     {
-     "title": "이번엔 대구 집결한 국힘 \"몽땅 교도소에\"‥민주 \"그럴 자격 있나\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867508_37004.html",
-     "source": "MBC 뉴스"
+     "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "국민의힘, '조작기소 특검법' 폐지 촉구",
-     "url": "https://www.yna.co.kr/view/PYH20261120043900013",
-     "source": "연합뉴스"
+     "title": "이 대통령, 대장동 인터뷰 공유…“5,500억 공익 환수가 배임인가”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719095",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "쇼메이커",
-   "slug": "쇼메이커",
-   "traffic": 200,
-   "startedAt": 1795270800.0,
-   "change": "same",
+   "keyword": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
+   "slug": "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
+   "traffic": 100,
+   "startedAt": 1795278000.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] ‘카나비’ 서진혁, ‘씨맥’ 품으로 가나… DK행 유력, 최종 협상 진행 중",
-     "url": "https://www.koreadaily.com/article/20261119231915586",
-     "source": "미주중앙일보"
+     "title": "Match commentary and highlights: Tottenham 2-0 Ipswich",
+     "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score",
+     "source": "Sky Sports"
     },
     {
-     "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
-     "url": "https://www.osen.co.kr/article/G1112913126",
-     "source": "OSEN"
+     "title": "Roberto De Zerbi reveals how long Mathys Tel will be missing for Tottenham",
+     "url": "https://www.spurs-web.com/spurs-news/roberto-de-zerbi-reveals-how-long-mathys-tel-will-be-missing-for-tottenham/",
+     "source": "Spurs Web"
     },
     {
-     "title": "‘쇼메이커·스매쉬·씨맥’ 잔류…디플러스 기아, 핵심 전력 지켰다",
-     "url": "https://www.kukinews.com/article/view/kuk202611200021",
-     "source": "쿠키뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "민효린",
-   "slug": "민효린",
-   "traffic": 100,
-   "startedAt": 1795272600.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "빅뱅, 데뷔 20주년에 'MAMA' 수상 겹경사..\"기분 좋은 상\"",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/21/MQ4DAMLFGBTDGZBTMQZTSOBRHE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "빅뱅 태양, 무대를 지배하는 자",
-     "url": "https://www.news1.kr/photos/8226435",
-     "source": "뉴스1"
-    },
-    {
-     "title": "지드래곤, ‘2026 마마 어워즈’ 관짝 박차고 귀환…허리 닿는 장발+역대급 퍼포먼스에 ‘현장 초토화’",
-     "url": "https://sports.khan.co.kr/article/202611211907003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "장동민",
-   "slug": "장동민",
-   "traffic": 100,
-   "startedAt": 1795271400.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "[TV톡] '데블스 플랜3' 재재의 재발견",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525451",
-     "source": "iMBC 연예"
-    },
-    {
-     "title": "'데블스 플랜3' PD \"유배지 도입한 건…\" 넷플릭스 글로벌 톱10 진입도",
-     "url": "https://www.nocutnews.co.kr/news/6610097",
-     "source": "노컷뉴스"
-    },
-    {
-     "title": "\"천재의 귀환\"...장동민 美친 활약으로 공개되자마자 '화제성 1위' 씹어먹은 韓예능 (데블스 플랜3)",
-     "url": "https://mhnse.com/news/articleView.html?idxno=1703770",
-     "source": "MHN스포츠"
+     "title": "Licensable picture: Premier League - Tottenham Hotspur v Ipswich Town",
+     "url": "https://www.reutersconnect.com/item/premier-league-tottenham-hotspur-v-ipswich-town/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxOVJTU0M",
+     "source": "Reuters Connect"
     }
    ]
   }

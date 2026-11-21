@@ -2,7 +2,7 @@
  "keyword": "chelsea vs leeds",
  "slug": "chelsea-vs-leeds",
  "firstSeen": 1795272600.0,
- "lastSeen": 1795281612.3534017,
+ "lastSeen": 1795284941.0849776,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -18,6 +18,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
+   "url": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
+   "source": "BBC"
+  },
+  {
+   "title": "Leeds overturn Chelsea lead with 4-1 win as Alonso suffers fifth league defeat",
+   "url": "https://biz.chosun.com/en/en-sports/2026/11/22/NJOCZG4RBJDSVBE4EYNBHKBMSE/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – as it happened",
+   "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+   "source": "The Guardian"
+  },
   {
    "title": "Bournemouth 2-0 Nottingham Forest: Evanilson scores again in Premier League win",
    "url": "https://www.bbc.com/sport/football/live/cr5y18vyynlxt",
@@ -53,6 +68,8 @@
   "2026-11-22"
  ],
  "related": [
+  "뉴캐슬-대-아스널",
+  "토트넘-홋스퍼-fc-대-입스위치-타운-fc-라인업",
   "권순우",
   "첼시-대-리즈-유나이티드",
   "코번트리-대-크리스털-팰리스",
