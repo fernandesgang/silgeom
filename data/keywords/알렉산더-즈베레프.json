@@ -2,7 +2,7 @@
  "keyword": "알렉산더 즈베레프",
  "slug": "알렉산더-즈베레프",
  "firstSeen": 1795119000.0,
- "lastSeen": 1795127310.8833637,
+ "lastSeen": 1795298133.626698,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -15,9 +15,29 @@
    1795127311,
    4,
    1000
+  ],
+  [
+   1795298134,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "라파엘 호다르, 니토 ATP 파이널서 벤 셸턴 상대 포핸드",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758896",
+   "source": "국제뉴스"
+  },
+  {
+   "title": "테니스 셸턴, 생애 첫 ATP 파이널스 4강 진출…알카라스와 대결",
+   "url": "https://www.news1.kr/sports/general-sport/6360430",
+   "source": "뉴스1"
+  },
+  {
+   "title": "[ATP 파이널스] 8개월 공백 딛고 첫 토리노行… 피스의 2026시즌 해피엔딩",
+   "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54301",
+   "source": "테니스코리아"
+  },
   {
    "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
    "url": "https://mobile.newsis.com/photo/NISI20261118_0002294924",
@@ -35,9 +55,17 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-22"
  ],
  "related": [
+  "강사",
+  "배추",
+  "지수",
+  "베냐민-네타냐후",
+  "레알마드리드",
+  "송미령",
+  "토토",
   "아파트",
   "경제",
   "지방세",

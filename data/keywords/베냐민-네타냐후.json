@@ -2,17 +2,37 @@
  "keyword": "베냐민 네타냐후",
  "slug": "베냐민-네타냐후",
  "firstSeen": 1795215600.0,
- "lastSeen": 1795220644.753429,
- "peakRank": 7,
- "peakTraffic": 100,
+ "lastSeen": 1795298133.626698,
+ "peakRank": 6,
+ "peakTraffic": 200,
  "history": [
   [
    1795220645,
    7,
    100
+  ],
+  [
+   1795298134,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "트럼프는 서두르지 않겠다는데‥이란 추가공격 압박 커져",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6867488_36925.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+   "url": "https://www.yna.co.kr/view/AKR20261122001000071",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "트럼프 \"이란 핵무기 보유 막을 영구 합의 원해\"…협상 재개 모색",
+   "url": "https://www.newsis.com/view/NISX20261122_0003877866",
+   "source": "뉴시스"
+  },
   {
    "title": "\"한번 더 이란 공격\" 美 설득나선 네타냐후",
    "url": "https://www.chosun.com/international/mideast-africa-latin/2026/11/21/EVQQJ6DDLNBHXF57ORXIRF6RHY/",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-22"
  ],
  "related": [
+  "강사",
+  "배추",
+  "지수",
+  "알렉산더-즈베레프",
+  "경제",
+  "레알마드리드",
+  "송미령",
+  "토토",
   "연예인",
   "추성훈",
   "nvda",

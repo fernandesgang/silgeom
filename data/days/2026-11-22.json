@@ -189,6 +189,69 @@
    "peakRank": 8,
    "peakTraffic": 100,
    "lastSeen": 1795295786.1553612
+  },
+  "강사": {
+   "slug": "강사",
+   "firstSeen": 1795293600.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795298133.626698
+  },
+  "배추": {
+   "slug": "배추",
+   "firstSeen": 1795293000.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795298133.626698
+  },
+  "지수": {
+   "slug": "지수",
+   "firstSeen": 1795293600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795298133.626698
+  },
+  "알렉산더 즈베레프": {
+   "slug": "알렉산더-즈베레프",
+   "firstSeen": 1795292400.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795298133.626698
+  },
+  "경제": {
+   "slug": "경제",
+   "firstSeen": 1795293600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795298133.626698
+  },
+  "베냐민 네타냐후": {
+   "slug": "베냐민-네타냐후",
+   "firstSeen": 1795292400.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795298133.626698
+  },
+  "레알마드리드": {
+   "slug": "레알마드리드",
+   "firstSeen": 1795293600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795298133.626698
+  },
+  "송미령": {
+   "slug": "송미령",
+   "firstSeen": 1795293000.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795298133.626698
+  },
+  "토토": {
+   "slug": "토토",
+   "firstSeen": 1795292400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795298133.626698
   }
  }
 }

@@ -1,212 +1,238 @@
 {
- "generatedAt": 1795295786,
+ "generatedAt": 1795298134,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "뉴캐슬 대 아스널",
-   "slug": "뉴캐슬-대-아스널",
-   "traffic": 5000,
-   "startedAt": 1795279200.0,
-   "change": "same",
+   "keyword": "강사",
+   "slug": "강사",
+   "traffic": 1000,
+   "startedAt": 1795293600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
-     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217112",
-     "source": "풋볼리스트"
+     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
+     "url": "https://www.munhwa.com/article/11633008",
+     "source": "문화일보"
     },
     {
-     "title": "뉴캐슬 복귀와 아스날에서 브루노 기마랑이스의 큰 도전",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/ngay-tro-lai-newcastle-va-thach-thuc-lon-cua-bruno-guimaraes-tai-arsenal-1803974.ldo",
-     "source": "Laodong.vn"
+     "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "아스널, 뉴캐슬과 2-2 무승부…에제 선제골·마두에케 동점골 : EPL",
-     "url": "https://news.jkn.co.kr/post/1113274",
-     "source": "재경일보"
+     "title": "사망 당일 새벽 짐 정리...집주인에 \"탈출 도와달라\" [앵커리포트]",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611212227231160_005.html",
+     "source": "YTN"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "레알 마드리드 대 셀타 비고",
-   "slug": "레알-마드리드-대-셀타-비고",
-   "traffic": 2000,
-   "startedAt": 1795288800.0,
-   "change": "same",
+   "keyword": "배추",
+   "slug": "배추",
+   "traffic": 1000,
+   "startedAt": 1795293000.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Real Madrid legend spotted in attendance at Celta Vigo clash",
-     "url": "https://sports.yahoo.com/articles/real-madrid-legend-spotted-attendance-202500077.html",
-     "source": "Yahoo Sports"
+     "title": "새마을운동 남원시지회, 사랑의 김장나누기 봉사활동",
+     "url": "https://sjbnews.com/news/news.php?number=893138&year=2026",
+     "source": "새전북신문"
     },
     {
-     "title": "Real Madrid vs Celta Vigo: Spanish La Liga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c6205wg000g8t",
-     "source": "BBC"
+     "title": "[금주의 의정부시] 의정부1동주민센터, 취약계층 위한 ‘사랑가득 김장나눔’ 개최 外",
+     "url": "https://www.joongboo.com/local/articleView.html?idxno=363743145",
+     "source": "중부일보"
     },
     {
-     "title": "Real Madrid starting lineup against Celta",
-     "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-ante-el-celta-21-11-2026",
-     "source": "Real Madrid CF | Web Oficial"
+     "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
+     "source": "국제신문"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "왕즈이",
-   "slug": "왕즈이",
-   "traffic": 1000,
-   "startedAt": 1795291200.0,
+   "keyword": "지수",
+   "slug": "지수",
+   "traffic": 500,
+   "startedAt": 1795293600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'안세영 피했더니 이번엔 왕즈이가 기다렸다' 일본 '배드민턴 요정' 미야자키, 2주 연속 같은 상대에게 무릎, 준결승서 탈락",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/21/GI2GKMTEGQYDKNJUMRSDIMRSGQ/",
-     "source": "조선일보"
+     "title": "中 톱스타 들러리 만든 '디올 지수'…영하 3도 베이징 녹였다 [K컬처 인사이드]",
+     "url": "https://www.hankyung.com/article/202611200313H",
+     "source": "한국경제"
     },
     {
-     "title": "'55연승' 안세영과 경쟁할 7명 다 나왔다... 유일한 패배 안긴 왕즈이부터 '여자단식 최다' 11번째 파이널스 앞둔 인타논까지 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/21/2026112106483211136",
-     "source": "머니투데이"
+     "title": "블랙핑크 지수가 다녀간 방콕 여행 명소 6곳",
+     "url": "https://www.harpersbazaar.co.kr/article/1913142",
+     "source": "하퍼스 바자 코리아"
     },
     {
-     "title": "10점 차 뒤집은 인도 19세 신예, 세계 4위 천위페이 꺾었다",
-     "url": "https://www.etoday.co.kr/news/view/2650865",
-     "source": "이투데이"
+     "title": "지수, 뱅헤어에 짙은 스모키 화장…뾰족한 블랙 네일까지 '파격 변신'",
+     "url": "https://www.osen.co.kr/article/G1112908679",
+     "source": "OSEN"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "아스날",
-   "slug": "아스날",
+   "keyword": "알렉산더 즈베레프",
+   "slug": "알렉산더-즈베레프",
    "traffic": 500,
-   "startedAt": 1795281600.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795292400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O",
-     "source": "머니투데이"
+     "title": "라파엘 호다르, 니토 ATP 파이널서 벤 셸턴 상대 포핸드",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758896",
+     "source": "국제뉴스"
     },
     {
-     "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
-     "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da",
-     "source": "Vietnam.vn"
+     "title": "테니스 셸턴, 생애 첫 ATP 파이널스 4강 진출…알카라스와 대결",
+     "url": "https://www.news1.kr/sports/general-sport/6360430",
+     "source": "뉴스1"
     },
     {
-     "title": "아르테타 아스날 감독 FPL 정보 유출 경고…내부 단속 나서 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1113265",
-     "source": "재경일보"
+     "title": "[ATP 파이널스] 8개월 공백 딛고 첫 토리노行… 피스의 2026시즌 해피엔딩",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54301",
+     "source": "테니스코리아"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "arsenal",
-   "slug": "arsenal",
-   "traffic": 500,
-   "startedAt": 1795279800.0,
+   "keyword": "경제",
+   "slug": "경제",
+   "traffic": 200,
+   "startedAt": 1795293600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
-     "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-     "source": "BBC"
+     "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121026100002",
+     "source": "연합뉴스"
     },
     {
-     "title": "Licensable picture: Premier League - Newcastle United v Arsenal",
-     "url": "https://www.reutersconnect.com/item/premier-league-newcastle-united-v-arsenal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxRUE0WlQ",
-     "source": "Reuters Connect"
+     "title": "반도체 호황에 국민소득 4만달러?…체감 안 된다는 사람들 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/economy/2026/11/22/2026112010222846998",
+     "source": "머니투데이"
     },
     {
-     "title": "'Not good news!' - Mikel Arteta confirms MRI scan for David Raya after Arsenal goalkeeper suffers injury against Newcastle",
-     "url": "https://www.goal.com/en-sa/news/-mikel-arteta-confirms-mri-scan-david-raya-arsenal-goalkeeper-injury-newcastle-/blt2e69625a442f68f8",
-     "source": "Goal.com"
+     "title": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445804",
+     "source": "연합인포맥스"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "위기",
-   "slug": "위기",
+   "keyword": "베냐민 네타냐후",
+   "slug": "베냐민-네타냐후",
    "traffic": 200,
-   "startedAt": 1795287000.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795292400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
-     "url": "https://www.yna.co.kr/view/AKR20261122002700099",
+     "title": "트럼프는 서두르지 않겠다는데‥이란 추가공격 압박 커져",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6867488_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261122001000071",
      "source": "연합뉴스"
     },
     {
-     "title": "2028 유엔 해양총회…성과로 이어지려면",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8714693",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "폐막일 넘긴 기후총회, 캄보디아 학교를 보라",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287058",
-     "source": "OhmyNews"
+     "title": "트럼프 \"이란 핵무기 보유 막을 영구 합의 원해\"…협상 재개 모색",
+     "url": "https://www.newsis.com/view/NISX20261122_0003877866",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "샬케 대 슈투트가르트",
-   "slug": "샬케-대-슈투트가르트",
-   "traffic": 200,
-   "startedAt": 1795281000.0,
-   "change": "down",
-   "diff": 2,
+   "keyword": "레알마드리드",
+   "slug": "레알마드리드",
+   "traffic": 100,
+   "startedAt": 1795293600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
-     "url": "https://news.jkn.co.kr/post/1113280",
-     "source": "재경일보"
+     "title": "[오피셜] 레알 마드리드, 뒷문 철저히 지킨다...'세계 최고 골키퍼' 쿠르투아와 재계약 발표, 2028년까지 동행",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021034",
+     "source": "SPOTV NEWS"
     },
     {
-     "title": "‘모레노호 사우디전 환상 도움’ 韓 국가대표 공격수 황희찬, ‘6경기 무승’ 샬케 구할까… 무슬리치 감독 “선수단 전적으로 신뢰한다”",
-     "url": "https://www.besteleven.com/news/articleView.html?idxno=314183",
-     "source": "베스트일레븐"
+     "title": "‘차세대 에이스’ 아르다 귈러, 레알과 2032년까지 대형 재계약···연봉·바이아웃 대폭 인상 ‘판매불가’",
+     "url": "https://sports.khan.co.kr/article/202611191053003",
+     "source": "스포츠경향"
     },
     {
-     "title": "황희찬, 2년 연속 대참사 위기…17위 추락에 재정난까지 '초비상'! 9억 못 채우면 승점 삭감까지",
-     "url": "https://yourfield.nexon.com/today/view/2025052909553714772?type=popular",
-     "source": "Your Field"
+     "title": "'18세에 레알 마드리드 합류, 33세까지 레알 마드리드에서 뛴다'…'이강인과 악연' 발베르데 재계약 합의",
+     "url": "https://mydaily.co.kr/page/view/2026112020392333638",
+     "source": "마이데일리"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "입양",
-   "slug": "입양",
+   "keyword": "송미령",
+   "slug": "송미령",
    "traffic": 100,
-   "startedAt": 1795290000.0,
+   "startedAt": 1795293000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-3",
-     "url": "https://www.worldkorean.net/news/articleView.html?idxno=58274",
-     "source": "월드코리안뉴스"
+     "title": "농식품부 장관, 현장·전문가와 함께 농촌 사회연대경제 활성화를 위한 방안 논의",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458131",
+     "source": "서울Pn"
     },
     {
-     "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-2",
-     "url": "https://www.worldkorean.net/news/articleView.html?idxno=58236",
-     "source": "월드코리안뉴스"
+     "title": "농어촌 기본소득, 지역 일자리로 이어질까…송미령 장관, 현장 의견 청취",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04024566645647688",
+     "source": "마켓인"
     },
     {
-     "title": "유기 동물 구조에서 입양까지...'반려동물 복지센터'",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611220022451002",
-     "source": "YTN"
+     "title": "농어촌 기본소득, 돌봄·일자리로 잇는다…사회연대경제 연계 논의",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876035",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "토토",
+   "slug": "토토",
+   "traffic": 100,
+   "startedAt": 1795292400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[오늘의 영상] 초대 챔피언 등극…에이스 지소연 효과",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719222",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "결승골 넣고 '초대 MVP' 받고도 \"숨고 싶었다\"... '지메시' 지소연이 웃지 못한 이유 [이천 현장] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/22/2026112116232226672",
+     "source": "머니투데이"
+    },
+    {
+     "title": "수원FC 위민-세종 스포츠토토, 여자축구 첫 컵대회 정상 놓고 격돌",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337406",
+     "source": "인천일보"
     }
    ]
   }
