@@ -279,7 +279,7 @@
    "firstSeen": 1795297800.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795302927.8670437
+   "lastSeen": 1795305071.0887609
   },
   "젠슨 황": {
    "slug": "젠슨-황",
@@ -299,8 +299,8 @@
    "slug": "뉴스",
    "firstSeen": 1795299000.0,
    "peakRank": 4,
-   "peakTraffic": 500,
-   "lastSeen": 1795302927.8670437
+   "peakTraffic": 1000,
+   "lastSeen": 1795305071.0887609
   },
   "이정효": {
    "slug": "이정효",
@@ -319,16 +319,44 @@
   "편지": {
    "slug": "편지",
    "firstSeen": 1795298400.0,
-   "peakRank": 7,
-   "peakTraffic": 100,
-   "lastSeen": 1795302927.8670437
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795305071.0887609
   },
   "laliga": {
    "slug": "laliga",
    "firstSeen": 1795298400.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795302927.8670437
+   "lastSeen": 1795305071.0887609
+  },
+  "부동산": {
+   "slug": "부동산",
+   "firstSeen": 1795300800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795305071.0887609
+  },
+  "인터 마이애미 대 콜럼버스 크루": {
+   "slug": "인터-마이애미-대-콜럼버스-크루",
+   "firstSeen": 1795300200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795305071.0887609
+  },
+  "공군사관학교": {
+   "slug": "공군사관학교",
+   "firstSeen": 1795299600.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795305071.0887609
+  },
+  "인천광역시": {
+   "slug": "인천광역시",
+   "firstSeen": 1795299600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795305071.0887609
   }
  }
 }

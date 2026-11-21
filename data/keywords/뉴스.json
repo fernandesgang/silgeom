@@ -2,17 +2,37 @@
  "keyword": "뉴스",
  "slug": "뉴스",
  "firstSeen": 1795299000.0,
- "lastSeen": 1795302927.8670437,
+ "lastSeen": 1795305071.0887609,
  "peakRank": 4,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795302928,
    4,
    500
+  ],
+  [
+   1795305071,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "“코스닥 살리려다 양극화 키울라”…상장사 44%의 경고",
+   "url": "https://www.kukinews.com/article/view/kuk202611200168",
+   "source": "쿠키뉴스"
+  },
+  {
+   "title": "기업은행, 코스닥 활성화 설문…기업들 “기관투자자 유입 시급”",
+   "url": "https://m.ekn.kr/view.php?key=20261119025422070",
+   "source": "에너지경제신문"
+  },
+  {
+   "title": "코스닥 상장사 150곳 스스로 “코스닥 활성화하려면 부실상장사 퇴출해야 ”",
+   "url": "https://www.hani.co.kr/arti/economy/finance/1288131.html",
+   "source": "한겨레"
+  },
   {
    "title": "지방 분양시장서 ‘첫 브랜드’ 아파트 선전…완판에 웃돈 거래까지",
    "url": "https://www.etoday.co.kr/news/view/2650922",
@@ -33,6 +53,10 @@
   "2026-11-22"
  ],
  "related": [
+  "부동산",
+  "인터-마이애미-대-콜럼버스-크루",
+  "공군사관학교",
+  "인천광역시",
   "구자욱",
   "젠슨-황",
   "ai-데이터-센터",

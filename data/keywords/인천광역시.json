@@ -1,0 +1,44 @@
+{
+ "keyword": "인천광역시",
+ "slug": "인천광역시",
+ "firstSeen": 1795299600.0,
+ "lastSeen": 1795305071.0887609,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795305071,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "인천시, 수소산업 담당자 직무교육…인프라 운영 역량 강화",
+   "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722785",
+   "source": "뉴스타운"
+  },
+  {
+   "title": "AI 시대 전력 공급, 연료전지의 역할은…수소인프라 운영 사례도 공유",
+   "url": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=5225",
+   "source": "수소신문"
+  },
+  {
+   "title": "인천시, 수소산업 직무교육 실시… 실무 담당자 정책 역량 강화",
+   "url": "https://www.kspnews.com/2896996",
+   "source": "케이에스피뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "구자욱",
+  "부동산",
+  "인터-마이애미-대-콜럼버스-크루",
+  "뉴스",
+  "공군사관학교",
+  "편지",
+  "laliga"
+ ]
+}
