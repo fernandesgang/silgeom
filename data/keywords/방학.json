@@ -1,0 +1,46 @@
+{
+ "keyword": "방학",
+ "slug": "방학",
+ "firstSeen": 1795326000.0,
+ "lastSeen": 1795334389.0971177,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795334389,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "제주경찰, 수능 이후 청소년 밀집지역 합동순찰",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=848054",
+   "source": "제민일보"
+  },
+  {
+   "title": "수원장안경찰서, 수능 종료 맞아 정자중심상가 합동순찰…청소년 보호 활동 강화",
+   "url": "https://www.kyeonggi.com/article/20261122580116",
+   "source": "경기일보"
+  },
+  {
+   "title": "자치경찰단, 수능 이후 청소년 유해환경 특별단속",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718089",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "김정은",
+  "외교",
+  "해저",
+  "이대호",
+  "이스라엘",
+  "마이너스-통장",
+  "오픈ai",
+  "류효영",
+  "소년-소녀-가장"
+ ]
+}

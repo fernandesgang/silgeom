@@ -1,0 +1,46 @@
+{
+ "keyword": "이스라엘",
+ "slug": "이스라엘",
+ "firstSeen": 1795327200.0,
+ "lastSeen": 1795334389.0971177,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795334389,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122024936e1r",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "트럼프 “핵무기 갖게 두지 않겠다…이란과 영구적인 합의 만들 것”",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1288468.html",
+   "source": "한겨레"
+  },
+  {
+   "title": "트럼프 “무능한 대통령 나와도 이란 핵 못 갖게 영구 합의”",
+   "url": "https://www.donga.com/news/Inter/article/all/20261122/135065558/1",
+   "source": "동아일보"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "김정은",
+  "외교",
+  "해저",
+  "이대호",
+  "마이너스-통장",
+  "방학",
+  "오픈ai",
+  "류효영",
+  "소년-소녀-가장"
+ ]
+}

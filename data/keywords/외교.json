@@ -2,17 +2,32 @@
  "keyword": "외교",
  "slug": "외교",
  "firstSeen": 1795326000.0,
- "lastSeen": 1795330069.062487,
- "peakRank": 4,
- "peakTraffic": 500,
+ "lastSeen": 1795334389.0971177,
+ "peakRank": 2,
+ "peakTraffic": 1000,
  "history": [
   [
    1795330069,
    4,
    500
+  ],
+  [
+   1795334389,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "李대통령 \"돼지 눈에는 돼지만\"…순방 비판에 \"놀러 가는 걸로 보이나\"",
+   "url": "http://weekly.chosun.com/news/articleView.html?idxno=57358",
+   "source": "주간조선"
+  },
+  {
+   "title": "野 ’대통령 순방’ 비판에 靑 “눈 들어 해외 정상 순방외교 보라“",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122094947Xl8",
+   "source": "연합뉴스TV"
+  },
   {
    "title": "李 “돼지 눈엔 돼지만…해외 순방, 치아 흔들리고 코피 터지는 일”",
    "url": "https://www.donga.com/news/Politics/article/all/20261122/135066467/1",
@@ -33,6 +48,14 @@
   "2026-11-22"
  ],
  "related": [
+  "김정은",
+  "해저",
+  "이대호",
+  "이스라엘",
+  "마이너스-통장",
+  "방학",
+  "류효영",
+  "소년-소녀-가장",
   "투자",
   "엘니뇨",
   "최민정",
