@@ -1,0 +1,45 @@
+{
+ "keyword": "기상",
+ "slug": "기상",
+ "firstSeen": 1795316400.0,
+ "lastSeen": 1795322797.4719036,
+ "peakRank": 8,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795322797,
+   8,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도",
+   "url": "https://www.hani.co.kr/arti/society/environment/1288454.html",
+   "source": "한겨레"
+  },
+  {
+   "title": "서울 낮기온 5도…내일 전국에 비·눈",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "올가을 최강 추위, 오늘도 서울 -4℃...빙판길 유의",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611220250427950_005.html",
+   "source": "YTN"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "로또",
+  "재산",
+  "입장권",
+  "대한민국-대법원",
+  "휴머노이드",
+  "최예나",
+  "휴온스-lpba-챔피언십",
+  "무시알라"
+ ]
+}

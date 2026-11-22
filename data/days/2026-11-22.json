@@ -495,8 +495,8 @@
    "slug": "재산",
    "firstSeen": 1795312800.0,
    "peakRank": 2,
-   "peakTraffic": 2000,
-   "lastSeen": 1795318877.9429626
+   "peakTraffic": 5000,
+   "lastSeen": 1795322797.4719036
   },
   "플라이 투 더 스카이": {
    "slug": "플라이-투-더-스카이",
@@ -508,9 +508,9 @@
   "입장권": {
    "slug": "입장권",
    "firstSeen": 1795314000.0,
-   "peakRank": 4,
-   "peakTraffic": 1000,
-   "lastSeen": 1795318877.9429626
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795322797.4719036
   },
   "영구자석": {
    "slug": "영구자석",
@@ -532,6 +532,55 @@
    "peakRank": 9,
    "peakTraffic": 200,
    "lastSeen": 1795318877.9429626
+  },
+  "로또": {
+   "slug": "로또",
+   "firstSeen": 1795318800.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795322797.4719036
+  },
+  "대한민국 대법원": {
+   "slug": "대한민국-대법원",
+   "firstSeen": 1795315200.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795322797.4719036
+  },
+  "휴머노이드": {
+   "slug": "휴머노이드",
+   "firstSeen": 1795315800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795322797.4719036
+  },
+  "최예나": {
+   "slug": "최예나",
+   "firstSeen": 1795318800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795322797.4719036
+  },
+  "휴온스 lpba 챔피언십": {
+   "slug": "휴온스-lpba-챔피언십",
+   "firstSeen": 1795316400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795322797.4719036
+  },
+  "기상": {
+   "slug": "기상",
+   "firstSeen": 1795316400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795322797.4719036
+  },
+  "무시알라": {
+   "slug": "무시알라",
+   "firstSeen": 1795318800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795322797.4719036
   }
  }
 }
