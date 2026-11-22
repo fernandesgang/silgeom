@@ -2,17 +2,37 @@
  "keyword": "inter miami vs columbus",
  "slug": "inter-miami-vs-columbus",
  "firstSeen": 1795304400.0,
- "lastSeen": 1795312121.2383034,
- "peakRank": 9,
- "peakTraffic": 200,
+ "lastSeen": 1795315306.2642365,
+ "peakRank": 7,
+ "peakTraffic": 500,
  "history": [
   [
    1795312121,
    9,
    200
+  ],
+  [
+   1795315306,
+   7,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
+   "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
+   "source": "ESPN"
+  },
+  {
+   "title": "Columbus Crew vs Inter Miami: Predictions, Picks, Odds & Lineups",
+   "url": "https://www.squawka.com/ca/news/mls/match-preview-columbus-crew-vs-inter-miami-11-27-26-mls/",
+   "source": "Squawka"
+  },
+  {
+   "title": "Red-hot Crew face playoff test from Inter Miami, Lionel Messi",
+   "url": "https://fieldlevelmedia.com/mls/red-hot-crew-face-playoff-test-from-inter-miami-lionel-messi/",
+   "source": "Field Level Media"
+  },
   {
    "title": "Columbus secures 3-0 shutout victory over Inter Miami on the road : MLS : JKN",
    "url": "https://news.jkn.co.kr/editions/english/post/1113811",
@@ -33,6 +53,9 @@
   "2026-11-22"
  ],
  "related": [
+  "lpga",
+  "오현규",
+  "파주시",
   "수출규제",
   "수험",
   "도경완",

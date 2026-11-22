@@ -1,67 +1,15 @@
 {
- "generatedAt": 1795312121,
+ "generatedAt": 1795315306,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "수출규제",
-   "slug": "수출규제",
-   "traffic": 2000,
-   "startedAt": 1795302600.0,
-   "change": "up",
-   "diff": 3,
-   "news": [
-    {
-     "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
-     "url": "https://www.segye.com/newsView/20261120506261",
-     "source": "세계일보"
-    },
-    {
-     "title": "러트닉 미 상무, '엔비디아 스캔들 연루 위기' 넘어 건재 과시",
-     "url": "https://www.yna.co.kr/view/AKR20261122016400009",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "트럼프 \"중국에 구형 칩만 판매‥안팔면 中 스스로 만들것\"",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6867434_36925.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "수험",
-   "slug": "수험",
-   "traffic": 2000,
-   "startedAt": 1795302600.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-     "url": "https://www.munhwa.com/article/11633008",
-     "source": "문화일보"
-    },
-    {
-     "title": "'리트 만점' 이진우 수사 계속...진실규명 쟁점은?",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611220954387265_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
-     "url": "https://www.kyeonggi.com/article/20261121580007",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "도경완",
    "slug": "도경완",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795308000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "'한강뷰 120억' 도경완, 자차는 1억 후반대 외체자('도장TV')",
@@ -81,39 +29,39 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "인공지능",
-   "slug": "인공지능",
-   "traffic": 1000,
+   "rank": 2,
+   "keyword": "수출규제",
+   "slug": "수출규제",
+   "traffic": 2000,
    "startedAt": 1795302600.0,
-   "change": "up",
-   "diff": 2,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
-     "url": "https://www.yna.co.kr/view/AKR20261120160100017",
-     "source": "연합뉴스"
+     "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
+     "url": "https://www.segye.com/newsView/20261120506261",
+     "source": "세계일보"
     },
     {
-     "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
-     "url": "https://zdnet.co.kr/view/?no=20261122085359",
-     "source": "지디넷코리아"
+     "title": "WSJ “러트닉 미 상무, ‘엔비디아 사태 등 경질 위기’에도 건재”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719339",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "LG유플러스, 부문장 전부 교체…AI 사업 실행력 높인다",
-     "url": "https://www.etnews.com/20261122000001",
-     "source": "전자신문"
+     "title": "트럼프 \"중국에 구형 칩만 판매‥안팔면 中 스스로 만들것\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6867434_36925.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
-   "rank": 5,
+   "rank": 3,
    "keyword": "담보 대출",
    "slug": "담보-대출",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795307400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
@@ -133,13 +81,13 @@
    ]
   },
   {
-   "rank": 6,
+   "rank": 4,
    "keyword": "마마 어워즈",
    "slug": "마마-어워즈",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795307400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선",
@@ -147,25 +95,103 @@
      "source": "연합뉴스"
     },
     {
-     "title": "빅뱅부터 엔하이픈까지…‘2026 MAMA’가 펼쳐낸 K팝의 과거와 현재",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135065684/1",
-     "source": "동아일보"
-    },
-    {
      "title": "방탄소년단, '마마' 통산 대상 24개 금자탑···10년 서사의 완성",
      "url": "https://www.newsis.com/view/NISX20261122_0003877935",
      "source": "뉴시스"
+    },
+    {
+     "title": "빅뱅부터 엔하이픈까지…‘2026 MAMA’가 펼쳐낸 K팝의 과거와 현재",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135065684/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "lpga",
+   "slug": "lpga",
+   "traffic": 500,
+   "startedAt": 1795311000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008857518",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Kim A-lim Holds One-Shot Lead in LPGA Season Finale",
+     "url": "https://en.sedaily.com/sports/2026/11/22/kim-a-lim-holds-one-shot-lead-in-lpga-season-finale",
+     "source": "Seoul Economic Daily"
+    },
+    {
+     "title": "Two-Time Defending Champion Jeeno Thitikul Back in the Mix at Tiburon",
+     "url": "https://www.lpga.com/news/2026/two-time-defending-champion-jeeno-thitikul-back-in-the-mix-at-tiburon",
+     "source": "LPGA"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "오현규",
+   "slug": "오현규",
+   "traffic": 500,
+   "startedAt": 1795309800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“레전드 손흥민이 영입에 중요한 역할 할 수도”…토트넘, 공격진 보강 계획 속 ‘이적료 442억’ 오현규 영입 관심",
+     "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%85%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%A6-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%89%E1%85%AE%E1%84%83%E1%85%A9--%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8-%E1%84%89%E1%85%A9%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%85%E1%85%AD-442%E1%84%8B%E1%85%A5%E1%86%A8-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7/blt550dcfba9fbb6ece",
+     "source": "Goal.com"
+    },
+    {
+     "title": "\"초대박!\" 韓 국가대표 공격수 오현규, 토트넘 러브콜…'3000만 유로' 구체적 액수도 나왔다 '손흥민이 추천'",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/19/G44WCOBUMMZWKMZYGI4DGMBQGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "일본 슈퍼스타 완전 망했습니다, 이강인과 180도 다른 길...스페인→튀르키예 커리어 퇴보? 오현규와 한솥밥 가능성",
+     "url": "https://www.sportschosun.com/football/2026-11-19/202611190100121970011285",
+     "source": "스포츠조선"
     }
    ]
   },
   {
    "rank": 7,
+   "keyword": "inter miami vs columbus",
+   "slug": "inter-miami-vs-columbus",
+   "traffic": 500,
+   "startedAt": 1795304400.0,
+   "change": "up",
+   "diff": 2,
+   "news": [
+    {
+     "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
+     "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
+     "source": "ESPN"
+    },
+    {
+     "title": "Columbus Crew vs Inter Miami: Predictions, Picks, Odds & Lineups",
+     "url": "https://www.squawka.com/ca/news/mls/match-preview-columbus-crew-vs-inter-miami-11-27-26-mls/",
+     "source": "Squawka"
+    },
+    {
+     "title": "Red-hot Crew face playoff test from Inter Miami, Lionel Messi",
+     "url": "https://fieldlevelmedia.com/mls/red-hot-crew-face-playoff-test-from-inter-miami-lionel-messi/",
+     "source": "Field Level Media"
+    }
+   ]
+  },
+  {
+   "rank": 8,
    "keyword": "김호영",
    "slug": "김호영",
    "traffic": 200,
    "startedAt": 1795307400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "'카톡 친구 5000명' 김호영, 길에서 카드 주웠는데 \"아는 사람 거\" - 머니투데이",
@@ -178,30 +204,30 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "김호영, 카톡 친구 5000명이라더니…길에서 카드 주웠는데 \"아는 사람\" (투머치)",
-     "url": "https://www.xportsnews.com/article/2221772",
-     "source": "엑스포츠뉴스"
+     "title": "김호영 길에서 주운 신용카드…주인은 실제 지인 : 연예",
+     "url": "https://news.jkn.co.kr/post/1113875",
+     "source": "재경일보"
     }
    ]
   },
   {
-   "rank": 8,
+   "rank": 9,
    "keyword": "나경원",
    "slug": "나경원",
    "traffic": 200,
    "startedAt": 1795307400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "국힘 “코스피 3500조 증발…잔치는 정권이, 피눈물은 국민에 떠넘겨”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261121/135064676/1",
-     "source": "동아일보"
+     "title": "정점식 \"4800대까지 추락한 코스피…정부, '블랙먼데이' 가능성 대응해야\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/22/2026112210172167981",
+     "source": "머니투데이"
     },
     {
-     "title": "정점식 \"블랙먼데이 긴급 대응해야…역대급 버블 붕괴\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122100541j5E",
-     "source": "연합뉴스TV"
+     "title": "정점식 “국내 증시 ‘블랙먼데이’ 예상… ‘이재명 버블’로 역사 남을 것”",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3451003",
+     "source": "천지일보"
     },
     {
      "title": "나경원 \"주가 폭락인데 李대통령, '대장동 사건' 변호…무책임에 바닥이 없어\"",
@@ -211,54 +237,28 @@
    ]
   },
   {
-   "rank": 9,
-   "keyword": "inter miami vs columbus",
-   "slug": "inter-miami-vs-columbus",
-   "traffic": 200,
-   "startedAt": 1795304400.0,
+   "rank": 10,
+   "keyword": "파주시",
+   "slug": "파주시",
+   "traffic": 100,
+   "startedAt": 1795311000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Columbus secures 3-0 shutout victory over Inter Miami on the road : MLS : JKN",
-     "url": "https://news.jkn.co.kr/editions/english/post/1113811",
-     "source": "재경일보"
+     "title": "옥승철 파주시의원, 교하동 행정복지센터 신청사 건립 조속히 추진해야",
+     "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071817",
+     "source": "내외뉴스통신"
     },
     {
-     "title": "Messi chases another impossible feat: back-to-back MLS titles",
-     "url": "https://www.besoccer.com/new/messi-chases-another-impossible-feat-back-to-back-mls-titles-1442577",
-     "source": "BeSoccer Livescore"
+     "title": "[우리는 의원, 파주시의회] 교하동 행정복지센터 신청사 건립 촉구…관광·교통 연계 도시정책 제안",
+     "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2385167",
+     "source": "웹이코노미"
     },
     {
-     "title": "Columbus Inter Miami Soccer",
-     "url": "https://www.corsicanadailysun.com/sports/national_sports/columbus-inter-miami-soccer/image_d0c0801f-26c2-5fa4-b065-65a41332fc4b.html",
-     "source": "Corsicana Daily Sun"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "털",
-   "slug": "털",
-   "traffic": 200,
-   "startedAt": 1795302600.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
-     "url": "https://www.khan.co.kr/article/202611202127001",
-     "source": "경향신문"
-    },
-    {
-     "title": "구경꾼 던진 ‘털모자’에…‘희망 아이콘’ 피오나 끝내 죽었다 [W 언박싱]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718950",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "국민 하마 '피오나' 추모하는 손 편지",
-     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261121_0002298595&provider_id=&cID=&type=photoMain&catg=&idx=7",
-     "source": "뉴시스"
+     "title": "옥승철 시의원 5분 자유발언 “교하동 신청사 건립, 더 이상 미뤄선 안돼”",
+     "url": "https://www.atpaju.com/news/articleView.html?idxno=48061",
+     "source": "파주에서신문"
     }
    ]
   }

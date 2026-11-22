@@ -377,7 +377,7 @@
    "firstSeen": 1795302600.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795312121.2383034
+   "lastSeen": 1795315306.2642365
   },
   "알테오젠": {
    "slug": "알테오젠",
@@ -424,44 +424,65 @@
   "도경완": {
    "slug": "도경완",
    "firstSeen": 1795308000.0,
-   "peakRank": 3,
-   "peakTraffic": 1000,
-   "lastSeen": 1795312121.2383034
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795315306.2642365
   },
   "담보 대출": {
    "slug": "담보-대출",
    "firstSeen": 1795307400.0,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795312121.2383034
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795315306.2642365
   },
   "마마 어워즈": {
    "slug": "마마-어워즈",
    "firstSeen": 1795307400.0,
-   "peakRank": 6,
-   "peakTraffic": 500,
-   "lastSeen": 1795312121.2383034
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795315306.2642365
   },
   "김호영": {
    "slug": "김호영",
    "firstSeen": 1795307400.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795312121.2383034
+   "lastSeen": 1795315306.2642365
   },
   "나경원": {
    "slug": "나경원",
    "firstSeen": 1795307400.0,
    "peakRank": 8,
    "peakTraffic": 200,
-   "lastSeen": 1795312121.2383034
+   "lastSeen": 1795315306.2642365
   },
   "inter miami vs columbus": {
    "slug": "inter-miami-vs-columbus",
    "firstSeen": 1795304400.0,
-   "peakRank": 9,
-   "peakTraffic": 200,
-   "lastSeen": 1795312121.2383034
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795315306.2642365
+  },
+  "lpga": {
+   "slug": "lpga",
+   "firstSeen": 1795311000.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795315306.2642365
+  },
+  "오현규": {
+   "slug": "오현규",
+   "firstSeen": 1795309800.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795315306.2642365
+  },
+  "파주시": {
+   "slug": "파주시",
+   "firstSeen": 1795311000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795315306.2642365
   }
  }
 }
