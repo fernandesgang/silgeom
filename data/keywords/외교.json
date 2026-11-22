@@ -1,0 +1,45 @@
+{
+ "keyword": "외교",
+ "slug": "외교",
+ "firstSeen": 1795326000.0,
+ "lastSeen": 1795330069.062487,
+ "peakRank": 4,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795330069,
+   4,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "李 “돼지 눈엔 돼지만…해외 순방, 치아 흔들리고 코피 터지는 일”",
+   "url": "https://www.donga.com/news/Politics/article/all/20261122/135066467/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "아 대통령 “치아 흔들리고 코피 터지지만 임기 초 순방은 국정과제…돼지 눈엔 돼지만 보여”",
+   "url": "https://www.khan.co.kr/article/202611221525001",
+   "source": "경향신문"
+  },
+  {
+   "title": "‘순방 잦다’ 야당 비판에…청와대 \"해외 정상들의 숨가쁜 외교 보라\"",
+   "url": "https://news.jtbc.co.kr/article/NB12329232",
+   "source": "JTBC"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "투자",
+  "엘니뇨",
+  "최민정",
+  "f1",
+  "애플",
+  "제네시스-g80",
+  "오픈ai",
+  "대구fc"
+ ]
+}

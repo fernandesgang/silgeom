@@ -586,22 +586,64 @@
    "slug": "엘니뇨",
    "firstSeen": 1795321200.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795326321.144422
+   "peakTraffic": 2000,
+   "lastSeen": 1795330069.062487
   },
   "최민정": {
    "slug": "최민정",
    "firstSeen": 1795321800.0,
-   "peakRank": 4,
-   "peakTraffic": 500,
-   "lastSeen": 1795326321.144422
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795330069.062487
   },
   "제네시스 g80": {
    "slug": "제네시스-g80",
    "firstSeen": 1795321800.0,
    "peakRank": 5,
    "peakTraffic": 500,
-   "lastSeen": 1795326321.144422
+   "lastSeen": 1795330069.062487
+  },
+  "투자": {
+   "slug": "투자",
+   "firstSeen": 1795323000.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795330069.062487
+  },
+  "외교": {
+   "slug": "외교",
+   "firstSeen": 1795326000.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795330069.062487
+  },
+  "f1": {
+   "slug": "f1",
+   "firstSeen": 1795325400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795330069.062487
+  },
+  "애플": {
+   "slug": "애플",
+   "firstSeen": 1795324200.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795330069.062487
+  },
+  "오픈ai": {
+   "slug": "오픈ai",
+   "firstSeen": 1795326000.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795330069.062487
+  },
+  "대구fc": {
+   "slug": "대구fc",
+   "firstSeen": 1795325400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795330069.062487
   }
  }
 }

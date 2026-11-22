@@ -2,17 +2,37 @@
  "keyword": "오픈ai",
  "slug": "오픈ai",
  "firstSeen": 1795128000.0,
- "lastSeen": 1795134032.7492864,
- "peakRank": 10,
+ "lastSeen": 1795330069.062487,
+ "peakRank": 8,
  "peakTraffic": 100,
  "history": [
   [
    1795134033,
    10,
    100
+  ],
+  [
+   1795330069,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "\"오픈AI 기업문화 무너져\"…퇴사 직원, AI 폭주 경고",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01361206645648344",
+   "source": "마켓인"
+  },
+  {
+   "title": "[월가 톡톡] 올트먼 \"인간이 AI의 '리트리버' 되는 미래 원치 않아\"",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445783",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "\"영리 기업이 AI 만드는 건 미친일\"…앤트로픽 전 연구원의 경고 - 머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/11/21/2026112109013740713",
+   "source": "머니투데이"
+  },
   {
    "title": "오픈AI CEO \"투자자, AI에 꽤 낙관적\"…반도체 수요 과대추산 지적도",
    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445044",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-22"
  ],
  "related": [
+  "투자",
+  "엘니뇨",
+  "최민정",
+  "외교",
+  "f1",
+  "애플",
+  "제네시스-g80",
+  "대구fc",
   "파운드리",
   "중산층",
   "오상욱",

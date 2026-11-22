@@ -1,0 +1,45 @@
+{
+ "keyword": "f1",
+ "slug": "f1",
+ "firstSeen": 1795325400.0,
+ "lastSeen": 1795330069.062487,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795330069,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "F1 LIVE: Las Vegas Grand Prix 2026 times, results & radio",
+   "url": "https://www.bbc.com/sport/formula1/live/c62ke5vgxxnt",
+   "source": "BBC"
+  },
+  {
+   "title": "Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+   "source": "Formula 1"
+  },
+  {
+   "title": "Oscar Piastri’s scathing radio in Las Vegas proves what he truly thinks of McLaren’s papaya rules",
+   "url": "https://www.f1oversteer.com/news/oscar-piastris-scathing-radio-in-las-vegas-proves-what-he-truly-thinks-of-mclarens-papaya-rules/",
+   "source": "F1 Oversteer"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "투자",
+  "엘니뇨",
+  "최민정",
+  "외교",
+  "애플",
+  "제네시스-g80",
+  "오픈ai",
+  "대구fc"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "keyword": "애플",
+ "slug": "애플",
+ "firstSeen": 1795324200.0,
+ "lastSeen": 1795330069.062487,
+ "peakRank": 6,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795330069,
+   6,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "늘어나는 애플페이 도입 비용…대안으로 떠오른 '한국형 결제표준 규격'",
+   "url": "https://www.etnews.com/20261120000219",
+   "source": "전자신문"
+  },
+  {
+   "title": "애플페이 확산에 韓 결제 생태계 비상…수수료 유출·규격 종속 위기",
+   "url": "https://v.daum.net/v/ZGjIKGsA2D",
+   "source": "Daum"
+  },
+  {
+   "title": "카카오뱅크 체크카드도 애플페이로 쓴다",
+   "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160116",
+   "source": "한국경제TV"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "투자",
+  "엘니뇨",
+  "최민정",
+  "외교",
+  "f1",
+  "제네시스-g80",
+  "오픈ai",
+  "대구fc"
+ ]
+}

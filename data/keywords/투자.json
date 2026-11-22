@@ -1,0 +1,45 @@
+{
+ "keyword": "투자",
+ "slug": "투자",
+ "firstSeen": 1795323000.0,
+ "lastSeen": 1795330069.062487,
+ "peakRank": 1,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795330069,
+   1,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "\"사상 최대 IPO가 쏘아 올린 유동성 발작\"…앤트로픽 쇼크와 AI 거품론의 진실",
+   "url": "https://www.hankyung.com/article/202611211620i",
+   "source": "한국경제"
+  },
+  {
+   "title": "앤트로픽 상장에도 AI 투자펀드 줄줄이 하락…기술주 매도세에 손실 확대",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=848040",
+   "source": "제민일보"
+  },
+  {
+   "title": "역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리",
+   "url": "https://story.pay.naver.com/content/4018",
+   "source": "네이버페이 머니스토리"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "엘니뇨",
+  "최민정",
+  "외교",
+  "f1",
+  "애플",
+  "제네시스-g80",
+  "오픈ai",
+  "대구fc"
+ ]
+}

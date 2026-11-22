@@ -2,17 +2,32 @@
  "keyword": "최민정",
  "slug": "최민정",
  "firstSeen": 1795321800.0,
- "lastSeen": 1795326321.144422,
- "peakRank": 4,
- "peakTraffic": 500,
+ "lastSeen": 1795330069.062487,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795326321,
    4,
    500
+  ],
+  [
+   1795330069,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "김재열 ISU 회장 \"쇼트트랙 월드투어, 새 시즌 8개 대회로 확대\"",
+   "url": "https://www.yna.co.kr/view/AKR20261122028500007",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "김길리 '혼전 상황을 벗어나'",
+   "url": "https://www.news1.kr/photos/8226839",
+   "source": "뉴스1"
+  },
   {
    "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8719143",
@@ -33,6 +48,12 @@
   "2026-11-22"
  ],
  "related": [
+  "투자",
+  "외교",
+  "f1",
+  "애플",
+  "오픈ai",
+  "대구fc",
   "로또",
   "엘니뇨",
   "휴머노이드",
