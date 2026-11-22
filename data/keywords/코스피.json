@@ -2,7 +2,7 @@
  "keyword": "코스피",
  "slug": "코스피",
  "firstSeen": 1795375200.0,
- "lastSeen": 1795379900.7499893,
+ "lastSeen": 1795382631.5736418,
  "peakRank": 2,
  "peakTraffic": 5000,
  "history": [
@@ -13,6 +13,11 @@
   ]
  ],
  "news": [
+  {
+   "title": "같은 4,800선인데도…코스피 ’1조클럽’ 11% 감소",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123060115kak",
+   "source": "연합뉴스TV"
+  },
   {
    "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'",
    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445871",
@@ -33,6 +38,7 @@
   "2026-11-23"
  ],
  "related": [
+  "대장동",
   "헤타페-대-아틀레티코",
   "잠수함",
   "통장",

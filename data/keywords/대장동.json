@@ -1,0 +1,44 @@
+{
+ "keyword": "대장동",
+ "slug": "대장동",
+ "firstSeen": 1795377000.0,
+ "lastSeen": 1795382631.5736418,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795382632,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "이 대통령, '대장동 의혹' 또 반박‥\"업자와 결탁한 시장 아냐\"",
+   "url": "https://imnews.imbc.com/news/2026/politics/article/6867658_36911.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "李대통령 “4300억 확정 후 1100억 더 받아”...대장동 배임 의혹 재반박",
+   "url": "https://www.kyeonggi.com/article/20261122580365",
+   "source": "경기일보"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "헤타페-대-아틀레티코",
+  "코스피",
+  "잠수함",
+  "카를로스-알카라스",
+  "비야디",
+  "평택시장",
+  "휴게소"
+ ]
+}
