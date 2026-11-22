@@ -1,264 +1,134 @@
 {
- "generatedAt": 1795350020,
+ "generatedAt": 1795354605,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "남진",
-   "slug": "남진",
-   "traffic": 5000,
-   "startedAt": 1795342200.0,
-   "change": "same",
+   "keyword": "내일 날씨",
+   "slug": "내일-날씨",
+   "traffic": 200000,
+   "startedAt": 1795347600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "남진, 46세·42세 미혼 미모의 두 딸 공개… \"첫째는 김주하 닮아\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/MI4TQNRVME4TSZLBGAYTAMRWMQ/",
+     "title": "월요일 전국에 비·눈…영하권 출근길",
+     "url": "https://www.chosun.com/national/transport-environment/2026/11/22/U45T5NQ2VZGLJEPCXE2NVXN5TI/",
      "source": "조선일보"
     },
     {
-     "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
-     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571",
-     "source": "programs.sbs.co.kr"
+     "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+     "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+     "source": "YTN"
     },
     {
-     "title": "허경환, 곧 결혼하나…동거녀 폭로에 급당황 “결혼식만 안 해, 여자 있어”",
-     "url": "http://www.atstar1.com/news/articleView.html?idxno=6040709",
-     "source": "앳스타일"
+     "title": "내일 전국에 비.눈…출근길 살얼음 주의",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719399",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "한전on",
-   "slug": "한전on",
-   "traffic": 1000,
-   "startedAt": 1795342800.0,
+   "keyword": "바르셀로나 대 비야레알",
+   "slug": "바르셀로나-대-비야레알",
+   "traffic": 5000,
+   "startedAt": 1795349400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "한전도 해킹당했다…65만명 주민번호·계좌·카드번호 유출",
-     "url": "https://www.khan.co.kr/article/202611221907001",
-     "source": "경향신문"
+     "title": "라리가 바르셀로나 대 비야레알 축구 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-villarreal-tai-la-liga-1804488.ldo",
+     "source": "Laodong.vn"
     },
     {
-     "title": "한전, 고객 등 개인정보 152만여명 유출‥경찰 수사의뢰 예정",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867650_37004.html",
-     "source": "MBC 뉴스"
+     "title": "축구 생중계: 바르셀로나 vs 비야레알: 공격적인 경기가 예상됩니다.",
+     "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-barca-vs-villarreal-cho-tiec-tan-cong",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "“전기요금 내려고 입력했던 내 정보가”…한전, 이번엔 65만명 고객정보 유출",
-     "url": "https://stock.mk.co.kr/news/view/1203794",
-     "source": "매일경제 마켓"
+     "title": "라리가 바르셀로나 대 비야레알 생중계 링크",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-barcelona-vs-villarreal-tai-la-liga-1804679.ldo",
+     "source": "Laodong.vn"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "유벤투스 대 베네치아",
-   "slug": "유벤투스-대-베네치아",
-   "traffic": 500,
-   "startedAt": 1795344600.0,
+   "keyword": "코니아스포르 대 베식타시",
+   "slug": "코니아스포르-대-베식타시",
+   "traffic": 1000,
+   "startedAt": 1795349400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "유벤투스 vs 베네치아 예측: 홈팀이 우세할 것으로 예상됩니다.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-chu-nha-duoc-danh-gia-cao-hon",
-     "source": "Vietnam.vn"
+     "title": "Konyaspor v Besiktas Odds",
+     "url": "https://sportsbook.fanduel.com/soccer/turkish-super-league/konyaspor-v-besiktas-36319866",
+     "source": "FanDuel Sportsbook"
     },
     {
-     "title": "유벤투스 vs 베네치아: 랑달 콜로 무아니·웨스턴 맥케니 선발, 에돈 제그로바 출전",
-     "url": "https://www.allfootballapp.com/ko/articles/6037614-vs",
-     "source": "AllFootball"
+     "title": "Konyaspor vs Beşiktaş live on TV and online: Where to watch the Süper Lig match",
+     "url": "https://www.goal.com/en/news/konyaspor-vs-besiktas-live-today-who-is-showing-the-match-on-tv-and-online/bltec1b3f9ff38b3469",
+     "source": "Goal.com"
     },
     {
-     "title": "유벤투스 vs 베네치아 프리뷰: 예상 스코어, 선발 라인업, 생중계 링크.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-du-doan-ty-so-doi-hinh-va-link-xem-truc-tiep",
-     "source": "Vietnam.vn"
+     "title": "Preview: Konyaspor vs Besiktas - prediction, team news, lineups",
+     "url": "https://www.sportsmole.co.uk/football/konyaspor/preview/konyaspor-vs-besiktas-prediction-team-news-lineups_609500.html",
+     "source": "Sports Mole"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "요리학교",
-   "slug": "요리학교",
-   "traffic": 500,
-   "startedAt": 1795344600.0,
+   "keyword": "영체마을",
+   "slug": "영체마을",
+   "traffic": 200,
+   "startedAt": 1795348200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "CIA 첫 한식과정 만든 양종집 교수 “한식 세계화 전초기지로”",
-     "url": "https://stock.mk.co.kr/news/view/1203755",
-     "source": "매일경제 마켓"
+     "title": "[스트레이트 예고] 신이 된 여자 지리산 '영체님'의 실체",
+     "url": "https://imnews.imbc.com/replay/straight/6867586_28993.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "\"80년 만에 처음 있는 일\"…美 최고 요리학교서 한식 열풍",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01387446645648344&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "영체님, 수천만 원 고가 프로그램 운영…폭행·성범죄 피해 주장 제기 (‘스트레이트’)",
+     "url": "https://mhnse.com/news/articleView.html?idxno=1705800",
+     "source": "MHN스포츠"
     },
     {
-     "title": "美 명문 요리학교, K푸드 정규과목 추진...“전문인력으로 한식 세계화”",
-     "url": "https://www.sedaily.com/article/20117296",
-     "source": "서울경제"
+     "title": "[오늘 뭐볼까]\"머리카락·혈액·속옷까지 수천만 원에 판매\"…신이 된 여자 '영체님'의 두 얼굴",
+     "url": "https://www.newsbuzz.co.kr/news/articleView.html?idxno=27131",
+     "source": "뉴스버즈"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "조정식",
-   "slug": "조정식",
-   "traffic": 500,
-   "startedAt": 1795344600.0,
+   "keyword": "탁재훈",
+   "slug": "탁재훈",
+   "traffic": 100,
+   "startedAt": 1795350600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "문제 유출, 수능 직전 예능行… 일타강사인가, ‘일탈’강사인가",
-     "url": "https://www.chosun.com/national/weekend/2026/11/21/PHM6NQOYUBHKJCLZ4YT3S5R234/",
+     "title": "‘리치 언니’ 이혜영, 미국집 샀다..“폐암 투병? 이제 좀 살 것 같아” (‘미우새’)[순간포착]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJTGKNDGGBTDGMZRMYZWCZJSHE/",
      "source": "조선일보"
     },
     {
-     "title": "“너는 못 쓰게 되지 않았다”…수능 뒤 일타강사 위로에 ‘울컥’",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=04241046645647688&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "수험생 팽개친 ‘먹튀 논란’ 강사 이도…넷플릭스는 편집 왜 안했나",
-     "url": "https://www.mk.co.kr/news/it/12214982",
+     "title": "“이제 안 나온다며” 이혜영 ‘미우새’ 등판… ‘전남편’ 이상민 간접 언급 폭소",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12215750",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "무디스",
-   "slug": "무디스",
-   "traffic": 200,
-   "startedAt": 1795344600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-     "url": "https://www.fnnews.com/news/202611220802359845",
-     "source": "파이낸셜뉴스"
     },
     {
-     "title": "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
-     "url": "https://m.segye.com/view/20261122505855",
-     "source": "세계일보"
-    },
-    {
-     "title": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
-     "url": "https://biz.heraldcorp.com/article/10944835",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "기예르모 에레디아",
-   "slug": "기예르모-에레디아",
-   "traffic": 200,
-   "startedAt": 1795344000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'굿바이' 에레디아가 국내 타팀으로 간다고? 현실적으로 불가능이다. 이유는",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MFSGKMZTMUZWKYTGMQ3TSMDEMM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[단독] SSG, 에레디아와 결별…‘트리플A 24홈런·21도루’ 리스 하인즈 영입한다",
-     "url": "http://www.spochoo.com/news/articleView.html?idxno=132194",
-     "source": "더게이트"
-    },
-    {
-     "title": "'이럴수가' ML 계약 파기→KBO 온다, 도대체 왜?…\"한국 조건 더 좋았다, 꾸준한 출전 기회까지\"",
-     "url": "https://www.sportschosun.com/baseball/2026-11-18/202611190100119880011115",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "최교진 교육부장관",
-   "slug": "최교진-교육부장관",
-   "traffic": 100,
-   "startedAt": 1795344600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"저는 못할 것 같습니다\" AI 부정행위 논란 키우다 결국 사퇴",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867638_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[속보] 이 대통령, 최교진 교육장관 면직안 재가",
-     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288547.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "최교진 ‘수능 혼란 책임론’ 대두…이 대통령, 사의 즉각 수락",
-     "url": "https://news.jtbc.co.kr/article/NB12329268",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "주현영",
-   "slug": "주현영",
-   "traffic": 100,
-   "startedAt": 1795344000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "주현영 과거 폭로 나왔다, 지예은 “‘SNL’ 텃세 있었다” (런닝맨)",
-     "url": "https://sports.donga.com/ent/article/all/20261120/135060769/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "김종국 결혼 1년만에..'대역' 신부설 휘말렸다! 믿었던 유재석까지 ('런닝맨')",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/22/MFQWCMJXGVSTIOBZGM4TAMJSMU/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "런닝맨 : [선공개] ‘힘캐’ 송지효, 주현영과 방석 두고 시작된 육탄전♨ (ft. 지예은)",
-     "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC483929951",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "쇼메이커",
-   "slug": "쇼메이커",
-   "traffic": 100,
-   "startedAt": 1795342800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
-     "url": "https://www.hankyung.com/article/202611222346i",
-     "source": "한국경제"
-    },
-    {
-     "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
-     "source": "진일보 | 전남일보"
-    },
-    {
-     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-     "url": "https://www.kmib.co.kr/article/20261119500020",
-     "source": "국민일보"
+     "title": "'미운 우리 새끼' 이혜영, 탁재훈 소개팅 주선…나이 잊은 정준호 생일 참석",
+     "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=305609",
+     "source": "비즈엔터"
     }
    ]
   }

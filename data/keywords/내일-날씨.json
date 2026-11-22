@@ -1,0 +1,41 @@
+{
+ "keyword": "내일 날씨",
+ "slug": "내일-날씨",
+ "firstSeen": 1795347600.0,
+ "lastSeen": 1795354604.8981986,
+ "peakRank": 1,
+ "peakTraffic": 200000,
+ "history": [
+  [
+   1795354605,
+   1,
+   200000
+  ]
+ ],
+ "news": [
+  {
+   "title": "월요일 전국에 비·눈…영하권 출근길",
+   "url": "https://www.chosun.com/national/transport-environment/2026/11/22/U45T5NQ2VZGLJEPCXE2NVXN5TI/",
+   "source": "조선일보"
+  },
+  {
+   "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+   "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+   "source": "YTN"
+  },
+  {
+   "title": "내일 전국에 비.눈…출근길 살얼음 주의",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719399",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "바르셀로나-대-비야레알",
+  "코니아스포르-대-베식타시",
+  "영체마을",
+  "탁재훈"
+ ]
+}
