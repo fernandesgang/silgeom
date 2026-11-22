@@ -1,39 +1,39 @@
 {
- "generatedAt": 1795337167,
+ "generatedAt": 1795340301,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김정은",
-   "slug": "김정은",
+   "keyword": "김천상무 대 제주 sk fc 순위",
+   "slug": "김천상무-대-제주-sk-fc-순위",
    "traffic": 2000,
-   "startedAt": 1795327800.0,
-   "change": "same",
+   "startedAt": 1795330800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“트럼프, 김정은 만나기 위해 ‘종전선언’ ‘북핵폐기 미요구 성명’까지 검토했다”",
-     "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/",
+     "title": "[현장인터뷰]주승진 김천 감독 \"구조 바꾸면서 준비\" vs 코스타 제주 감독 \"이탈로, 팀 도울 준비가 됐다\"",
+     "url": "https://www.chosun.com/sports/football/2026/11/22/GMYTQYJVMJTDMYTFGYZTMNDFGY/",
      "source": "조선일보"
     },
     {
-     "title": "북·미 대화 연이은 불발에 이재명 정부 한반도 정책 ‘시험대’…“중·러 관계도 지렛대 삼아야”",
-     "url": "https://www.khan.co.kr/article/202611221709001",
-     "source": "경향신문"
+     "title": "'5경기 무승 탈출' 제주SK 7위 굳히기 '청신호'",
+     "url": "https://app.ihalla.com/article.php?aid=1795334578793059051",
+     "source": "한라일보"
     },
     {
-     "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
-     "url": "https://www.yna.co.kr/view/AKR20261122023100009",
-     "source": "연합뉴스"
+     "title": "'김신진 PK 결승골' K리그 제주, 김천 꺾고 6경기 만에 승리",
+     "url": "https://www.news1.kr/sports/soccer/6362053",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "검은 월요일",
-   "slug": "검은-월요일",
-   "traffic": 500,
-   "startedAt": 1795332000.0,
+   "keyword": "정부",
+   "slug": "정부",
+   "traffic": 1000,
+   "startedAt": 1795332600.0,
    "change": "new",
    "diff": 0,
    "news": [
@@ -43,66 +43,66 @@
      "source": "MBC 뉴스"
     },
     {
+     "title": "'블랙 먼데이' 공포…韓 금리·美 물가가 증시 향방 가른다 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/22/2026112217351612948",
+     "source": "머니투데이"
+    },
+    {
      "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
      "source": "연합인포맥스"
-    },
-    {
-     "title": "정점식 “시총 3400조 증발한 ‘2026 이재명 버블’···정부, 블랙먼데이 대비한 긴급 대응조치 준비해야”",
-     "url": "https://www.khan.co.kr/article/202611221127001",
-     "source": "경향신문"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "해저",
-   "slug": "해저",
+   "keyword": "노동자",
+   "slug": "노동자",
    "traffic": 500,
-   "startedAt": 1795327200.0,
-   "change": "same",
+   "startedAt": 1795333800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
-     "url": "https://www.khan.co.kr/article/202611221013001",
-     "source": "경향신문"
+     "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
+     "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
+     "source": "한겨레"
     },
     {
-     "title": "충남도 \"해광호 실종자 수색에 예비비 긴급 투입\"",
-     "url": "https://www.yna.co.kr/view/AKR20261122038300063",
+     "title": "[한국 입국과 그 이후 12] 외국인 노동자가 산재를 당하면 체류는?",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=90955",
+     "source": "이로운넷"
+    },
+    {
+     "title": "[삶] \"어린동생 3명과 병든부모 있는데…산재신청 했다고 해고하네요\"",
+     "url": "https://www.yna.co.kr/view/AKR20261115052100546",
      "source": "연합뉴스"
-    },
-    {
-     "title": "해경 “태안 앞바다 해저에서 선박 추정 물체 발견”…수중 수색 돌입",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719373",
-     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "인수 합병",
-   "slug": "인수-합병",
-   "traffic": 200,
+   "keyword": "검은 월요일",
+   "slug": "검은-월요일",
+   "traffic": 500,
    "startedAt": 1795332000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
-     "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
-     "url": "https://stock.mk.co.kr/news/view/1203777",
-     "source": "매일경제 마켓"
+     "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121044000083",
+     "source": "연합뉴스"
     },
     {
-     "title": "인텔, 클래시크 인수에 성과 연동 3.5억 달러 추가 지급한다",
-     "url": "https://startuprecipe.co.kr/archives/5840722",
-     "source": "스타트업레시피"
+     "title": "대만, 일주일새 17% 증시급락에 \"전일 종가미만 공매도 금지\" - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/22/2026112212340930666",
+     "source": "머니투데이"
     },
     {
-     "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
-     "url": "https://www.mk.co.kr/news/stock/12215625",
-     "source": "매일경제"
+     "title": "대만, 23일부터 직전 종가 미만 공매도 금지…증거금 150%로",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02122166645648016",
+     "source": "마켓인"
     }
    ]
   },
@@ -110,10 +110,10 @@
    "rank": 5,
    "keyword": "이대호",
    "slug": "이대호",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795328400.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
@@ -121,66 +121,66 @@
      "source": "머니투데이"
     },
     {
+     "title": "삼성 라이온즈 이호범 팔꿈치 수술 후 ITP 돌입 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1114361",
+     "source": "재경일보"
+    },
+    {
      "title": "‘불꽃야구2’ ‘믿을맨’ 신재영, 삼성 지명 신인과 살 떨리는 맞대결…실점 위기 넘길까",
      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJQTKYZUMY3GIYRVGQ3TSMTFMM/",
      "source": "조선일보"
-    },
-    {
-     "title": "'불꽃야구2' 파이터즈, VS 강릉영동대 '집중력 시험대'",
-     "url": "https://www.etnews.com/20261122000037",
-     "source": "전자신문"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "이스라엘",
-   "slug": "이스라엘",
+   "keyword": "인수 합병",
+   "slug": "인수-합병",
    "traffic": 200,
-   "startedAt": 1795327200.0,
+   "startedAt": 1795332000.0,
    "change": "down",
-   "diff": 1,
+   "diff": 2,
    "news": [
     {
-     "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122024936e1r",
-     "source": "연합뉴스TV"
+     "title": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞",
+     "url": "https://www.yna.co.kr/view/AKR20261119174800082",
+     "source": "연합뉴스"
     },
     {
-     "title": "트럼프 “핵무기 갖게 두지 않겠다…이란과 영구적인 합의 만들 것”",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1288468.html",
-     "source": "한겨레"
+     "title": "“말단 직원 놔두고 관리직부터 쳐내라”…윗사람 안 만들겠다는 이 은행",
+     "url": "https://www.mk.co.kr/news/world/12214362",
+     "source": "매일경제"
     },
     {
-     "title": "트럼프 “무능한 대통령 나와도 이란 핵 못 갖게 영구 합의”",
-     "url": "https://www.donga.com/news/Inter/article/all/20261122/135065558/1",
-     "source": "동아일보"
+     "title": "J.P. Morgan 유럽 금융 콘퍼런스서 UniCredit SpA, 성장·인수 구상 제시",
+     "url": "https://kr.investing.com/news/transcripts/article-93CH-2184078",
+     "source": "Investing.com 한국어"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "마이너스 통장",
-   "slug": "마이너스-통장",
-   "traffic": 200,
-   "startedAt": 1795326600.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "기온",
+   "slug": "기온",
+   "traffic": 100,
+   "startedAt": 1795336200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
-     "source": "조선일보"
+     "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+     "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+     "source": "YTN"
     },
     {
-     "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
-     "url": "https://www.yna.co.kr/view/AKR20261121040600002",
-     "source": "연합뉴스"
+     "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
+     "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
+     "source": "동아일보"
     },
     {
-     "title": "“빚내서 주식했다가 물렸다”…4050 덮친 '빚투 부메랑'",
-     "url": "https://www.etnews.com/20261122000084",
-     "source": "전자신문"
+     "title": "서울 낮기온 5도…내일 전국에 비·눈",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
+     "source": "KBS 뉴스"
     }
    ]
   },
@@ -190,23 +190,23 @@
    "slug": "코스닥",
    "traffic": 100,
    "startedAt": 1795332600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "엠비디 코스닥 데뷔…수요예측 흥행 실패한 아델은 공모 철회 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/22/2026112015454779704",
-     "source": "머니투데이"
+     "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+     "url": "https://www.yna.co.kr/view/AKR20261121027600008",
+     "source": "연합뉴스"
     },
     {
-     "title": "공모가 낮춘 엠비디, 이번주 코스닥 입성…마더스제약 등 2곳 수요예측",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445888",
-     "source": "연합인포맥스"
+     "title": "찬 바람이 쌩쌩 불 때, 핫한 로보틱스…CES·테슬라 이벤트 주목[주末머니]",
+     "url": "https://core.asiae.co.kr/article/2026112016445199808",
+     "source": "아시아경제"
     },
     {
-     "title": "엠비디 상장…케이엠에프·에이엔에이치스트럭쳐 청약",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01220166645648344",
-     "source": "마켓인"
+     "title": "코스닥 시총 상위 10등에 2곳…이젠 '로봇' 시대",
+     "url": "https://stock.mk.co.kr/news/view/1203782",
+     "source": "매일경제 마켓"
     }
    ]
   },

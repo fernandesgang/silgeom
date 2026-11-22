@@ -1,0 +1,46 @@
+{
+ "keyword": "기온",
+ "slug": "기온",
+ "firstSeen": 1795336200.0,
+ "lastSeen": 1795340300.6853607,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795340301,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+   "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+   "source": "YTN"
+  },
+  {
+   "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
+   "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "서울 낮기온 5도…내일 전국에 비·눈",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "김천상무-대-제주-sk-fc-순위",
+  "정부",
+  "노동자",
+  "검은-월요일",
+  "이대호",
+  "인수-합병",
+  "코스닥",
+  "류효영",
+  "소년-소녀-가장"
+ ]
+}

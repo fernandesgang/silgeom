@@ -2,7 +2,7 @@
  "keyword": "인수 합병",
  "slug": "인수-합병",
  "firstSeen": 1795332000.0,
- "lastSeen": 1795337167.3809574,
+ "lastSeen": 1795340300.6853607,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795337167,
    4,
    200
+  ],
+  [
+   1795340301,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞",
+   "url": "https://www.yna.co.kr/view/AKR20261119174800082",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "“말단 직원 놔두고 관리직부터 쳐내라”…윗사람 안 만들겠다는 이 은행",
+   "url": "https://www.mk.co.kr/news/world/12214362",
+   "source": "매일경제"
+  },
+  {
+   "title": "J.P. Morgan 유럽 금융 콘퍼런스서 UniCredit SpA, 성장·인수 구상 제시",
+   "url": "https://kr.investing.com/news/transcripts/article-93CH-2184078",
+   "source": "Investing.com 한국어"
+  },
   {
    "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
    "url": "https://stock.mk.co.kr/news/view/1203777",
@@ -33,6 +53,10 @@
   "2026-11-22"
  ],
  "related": [
+  "김천상무-대-제주-sk-fc-순위",
+  "정부",
+  "노동자",
+  "기온",
   "김정은",
   "검은-월요일",
   "해저",

@@ -663,8 +663,8 @@
    "slug": "이대호",
    "firstSeen": 1795328400.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795337167.3809574
+   "peakTraffic": 500,
+   "lastSeen": 1795340300.6853607
   },
   "이스라엘": {
    "slug": "이스라엘",
@@ -692,35 +692,63 @@
    "firstSeen": 1795329600.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795337167.3809574
+   "lastSeen": 1795340300.6853607
   },
   "소년 소녀 가장": {
    "slug": "소년-소녀-가장",
    "firstSeen": 1795329000.0,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795337167.3809574
+   "lastSeen": 1795340300.6853607
   },
   "검은 월요일": {
    "slug": "검은-월요일",
    "firstSeen": 1795332000.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795337167.3809574
+   "lastSeen": 1795340300.6853607
   },
   "인수 합병": {
    "slug": "인수-합병",
    "firstSeen": 1795332000.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795337167.3809574
+   "lastSeen": 1795340300.6853607
   },
   "코스닥": {
    "slug": "코스닥",
    "firstSeen": 1795332600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795337167.3809574
+   "lastSeen": 1795340300.6853607
+  },
+  "김천상무 대 제주 sk fc 순위": {
+   "slug": "김천상무-대-제주-sk-fc-순위",
+   "firstSeen": 1795330800.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795340300.6853607
+  },
+  "정부": {
+   "slug": "정부",
+   "firstSeen": 1795332600.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795340300.6853607
+  },
+  "노동자": {
+   "slug": "노동자",
+   "firstSeen": 1795333800.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795340300.6853607
+  },
+  "기온": {
+   "slug": "기온",
+   "firstSeen": 1795336200.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795340300.6853607
   }
  }
 }
