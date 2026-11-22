@@ -41,7 +41,7 @@
    "firstSeen": 1795360959.8043182,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795364531.456196
+   "lastSeen": 1795368090.755163
   },
   "persib bandung vs bali united": {
    "slug": "persib-bandung-vs-bali-united",
@@ -60,9 +60,9 @@
   "브라이튼": {
    "slug": "브라이튼",
    "firstSeen": 1795364531.456196,
-   "peakRank": 6,
-   "peakTraffic": 100,
-   "lastSeen": 1795364531.456196
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795368090.755163
   },
   "조정석": {
    "slug": "조정석",
@@ -70,6 +70,48 @@
    "peakRank": 7,
    "peakTraffic": 100,
    "lastSeen": 1795364531.456196
+  },
+  "리버풀 대 맨유": {
+   "slug": "리버풀-대-맨유",
+   "firstSeen": 1795361400.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795368090.755163
+  },
+  "liverpool vs man utd": {
+   "slug": "liverpool-vs-man-utd",
+   "firstSeen": 1795362000.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795368090.755163
+  },
+  "리버풀 맨유": {
+   "slug": "리버풀-맨유",
+   "firstSeen": 1795362600.0,
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795368090.755163
+  },
+  "청년문화예술패스": {
+   "slug": "청년문화예술패스",
+   "firstSeen": 1795362600.0,
+   "peakRank": 6,
+   "peakTraffic": 100,
+   "lastSeen": 1795368090.755163
+  },
+  "라민 야말": {
+   "slug": "라민-야말",
+   "firstSeen": 1795362600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795368090.755163
+  },
+  "u17 월드컵": {
+   "slug": "u17-월드컵",
+   "firstSeen": 1795360800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795368090.755163
   }
  }
 }
