@@ -1,93 +1,15 @@
 {
- "generatedAt": 1795307508,
+ "generatedAt": 1795312121,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "수험",
-   "slug": "수험",
-   "traffic": 2000,
-   "startedAt": 1795302600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-     "url": "https://www.munhwa.com/article/11633008",
-     "source": "문화일보"
-    },
-    {
-     "title": "이진우 씨 사망 전 배회 CCTV 공개…한 살 아이 얼굴 '퍽'[주간HIT영상]",
-     "url": "https://www.news1.kr/society/general-society/6361254",
-     "source": "뉴스1"
-    },
-    {
-     "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "삼전 닉스",
-   "slug": "삼전-닉스",
-   "traffic": 2000,
-   "startedAt": 1795302000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
-     "url": "https://www.hankyung.com/article/2026112113727",
-     "source": "한국경제"
-    },
-    {
-     "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
-     "url": "https://www.yna.co.kr/view/AKR20261120066600008",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-     "url": "https://www.fnnews.com/news/202611220802359845",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "부동산",
-   "slug": "부동산",
-   "traffic": 2000,
-   "startedAt": 1795300800.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "'경기 안심 부동산' 참여 중개사무소에 스티커…온라인 표시도",
-     "url": "https://www.newsis.com/view/NISX20261122_0003877896",
-     "source": "뉴시스"
-    },
-    {
-     "title": "평택시 송탄출장소, 공인중개사 대상 AI 기반 부동산 거래 지원 교육 실시",
-     "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2382351",
-     "source": "웹이코노미"
-    },
-    {
-     "title": "경기도, ′경기 안심 부동산′ 참여 중개사무소에 스티커 제공",
-     "url": "https://kpinews.kr/newsView/1065565296849988",
-     "source": "KPI뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 4,
    "keyword": "수출규제",
    "slug": "수출규제",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795302600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
@@ -95,51 +17,77 @@
      "source": "세계일보"
     },
     {
-     "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261121001651071",
+     "title": "러트닉 미 상무, '엔비디아 스캔들 연루 위기' 넘어 건재 과시",
+     "url": "https://www.yna.co.kr/view/AKR20261122016400009",
      "source": "연합뉴스"
     },
     {
-     "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
-     "source": "KBS 뉴스"
+     "title": "트럼프 \"중국에 구형 칩만 판매‥안팔면 中 스스로 만들것\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6867434_36925.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
-   "rank": 5,
-   "keyword": "알테오젠",
-   "slug": "알테오젠",
-   "traffic": 1000,
+   "rank": 2,
+   "keyword": "수험",
+   "slug": "수험",
+   "traffic": 2000,
    "startedAt": 1795302600.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
+     "url": "https://www.munhwa.com/article/11633008",
+     "source": "문화일보"
+    },
+    {
+     "title": "'리트 만점' 이진우 수사 계속...진실규명 쟁점은?",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611220954387265_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
+     "url": "https://www.kyeonggi.com/article/20261121580007",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "도경완",
+   "slug": "도경완",
+   "traffic": 1000,
+   "startedAt": 1795308000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "알테오젠, 美 특허심판 14건 전승 이어 獨 판매금지 해제",
-     "url": "https://pharm.edaily.co.kr/News/Read?newsId=02630566645647688",
-     "source": "팜이데일리"
+     "title": "'한강뷰 120억' 도경완, 자차는 1억 후반대 외체자('도장TV')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MQ2TIMZSGQ4GMMBTMNQTQM3DMI/",
+     "source": "조선일보"
     },
     {
-     "title": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
-     "url": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
-     "source": "Chosunbiz"
+     "title": "통장 ‘25만원’에 발목 잡힌 도경완…120억 집과 ‘가난 코스프레’의 무한소환",
+     "url": "https://www.sportsseoul.com/news/read/1651358",
+     "source": "스포츠서울"
     },
     {
-     "title": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876311",
-     "source": "뉴시스"
+     "title": "도경완, 유타서 A사 신차 시승…현재 운용 차도 A사",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626845",
+     "source": "메디컬투데이"
     }
    ]
   },
   {
-   "rank": 6,
+   "rank": 4,
    "keyword": "인공지능",
    "slug": "인공지능",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795302600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
@@ -159,39 +107,143 @@
    ]
   },
   {
-   "rank": 7,
-   "keyword": "real madrid vs rc celta de vigo standings",
-   "slug": "real-madrid-vs-rc-celta-de-vigo-standings",
+   "rank": 5,
+   "keyword": "담보 대출",
+   "slug": "담보-대출",
    "traffic": 500,
-   "startedAt": 1795302000.0,
+   "startedAt": 1795307400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Real Madrid defeats Celta Vigo 2-1 to secure 11th win of the season : 라리가 : JKN",
-     "url": "https://news.jkn.co.kr/editions/english/post/1113445",
-     "source": "재경일보"
+     "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
+     "url": "https://www.mk.co.kr/news/economy/12215366",
+     "source": "매일경제"
     },
     {
-     "title": "Licensable picture: Real Madrid v RC Celta de Vigo - LaLiga EA Sports 2026/27",
-     "url": "https://www.reutersconnect.com/item/real-madrid-v-rc-celta-de-vigo-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFBTVzBXOA",
-     "source": "Reuters Connect"
+     "title": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
+     "url": "https://m.ekn.kr/view.php?key=20261119024551856",
+     "source": "에너지경제신문"
     },
     {
-     "title": "Late Espi winner rescues Real Madrid against Celta Vigo",
-     "url": "https://sports.yahoo.com/articles/espi-winner-rescues-real-madrid-221307773.html",
-     "source": "Yahoo Sports"
+     "title": "코픽스 두 달 연속 상승에 주담대 금리 상단 6%대… 중도금 무이자 단지 주목",
+     "url": "https://biz.heraldcorp.com/article/10943540",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "마마 어워즈",
+   "slug": "마마-어워즈",
+   "traffic": 500,
+   "startedAt": 1795307400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선",
+     "url": "https://www.yna.co.kr/view/AKR20261121047200005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "빅뱅부터 엔하이픈까지…‘2026 MAMA’가 펼쳐낸 K팝의 과거와 현재",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135065684/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "방탄소년단, '마마' 통산 대상 24개 금자탑···10년 서사의 완성",
+     "url": "https://www.newsis.com/view/NISX20261122_0003877935",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "김호영",
+   "slug": "김호영",
+   "traffic": 200,
+   "startedAt": 1795307400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'카톡 친구 5000명' 김호영, 길에서 카드 주웠는데 \"아는 사람 거\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112119565318710",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'지인 5천명' 김호영 소름..길에서 주운 신용카드까지 '호연지기' ('김호영')",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/HEYTGNLBMYYDAZJQHFQWGY3CGA/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "김호영, 카톡 친구 5000명이라더니…길에서 카드 주웠는데 \"아는 사람\" (투머치)",
+     "url": "https://www.xportsnews.com/article/2221772",
+     "source": "엑스포츠뉴스"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "나경원",
+   "slug": "나경원",
+   "traffic": 200,
+   "startedAt": 1795307400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "국힘 “코스피 3500조 증발…잔치는 정권이, 피눈물은 국민에 떠넘겨”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261121/135064676/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "정점식 \"블랙먼데이 긴급 대응해야…역대급 버블 붕괴\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122100541j5E",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "나경원 \"주가 폭락인데 李대통령, '대장동 사건' 변호…무책임에 바닥이 없어\"",
+     "url": "https://www.newsis.com/view/NISX20261121_0003877688",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "inter miami vs columbus",
+   "slug": "inter-miami-vs-columbus",
+   "traffic": 200,
+   "startedAt": 1795304400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Columbus secures 3-0 shutout victory over Inter Miami on the road : MLS : JKN",
+     "url": "https://news.jkn.co.kr/editions/english/post/1113811",
+     "source": "재경일보"
+    },
+    {
+     "title": "Messi chases another impossible feat: back-to-back MLS titles",
+     "url": "https://www.besoccer.com/new/messi-chases-another-impossible-feat-back-to-back-mls-titles-1442577",
+     "source": "BeSoccer Livescore"
+    },
+    {
+     "title": "Columbus Inter Miami Soccer",
+     "url": "https://www.corsicanadailysun.com/sports/national_sports/columbus-inter-miami-soccer/image_d0c0801f-26c2-5fa4-b065-65a41332fc4b.html",
+     "source": "Corsicana Daily Sun"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "털",
    "slug": "털",
    "traffic": 200,
    "startedAt": 1795302600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
@@ -207,58 +259,6 @@
      "title": "국민 하마 '피오나' 추모하는 손 편지",
      "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261121_0002298595&provider_id=&cID=&type=photoMain&catg=&idx=7",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "군인",
-   "slug": "군인",
-   "traffic": 200,
-   "startedAt": 1795302600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "부정행위 막으려 세 차례 울린 경보음...시민 반응은? [자막뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611201616010571",
-     "source": "YTN"
-    },
-    {
-     "title": "'재난 문자' 무력화 초소형 커닝 장비, 해외서 9만 원에 판매",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286587",
-     "source": "OhmyNews"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "화석연료",
-   "slug": "화석연료",
-   "traffic": 100,
-   "startedAt": 1795300800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719299",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
-     "url": "https://www.yna.co.kr/view/AKR20261122002700099",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374992",
-     "source": "전기신문"
     }
    ]
   }

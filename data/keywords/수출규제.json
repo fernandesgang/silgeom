@@ -2,17 +2,32 @@
  "keyword": "수출규제",
  "slug": "수출규제",
  "firstSeen": 1795302600.0,
- "lastSeen": 1795307508.4091113,
- "peakRank": 4,
- "peakTraffic": 1000,
+ "lastSeen": 1795312121.2383034,
+ "peakRank": 1,
+ "peakTraffic": 2000,
  "history": [
   [
    1795307508,
    4,
    1000
+  ],
+  [
+   1795312121,
+   1,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "러트닉 미 상무, '엔비디아 스캔들 연루 위기' 넘어 건재 과시",
+   "url": "https://www.yna.co.kr/view/AKR20261122016400009",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "트럼프 \"중국에 구형 칩만 판매‥안팔면 中 스스로 만들것\"",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6867434_36925.html",
+   "source": "MBC 뉴스"
+  },
   {
    "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
    "url": "https://www.segye.com/newsView/20261120506261",
@@ -33,6 +48,12 @@
   "2026-11-22"
  ],
  "related": [
+  "도경완",
+  "담보-대출",
+  "마마-어워즈",
+  "김호영",
+  "나경원",
+  "inter-miami-vs-columbus",
   "수험",
   "삼전-닉스",
   "부동산",

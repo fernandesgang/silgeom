@@ -2,7 +2,7 @@
  "keyword": "수험",
  "slug": "수험",
  "firstSeen": 1795302600.0,
- "lastSeen": 1795307508.4091113,
+ "lastSeen": 1795312121.2383034,
  "peakRank": 1,
  "peakTraffic": 2000,
  "history": [
@@ -10,9 +10,24 @@
    1795307508,
    1,
    2000
+  ],
+  [
+   1795312121,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "'리트 만점' 이진우 수사 계속...진실규명 쟁점은?",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611220954387265_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
+   "url": "https://www.kyeonggi.com/article/20261121580007",
+   "source": "경기일보"
+  },
   {
    "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
    "url": "https://www.munhwa.com/article/11633008",
@@ -33,6 +48,12 @@
   "2026-11-22"
  ],
  "related": [
+  "도경완",
+  "담보-대출",
+  "마마-어워즈",
+  "김호영",
+  "나경원",
+  "inter-miami-vs-columbus",
   "삼전-닉스",
   "부동산",
   "수출규제",
