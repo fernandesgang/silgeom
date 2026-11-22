@@ -2,17 +2,32 @@
  "keyword": "파주시",
  "slug": "파주시",
  "firstSeen": 1795311000.0,
- "lastSeen": 1795315306.2642365,
+ "lastSeen": 1795318877.9429626,
  "peakRank": 10,
- "peakTraffic": 100,
+ "peakTraffic": 200,
  "history": [
   [
    1795315306,
    10,
    100
+  ],
+  [
+   1795318878,
+   10,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "파주시의회 옥승철 의원 5분 자유발언 \"교하동 신청사 건립, 더 이상 미뤄선 안돼\"",
+   "url": "https://nuriilbo.com/news/article.html?no=946569",
+   "source": "누리일보"
+  },
+  {
+   "title": "옥승철 파주시의원 “미래 수요에 걸맞은 교하동 신청사 건립 시급… 구체적 계획·실행 나서야”",
+   "url": "https://pajusidae.com/article/25196",
+   "source": "파주시대"
+  },
   {
    "title": "옥승철 파주시의원, 교하동 행정복지센터 신청사 건립 조속히 추진해야",
    "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071817",
@@ -33,6 +48,13 @@
   "2026-11-22"
  ],
  "related": [
+  "이강인",
+  "재산",
+  "플라이-투-더-스카이",
+  "입장권",
+  "영구자석",
+  "울산광역시",
+  "면세점",
   "도경완",
   "수출규제",
   "담보-대출",

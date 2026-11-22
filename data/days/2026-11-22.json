@@ -467,22 +467,71 @@
    "slug": "lpga",
    "firstSeen": 1795311000.0,
    "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795315306.2642365
+   "peakTraffic": 1000,
+   "lastSeen": 1795318877.9429626
   },
   "오현규": {
    "slug": "오현규",
    "firstSeen": 1795309800.0,
    "peakRank": 6,
-   "peakTraffic": 500,
-   "lastSeen": 1795315306.2642365
+   "peakTraffic": 1000,
+   "lastSeen": 1795318877.9429626
   },
   "파주시": {
    "slug": "파주시",
    "firstSeen": 1795311000.0,
    "peakRank": 10,
-   "peakTraffic": 100,
-   "lastSeen": 1795315306.2642365
+   "peakTraffic": 200,
+   "lastSeen": 1795318877.9429626
+  },
+  "이강인": {
+   "slug": "이강인",
+   "firstSeen": 1795311600.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795318877.9429626
+  },
+  "재산": {
+   "slug": "재산",
+   "firstSeen": 1795312800.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795318877.9429626
+  },
+  "플라이 투 더 스카이": {
+   "slug": "플라이-투-더-스카이",
+   "firstSeen": 1795312200.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795318877.9429626
+  },
+  "입장권": {
+   "slug": "입장권",
+   "firstSeen": 1795314000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795318877.9429626
+  },
+  "영구자석": {
+   "slug": "영구자석",
+   "firstSeen": 1795308600.0,
+   "peakRank": 7,
+   "peakTraffic": 1000,
+   "lastSeen": 1795318877.9429626
+  },
+  "울산광역시": {
+   "slug": "울산광역시",
+   "firstSeen": 1795308600.0,
+   "peakRank": 8,
+   "peakTraffic": 1000,
+   "lastSeen": 1795318877.9429626
+  },
+  "면세점": {
+   "slug": "면세점",
+   "firstSeen": 1795311600.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795318877.9429626
   }
  }
 }

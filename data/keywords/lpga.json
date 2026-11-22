@@ -2,7 +2,7 @@
  "keyword": "lpga",
  "slug": "lpga",
  "firstSeen": 1795131600.0,
- "lastSeen": 1795315306.2642365,
+ "lastSeen": 1795318877.9429626,
  "peakRank": 3,
  "peakTraffic": 1000,
  "history": [
@@ -20,9 +20,19 @@
    1795315306,
    5,
    500
+  ],
+  [
+   1795318878,
+   5,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Kim A-lim retains lead at LPGA Tour Championship, eyes $4 million prize",
+   "url": "https://www.koreaherald.com/article/10945025",
+   "source": "The Korea Herald"
+  },
   {
    "title": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship",
    "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008857518",
@@ -85,6 +95,13 @@
   "2026-11-22"
  ],
  "related": [
+  "이강인",
+  "재산",
+  "플라이-투-더-스카이",
+  "입장권",
+  "영구자석",
+  "울산광역시",
+  "면세점",
   "도경완",
   "수출규제",
   "담보-대출",
@@ -97,13 +114,6 @@
   "동아일보",
   "편의점",
   "두산베어스",
-  "nh농협카드",
-  "매일경제",
-  "전북특별자치도",
-  "패딩",
-  "반도체",
-  "지스타",
-  "문경시",
-  "공군사관학교"
+  "nh농협카드"
  ]
 }
