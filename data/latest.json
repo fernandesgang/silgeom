@@ -1,56 +1,56 @@
 {
- "generatedAt": 1795340301,
+ "generatedAt": 1795343204,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김천상무 대 제주 sk fc 순위",
-   "slug": "김천상무-대-제주-sk-fc-순위",
+   "keyword": "금융위기",
+   "slug": "금융위기",
    "traffic": 2000,
-   "startedAt": 1795330800.0,
+   "startedAt": 1795338000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[현장인터뷰]주승진 김천 감독 \"구조 바꾸면서 준비\" vs 코스타 제주 감독 \"이탈로, 팀 도울 준비가 됐다\"",
-     "url": "https://www.chosun.com/sports/football/2026/11/22/GMYTQYJVMJTDMYTFGYZTMNDFGY/",
-     "source": "조선일보"
+     "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445893",
+     "source": "연합인포맥스"
     },
     {
-     "title": "'5경기 무승 탈출' 제주SK 7위 굳히기 '청신호'",
-     "url": "https://app.ihalla.com/article.php?aid=1795334578793059051",
-     "source": "한라일보"
+     "title": "[도청도설] 무너진 5천피",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261123.22022006838",
+     "source": "국제신문"
     },
     {
-     "title": "'김신진 PK 결승골' K리그 제주, 김천 꺾고 6경기 만에 승리",
-     "url": "https://www.news1.kr/sports/soccer/6362053",
-     "source": "뉴스1"
+     "title": "하루 만에 5% 급락한 코스피, 4,800대로 밀린 이유는?",
+     "url": "https://story.pay.naver.com/content/4019",
+     "source": "네이버페이 머니스토리"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "정부",
-   "slug": "정부",
+   "keyword": "무신사",
+   "slug": "무신사",
    "traffic": 1000,
-   "startedAt": 1795332600.0,
+   "startedAt": 1795338600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
-     "source": "MBC 뉴스"
+     "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
+     "url": "https://www.yna.co.kr/view/AKR20261122012200017",
+     "source": "연합뉴스"
     },
     {
-     "title": "'블랙 먼데이' 공포…韓 금리·美 물가가 증시 향방 가른다 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/22/2026112217351612948",
-     "source": "머니투데이"
+     "title": "무신사, 롯데리아와 수험생 응원 '버거트럭' 이벤트 실시",
+     "url": "https://www.etnews.com/20261122000047",
+     "source": "전자신문"
     },
     {
-     "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
-     "source": "연합인포맥스"
+     "title": "무신사, ‘무진장’ 개막 앞두고 성수서 수험생 대상 ‘버거 트럭’ 운영",
+     "url": "https://www.viva100.com/article/20261122500190",
+     "source": "브릿지경제"
     }
    ]
   },
@@ -58,9 +58,9 @@
    "rank": 3,
    "keyword": "노동자",
    "slug": "노동자",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795333800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -82,90 +82,137 @@
   },
   {
    "rank": 4,
-   "keyword": "검은 월요일",
-   "slug": "검은-월요일",
-   "traffic": 500,
-   "startedAt": 1795332000.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121044000083",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "대만, 일주일새 17% 증시급락에 \"전일 종가미만 공매도 금지\" - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/22/2026112212340930666",
-     "source": "머니투데이"
-    },
-    {
-     "title": "대만, 23일부터 직전 종가 미만 공매도 금지…증거금 150%로",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02122166645648016",
-     "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "이대호",
-   "slug": "이대호",
-   "traffic": 500,
-   "startedAt": 1795328400.0,
-   "change": "same",
+   "keyword": "회계사",
+   "slug": "회계사",
+   "traffic": 200,
+   "startedAt": 1795338600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/22/202611220131775873O",
-     "source": "머니투데이"
+     "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
+     "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
+     "source": "동아일보"
     },
     {
-     "title": "삼성 라이온즈 이호범 팔꿈치 수술 후 ITP 돌입 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1114361",
-     "source": "재경일보"
+     "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
+     "url": "https://www.yna.co.kr/view/AKR20261121044700002",
+     "source": "연합뉴스"
     },
     {
-     "title": "‘불꽃야구2’ ‘믿을맨’ 신재영, 삼성 지명 신인과 살 떨리는 맞대결…실점 위기 넘길까",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJQTKYZUMY3GIYRVGQ3TSMTFMM/",
+     "title": "회계사 시험 전자기기 부정행위 5년간 적발 ‘0건’…AI 탐지 장비 예산도 없어",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/22/SDD6JM7JY5AC3NOXCXKVS3OF2M/",
      "source": "조선일보"
     }
    ]
   },
   {
-   "rank": 6,
-   "keyword": "인수 합병",
-   "slug": "인수-합병",
+   "rank": 5,
+   "keyword": "acc emerging teams asia cup",
+   "slug": "acc-emerging-teams-asia-cup",
    "traffic": 200,
-   "startedAt": 1795332000.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795338000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞",
-     "url": "https://www.yna.co.kr/view/AKR20261119174800082",
-     "source": "연합뉴스"
+     "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
+     "url": "https://sports.yahoo.com/articles/india-vs-pakistan-shaheens-acc-065651378.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "“말단 직원 놔두고 관리직부터 쳐내라”…윗사람 안 만들겠다는 이 은행",
-     "url": "https://www.mk.co.kr/news/world/12214362",
-     "source": "매일경제"
+     "title": "India A vs Pakistan A Live Score: Pakistan A win toss, choose to bat first",
+     "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-pakistan-a-live-score-rising-stars-asia-cup-2026-ind-pak-match-3044358-2026-11-22",
+     "source": "India Today"
     },
     {
-     "title": "J.P. Morgan 유럽 금융 콘퍼런스서 UniCredit SpA, 성장·인수 구상 제시",
-     "url": "https://kr.investing.com/news/transcripts/article-93CH-2184078",
-     "source": "Investing.com 한국어"
+     "title": "India A vs Pakistan Shaheens: Battles Within the Battle",
+     "url": "https://revsportz.in/india-a-vs-pakistan-shaheens-battles-within-the-battle/",
+     "source": "Revsportz"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "김영훈",
+   "slug": "김영훈",
+   "traffic": 200,
+   "startedAt": 1795336800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "정년연장 논의 재개 앞두고…김영훈 \"합의 안 되면 정부가 나설 것\"",
+     "url": "https://www.chosun.com/national/labor/2026/11/22/4ENU5B5NBFH2NE3ME22UYORJPY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "2029년부터 정년 한 살씩 늘리나…65세 정년연장, 정부안 발표 초읽기",
+     "url": "https://stock.mk.co.kr/news/view/1203791",
+     "source": "매일경제 마켓"
     }
    ]
   },
   {
    "rank": 7,
+   "keyword": "서울 경전철 서부선",
+   "slug": "서울-경전철-서부선",
+   "traffic": 100,
+   "startedAt": 1795339200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
+     "url": "https://www.hankyung.com/article/202611222102i",
+     "source": "한국경제"
+    },
+    {
+     "title": "[단독] 서부선 민자 재시동…재정 ‘투트랙’ 속도낸다",
+     "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202611191120305010769",
+     "source": "대한경제"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "김혜윤",
+   "slug": "김혜윤",
+   "traffic": 100,
+   "startedAt": 1795338600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
+     "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
+     "url": "https://www.etnews.com/20261122000028",
+     "source": "전자신문"
+    },
+    {
+     "title": "“나 고용주해도 될까요?” 장나라X김혜윤, ‘리봄’으로 뭉쳤다 (굿파트너2)",
+     "url": "https://sports.donga.com/ent/article/all/20261122/135066121/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "기온",
    "slug": "기온",
    "traffic": 100,
    "startedAt": 1795336200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
@@ -173,25 +220,25 @@
      "source": "YTN"
     },
     {
+     "title": "[날씨] 내일 전국 비…강원 최대 8㎝ 눈, 추위는 주춤",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122190107Kdr",
+     "source": "연합뉴스TV"
+    },
+    {
      "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
      "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
      "source": "동아일보"
-    },
-    {
-     "title": "서울 낮기온 5도…내일 전국에 비·눈",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
-     "source": "KBS 뉴스"
     }
    ]
   },
   {
-   "rank": 8,
+   "rank": 10,
    "keyword": "코스닥",
    "slug": "코스닥",
    "traffic": 100,
    "startedAt": 1795332600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
@@ -207,58 +254,6 @@
      "title": "코스닥 시총 상위 10등에 2곳…이젠 '로봇' 시대",
      "url": "https://stock.mk.co.kr/news/view/1203782",
      "source": "매일경제 마켓"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "류효영",
-   "slug": "류효영",
-   "traffic": 100,
-   "startedAt": 1795329600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
-     "url": "https://www.newsis.com/view/NISX20261121_0003877731",
-     "source": "뉴시스"
-    },
-    {
-     "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
-     "source": "뉴스1"
-    },
-    {
-     "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
-     "url": "https://ichannela.com/program/clip/000000560995.do",
-     "source": "채널A"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "소년 소녀 가장",
-   "slug": "소년-소녀-가장",
-   "traffic": 100,
-   "startedAt": 1795329000.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
-     "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "복지센터에 전달된 ‘현금 100만원’…봉투에는 “소년소녀가장 위해 써주세요”",
-     "url": "https://www.segye.com/newsView/20261120513885",
-     "source": "세계일보"
-    },
-    {
-     "title": "흰 봉투속 100만원…이름없이 떠난 수원의 '얼굴 없는 천사'",
-     "url": "https://www.newsis.com/view/NISX20261120_0003877122",
-     "source": "뉴시스"
     }
    ]
   }

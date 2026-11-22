@@ -55,7 +55,7 @@
    "firstSeen": 1795274545.865922,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795274545.865922
+   "lastSeen": 1795343203.842499
   },
   "코번트리 대 크리스털 팰리스": {
    "slug": "코번트리-대-크리스털-팰리스",
@@ -720,7 +720,7 @@
    "firstSeen": 1795332600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795340300.6853607
+   "lastSeen": 1795343203.842499
   },
   "김천상무 대 제주 sk fc 순위": {
    "slug": "김천상무-대-제주-sk-fc-순위",
@@ -740,15 +740,57 @@
    "slug": "노동자",
    "firstSeen": 1795333800.0,
    "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795340300.6853607
+   "peakTraffic": 1000,
+   "lastSeen": 1795343203.842499
   },
   "기온": {
    "slug": "기온",
    "firstSeen": 1795336200.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795340300.6853607
+   "lastSeen": 1795343203.842499
+  },
+  "금융위기": {
+   "slug": "금융위기",
+   "firstSeen": 1795338000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795343203.842499
+  },
+  "무신사": {
+   "slug": "무신사",
+   "firstSeen": 1795338600.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795343203.842499
+  },
+  "회계사": {
+   "slug": "회계사",
+   "firstSeen": 1795338600.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795343203.842499
+  },
+  "acc emerging teams asia cup": {
+   "slug": "acc-emerging-teams-asia-cup",
+   "firstSeen": 1795338000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795343203.842499
+  },
+  "김영훈": {
+   "slug": "김영훈",
+   "firstSeen": 1795336800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795343203.842499
+  },
+  "서울 경전철 서부선": {
+   "slug": "서울-경전철-서부선",
+   "firstSeen": 1795339200.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795343203.842499
   }
  }
 }
