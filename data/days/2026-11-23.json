@@ -224,6 +224,76 @@
    "peakRank": 5,
    "peakTraffic": 500,
    "lastSeen": 1795382631.5736418
+  },
+  "삼성전자": {
+   "slug": "삼성전자",
+   "firstSeen": 1795380600.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795386087.9918203
+  },
+  "엔비디아": {
+   "slug": "엔비디아",
+   "firstSeen": 1795380000.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795386087.9918203
+  },
+  "홍창기": {
+   "slug": "홍창기",
+   "firstSeen": 1795380600.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795386087.9918203
+  },
+  "라면": {
+   "slug": "라면",
+   "firstSeen": 1795380000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795386087.9918203
+  },
+  "김다현": {
+   "slug": "김다현",
+   "firstSeen": 1795380000.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795386087.9918203
+  },
+  "임영웅": {
+   "slug": "임영웅",
+   "firstSeen": 1795380000.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795386087.9918203
+  },
+  "교장": {
+   "slug": "교장",
+   "firstSeen": 1795380600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795386087.9918203
+  },
+  "지스타": {
+   "slug": "지스타",
+   "firstSeen": 1795380600.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795386087.9918203
+  },
+  "양산시": {
+   "slug": "양산시",
+   "firstSeen": 1795381200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795386087.9918203
+  },
+  "기관 투자자": {
+   "slug": "기관-투자자",
+   "firstSeen": 1795380000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795386087.9918203
   }
  }
 }
