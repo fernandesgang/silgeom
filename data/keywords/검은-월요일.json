@@ -1,0 +1,46 @@
+{
+ "keyword": "검은 월요일",
+ "slug": "검은-월요일",
+ "firstSeen": 1795332000.0,
+ "lastSeen": 1795337167.3809574,
+ "peakRank": 2,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795337167,
+   2,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "정점식 “시총 3400조 증발한 ‘2026 이재명 버블’···정부, 블랙먼데이 대비한 긴급 대응조치 준비해야”",
+   "url": "https://www.khan.co.kr/article/202611221127001",
+   "source": "경향신문"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "김정은",
+  "해저",
+  "인수-합병",
+  "이대호",
+  "이스라엘",
+  "마이너스-통장",
+  "코스닥",
+  "류효영",
+  "소년-소녀-가장"
+ ]
+}

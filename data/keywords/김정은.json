@@ -2,7 +2,7 @@
  "keyword": "김정은",
  "slug": "김정은",
  "firstSeen": 1795024200.0,
- "lastSeen": 1795334389.0971177,
+ "lastSeen": 1795337167.3809574,
  "peakRank": 1,
  "peakTraffic": 2000,
  "history": [
@@ -28,6 +28,11 @@
   ]
  ],
  "news": [
+  {
+   "title": "북·미 대화 연이은 불발에 이재명 정부 한반도 정책 ‘시험대’…“중·러 관계도 지렛대 삼아야”",
+   "url": "https://www.khan.co.kr/article/202611221709001",
+   "source": "경향신문"
+  },
   {
    "title": "\"김정은, 美가 받아들이기 힘든 조건 내걸어 北美회담 무산\"",
    "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/",
@@ -89,6 +94,9 @@
   "2026-11-22"
  ],
  "related": [
+  "검은-월요일",
+  "인수-합병",
+  "코스닥",
   "외교",
   "해저",
   "이대호",
@@ -105,9 +113,6 @@
   "김건희",
   "김해국제공항",
   "삼전-닉스",
-  "기인",
-  "한화오션",
-  "신세계",
-  "자영업"
+  "기인"
  ]
 }

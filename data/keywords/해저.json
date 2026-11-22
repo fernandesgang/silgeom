@@ -2,7 +2,7 @@
  "keyword": "해저",
  "slug": "해저",
  "firstSeen": 1795327200.0,
- "lastSeen": 1795334389.0971177,
+ "lastSeen": 1795337167.3809574,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -13,6 +13,16 @@
   ]
  ],
  "news": [
+  {
+   "title": "충남도 \"해광호 실종자 수색에 예비비 긴급 투입\"",
+   "url": "https://www.yna.co.kr/view/AKR20261122038300063",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "해경 “태안 앞바다 해저에서 선박 추정 물체 발견”…수중 수색 돌입",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719373",
+   "source": "KBS 뉴스"
+  },
   {
    "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
    "url": "https://www.khan.co.kr/article/202611221013001",
@@ -33,6 +43,9 @@
   "2026-11-22"
  ],
  "related": [
+  "검은-월요일",
+  "인수-합병",
+  "코스닥",
   "김정은",
   "외교",
   "이대호",

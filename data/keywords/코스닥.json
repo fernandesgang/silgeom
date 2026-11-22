@@ -1,0 +1,46 @@
+{
+ "keyword": "코스닥",
+ "slug": "코스닥",
+ "firstSeen": 1795332600.0,
+ "lastSeen": 1795337167.3809574,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795337167,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "엠비디 코스닥 데뷔…수요예측 흥행 실패한 아델은 공모 철회 - 머니투데이",
+   "url": "https://www.mt.co.kr/stock/2026/11/22/2026112015454779704",
+   "source": "머니투데이"
+  },
+  {
+   "title": "공모가 낮춘 엠비디, 이번주 코스닥 입성…마더스제약 등 2곳 수요예측",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445888",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "엠비디 상장…케이엠에프·에이엔에이치스트럭쳐 청약",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01220166645648344",
+   "source": "마켓인"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "김정은",
+  "검은-월요일",
+  "해저",
+  "인수-합병",
+  "이대호",
+  "이스라엘",
+  "마이너스-통장",
+  "류효영",
+  "소년-소녀-가장"
+ ]
+}

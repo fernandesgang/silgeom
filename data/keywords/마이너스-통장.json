@@ -2,7 +2,7 @@
  "keyword": "마이너스 통장",
  "slug": "마이너스-통장",
  "firstSeen": 1795326600.0,
- "lastSeen": 1795334389.0971177,
+ "lastSeen": 1795337167.3809574,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795334389,
    6,
    200
+  ],
+  [
+   1795337167,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "“빚내서 주식했다가 물렸다”…4050 덮친 '빚투 부메랑'",
+   "url": "https://www.etnews.com/20261122000084",
+   "source": "전자신문"
+  },
   {
    "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
    "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
@@ -33,6 +43,9 @@
   "2026-11-22"
  ],
  "related": [
+  "검은-월요일",
+  "인수-합병",
+  "코스닥",
   "김정은",
   "외교",
   "해저",
