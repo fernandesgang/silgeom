@@ -2,7 +2,7 @@
  "keyword": "기상",
  "slug": "기상",
  "firstSeen": 1795316400.0,
- "lastSeen": 1795322797.4719036,
+ "lastSeen": 1795326321.144422,
  "peakRank": 8,
  "peakTraffic": 200,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "기상 변동성 큰 올겨울, 농업 기상재해 선제 대응한다!",
+   "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458212",
+   "source": "서울신문"
+  },
+  {
+   "title": "영양군, 겨울철 농업시설 63곳 ‘재해 예방’ 강화",
+   "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/21/2026112150040.html",
+   "source": "뉴데일리 대구경북"
+  },
+  {
+   "title": "영양군, 겨울철 대설·한파 대비 농업시설 피해 예방 총력",
+   "url": "https://www.imaeil.com/page/view/2026112212285245804",
+   "source": "매일신문"
+  },
   {
    "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도",
    "url": "https://www.hani.co.kr/arti/society/environment/1288454.html",
@@ -33,6 +48,9 @@
   "2026-11-22"
  ],
  "related": [
+  "엘니뇨",
+  "최민정",
+  "제네시스-g80",
   "로또",
   "재산",
   "입장권",

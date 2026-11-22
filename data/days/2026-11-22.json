@@ -537,8 +537,8 @@
    "slug": "로또",
    "firstSeen": 1795318800.0,
    "peakRank": 1,
-   "peakTraffic": 10000,
-   "lastSeen": 1795322797.4719036
+   "peakTraffic": 20000,
+   "lastSeen": 1795326321.144422
   },
   "대한민국 대법원": {
    "slug": "대한민국-대법원",
@@ -550,37 +550,58 @@
   "휴머노이드": {
    "slug": "휴머노이드",
    "firstSeen": 1795315800.0,
-   "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795322797.4719036
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795326321.144422
   },
   "최예나": {
    "slug": "최예나",
    "firstSeen": 1795318800.0,
    "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795322797.4719036
+   "peakTraffic": 500,
+   "lastSeen": 1795326321.144422
   },
   "휴온스 lpba 챔피언십": {
    "slug": "휴온스-lpba-챔피언십",
    "firstSeen": 1795316400.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795322797.4719036
+   "lastSeen": 1795326321.144422
   },
   "기상": {
    "slug": "기상",
    "firstSeen": 1795316400.0,
    "peakRank": 8,
    "peakTraffic": 200,
-   "lastSeen": 1795322797.4719036
+   "lastSeen": 1795326321.144422
   },
   "무시알라": {
    "slug": "무시알라",
    "firstSeen": 1795318800.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795322797.4719036
+   "lastSeen": 1795326321.144422
+  },
+  "엘니뇨": {
+   "slug": "엘니뇨",
+   "firstSeen": 1795321200.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795326321.144422
+  },
+  "최민정": {
+   "slug": "최민정",
+   "firstSeen": 1795321800.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795326321.144422
+  },
+  "제네시스 g80": {
+   "slug": "제네시스-g80",
+   "firstSeen": 1795321800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795326321.144422
   }
  }
 }
