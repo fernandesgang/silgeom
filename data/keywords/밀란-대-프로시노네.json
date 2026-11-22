@@ -2,7 +2,7 @@
  "keyword": "밀란 대 프로시노네",
  "slug": "밀란-대-프로시노네",
  "firstSeen": 1795366800.0,
- "lastSeen": 1795374343.710848,
+ "lastSeen": 1795377548.7761817,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -18,6 +18,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "AC Milan vs Frosinone: Italian Serie A stats & head-to-head",
+   "url": "https://www.bbc.com/sport/football/live/c6x2wmmx11m3t",
+   "source": "BBC"
+  },
+  {
+   "title": "Alvini explains Frosinone transformation for Milan with False 9",
+   "url": "https://sports.yahoo.com/articles/alvini-explains-frosinone-transformation-milan-165400817.html",
+   "source": "Yahoo Sports"
+  },
+  {
+   "title": "AC Milan vs. Frosinone, Serie A Enilive 2026/2027: statistics, standings, referee and suspensions",
+   "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-vs-frosinone-match-preview",
+   "source": "AC Milan | Sito Ufficiale"
+  },
   {
    "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
    "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
@@ -53,6 +68,7 @@
   "2026-11-23"
  ],
  "related": [
+  "집",
   "포체티노",
   "리버풀-대-맨유",
   "맨유",

@@ -1,0 +1,44 @@
+{
+ "keyword": "집",
+ "slug": "집",
+ "firstSeen": 1795372800.0,
+ "lastSeen": 1795377548.7761817,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795377549,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "‘전세금+3억’이면 샀던 집, 올해는 6억 더 줘야 산다",
+   "url": "https://www.donga.com/news/Economy/article/all/20261122/135068837/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "2023년 전세 계약한 서울 6만4000가구…내년 이사 땐 보증금 평균 36% 더 필요",
+   "url": "https://www.khan.co.kr/article/202611222116015",
+   "source": "경향신문"
+  },
+  {
+   "title": "\"매매도 전세도 막히면 어디로 가나\"…향후 부동산 시장 판단 기준은",
+   "url": "https://www.newsis.com/view/NISX20261118_0003873204",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "맨유",
+  "liverpool-vs-man-utd",
+  "밀란-대-프로시노네",
+  "빗썸",
+  "라싱-산탄데르-대-레알-소시에다드",
+  "청년문화예술패스",
+  "라민-야말"
+ ]
+}

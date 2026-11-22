@@ -2,7 +2,7 @@
  "keyword": "빗썸",
  "slug": "빗썸",
  "firstSeen": 1795365000.0,
- "lastSeen": 1795374343.710848,
+ "lastSeen": 1795377548.7761817,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,29 @@
    1795374344,
    4,
    200
+  ],
+  [
+   1795377549,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "업비트·빗썸 사상 처음 동시 적자, 뒤따르는 시장 침체의 신호[엠블록레터]",
+   "url": "https://stock.mk.co.kr/news/view/1203208",
+   "source": "매일경제 마켓"
+  },
+  {
+   "title": "‘9000 광풍’ 코인판된 증시에 뺨 맞은 진짜 코인판",
+   "url": "https://www.chosun.com/economy/stock-finance/2026/11/19/PUOBHHGZXZFVLD7ZO64JRKQMFQ/",
+   "source": "조선일보"
+  },
+  {
+   "title": "[위클리크립토] 두나무·빗썸 3분기 동반 적자 外",
+   "url": "https://www.donga.com/news/It/article/all/20261120/135061618/1",
+   "source": "동아일보"
+  },
   {
    "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
    "url": "https://www.mk.co.kr/newsletter/page/3575",
@@ -38,6 +58,7 @@
   "2026-11-23"
  ],
  "related": [
+  "집",
   "포체티노",
   "리버풀-대-맨유",
   "맨유",

@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795374344,
+ "generatedAt": 1795377549,
  "geo": "KR",
  "items": [
   {
@@ -8,18 +8,18 @@
    "slug": "맨유",
    "traffic": 2000,
    "startedAt": 1795365000.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
-    {
-     "title": "축구의 묘미는 역시 ‘바이시클킥’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
-     "source": "KBS 뉴스"
-    },
     {
      "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
      "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
      "source": "주간동아"
+    },
+    {
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
     },
     {
      "title": "'얼마나 진심인지 감도 안 옴' \"죄송합니다, 방금까지 훈련했습니다\" 포체티노의 황당한 첫 기자회견...샤워도 못 하고 등장 - 머니투데이",
@@ -34,23 +34,23 @@
    "slug": "liverpool-vs-man-utd",
    "traffic": 2000,
    "startedAt": 1795362000.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "Liverpool 4-0 Manchester United: Nightmare start to Mauricio Pochettino's reign after Anfield hammering",
-     "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+     "title": "Liverpool: Was Man Utd red card for Leny Yoro in Premier League the correct decision?",
+     "url": "https://www.bbc.com/sport/football/articles/cq7827p8emmxo",
      "source": "BBC"
     },
     {
-     "title": "Liverpool v Manchester United: Premier League – live",
+     "title": "Liverpool 4-0 Manchester United: Premier League – as it happened",
      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
      "source": "The Guardian"
     },
     {
-     "title": "Team news: Confirmed Liverpool line-up v Manchester United",
-     "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-manchester-united",
-     "source": "Liverpool FC"
+     "title": "Liverpool vs Man Utd LIVE! Premier League match updates, free highlights, news and score",
+     "url": "https://www.skysports.com/football/live-blog/13610924/liverpool-vs-man-utd-live-premier-league-match-updates-free-highlights-news-and-score",
+     "source": "Sky Sports"
     }
    ]
   },
@@ -60,75 +60,75 @@
    "slug": "밀란-대-프로시노네",
    "traffic": 500,
    "startedAt": 1795366800.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
-     "source": "ESPN"
+     "title": "AC Milan vs Frosinone: Italian Serie A stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6x2wmmx11m3t",
+     "source": "BBC"
     },
     {
-     "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
-     "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
-     "source": "FOX Sports"
+     "title": "Alvini explains Frosinone transformation for Milan with False 9",
+     "url": "https://sports.yahoo.com/articles/alvini-explains-frosinone-transformation-milan-165400817.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
-     "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
-     "source": "The Guardian"
+     "title": "AC Milan vs. Frosinone, Serie A Enilive 2026/2027: statistics, standings, referee and suspensions",
+     "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-vs-frosinone-match-preview",
+     "source": "AC Milan | Sito Ufficiale"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "빗썸",
-   "slug": "빗썸",
+   "keyword": "집",
+   "slug": "집",
    "traffic": 200,
-   "startedAt": 1795365000.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795372800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
-     "url": "https://www.mk.co.kr/newsletter/page/3575",
-     "source": "매일경제"
+     "title": "‘전세금+3억’이면 샀던 집, 올해는 6억 더 줘야 산다",
+     "url": "https://www.donga.com/news/Economy/article/all/20261122/135068837/2",
+     "source": "동아일보"
     },
     {
-     "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
-     "url": "https://www.wikitree.co.kr/articles/1176751",
-     "source": "위키트리"
+     "title": "2023년 전세 계약한 서울 6만4000가구…내년 이사 땐 보증금 평균 36% 더 필요",
+     "url": "https://www.khan.co.kr/article/202611222116015",
+     "source": "경향신문"
     },
     {
-     "title": "빗썸, 사이버(CYBER) 입출금 일시 중지 안내",
-     "url": "https://www.coinreaders.com/272321",
-     "source": "코인리더스"
+     "title": "\"매매도 전세도 막히면 어디로 가나\"…향후 부동산 시장 판단 기준은",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873204",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "포체티노",
-   "slug": "포체티노",
+   "keyword": "빗썸",
+   "slug": "빗썸",
    "traffic": 200,
-   "startedAt": 1795364400.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795365000.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "‘1000억+연봉 228억 원’ 맨유 또 천문학적 거금 투자해 FW 영입할까 “나이지리아 대표 공격수에 다시 관...",
-     "url": "https://sports.khan.co.kr/article/202611220909003",
-     "source": "스포츠경향"
+     "title": "업비트·빗썸 사상 처음 동시 적자, 뒤따르는 시장 침체의 신호[엠블록레터]",
+     "url": "https://stock.mk.co.kr/news/view/1203208",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
-     "url": "https://mydaily.co.kr/page/view/2026112214352236820",
-     "source": "마이데일리"
+     "title": "‘9000 광풍’ 코인판된 증시에 뺨 맞은 진짜 코인판",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/19/PUOBHHGZXZFVLD7ZO64JRKQMFQ/",
+     "source": "조선일보"
     },
     {
-     "title": "포체티노에게 첫 선물? '제2의 케인' 영입 추진하는 맨유",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/17/2026111750190.html",
-     "source": "뉴데일리"
+     "title": "[위클리크립토] 두나무·빗썸 3분기 동반 적자 外",
+     "url": "https://www.donga.com/news/It/article/all/20261120/135061618/1",
+     "source": "동아일보"
     }
    ]
   },
