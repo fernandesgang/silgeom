@@ -1,0 +1,44 @@
+{
+ "keyword": "날씨",
+ "slug": "날씨",
+ "firstSeen": 1795383600.0,
+ "lastSeen": 1795389604.791898,
+ "peakRank": 1,
+ "peakTraffic": 500000,
+ "history": [
+  [
+   1795389605,
+   1,
+   500000
+  ]
+ ],
+ "news": [
+  {
+   "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
+   "url": "https://www.yna.co.kr/view/AKR20261122040000004",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "눈·비 ‘미끄럼’ 주의…서울 낮기온 10도",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719524",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "[날씨] 전국 점차 비·강원 산간 눈...출근길 중부 '어는 비'",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611230648220971_005.html",
+   "source": "YTN"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "치매",
+  "weather",
+  "天气",
+  "울릉도",
+  "콜레트-크레스",
+  "레임덕",
+  "klasemen-liverpool-vs-manchester-united-f-c"
+ ]
+}

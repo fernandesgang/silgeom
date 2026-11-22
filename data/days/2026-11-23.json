@@ -294,6 +294,62 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795386087.9918203
+  },
+  "날씨": {
+   "slug": "날씨",
+   "firstSeen": 1795383600.0,
+   "peakRank": 1,
+   "peakTraffic": 500000,
+   "lastSeen": 1795389604.791898
+  },
+  "치매": {
+   "slug": "치매",
+   "firstSeen": 1795383600.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795389604.791898
+  },
+  "weather": {
+   "slug": "weather",
+   "firstSeen": 1795383000.0,
+   "peakRank": 3,
+   "peakTraffic": 5000,
+   "lastSeen": 1795389604.791898
+  },
+  "天气": {
+   "slug": "天气",
+   "firstSeen": 1795383000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795389604.791898
+  },
+  "울릉도": {
+   "slug": "울릉도",
+   "firstSeen": 1795384800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795389604.791898
+  },
+  "콜레트 크레스": {
+   "slug": "콜레트-크레스",
+   "firstSeen": 1795384200.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795389604.791898
+  },
+  "레임덕": {
+   "slug": "레임덕",
+   "firstSeen": 1795383600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795389604.791898
+  },
+  "klasemen liverpool vs manchester united f.c.": {
+   "slug": "klasemen-liverpool-vs-manchester-united-f-c",
+   "firstSeen": 1795383000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795389604.791898
   }
  }
 }

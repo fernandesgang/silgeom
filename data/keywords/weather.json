@@ -2,17 +2,37 @@
  "keyword": "weather",
  "slug": "weather",
  "firstSeen": 1795041000.0,
- "lastSeen": 1795130463.4447408,
+ "lastSeen": 1795389604.791898,
  "peakRank": 3,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795047997,
    3,
    2000
+  ],
+  [
+   1795389605,
+   3,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "Chilly Start to the Week Before Thanksgiving Warmup",
+   "url": "https://www.nbc26.com/weather/chilly-start-to-the-week-before-thanksgiving-warmup",
+   "source": "NBC26"
+  },
+  {
+   "title": "Dreary morning and a colder, breezy afternoon",
+   "url": "https://www.wkow.com/weather/forecast/dreary-morning-and-a-colder-breezy-afternoon/article_2d670a3b-5c17-479a-9b9e-85055fe14f76.html",
+   "source": "WKOW"
+  },
+  {
+   "title": "Decreasing Clouds and Temps",
+   "url": "https://www.wxow.com/video/decreasing-clouds-and-temps/video_8f76b6ed-5352-51ba-afa4-7a4a47042bd3.html",
+   "source": "WXOW"
+  },
   {
    "title": "The worst weather in Monterey County may be over, but rain will continue",
    "url": "https://www.montereyherald.com/2026/11/19/the-worst-weather-in-monterey-county-may-be-over-but-rain-will-continue/",
@@ -46,9 +66,17 @@
  ],
  "days": [
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-23"
  ],
  "related": [
+  "날씨",
+  "치매",
+  "天气",
+  "울릉도",
+  "콜레트-크레스",
+  "레임덕",
+  "klasemen-liverpool-vs-manchester-united-f-c",
   "아파트",
   "택시",
   "경제",
@@ -61,11 +89,6 @@
   "수능-시작",
   "관광",
   "nz-vs-ind",
-  "s-p-500",
-  "집행유예",
-  "제미나이-네온",
-  "ionq",
-  "겨울",
-  "kb금융그룹"
+  "s-p-500"
  ]
 }

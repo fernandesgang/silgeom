@@ -1,0 +1,44 @@
+{
+ "keyword": "天气",
+ "slug": "天气",
+ "firstSeen": 1795383000.0,
+ "lastSeen": 1795389604.791898,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795389605,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending",
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Japan’s Economy Contracts Amid Inflation Squeeze",
+   "url": "https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5",
+   "source": "WSJ"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "날씨",
+  "치매",
+  "weather",
+  "울릉도",
+  "콜레트-크레스",
+  "레임덕",
+  "klasemen-liverpool-vs-manchester-united-f-c"
+ ]
+}

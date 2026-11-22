@@ -1,250 +1,198 @@
 {
- "generatedAt": 1795386088,
+ "generatedAt": 1795389605,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "삼성전자",
-   "slug": "삼성전자",
-   "traffic": 5000,
-   "startedAt": 1795380600.0,
+   "keyword": "날씨",
+   "slug": "날씨",
+   "traffic": 500000,
+   "startedAt": 1795383600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야\"",
-     "url": "https://www.newsis.com/view/NISX20261118_0003873510",
-     "source": "뉴시스"
+     "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
+     "url": "https://www.yna.co.kr/view/AKR20261122040000004",
+     "source": "연합뉴스"
     },
     {
-     "title": "\"삼전닉스, 전고점 당분간 다시 뚫기 어려울 것\"…헤지펀드 고수의 '쓴 조언'",
-     "url": "https://www.hankyung.com/article/202611198555i",
-     "source": "한국경제"
+     "title": "눈·비 ‘미끄럼’ 주의…서울 낮기온 10도",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719524",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "삼전·닉스 더 빠질까…증권가선 “추가 하락 대비” 분석도",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645648344&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "[날씨] 전국 점차 비·강원 산간 눈...출근길 중부 '어는 비'",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611230648220971_005.html",
+     "source": "YTN"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "엔비디아",
-   "slug": "엔비디아",
-   "traffic": 2000,
-   "startedAt": 1795380000.0,
+   "keyword": "치매",
+   "slug": "치매",
+   "traffic": 5000,
+   "startedAt": 1795383600.0,
    "change": "new",
    "diff": 0,
    "news": [
+    {
+     "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
+     "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959",
+     "source": "People.com"
+    },
+    {
+     "title": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologizes-sharing-intimate-190631378.html",
+     "source": "Yahoo"
+    },
+    {
+     "title": "Tallulah Willis apologizes for ‘intimate’ photo of dad Bruce Willis amid his dementia battle: ‘I can do better’",
+     "url": "https://ew.com/bruce-willis-daughter-tallulah-apologizes-for-posting-too-intimate-photo-12272660",
+     "source": "Entertainment Weekly"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "weather",
+   "slug": "weather",
+   "traffic": 5000,
+   "startedAt": 1795383000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Chilly Start to the Week Before Thanksgiving Warmup",
+     "url": "https://www.nbc26.com/weather/chilly-start-to-the-week-before-thanksgiving-warmup",
+     "source": "NBC26"
+    },
+    {
+     "title": "Dreary morning and a colder, breezy afternoon",
+     "url": "https://www.wkow.com/weather/forecast/dreary-morning-and-a-colder-breezy-afternoon/article_2d670a3b-5c17-479a-9b9e-85055fe14f76.html",
+     "source": "WKOW"
+    },
+    {
+     "title": "Decreasing Clouds and Temps",
+     "url": "https://www.wxow.com/video/decreasing-clouds-and-temps/video_8f76b6ed-5352-51ba-afa4-7a4a47042bd3.html",
+     "source": "WXOW"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "天气",
+   "slug": "天气",
+   "traffic": 1000,
+   "startedAt": 1795383000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending",
+     "source": "Bloomberg.com"
+    },
+    {
+     "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+     "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+     "source": "CNBC"
+    },
+    {
+     "title": "Japan’s Economy Contracts Amid Inflation Squeeze",
+     "url": "https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5",
+     "source": "WSJ"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "울릉도",
+   "slug": "울릉도",
+   "traffic": 500,
+   "startedAt": 1795384800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[단독]울릉도 표류 北 주민 6명 조만간 송환하기로",
+     "url": "https://www.donga.com/news/Politics/article/all/20261123/135070407/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "에스더기도운동 2026년 11월 3주차 북한 및 국가 기도제목 : 선교",
+     "url": "https://www.christiantoday.co.kr/news/378655",
+     "source": "크리스천투데이"
+    },
+    {
+     "title": "울릉공항 지정면세점, 여객선 관광객은 혜택 못 받나",
+     "url": "https://www.ajunews.com/view/20261122094051322",
+     "source": "아주경제"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "콜레트 크레스",
+   "slug": "콜레트-크레스",
+   "traffic": 500,
+   "startedAt": 1795384200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
+     "url": "https://www.hankyung.com/article/202611185671i",
+     "source": "한국경제"
+    },
     {
      "title": "‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다",
      "url": "https://www.chosun.com/economy/weeklybiz/2026/11/23/MLPUPUEVJZD3BKET4VXRPATAZI/",
      "source": "조선일보"
     },
     {
-     "title": "“불륜 아니다” “너의 뇌에 오줌 누겠다”···젠슨 황 퇴출 부른 건 거짓말과 상습 폭언",
-     "url": "https://www.khan.co.kr/article/202611211444001",
-     "source": "경향신문"
-    },
-    {
      "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719528",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719577",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "홍창기",
-   "slug": "홍창기",
-   "traffic": 1000,
-   "startedAt": 1795380600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "세대교체 필요한 LG, 박동원과 홍창기 잡아야할까",
-     "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003287083",
-     "source": "오마이스타"
-    },
-    {
-     "title": "FA 박동원·김태군·최재훈 뜻밖의 아킬레스건? 포수 수비 탑3에 없다…연쇄이동 제동 걸리나, 장기전 예고인가",
-     "url": "https://mydaily.co.kr/page/view/2026112004102210618",
-     "source": "마이데일리"
-    },
-    {
-     "title": "염경엽 LG 감독 \"김범석, 나는 포기하지 않았다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261117137700007",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "라면",
-   "slug": "라면",
-   "traffic": 1000,
-   "startedAt": 1795380000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "통상본부장, 굴 수출기업·딸기 농가 찾아 K-푸드 수출지원 논의",
-     "url": "https://www.yna.co.kr/view/AKR20261122033000003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'K-라면 구입해 볼까'",
-     "url": "https://www.news1.kr/photos/8226844",
-     "source": "뉴스1"
-    },
-    {
-     "title": "“한국 오면 무조건 먹어야 해” 외국인들 푹 빠지더니…역대급 기록 세웠다",
-     "url": "https://www.sedaily.com/article/20117387",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "김다현",
-   "slug": "김다현",
-   "traffic": 500,
-   "startedAt": 1795380000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[ET포토] 권은진. '돋보이는 비율'",
-     "url": "https://www.etnews.com/20261123000044",
-     "source": "전자신문"
-    },
-    {
-     "title": "[ET포토] 와타나베 켄, '부인과 함께 왔어요'",
-     "url": "https://www.etnews.com/20261123000039",
-     "source": "전자신문"
-    },
-    {
-     "title": "5개국 대사 한복·염색체험…강원랜드, 하이원 K컬처위크",
-     "url": "https://www.newsis.com/view/NISX20261122_0003878127",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "임영웅",
-   "slug": "임영웅",
-   "traffic": 500,
-   "startedAt": 1795380000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[브랜드평판] 가수 브랜드 2026년 11월 빅데이터 분석결과...1위 리센느, 2위 에이티즈, 3위 임영웅",
-     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=805422",
-     "source": "일간투데이"
-    },
-    {
-     "title": "임영웅, 가수 브랜드평판 ‘톱3’…리센느 1위",
-     "url": "https://sports.khan.co.kr/article/202611211132003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "성리, 트로트 가수 11월 브랜드평판 3위...임영웅·강혜연 順",
-     "url": "https://www.slist.kr/news/articleView.html?idxno=783733",
-     "source": "싱글리스트"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "교장",
-   "slug": "교장",
+   "keyword": "레임덕",
+   "slug": "레임덕",
    "traffic": 200,
-   "startedAt": 1795380600.0,
+   "startedAt": 1795383600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"지우개 없어? 반으로 잘라!\" 감독관이 전한 ‘초유의 수능’",
-     "url": "https://news.jtbc.co.kr/video/NB12329097",
-     "source": "JTBC"
+     "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
+     "url": "https://www.yna.co.kr/view/AKR20261123001000071",
+     "source": "연합뉴스"
     },
     {
-     "title": "수능날 지우개가 안왔다…“반으로 잘라, 내가 책임” 기지 발휘한 교장",
-     "url": "https://www.donga.com/news/Society/article/all/20261122/135065591/1",
-     "source": "동아일보"
+     "title": "공화당이 반기 들고 일어났다…트럼프 정부 구상 '휘청' [지금이뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0545_202611230719018671",
+     "source": "YTN"
     },
     {
-     "title": "수능 시험장에 지우개가 안왔다…“내 책임이여” 교장이 내린 결단은",
-     "url": "https://www.etnews.com/20261121000038",
-     "source": "전자신문"
+     "title": "트럼프 레임덕 시동?…공화당서 국방부 고위직 인준 제동",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611230544204Xc",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "지스타",
-   "slug": "지스타",
+   "keyword": "klasemen liverpool vs manchester united f.c.",
+   "slug": "klasemen-liverpool-vs-manchester-united-f-c",
    "traffic": 200,
-   "startedAt": 1795380600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[대담한K] 지스타 개막 D-2…부산 게임 산업의 과제는?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715323",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[인터뷰] 김동현 대표 “지휘의 재미와 원작의 특징 살린 ‘디겜폭: LAST STAGE’”",
-     "url": "https://www.viva100.com/article/20261120500584",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "원작 몰라도 즐겁다… 전략으로 승부하는 ‘디겜폭’ [지스타2026]",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001574",
-     "source": "IT조선"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "양산시",
-   "slug": "양산시",
-   "traffic": 100,
-   "startedAt": 1795381200.0,
+   "startedAt": 1795383000.0,
    "change": "new",
    "diff": 0,
    "news": []
-  },
-  {
-   "rank": 10,
-   "keyword": "기관 투자자",
-   "slug": "기관-투자자",
-   "traffic": 100,
-   "startedAt": 1795380000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "美 기관투자자, 비트코인 ETF 3분기 순매수 전환…보유량 사상 최대",
-     "url": "https://zdnet.co.kr/view/?no=20261122091755",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "은행부터 국부펀드까지…비트코인으로 향한 월가 자금",
-     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716248",
-     "source": "디지털투데이"
-    },
-    {
-     "title": "제프 베이조스 전 헤지펀드, 비트코인 재매수",
-     "url": "https://kr.beincrypto.com/de-shaw-bitcoin-etf-strategy-strive/",
-     "source": "BeInCrypto"
-    }
-   ]
   }
  ]
 }
