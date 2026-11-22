@@ -334,8 +334,8 @@
    "slug": "부동산",
    "firstSeen": 1795300800.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795305071.0887609
+   "peakTraffic": 2000,
+   "lastSeen": 1795307508.4091113
   },
   "인터 마이애미 대 콜럼버스 크루": {
    "slug": "인터-마이애미-대-콜럼버스-크루",
@@ -357,6 +357,69 @@
    "peakRank": 7,
    "peakTraffic": 100,
    "lastSeen": 1795305071.0887609
+  },
+  "수험": {
+   "slug": "수험",
+   "firstSeen": 1795302600.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795307508.4091113
+  },
+  "삼전 닉스": {
+   "slug": "삼전-닉스",
+   "firstSeen": 1795302000.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795307508.4091113
+  },
+  "수출규제": {
+   "slug": "수출규제",
+   "firstSeen": 1795302600.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795307508.4091113
+  },
+  "알테오젠": {
+   "slug": "알테오젠",
+   "firstSeen": 1795302600.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795307508.4091113
+  },
+  "인공지능": {
+   "slug": "인공지능",
+   "firstSeen": 1795302600.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795307508.4091113
+  },
+  "real madrid vs rc celta de vigo standings": {
+   "slug": "real-madrid-vs-rc-celta-de-vigo-standings",
+   "firstSeen": 1795302000.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795307508.4091113
+  },
+  "털": {
+   "slug": "털",
+   "firstSeen": 1795302600.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795307508.4091113
+  },
+  "군인": {
+   "slug": "군인",
+   "firstSeen": 1795302600.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795307508.4091113
+  },
+  "화석연료": {
+   "slug": "화석연료",
+   "firstSeen": 1795300800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795307508.4091113
   }
  }
 }

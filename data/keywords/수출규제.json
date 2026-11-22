@@ -1,0 +1,46 @@
+{
+ "keyword": "수출규제",
+ "slug": "수출규제",
+ "firstSeen": 1795302600.0,
+ "lastSeen": 1795307508.4091113,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795307508,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
+   "url": "https://www.segye.com/newsView/20261120506261",
+   "source": "세계일보"
+  },
+  {
+   "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261121001651071",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "수험",
+  "삼전-닉스",
+  "부동산",
+  "알테오젠",
+  "인공지능",
+  "real-madrid-vs-rc-celta-de-vigo-standings",
+  "털",
+  "군인",
+  "화석연료"
+ ]
+}

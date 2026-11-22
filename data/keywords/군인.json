@@ -1,0 +1,46 @@
+{
+ "keyword": "군인",
+ "slug": "군인",
+ "firstSeen": 1795302600.0,
+ "lastSeen": 1795307508.4091113,
+ "peakRank": 9,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795307508,
+   9,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "부정행위 막으려 세 차례 울린 경보음...시민 반응은? [자막뉴스]",
+   "url": "https://www.ytn.co.kr/_ln/0134_202611201616010571",
+   "source": "YTN"
+  },
+  {
+   "title": "'재난 문자' 무력화 초소형 커닝 장비, 해외서 9만 원에 판매",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286587",
+   "source": "OhmyNews"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "수험",
+  "삼전-닉스",
+  "부동산",
+  "수출규제",
+  "알테오젠",
+  "인공지능",
+  "real-madrid-vs-rc-celta-de-vigo-standings",
+  "털",
+  "화석연료"
+ ]
+}

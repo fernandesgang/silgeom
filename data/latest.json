@@ -1,41 +1,67 @@
 {
- "generatedAt": 1795305071,
+ "generatedAt": 1795307508,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "구자욱",
-   "slug": "구자욱",
-   "traffic": 5000,
-   "startedAt": 1795297800.0,
-   "change": "same",
+   "keyword": "수험",
+   "slug": "수험",
+   "traffic": 2000,
+   "startedAt": 1795302600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "MLB 사무국, '빅리그 도전' 구자욱 신분 조회 요청",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867379_37004.html",
+     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
+     "url": "https://www.munhwa.com/article/11633008",
+     "source": "문화일보"
+    },
+    {
+     "title": "이진우 씨 사망 전 배회 CCTV 공개…한 살 아이 얼굴 '퍽'[주간HIT영상]",
+     "url": "https://www.news1.kr/society/general-society/6361254",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
      "source": "MBC 뉴스"
-    },
-    {
-     "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'원태인보다 구자욱 먼저' 韓 타격왕 향한 ML 관심, '급성장' 박승규만 믿기엔 너무도 이른데... - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/21/2026112113272550290",
-     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "부동산",
-   "slug": "부동산",
-   "traffic": 1000,
-   "startedAt": 1795300800.0,
+   "keyword": "삼전 닉스",
+   "slug": "삼전-닉스",
+   "traffic": 2000,
+   "startedAt": 1795302000.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
+     "url": "https://www.hankyung.com/article/2026112113727",
+     "source": "한국경제"
+    },
+    {
+     "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
+     "url": "https://www.yna.co.kr/view/AKR20261120066600008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+     "url": "https://www.fnnews.com/news/202611220802359845",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "부동산",
+   "slug": "부동산",
+   "traffic": 2000,
+   "startedAt": 1795300800.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "'경기 안심 부동산' 참여 중개사무소에 스티커…온라인 표시도",
@@ -48,149 +74,97 @@
      "source": "웹이코노미"
     },
     {
-     "title": "수원시 권선구, 관내 개업공인중개사 대상 '경기 안심 부동산' 캠페인 실시",
-     "url": "https://www.timenews.co.kr/article/1759721",
-     "source": "타임뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "인터 마이애미 대 콜럼버스 크루",
-   "slug": "인터-마이애미-대-콜럼버스-크루",
-   "traffic": 1000,
-   "startedAt": 1795300200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu",
-     "url": "https://www.intermiamicf.com/news/it-s-miami-time-get-ready-for-inter-miami-cf-s-playoffs-opener-this-saturday-presented-by-nu",
-     "source": "Inter Miami CF"
-    },
-    {
-     "title": "Lionel Messi & Inter Miami enter MLS Cup Playoffs with historic ambitions",
-     "url": "https://www.mlssoccer.com/playoffs/2026/news/lionel-messi-inter-miami-enter-mls-cup-playoffs-with-historic-ambitions",
-     "source": "MLSsoccer.com"
-    },
-    {
-     "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
-     "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
-     "source": "The Guardian"
+     "title": "경기도, ′경기 안심 부동산′ 참여 중개사무소에 스티커 제공",
+     "url": "https://kpinews.kr/newsView/1065565296849988",
+     "source": "KPI뉴스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "뉴스",
-   "slug": "뉴스",
+   "keyword": "수출규제",
+   "slug": "수출규제",
    "traffic": 1000,
-   "startedAt": 1795299000.0,
-   "change": "same",
+   "startedAt": 1795302600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“코스닥 살리려다 양극화 키울라”…상장사 44%의 경고",
-     "url": "https://www.kukinews.com/article/view/kuk202611200168",
-     "source": "쿠키뉴스"
+     "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
+     "url": "https://www.segye.com/newsView/20261120506261",
+     "source": "세계일보"
     },
     {
-     "title": "기업은행, 코스닥 활성화 설문…기업들 “기관투자자 유입 시급”",
-     "url": "https://m.ekn.kr/view.php?key=20261119025422070",
-     "source": "에너지경제신문"
+     "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261121001651071",
+     "source": "연합뉴스"
     },
     {
-     "title": "코스닥 상장사 150곳 스스로 “코스닥 활성화하려면 부실상장사 퇴출해야 ”",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1288131.html",
-     "source": "한겨레"
+     "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "공군사관학교",
-   "slug": "공군사관학교",
-   "traffic": 500,
-   "startedAt": 1795299600.0,
+   "keyword": "알테오젠",
+   "slug": "알테오젠",
+   "traffic": 1000,
+   "startedAt": 1795302600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
-     "url": "https://www.yna.co.kr/view/AKR20261120176600504",
-     "source": "연합뉴스"
+     "title": "알테오젠, 美 특허심판 14건 전승 이어 獨 판매금지 해제",
+     "url": "https://pharm.edaily.co.kr/News/Read?newsId=02630566645647688",
+     "source": "팜이데일리"
     },
     {
-     "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
-     "url": "https://www.kyeonggi.com/article/20261120580310",
-     "source": "경기일보"
+     "title": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
+     "url": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "공군사관학교도 6월에 시험문제 불법촬영…3학년 생도 퇴교",
-     "url": "https://www.donga.com/news/Society/article/all/20261120/135063726/1",
-     "source": "동아일보"
+     "title": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876311",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "편지",
-   "slug": "편지",
-   "traffic": 200,
-   "startedAt": 1795298400.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "인공지능",
+   "slug": "인공지능",
+   "traffic": 500,
+   "startedAt": 1795302600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
-     "source": "연합뉴스TV"
+     "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
+     "url": "https://www.yna.co.kr/view/AKR20261120160100017",
+     "source": "연합뉴스"
     },
     {
-     "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
-     "url": "https://busan.fnnews.com/news/202611201111489476?pg=mny",
-     "source": "부산파이낸셜뉴스"
+     "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
+     "url": "https://zdnet.co.kr/view/?no=20261122085359",
+     "source": "지디넷코리아"
     },
     {
-     "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
-     "url": "https://www.fnnews.com/news/202611201111489476",
-     "source": "파이낸셜뉴스"
+     "title": "LG유플러스, 부문장 전부 교체…AI 사업 실행력 높인다",
+     "url": "https://www.etnews.com/20261122000001",
+     "source": "전자신문"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "인천광역시",
-   "slug": "인천광역시",
-   "traffic": 100,
-   "startedAt": 1795299600.0,
+   "keyword": "real madrid vs rc celta de vigo standings",
+   "slug": "real-madrid-vs-rc-celta-de-vigo-standings",
+   "traffic": 500,
+   "startedAt": 1795302000.0,
    "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "인천시, 수소산업 담당자 직무교육…인프라 운영 역량 강화",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722785",
-     "source": "뉴스타운"
-    },
-    {
-     "title": "AI 시대 전력 공급, 연료전지의 역할은…수소인프라 운영 사례도 공유",
-     "url": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=5225",
-     "source": "수소신문"
-    },
-    {
-     "title": "인천시, 수소산업 직무교육 실시… 실무 담당자 정책 역량 강화",
-     "url": "https://www.kspnews.com/2896996",
-     "source": "케이에스피뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "laliga",
-   "slug": "laliga",
-   "traffic": 100,
-   "startedAt": 1795298400.0,
-   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -199,14 +173,92 @@
      "source": "재경일보"
     },
     {
-     "title": "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26",
-     "url": "https://www.reutersconnect.com/item/real-madrid-cf-vs-real-club-celta-de-vigo-202627-national-league-112126/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBXMUxVWDE",
+     "title": "Licensable picture: Real Madrid v RC Celta de Vigo - LaLiga EA Sports 2026/27",
+     "url": "https://www.reutersconnect.com/item/real-madrid-v-rc-celta-de-vigo-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFBTVzBXOA",
      "source": "Reuters Connect"
     },
     {
-     "title": "Carlos Espi, Real Madrid hero, gives three golden points to Jose Mourinho",
-     "url": "https://www.gazetaexpress.com/en/Carlos-Espi--the-real-hero--gives-three-golden-points-to-Jose-Mourinho/",
-     "source": "Gazeta Express"
+     "title": "Late Espi winner rescues Real Madrid against Celta Vigo",
+     "url": "https://sports.yahoo.com/articles/espi-winner-rescues-real-madrid-221307773.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "털",
+   "slug": "털",
+   "traffic": 200,
+   "startedAt": 1795302600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
+     "url": "https://www.khan.co.kr/article/202611202127001",
+     "source": "경향신문"
+    },
+    {
+     "title": "구경꾼 던진 ‘털모자’에…‘희망 아이콘’ 피오나 끝내 죽었다 [W 언박싱]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718950",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "국민 하마 '피오나' 추모하는 손 편지",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261121_0002298595&provider_id=&cID=&type=photoMain&catg=&idx=7",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "군인",
+   "slug": "군인",
+   "traffic": 200,
+   "startedAt": 1795302600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "부정행위 막으려 세 차례 울린 경보음...시민 반응은? [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611201616010571",
+     "source": "YTN"
+    },
+    {
+     "title": "'재난 문자' 무력화 초소형 커닝 장비, 해외서 9만 원에 판매",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286587",
+     "source": "OhmyNews"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "화석연료",
+   "slug": "화석연료",
+   "traffic": 100,
+   "startedAt": 1795300800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719299",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+     "url": "https://www.yna.co.kr/view/AKR20261122002700099",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374992",
+     "source": "전기신문"
     }
    ]
   }

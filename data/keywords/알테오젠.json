@@ -2,9 +2,9 @@
  "keyword": "알테오젠",
  "slug": "알테오젠",
  "firstSeen": 1795227000.0,
- "lastSeen": 1795235463.8032827,
+ "lastSeen": 1795307508.4091113,
  "peakRank": 4,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795231774,
@@ -15,9 +15,29 @@
    1795235464,
    6,
    500
+  ],
+  [
+   1795307508,
+   5,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "알테오젠, 美 특허심판 14건 전승 이어 獨 판매금지 해제",
+   "url": "https://pharm.edaily.co.kr/News/Read?newsId=02630566645647688",
+   "source": "팜이데일리"
+  },
+  {
+   "title": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
+   "url": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
+   "url": "https://www.newsis.com/view/NISX20261120_0003876311",
+   "source": "뉴시스"
+  },
   {
    "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
    "url": "https://kr.investing.com/news/stock-market-news/article-2184781",
@@ -35,9 +55,19 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-22"
  ],
  "related": [
+  "수험",
+  "삼전-닉스",
+  "부동산",
+  "수출규제",
+  "인공지능",
+  "real-madrid-vs-rc-celta-de-vigo-standings",
+  "털",
+  "군인",
+  "화석연료",
   "퇴직금",
   "대통령",
   "구자욱",
@@ -48,13 +78,6 @@
   "catl",
   "전소미",
   "동아일보",
-  "편의점",
-  "경부선",
-  "박윤영",
-  "두산베어스",
-  "jisoo-sun-showers-from-the-angry-birds-movie-3",
-  "nh농협카드",
-  "매일경제",
-  "전북특별자치도"
+  "편의점"
  ]
 }
