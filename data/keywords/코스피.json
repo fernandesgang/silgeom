@@ -1,0 +1,46 @@
+{
+ "keyword": "코스피",
+ "slug": "코스피",
+ "firstSeen": 1795375200.0,
+ "lastSeen": 1795379900.7499893,
+ "peakRank": 2,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795379901,
+   2,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445871",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "하루 만에 5% 급락한 코스피, 4,800대로 밀린 이유는?",
+   "url": "https://story.pay.naver.com/content/4019",
+   "source": "네이버페이 머니스토리"
+  },
+  {
+   "title": "개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익",
+   "url": "https://www.chosun.com/economy/stock-finance/2026/11/23/V5DLSBKXWRFCDNI522LM3JQFUM/",
+   "source": "조선일보"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "헤타페-대-아틀레티코",
+  "잠수함",
+  "통장",
+  "카를로스-알카라스",
+  "집",
+  "휴게소",
+  "비야디",
+  "평택시장",
+  "수색영장"
+ ]
+}

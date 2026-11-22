@@ -1,0 +1,46 @@
+{
+ "keyword": "통장",
+ "slug": "통장",
+ "firstSeen": 1795374000.0,
+ "lastSeen": 1795379900.7499893,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795379901,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "코스피 반토막에 고금리…4050 마통 연체액 82%·77% 급증",
+   "url": "https://www.donga.com/news/Economy/article/all/20261122/135067111/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "“빚내서 주식했다가 물렸다”…4050 덮친 '빚투 부메랑'",
+   "url": "https://www.etnews.com/20261122000084",
+   "source": "전자신문"
+  },
+  {
+   "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
+   "source": "조선일보"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "헤타페-대-아틀레티코",
+  "코스피",
+  "잠수함",
+  "카를로스-알카라스",
+  "집",
+  "휴게소",
+  "비야디",
+  "평택시장",
+  "수색영장"
+ ]
+}

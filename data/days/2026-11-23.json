@@ -152,8 +152,71 @@
    "slug": "집",
    "firstSeen": 1795372800.0,
    "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795379900.7499893
+  },
+  "헤타페 대 아틀레티코": {
+   "slug": "헤타페-대-아틀레티코",
+   "firstSeen": 1795374600.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795379900.7499893
+  },
+  "코스피": {
+   "slug": "코스피",
+   "firstSeen": 1795375200.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795379900.7499893
+  },
+  "잠수함": {
+   "slug": "잠수함",
+   "firstSeen": 1795375800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795379900.7499893
+  },
+  "통장": {
+   "slug": "통장",
+   "firstSeen": 1795374000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795379900.7499893
+  },
+  "카를로스 알카라스": {
+   "slug": "카를로스-알카라스",
+   "firstSeen": 1795374600.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795379900.7499893
+  },
+  "휴게소": {
+   "slug": "휴게소",
+   "firstSeen": 1795374600.0,
+   "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795377548.7761817
+   "lastSeen": 1795379900.7499893
+  },
+  "비야디": {
+   "slug": "비야디",
+   "firstSeen": 1795375800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795379900.7499893
+  },
+  "평택시장": {
+   "slug": "평택시장",
+   "firstSeen": 1795375800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795379900.7499893
+  },
+  "수색영장": {
+   "slug": "수색영장",
+   "firstSeen": 1795372800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795379900.7499893
   }
  }
 }
