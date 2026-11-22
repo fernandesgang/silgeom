@@ -97,7 +97,7 @@
    "firstSeen": 1795278077.760598,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795281612.3534017
+   "lastSeen": 1795350020.2497394
   },
   "민효린": {
    "slug": "민효린",
@@ -796,8 +796,8 @@
    "slug": "남진",
    "firstSeen": 1795342200.0,
    "peakRank": 1,
-   "peakTraffic": 2000,
-   "lastSeen": 1795346491.4853325
+   "peakTraffic": 5000,
+   "lastSeen": 1795350020.2497394
   },
   "수능 부정행위": {
    "slug": "수능-부정행위",
@@ -826,6 +826,62 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795346491.4853325
+  },
+  "한전on": {
+   "slug": "한전on",
+   "firstSeen": 1795342800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795350020.2497394
+  },
+  "유벤투스 대 베네치아": {
+   "slug": "유벤투스-대-베네치아",
+   "firstSeen": 1795344600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795350020.2497394
+  },
+  "요리학교": {
+   "slug": "요리학교",
+   "firstSeen": 1795344600.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795350020.2497394
+  },
+  "조정식": {
+   "slug": "조정식",
+   "firstSeen": 1795344600.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795350020.2497394
+  },
+  "무디스": {
+   "slug": "무디스",
+   "firstSeen": 1795344600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795350020.2497394
+  },
+  "기예르모 에레디아": {
+   "slug": "기예르모-에레디아",
+   "firstSeen": 1795344000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795350020.2497394
+  },
+  "최교진 교육부장관": {
+   "slug": "최교진-교육부장관",
+   "firstSeen": 1795344600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795350020.2497394
+  },
+  "주현영": {
+   "slug": "주현영",
+   "firstSeen": 1795344000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795350020.2497394
   }
  }
 }

@@ -1,18 +1,18 @@
 {
- "generatedAt": 1795346491,
+ "generatedAt": 1795350020,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "남진",
    "slug": "남진",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795342200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "남진, 46세·42세 미혼 미모의 두 딸 공개…\"첫 딸은 김주하 닮아\" [핫피플]",
+     "title": "남진, 46세·42세 미혼 미모의 두 딸 공개… \"첫째는 김주하 닮아\"",
      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/MI4TQNRVME4TSZLBGAYTAMRWMQ/",
      "source": "조선일보"
     },
@@ -30,235 +30,235 @@
   },
   {
    "rank": 2,
-   "keyword": "무신사",
-   "slug": "무신사",
-   "traffic": 2000,
-   "startedAt": 1795338600.0,
-   "change": "same",
+   "keyword": "한전on",
+   "slug": "한전on",
+   "traffic": 1000,
+   "startedAt": 1795342800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
-     "url": "https://www.yna.co.kr/view/AKR20261122012200017",
-     "source": "연합뉴스"
+     "title": "한전도 해킹당했다…65만명 주민번호·계좌·카드번호 유출",
+     "url": "https://www.khan.co.kr/article/202611221907001",
+     "source": "경향신문"
     },
     {
-     "title": "무신사, 롯데리아와 수험생 응원 '버거트럭' 이벤트 실시",
-     "url": "https://www.etnews.com/20261122000047",
-     "source": "전자신문"
+     "title": "한전, 고객 등 개인정보 152만여명 유출‥경찰 수사의뢰 예정",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867650_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "무신사, ‘무진장’ 개막 앞두고 성수서 수험생 대상 ‘버거 트럭’ 운영",
-     "url": "https://www.viva100.com/article/20261122500190",
-     "source": "브릿지경제"
+     "title": "“전기요금 내려고 입력했던 내 정보가”…한전, 이번엔 65만명 고객정보 유출",
+     "url": "https://stock.mk.co.kr/news/view/1203794",
+     "source": "매일경제 마켓"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "수능 부정행위",
-   "slug": "수능-부정행위",
+   "keyword": "유벤투스 대 베네치아",
+   "slug": "유벤투스-대-베네치아",
    "traffic": 500,
-   "startedAt": 1795342200.0,
+   "startedAt": 1795344600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\"",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976210",
-     "source": "대한민국 정책브리핑"
+     "title": "유벤투스 vs 베네치아 예측: 홈팀이 우세할 것으로 예상됩니다.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-chu-nha-duoc-danh-gia-cao-hon",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "\"제각각 지침 불편\"...교육 수장 없는 입시관리 우려",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611221647062898_005.html",
-     "source": "YTN"
+     "title": "유벤투스 vs 베네치아: 랑달 콜로 무아니·웨스턴 맥케니 선발, 에돈 제그로바 출전",
+     "url": "https://www.allfootballapp.com/ko/articles/6037614-vs",
+     "source": "AllFootball"
     },
     {
-     "title": "일회용 앞치마까지…AI 부정행위 철통 방어 나선 대학가",
-     "url": "https://www.yna.co.kr/view/IPT20261122000005365?section=gallery/index",
-     "source": "연합뉴스"
+     "title": "유벤투스 vs 베네치아 프리뷰: 예상 스코어, 선발 라인업, 생중계 링크.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-du-doan-ty-so-doi-hinh-va-link-xem-truc-tiep",
+     "source": "Vietnam.vn"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "원자력 잠수함",
-   "slug": "원자력-잠수함",
-   "traffic": 200,
-   "startedAt": 1795340400.0,
+   "keyword": "요리학교",
+   "slug": "요리학교",
+   "traffic": 500,
+   "startedAt": 1795344600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
-     "url": "https://www.mk.co.kr/news/politics/12215581",
-     "source": "매일경제"
+     "title": "CIA 첫 한식과정 만든 양종집 교수 “한식 세계화 전초기지로”",
+     "url": "https://stock.mk.co.kr/news/view/1203755",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "민주당 “핵잠 도입, 국제사회 신뢰 확인…핵비확산 원칙 담아 특별법 뒷받침”",
-     "url": "https://www.dt.co.kr/article/12096468",
-     "source": "www.dt.co.kr"
+     "title": "\"80년 만에 처음 있는 일\"…美 최고 요리학교서 한식 열풍",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01387446645648344&mediaCodeNo=257",
+     "source": "이데일리"
     },
     {
-     "title": "IAEA, 한국 핵잠 첫 보고서 공개…“협력에 만족” 국제 검증 첫 관문 넘었다",
-     "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435780",
-     "source": "데일리스포츠한국"
+     "title": "美 명문 요리학교, K푸드 정규과목 추진...“전문인력으로 한식 세계화”",
+     "url": "https://www.sedaily.com/article/20117296",
+     "source": "서울경제"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "정상회담",
-   "slug": "정상회담",
-   "traffic": 200,
-   "startedAt": 1795339800.0,
+   "keyword": "조정식",
+   "slug": "조정식",
+   "traffic": 500,
+   "startedAt": 1795344600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "트럼프 “미·중·러, 한반도 위험 논의”…핵 감축엔 “동의 어려워”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719193",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "트럼프는 ‘사진’, 시진핑은 ‘위상’, 푸틴은 ‘시간’ 챙겼다…‘강대국 외교’의 귀환",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01859766645648344",
-     "source": "마켓인"
-    },
-    {
-     "title": "트럼프, SNS에 얄타회담·미중러 정상회담 사진 나란히 게시",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6867545_36925.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "서울 경전철 서부선",
-   "slug": "서울-경전철-서부선",
-   "traffic": 200,
-   "startedAt": 1795339200.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "서울 경전철 서부선 26년째 표류…공사비 급증에 발목 : 부동산",
-     "url": "https://news.jkn.co.kr/post/1114541",
-     "source": "재경일보"
-    },
-    {
-     "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
-     "url": "https://www.hankyung.com/article/202611222102i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[단독] 서부선 민자 재시동…재정 ‘투트랙’ 속도낸다",
-     "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202611191120305010769",
-     "source": "대한경제"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "회계사",
-   "slug": "회계사",
-   "traffic": 200,
-   "startedAt": 1795338600.0,
-   "change": "down",
-   "diff": 3,
-   "news": [
-    {
-     "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
-     "url": "https://www.yna.co.kr/view/AKR20261121044700002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
-     "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "회계사 시험 전자기기 부정행위 5년간 적발 ‘0건’…AI 탐지 장비 예산도 없어",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/22/SDD6JM7JY5AC3NOXCXKVS3OF2M/",
+     "title": "문제 유출, 수능 직전 예능行… 일타강사인가, ‘일탈’강사인가",
+     "url": "https://www.chosun.com/national/weekend/2026/11/21/PHM6NQOYUBHKJCLZ4YT3S5R234/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "금융위기",
-   "slug": "금융위기",
-   "traffic": 200,
-   "startedAt": 1795338000.0,
-   "change": "down",
-   "diff": 7,
-   "news": [
-    {
-     "title": "반도체 전망 좋은데, 삼전닉스는 급락…'45조 증발' 한국 주식 버리는 외국인, 왜?",
-     "url": "https://www.etnews.com/20261122000065",
-     "source": "전자신문"
     },
     {
-     "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688",
-     "source": "마켓인"
+     "title": "“너는 못 쓰게 되지 않았다”…수능 뒤 일타강사 위로에 ‘울컥’",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04241046645647688&mediaCodeNo=257",
+     "source": "이데일리"
     },
     {
-     "title": "외국인, 올해 10월까지 주식 240조 원 순매도…지난해의 20배",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717970",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "방시혁",
-   "slug": "방시혁",
-   "traffic": 100,
-   "startedAt": 1795338600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "과즙세연 \"너흰 돈 때문에 방시혁이랑 자고 싶냐?…이 거지XX들아\"",
-     "url": "https://www.news1.kr/society/general-society/6361937",
-     "source": "뉴스1"
-    },
-    {
-     "title": "'식사권 700만원' 과즙세연 \"돈 때문에 방시혁과 잤냐고? 안잤다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112213582556520",
-     "source": "머니투데이"
-    },
-    {
-     "title": "과즙세연 면전에 대고 성적 비하한 19금 코미디쇼 ‘뭇매’",
-     "url": "https://www.mk.co.kr/news/entertain/12215464",
+     "title": "수험생 팽개친 ‘먹튀 논란’ 강사 이도…넷플릭스는 편집 왜 안했나",
+     "url": "https://www.mk.co.kr/news/it/12214982",
      "source": "매일경제"
     }
    ]
   },
   {
-   "rank": 10,
-   "keyword": "김혜윤",
-   "slug": "김혜윤",
-   "traffic": 100,
-   "startedAt": 1795338600.0,
-   "change": "down",
-   "diff": 2,
+   "rank": 6,
+   "keyword": "무디스",
+   "slug": "무디스",
+   "traffic": 200,
+   "startedAt": 1795344600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "장나라X김혜윤, 손잡자마자 터졌다…‘굿파트너2’ 2회 만에 최고 10% 돌파",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GFRGCZDEGMYDOMZQMYZWGMDDMY/",
+     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+     "url": "https://www.fnnews.com/news/202611220802359845",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
+     "url": "https://m.segye.com/view/20261122505855",
+     "source": "세계일보"
+    },
+    {
+     "title": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
+     "url": "https://biz.heraldcorp.com/article/10944835",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "기예르모 에레디아",
+   "slug": "기예르모-에레디아",
+   "traffic": 200,
+   "startedAt": 1795344000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'굿바이' 에레디아가 국내 타팀으로 간다고? 현실적으로 불가능이다. 이유는",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MFSGKMZTMUZWKYTGMQ3TSMDEMM/",
      "source": "조선일보"
     },
     {
-     "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
-     "url": "https://www.etnews.com/20261122000028",
-     "source": "전자신문"
+     "title": "[단독] SSG, 에레디아와 결별…‘트리플A 24홈런·21도루’ 리스 하인즈 영입한다",
+     "url": "http://www.spochoo.com/news/articleView.html?idxno=132194",
+     "source": "더게이트"
     },
     {
-     "title": "“나 고용주해도 될까요?” 장나라X김혜윤, ‘리봄’으로 뭉쳤다 (굿파트너2)",
-     "url": "https://sports.donga.com/ent/article/all/20261122/135066121/1",
+     "title": "'이럴수가' ML 계약 파기→KBO 온다, 도대체 왜?…\"한국 조건 더 좋았다, 꾸준한 출전 기회까지\"",
+     "url": "https://www.sportschosun.com/baseball/2026-11-18/202611190100119880011115",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "최교진 교육부장관",
+   "slug": "최교진-교육부장관",
+   "traffic": 100,
+   "startedAt": 1795344600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"저는 못할 것 같습니다\" AI 부정행위 논란 키우다 결국 사퇴",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867638_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[속보] 이 대통령, 최교진 교육장관 면직안 재가",
+     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288547.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "최교진 ‘수능 혼란 책임론’ 대두…이 대통령, 사의 즉각 수락",
+     "url": "https://news.jtbc.co.kr/article/NB12329268",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "주현영",
+   "slug": "주현영",
+   "traffic": 100,
+   "startedAt": 1795344000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "주현영 과거 폭로 나왔다, 지예은 “‘SNL’ 텃세 있었다” (런닝맨)",
+     "url": "https://sports.donga.com/ent/article/all/20261120/135060769/1",
      "source": "스포츠동아"
+    },
+    {
+     "title": "김종국 결혼 1년만에..'대역' 신부설 휘말렸다! 믿었던 유재석까지 ('런닝맨')",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/22/MFQWCMJXGVSTIOBZGM4TAMJSMU/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "런닝맨 : [선공개] ‘힘캐’ 송지효, 주현영과 방석 두고 시작된 육탄전♨ (ft. 지예은)",
+     "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC483929951",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "쇼메이커",
+   "slug": "쇼메이커",
+   "traffic": 100,
+   "startedAt": 1795342800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
+     "url": "https://www.hankyung.com/article/202611222346i",
+     "source": "한국경제"
+    },
+    {
+     "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
+     "source": "진일보 | 전남일보"
+    },
+    {
+     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+     "url": "https://www.kmib.co.kr/article/20261119500020",
+     "source": "국민일보"
     }
    ]
   }
