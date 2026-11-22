@@ -2,7 +2,7 @@
  "keyword": "내일 날씨",
  "slug": "내일-날씨",
  "firstSeen": 1795347600.0,
- "lastSeen": 1795354604.8981986,
+ "lastSeen": 1795357596.6298468,
  "peakRank": 1,
  "peakTraffic": 200000,
  "history": [
@@ -13,6 +13,11 @@
   ]
  ],
  "news": [
+  {
+   "title": "내일(23일) 전국에 비·눈…출근길 ‘도로 살얼음’ 주의",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719430",
+   "source": "KBS 뉴스"
+  },
   {
    "title": "월요일 전국에 비·눈…영하권 출근길",
    "url": "https://www.chosun.com/national/transport-environment/2026/11/22/U45T5NQ2VZGLJEPCXE2NVXN5TI/",
@@ -33,6 +38,8 @@
   "2026-11-22"
  ],
  "related": [
+  "김승수",
+  "이혜영",
   "바르셀로나-대-비야레알",
   "코니아스포르-대-베식타시",
   "영체마을",

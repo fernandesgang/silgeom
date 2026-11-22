@@ -2,7 +2,7 @@
  "keyword": "영체마을",
  "slug": "영체마을",
  "firstSeen": 1795348200.0,
- "lastSeen": 1795354604.8981986,
+ "lastSeen": 1795357596.6298468,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795354605,
    4,
    200
+  ],
+  [
+   1795357597,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "속옷 팔고, 하룻밤 보내는 고가 프로그램까지…지리산 '영체님'의 실체 (스트레이트)",
+   "url": "https://biz.chosun.com/entertainment/tv/2026/11/22/G4ZWMOJWMVTDMNBQMNSTQNBVMM/",
+   "source": "Chosunbiz"
+  },
   {
    "title": "[스트레이트 예고] 신이 된 여자 지리산 '영체님'의 실체",
    "url": "https://imnews.imbc.com/replay/straight/6867586_28993.html",
@@ -33,6 +43,8 @@
   "2026-11-22"
  ],
  "related": [
+  "김승수",
+  "이혜영",
   "내일-날씨",
   "바르셀로나-대-비야레알",
   "코니아스포르-대-베식타시",
