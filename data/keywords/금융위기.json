@@ -2,7 +2,7 @@
  "keyword": "금융위기",
  "slug": "금융위기",
  "firstSeen": 1795338000.0,
- "lastSeen": 1795343203.842499,
+ "lastSeen": 1795346491.4853325,
  "peakRank": 1,
  "peakTraffic": 2000,
  "history": [
@@ -10,9 +10,29 @@
    1795343204,
    1,
    2000
+  ],
+  [
+   1795346491,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "반도체 전망 좋은데, 삼전닉스는 급락…'45조 증발' 한국 주식 버리는 외국인, 왜?",
+   "url": "https://www.etnews.com/20261122000065",
+   "source": "전자신문"
+  },
+  {
+   "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688",
+   "source": "마켓인"
+  },
+  {
+   "title": "외국인, 올해 10월까지 주식 240조 원 순매도…지난해의 20배",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717970",
+   "source": "KBS 뉴스"
+  },
   {
    "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\"",
    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445893",
@@ -33,6 +53,11 @@
   "2026-11-22"
  ],
  "related": [
+  "남진",
+  "수능-부정행위",
+  "원자력-잠수함",
+  "정상회담",
+  "방시혁",
   "무신사",
   "노동자",
   "회계사",

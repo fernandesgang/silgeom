@@ -2,7 +2,7 @@
  "keyword": "김혜윤",
  "slug": "김혜윤",
  "firstSeen": 1795268400.0,
- "lastSeen": 1795343203.842499,
+ "lastSeen": 1795346491.4853325,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,19 @@
    1795274546,
    8,
    100
+  ],
+  [
+   1795346491,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "장나라X김혜윤, 손잡자마자 터졌다…‘굿파트너2’ 2회 만에 최고 10% 돌파",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GFRGCZDEGMYDOMZQMYZWGMDDMY/",
+   "source": "조선일보"
+  },
   {
    "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
    "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
@@ -48,6 +58,11 @@
   "2026-11-22"
  ],
  "related": [
+  "남진",
+  "수능-부정행위",
+  "원자력-잠수함",
+  "정상회담",
+  "방시혁",
   "금융위기",
   "무신사",
   "노동자",
@@ -62,7 +77,6 @@
   "george-munsey",
   "맨시티",
   "묀헨글라트바흐-대-도르트문트",
-  "우니온-베를린-대-라이프치히",
-  "그것이-알고싶다"
+  "우니온-베를린-대-라이프치히"
  ]
 }

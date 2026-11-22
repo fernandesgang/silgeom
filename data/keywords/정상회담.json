@@ -1,0 +1,46 @@
+{
+ "keyword": "정상회담",
+ "slug": "정상회담",
+ "firstSeen": 1795339800.0,
+ "lastSeen": 1795346491.4853325,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795346491,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "트럼프 “미·중·러, 한반도 위험 논의”…핵 감축엔 “동의 어려워”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719193",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "트럼프는 ‘사진’, 시진핑은 ‘위상’, 푸틴은 ‘시간’ 챙겼다…‘강대국 외교’의 귀환",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01859766645648344",
+   "source": "마켓인"
+  },
+  {
+   "title": "트럼프, SNS에 얄타회담·미중러 정상회담 사진 나란히 게시",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6867545_36925.html",
+   "source": "MBC 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-22"
+ ],
+ "related": [
+  "남진",
+  "무신사",
+  "수능-부정행위",
+  "원자력-잠수함",
+  "서울-경전철-서부선",
+  "회계사",
+  "금융위기",
+  "방시혁",
+  "김혜윤"
+ ]
+}
