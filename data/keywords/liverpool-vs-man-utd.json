@@ -2,9 +2,9 @@
  "keyword": "liverpool vs man utd",
  "slug": "liverpool-vs-man-utd",
  "firstSeen": 1795362000.0,
- "lastSeen": 1795371367.7274141,
+ "lastSeen": 1795374343.710848,
  "peakRank": 2,
- "peakTraffic": 1000,
+ "peakTraffic": 2000,
  "history": [
   [
    1795368091,
@@ -15,9 +15,19 @@
    1795371368,
    3,
    1000
+  ],
+  [
+   1795374344,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "Team news: Confirmed Liverpool line-up v Manchester United",
+   "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-manchester-united",
+   "source": "Liverpool FC"
+  },
   {
    "title": "Liverpool v Manchester United: Premier League – live",
    "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
@@ -43,6 +53,7 @@
   "2026-11-23"
  ],
  "related": [
+  "포체티노",
   "맨유",
   "밀란-대-프로시노네",
   "빗썸",

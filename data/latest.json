@@ -1,51 +1,25 @@
 {
- "generatedAt": 1795371368,
+ "generatedAt": 1795374344,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "리버풀 대 맨유",
-   "slug": "리버풀-대-맨유",
-   "traffic": 10000,
-   "startedAt": 1795361400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
-     "url": "https://www.besteleven.com/news/articleView.html?idxno=314241",
-     "source": "베스트일레븐"
-    },
-    {
-     "title": "리버풀은 안필드에서 맨체스터 유나이티드를 상대로 전력을 회복해야 합니다.",
-     "url": "https://www.vietnam.vn/ko/liverpool-can-lay-lai-suc-manh-tai-anfield-truoc-man-united",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "리버풀·맨유 맞대결…이삭 7골 vs 음뵈모 4골 : EPL",
-     "url": "https://news.jkn.co.kr/post/1114277",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "rank": 2,
    "keyword": "맨유",
    "slug": "맨유",
    "traffic": 2000,
    "startedAt": 1795365000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
-    {
-     "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
-     "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
-     "source": "주간동아"
-    },
     {
      "title": "축구의 묘미는 역시 ‘바이시클킥’",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
      "source": "KBS 뉴스"
+    },
+    {
+     "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+     "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+     "source": "주간동아"
     },
     {
      "title": "'얼마나 진심인지 감도 안 옴' \"죄송합니다, 방금까지 훈련했습니다\" 포체티노의 황당한 첫 기자회견...샤워도 못 하고 등장 - 머니투데이",
@@ -55,16 +29,16 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 2,
    "keyword": "liverpool vs man utd",
    "slug": "liverpool-vs-man-utd",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795362000.0,
-   "change": "down",
+   "change": "up",
    "diff": 1,
    "news": [
     {
-     "title": "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates",
+     "title": "Liverpool 4-0 Manchester United: Nightmare start to Mauricio Pochettino's reign after Anfield hammering",
      "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
      "source": "BBC"
     },
@@ -74,46 +48,46 @@
      "source": "The Guardian"
     },
     {
-     "title": "Andoni Iraola programme notes | Why Liverpool need to be 'all in' from the off today",
-     "url": "https://www.liverpoolfc.com/news/andoni-iraola-programme-notes-liverpool-all-in-manchester-united",
+     "title": "Team news: Confirmed Liverpool line-up v Manchester United",
+     "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-manchester-united",
      "source": "Liverpool FC"
     }
    ]
   },
   {
-   "rank": 4,
+   "rank": 3,
    "keyword": "밀란 대 프로시노네",
    "slug": "밀란-대-프로시노네",
    "traffic": 500,
    "startedAt": 1795366800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "Liverpool vs. Man Utd (Nov 22, 2026) Team Stats",
-     "url": "https://www.espn.com/soccer/team-stats/_/gameId/401878755",
+     "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
      "source": "ESPN"
     },
     {
-     "title": "Arizona 35-28 Kansas State (Nov 21, 2026) Game Recap",
-     "url": "https://www.espn.com/college-football/recap/_/gameId/401856865",
-     "source": "ESPN"
+     "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
+     "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
+     "source": "FOX Sports"
     },
     {
-     "title": "Hull 2-0 Brighton (Nov 22, 2026) Team Stats",
-     "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879234",
-     "source": "ESPN"
+     "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+     "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+     "source": "The Guardian"
     }
    ]
   },
   {
-   "rank": 5,
+   "rank": 4,
    "keyword": "빗썸",
    "slug": "빗썸",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795365000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
@@ -133,12 +107,38 @@
    ]
   },
   {
+   "rank": 5,
+   "keyword": "포체티노",
+   "slug": "포체티노",
+   "traffic": 200,
+   "startedAt": 1795364400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘1000억+연봉 228억 원’ 맨유 또 천문학적 거금 투자해 FW 영입할까 “나이지리아 대표 공격수에 다시 관...",
+     "url": "https://sports.khan.co.kr/article/202611220909003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
+     "url": "https://mydaily.co.kr/page/view/2026112214352236820",
+     "source": "마이데일리"
+    },
+    {
+     "title": "포체티노에게 첫 선물? '제2의 케인' 영입 추진하는 맨유",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/17/2026111750190.html",
+     "source": "뉴데일리"
+    }
+   ]
+  },
+  {
    "rank": 6,
    "keyword": "라싱 산탄데르 대 레알 소시에다드",
    "slug": "라싱-산탄데르-대-레알-소시에다드",
    "traffic": 100,
    "startedAt": 1795364400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -152,9 +152,9 @@
      "source": "ESPN"
     },
     {
-     "title": "Racing Santander - Real Sociedad LIVE. LALIGA EA Sports latest updates",
-     "url": "https://www.marca.com/en/soccer/laliga-ea-sports/racing-santander-real-sociedad/2026/11/22/01_0101_20261122_189_188-live.html",
-     "source": "MARCA"
+     "title": "Racing Santander 3-2 Real Sociedad: Zabiri scores twice",
+     "url": "https://www.tufutbolero.com/en/news/racing-santander-3-2-real-sociedad-zabiri-scores-twice-5d55f0",
+     "source": "Tu Futbolero"
     }
    ]
   },
@@ -164,8 +164,8 @@
    "slug": "청년문화예술패스",
    "traffic": 100,
    "startedAt": 1795362600.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": []
   },
   {
@@ -174,8 +174,8 @@
    "slug": "라민-야말",
    "traffic": 100,
    "startedAt": 1795362600.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",

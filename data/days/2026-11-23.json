@@ -82,8 +82,8 @@
    "slug": "liverpool-vs-man-utd",
    "firstSeen": 1795362000.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795371367.7274141
+   "peakTraffic": 2000,
+   "lastSeen": 1795374343.710848
   },
   "리버풀 맨유": {
    "slug": "리버풀-맨유",
@@ -97,14 +97,14 @@
    "firstSeen": 1795362600.0,
    "peakRank": 6,
    "peakTraffic": 100,
-   "lastSeen": 1795371367.7274141
+   "lastSeen": 1795374343.710848
   },
   "라민 야말": {
    "slug": "라민-야말",
    "firstSeen": 1795362600.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795371367.7274141
+   "lastSeen": 1795374343.710848
   },
   "u17 월드컵": {
    "slug": "u17-월드컵",
@@ -116,30 +116,37 @@
   "맨유": {
    "slug": "맨유",
    "firstSeen": 1795365000.0,
-   "peakRank": 2,
+   "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795371367.7274141
+   "lastSeen": 1795374343.710848
   },
   "밀란 대 프로시노네": {
    "slug": "밀란-대-프로시노네",
    "firstSeen": 1795366800.0,
-   "peakRank": 4,
+   "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795371367.7274141
+   "lastSeen": 1795374343.710848
   },
   "빗썸": {
    "slug": "빗썸",
    "firstSeen": 1795365000.0,
-   "peakRank": 5,
-   "peakTraffic": 100,
-   "lastSeen": 1795371367.7274141
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795374343.710848
   },
   "라싱 산탄데르 대 레알 소시에다드": {
    "slug": "라싱-산탄데르-대-레알-소시에다드",
    "firstSeen": 1795364400.0,
    "peakRank": 6,
    "peakTraffic": 100,
-   "lastSeen": 1795371367.7274141
+   "lastSeen": 1795374343.710848
+  },
+  "포체티노": {
+   "slug": "포체티노",
+   "firstSeen": 1795364400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795374343.710848
   }
  }
 }

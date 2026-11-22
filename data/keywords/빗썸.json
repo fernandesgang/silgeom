@@ -2,14 +2,19 @@
  "keyword": "빗썸",
  "slug": "빗썸",
  "firstSeen": 1795365000.0,
- "lastSeen": 1795371367.7274141,
- "peakRank": 5,
- "peakTraffic": 100,
+ "lastSeen": 1795374343.710848,
+ "peakRank": 4,
+ "peakTraffic": 200,
  "history": [
   [
    1795371368,
    5,
    100
+  ],
+  [
+   1795374344,
+   4,
+   200
   ]
  ],
  "news": [
@@ -33,6 +38,7 @@
   "2026-11-23"
  ],
  "related": [
+  "포체티노",
   "리버풀-대-맨유",
   "맨유",
   "liverpool-vs-man-utd",

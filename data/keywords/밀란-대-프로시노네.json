@@ -2,17 +2,37 @@
  "keyword": "밀란 대 프로시노네",
  "slug": "밀란-대-프로시노네",
  "firstSeen": 1795366800.0,
- "lastSeen": 1795371367.7274141,
- "peakRank": 4,
+ "lastSeen": 1795374343.710848,
+ "peakRank": 3,
  "peakTraffic": 500,
  "history": [
   [
    1795371368,
    4,
    500
+  ],
+  [
+   1795374344,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
+   "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+   "source": "ESPN"
+  },
+  {
+   "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
+   "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
+   "source": "FOX Sports"
+  },
+  {
+   "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+   "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+   "source": "The Guardian"
+  },
   {
    "title": "Liverpool vs. Man Utd (Nov 22, 2026) Team Stats",
    "url": "https://www.espn.com/soccer/team-stats/_/gameId/401878755",
@@ -33,6 +53,7 @@
   "2026-11-23"
  ],
  "related": [
+  "포체티노",
   "리버풀-대-맨유",
   "맨유",
   "liverpool-vs-man-utd",
