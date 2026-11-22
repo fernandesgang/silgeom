@@ -2,7 +2,7 @@
  "keyword": "아우크스부르크 대 마인츠 05",
  "slug": "아우크스부르크-대-마인츠-05",
  "firstSeen": 1795355400.0,
- "lastSeen": 1795360959.8043182,
+ "lastSeen": 1795364531.456196,
  "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795360960,
    1,
    1000
+  ],
+  [
+   1795364531,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Louisville vs. Seattle U (Nov 22, 2026) Live Score",
+   "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401929635/louisville-seattle-u",
+   "source": "ESPN"
+  },
+  {
+   "title": "Picked! Darrell Sweeting hauls in the interception",
+   "url": "https://www.espn.com/video/clip/_/id/50557603/picked-darrell-sweeting-hauls-interception",
+   "source": "ESPN"
+  },
+  {
+   "title": "Arizona 35-28 Kansas State (Nov 21, 2026) Game Recap",
+   "url": "https://www.espn.com/college-football/recap/_/gameId/401856865",
+   "source": "ESPN"
+  },
   {
    "title": "Augsburg vs Mainz 05: German Bundesliga stats & head-to-head",
    "url": "https://www.bbc.com/sport/football/live/cwkgmrrdpzzmt",
@@ -33,6 +53,8 @@
   "2026-11-23"
  ],
  "related": [
+  "브라이튼",
+  "조정석",
   "지드래곤",
   "맨유-리버풀",
   "총파업",
