@@ -2,7 +2,7 @@
  "keyword": "m",
  "slug": "m",
  "firstSeen": 1795431600.0,
- "lastSeen": 1795436197.453579,
+ "lastSeen": 1795441155.0605023,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -13,6 +13,16 @@
   ]
  ],
  "news": [
+  {
+   "title": "Kansas City Royals news: Tarik Skubal gets paid",
+   "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-tarik-130000884.html",
+   "source": "Yahoo Sports"
+  },
+  {
+   "title": "Inside Tarik Skubal’s Mets meeting that launched a record price: ‘Tarik is the guy you bet on’ - The Athletic",
+   "url": "https://www.nytimes.com/athletic/7804537/2026/11/22/tarik-skubal-mets-meeting-negotiation-record-contract/",
+   "source": "The New York Times"
+  },
   {
    "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
    "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
@@ -33,6 +43,7 @@
   "2026-11-23"
  ],
  "related": [
+  "혼다",
   "상장",
   "이진관-판사",
   "중위소득",

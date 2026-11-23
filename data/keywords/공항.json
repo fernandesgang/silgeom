@@ -2,7 +2,7 @@
  "keyword": "공항",
  "slug": "공항",
  "firstSeen": 1795431000.0,
- "lastSeen": 1795436197.453579,
+ "lastSeen": 1795441155.0605023,
  "peakRank": 9,
  "peakTraffic": 100,
  "history": [
@@ -13,6 +13,11 @@
   ]
  ],
  "news": [
+  {
+   "title": "박남춘 인천공항공사 사장 “인천공항, 통합보다 메가 허브공항 실현”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8720076",
+   "source": "KBS 뉴스"
+  },
   {
    "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
    "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
@@ -33,6 +38,7 @@
   "2026-11-23"
  ],
  "related": [
+  "혼다",
   "상장",
   "이진관-판사",
   "중위소득",

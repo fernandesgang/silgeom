@@ -1,0 +1,46 @@
+{
+ "keyword": "혼다",
+ "slug": "혼다",
+ "firstSeen": 1795434600.0,
+ "lastSeen": 1795441155.0605023,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795441155,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+   "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+   "source": "NBC News"
+  },
+  {
+   "title": "Honda recalls over 810,000 vehicles. See the affected models",
+   "url": "https://www.usatoday.com/story/cars/recalls/2026/11/23/honda-recalls-vehicles-acura-accord-civic-cr-v-models/92922637007/",
+   "source": "USA Today"
+  },
+  {
+   "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+   "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+   "source": "Fox Business"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "상장",
+  "브레인악셀",
+  "중위소득",
+  "이진관-판사",
+  "반도체-메모리",
+  "가석방",
+  "m",
+  "공항",
+  "일론-머스크"
+ ]
+}

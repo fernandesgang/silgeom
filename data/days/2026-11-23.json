@@ -825,35 +825,35 @@
    "firstSeen": 1795426800.0,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795436197.453579
+   "lastSeen": 1795441155.0605023
   },
   "중위소득": {
    "slug": "중위소득",
    "firstSeen": 1795428600.0,
    "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795436197.453579
+   "peakTraffic": 1000,
+   "lastSeen": 1795441155.0605023
   },
   "브레인악셀": {
    "slug": "브레인악셀",
    "firstSeen": 1795428600.0,
-   "peakRank": 4,
-   "peakTraffic": 500,
-   "lastSeen": 1795436197.453579
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795441155.0605023
   },
   "일론 머스크": {
    "slug": "일론-머스크",
    "firstSeen": 1795428000.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795436197.453579
+   "lastSeen": 1795441155.0605023
   },
   "가석방": {
    "slug": "가석방",
    "firstSeen": 1795426800.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795436197.453579
+   "lastSeen": 1795441155.0605023
   },
   "이세창": {
    "slug": "이세창",
@@ -866,15 +866,15 @@
    "slug": "상장",
    "firstSeen": 1795431600.0,
    "peakRank": 1,
-   "peakTraffic": 1000,
-   "lastSeen": 1795436197.453579
+   "peakTraffic": 2000,
+   "lastSeen": 1795441155.0605023
   },
   "반도체 메모리": {
    "slug": "반도체-메모리",
    "firstSeen": 1795430400.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795436197.453579
+   "lastSeen": 1795441155.0605023
   },
   "딜라이트": {
    "slug": "딜라이트",
@@ -888,14 +888,21 @@
    "firstSeen": 1795431600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795436197.453579
+   "lastSeen": 1795441155.0605023
   },
   "공항": {
    "slug": "공항",
    "firstSeen": 1795431000.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795436197.453579
+   "lastSeen": 1795441155.0605023
+  },
+  "혼다": {
+   "slug": "혼다",
+   "firstSeen": 1795434600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795441155.0605023
   }
  }
 }
