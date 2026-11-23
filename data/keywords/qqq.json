@@ -2,7 +2,7 @@
  "keyword": "qqq",
  "slug": "qqq",
  "firstSeen": 1795444200.0,
- "lastSeen": 1795456054.2369719,
+ "lastSeen": 1795459452.8869333,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -20,9 +20,19 @@
    1795456054,
    4,
    200
+  ],
+  [
+   1795459453,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Nvidia: The Trade Of A Lifetime (NASDAQ:NVDA)",
+   "url": "https://seekingalpha.com/article/4971134-nvidia-the-trade-of-a-lifetime",
+   "source": "Seeking Alpha"
+  },
   {
    "title": "NVIDIA's Market Cap Evaporates, Equaling Amazon's, Amid Tech Selloff",
    "url": "https://www.chosun.com/english/market-money-en/2026/11/21/RVARKYWOLNHMRJFTVV4XQERNBE/",
@@ -58,6 +68,8 @@
   "2026-11-24"
  ],
  "related": [
+  "노태문",
+  "탁구",
   "sk그룹",
   "스페이스x-주가",
   "테슬라-주가",

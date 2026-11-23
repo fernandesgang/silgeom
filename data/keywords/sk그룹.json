@@ -2,7 +2,7 @@
  "keyword": "sk그룹",
  "slug": "sk그룹",
  "firstSeen": 1795451400.0,
- "lastSeen": 1795456054.2369719,
+ "lastSeen": 1795459452.8869333,
  "peakRank": 2,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795456054,
    2,
    200
+  ],
+  [
+   1795459453,
+   3,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "최태원 “재산분할금 9440억원 다 내겠다”…대법원에 ‘화해권고’ 신청",
+   "url": "https://www.chosun.com/national/court_law/2026/11/23/YBLJ2QLL6NFGTO63M5QNF2HWKU/",
+   "source": "조선일보"
+  },
+  {
+   "title": "입장 바꾼 최태원 “노소영에 9440억 현금 지급”…화해권고 요청",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1288668.html",
+   "source": "한겨레"
+  },
   {
    "title": "최태원 \"재산분할금 9천440억원 전액 내겠다\" 화해권고 신청(종합)",
    "url": "https://www.yna.co.kr/view/AKR20261123122951004",
@@ -33,6 +48,8 @@
   "2026-11-24"
  ],
  "related": [
+  "노태문",
+  "탁구",
   "to-me-my-x-men",
   "테슬라-주가",
   "qqq",
