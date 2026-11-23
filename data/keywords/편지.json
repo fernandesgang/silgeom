@@ -2,7 +2,7 @@
  "keyword": "편지",
  "slug": "편지",
  "firstSeen": 1795298400.0,
- "lastSeen": 1795305071.0887609,
+ "lastSeen": 1795395116.8026717,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,19 @@
    1795305071,
    6,
    200
+  ],
+  [
+   1795395117,
+   9,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "선생님은 학생들에게 격려 편지를 썼고, 자신만의 독특한 방식으로 학생들의 마음을 움직였습니다.",
+   "url": "https://www.vietnam.vn/ko/co-giao-viet-thu-dong-vien-hoc-tro-gay-xuc-dong-voi-cach-nhac-nho-dac-biet",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
    "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
@@ -35,9 +45,19 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "related": [
+  "정유라",
+  "김하성",
+  "대학",
+  "노시환",
+  "로스앤젤레스-fc",
+  "스쿠발",
+  "조세호",
+  "나스닥-선물",
+  "atalanta-vs-inter",
   "부동산",
   "인터-마이애미-대-콜럼버스-크루",
   "공군사관학교",
