@@ -2,17 +2,37 @@
  "keyword": "기상",
  "slug": "기상",
  "firstSeen": 1795316400.0,
- "lastSeen": 1795326321.144422,
- "peakRank": 8,
- "peakTraffic": 200,
+ "lastSeen": 1795469364.2235515,
+ "peakRank": 1,
+ "peakTraffic": 200000,
  "history": [
   [
    1795322797,
    8,
    200
+  ],
+  [
+   1795469364,
+   1,
+   200000
   ]
  ],
  "news": [
+  {
+   "title": "[날씨] 전국 대체로 맑은 가운데 일부 지역 약한 눈·비소식",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6867958_36918.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "충남·전라 서부 비 또는 눈…빙판길·살얼음 주의",
+   "url": "https://www.yna.co.kr/view/AKR20261124006400034",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "이번 주 널뛰기 기온…주 후반 낮 최고 20도",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH202611240520287yL",
+   "source": "연합뉴스TV"
+  },
   {
    "title": "기상 변동성 큰 올겨울, 농업 기상재해 선제 대응한다!",
    "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458212",
@@ -45,9 +65,19 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-24"
  ],
  "related": [
+  "연금",
+  "치매",
+  "에코프로",
+  "박지윤",
+  "지스타",
+  "lg전자",
+  "데블스-플랜-시즌-3",
+  "한국항공우주산업",
+  "주한-미군-사령관",
   "엘니뇨",
   "최민정",
   "제네시스-g80",

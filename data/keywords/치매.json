@@ -2,7 +2,7 @@
  "keyword": "치매",
  "slug": "치매",
  "firstSeen": 1795383600.0,
- "lastSeen": 1795389604.791898,
+ "lastSeen": 1795469364.2235515,
  "peakRank": 2,
  "peakTraffic": 5000,
  "history": [
@@ -10,9 +10,29 @@
    1795389605,
    2,
    5000
+  ],
+  [
+   1795469364,
+   3,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "아리바이오, ‘먹는 알츠하이머 신약’으로 초기 환자 겨냥…“내년 하반기 미 FDA 허가 신청할 것”",
+   "url": "https://www.khan.co.kr/article/202611231556001",
+   "source": "경향신문"
+  },
+  {
+   "title": "아리바이오, 치매약 18개월 데이터 첫 공개…“7.2개월 지연 추정”",
+   "url": "https://pharm.edaily.co.kr/news/read?newsId=02515766645648672",
+   "source": "팜이데일리"
+  },
+  {
+   "title": "아리바이오, '성공 논란' AD 3상 \"진짜 이슈 3가지는\"",
+   "url": "https://www.biospectator.com/news/view/30486",
+   "source": "바이오스펙테이터"
+  },
   {
    "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
    "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "related": [
+  "기상",
+  "연금",
+  "에코프로",
+  "박지윤",
+  "지스타",
+  "lg전자",
+  "데블스-플랜-시즌-3",
+  "한국항공우주산업",
+  "주한-미군-사령관",
   "날씨",
   "weather",
   "天气",
