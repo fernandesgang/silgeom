@@ -2,13 +2,18 @@
  "keyword": "옆자리 프란체스카",
  "slug": "옆자리-프란체스카",
  "firstSeen": 1795443600.0,
- "lastSeen": 1795449163.4170582,
- "peakRank": 5,
+ "lastSeen": 1795452448.945292,
+ "peakRank": 4,
  "peakTraffic": 200,
  "history": [
   [
    1795449163,
    5,
+   200
+  ],
+  [
+   1795452449,
+   4,
    200
   ]
  ],
@@ -33,6 +38,9 @@
   "2026-11-24"
  ],
  "related": [
+  "테슬라-주가",
+  "샌디스크-주가",
+  "tradingview",
   "nvidia-stock",
   "둠스데이",
   "to-me-my-x-men",

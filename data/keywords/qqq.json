@@ -2,17 +2,37 @@
  "keyword": "qqq",
  "slug": "qqq",
  "firstSeen": 1795444200.0,
- "lastSeen": 1795449163.4170582,
- "peakRank": 4,
+ "lastSeen": 1795452448.945292,
+ "peakRank": 3,
  "peakTraffic": 200,
  "history": [
   [
    1795449163,
    4,
    200
+  ],
+  [
+   1795452449,
+   3,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "NVIDIA's Market Cap Evaporates, Equaling Amazon's, Amid Tech Selloff",
+   "url": "https://www.chosun.com/english/market-money-en/2026/11/21/RVARKYWOLNHMRJFTVV4XQERNBE/",
+   "source": "조선일보"
+  },
+  {
+   "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
+   "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/",
+   "source": "The Motley Fool"
+  },
+  {
+   "title": "Why Did NVDA, NFLX, ORCL Slip To 52-Week Lows Last Week?",
+   "url": "https://www.tradingview.com/news/stocktwits:1138e6c6c094b:0-why-did-nvda-nflx-orcl-slip-to-52-week-lows-last-week/",
+   "source": "TradingView"
+  },
   {
    "title": "‘Anyone forecasting 2027 is forecasting data centers’: The Fed is about to hike into an AI boom it can’t cool, and Main Street gets the bill",
    "url": "https://finance.yahoo.com/economy/policy/articles/anyone-forecasting-2027-forecasting-data-154459270.html",
@@ -33,6 +53,9 @@
   "2026-11-24"
  ],
  "related": [
+  "테슬라-주가",
+  "샌디스크-주가",
+  "tradingview",
   "nvidia-stock",
   "둠스데이",
   "to-me-my-x-men",

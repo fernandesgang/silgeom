@@ -2,17 +2,37 @@
  "keyword": "to me my x men",
  "slug": "to-me-my-x-men",
  "firstSeen": 1795444800.0,
- "lastSeen": 1795449163.4170582,
- "peakRank": 3,
- "peakTraffic": 200,
+ "lastSeen": 1795452448.945292,
+ "peakRank": 1,
+ "peakTraffic": 500,
  "history": [
   [
    1795449163,
    3,
    200
+  ],
+  [
+   1795452449,
+   1,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "A New ‘Avengers: Doomsday’ Trailer Heralds a Crisis on All Earths",
+   "url": "https://gizmodo.com/a-new-avengers-doomsday-trailer-heralds-a-crisis-on-all-earths-2000843702",
+   "source": "Gizmodo"
+  },
+  {
+   "title": "New Avengers: Doomsday Trailer Teases Epic Showdown Between Robert Downey Jr. and Marvel Heroes, Reveals Captain America’s Child",
+   "url": "https://people.com/robert-downey-jr-chris-evans-avengers-doomsday-trailer-12274339",
+   "source": "People.com"
+  },
+  {
+   "title": "Final 'Avengers: Doomsday' Trailer Explains Chris Evans' Return, 'Endgame' Fallout and More",
+   "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-final-trailer/",
+   "source": "TheWrap"
+  },
   {
    "title": "James Marsden's Cyclops gets his shot at redemption in Avengers: Doomsday",
    "url": "https://www.yahoo.com/entertainment/movies/articles/james-marsdens-cyclops-gets-shot-180300064.html",
@@ -33,6 +53,9 @@
   "2026-11-24"
  ],
  "related": [
+  "테슬라-주가",
+  "샌디스크-주가",
+  "tradingview",
   "nvidia-stock",
   "둠스데이",
   "qqq",

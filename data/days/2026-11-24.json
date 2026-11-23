@@ -18,37 +18,37 @@
   "to me my x men": {
    "slug": "to-me-my-x-men",
    "firstSeen": 1795449163.4170582,
-   "peakRank": 3,
-   "peakTraffic": 200,
-   "lastSeen": 1795449163.4170582
+   "peakRank": 1,
+   "peakTraffic": 500,
+   "lastSeen": 1795452448.945292
   },
   "qqq": {
    "slug": "qqq",
    "firstSeen": 1795449163.4170582,
-   "peakRank": 4,
+   "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795449163.4170582
+   "lastSeen": 1795452448.945292
   },
   "옆자리 프란체스카": {
    "slug": "옆자리-프란체스카",
    "firstSeen": 1795449163.4170582,
-   "peakRank": 5,
+   "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795449163.4170582
+   "lastSeen": 1795452448.945292
   },
   "토스": {
    "slug": "토스",
    "firstSeen": 1795449163.4170582,
-   "peakRank": 6,
+   "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795449163.4170582
+   "lastSeen": 1795452448.945292
   },
   "코인니스": {
    "slug": "코인니스",
    "firstSeen": 1795449163.4170582,
-   "peakRank": 7,
+   "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795449163.4170582
+   "lastSeen": 1795452448.945292
   },
   "박준형": {
    "slug": "박준형",
@@ -63,6 +63,27 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795449163.4170582
+  },
+  "테슬라 주가": {
+   "slug": "테슬라-주가",
+   "firstSeen": 1795446600.0,
+   "peakRank": 2,
+   "peakTraffic": 200,
+   "lastSeen": 1795452448.945292
+  },
+  "샌디스크 주가": {
+   "slug": "샌디스크-주가",
+   "firstSeen": 1795446000.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795452448.945292
+  },
+  "tradingview": {
+   "slug": "tradingview",
+   "firstSeen": 1795452448.945292,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795452448.945292
   }
  }
 }
