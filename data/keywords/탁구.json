@@ -2,14 +2,19 @@
  "keyword": "탁구",
  "slug": "탁구",
  "firstSeen": 1795455600.0,
- "lastSeen": 1795459452.8869333,
- "peakRank": 6,
- "peakTraffic": 100,
+ "lastSeen": 1795463585.7834826,
+ "peakRank": 2,
+ "peakTraffic": 200,
  "history": [
   [
    1795459453,
    6,
    100
+  ],
+  [
+   1795463586,
+   2,
+   200
   ]
  ],
  "news": [
@@ -33,6 +38,8 @@
   "2026-11-24"
  ],
  "related": [
+  "브뢴뷔-대-미트윌란",
+  "nasdaq",
   "to-me-my-x-men",
   "노태문",
   "sk그룹",

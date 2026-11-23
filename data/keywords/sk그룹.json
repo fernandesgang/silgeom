@@ -2,7 +2,7 @@
  "keyword": "sk그룹",
  "slug": "sk그룹",
  "firstSeen": 1795451400.0,
- "lastSeen": 1795459452.8869333,
+ "lastSeen": 1795463585.7834826,
  "peakRank": 2,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,19 @@
    1795459453,
    3,
    200
+  ],
+  [
+   1795463586,
+   4,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "최태원 “노소영에 9440억 전액 지급” 화해권고 요청",
+   "url": "https://www.donga.com/news/Society/article/all/20261124/135077329/2",
+   "source": "동아일보"
+  },
   {
    "title": "최태원 “재산분할금 9440억원 다 내겠다”…대법원에 ‘화해권고’ 신청",
    "url": "https://www.chosun.com/national/court_law/2026/11/23/YBLJ2QLL6NFGTO63M5QNF2HWKU/",
@@ -48,6 +58,8 @@
   "2026-11-24"
  ],
  "related": [
+  "브뢴뷔-대-미트윌란",
+  "nasdaq",
   "노태문",
   "탁구",
   "to-me-my-x-men",

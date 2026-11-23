@@ -1,0 +1,45 @@
+{
+ "keyword": "nasdaq",
+ "slug": "nasdaq",
+ "firstSeen": 1795445400.0,
+ "lastSeen": 1795463585.7834826,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795463586,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+   "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026",
+   "source": "WSJ"
+  },
+  {
+   "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+   "source": "Bloomberg.com"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "to-me-my-x-men",
+  "탁구",
+  "노태문",
+  "sk그룹",
+  "테슬라-주가",
+  "브뢴뷔-대-미트윌란",
+  "샌디스크-주가",
+  "tradingview"
+ ]
+}

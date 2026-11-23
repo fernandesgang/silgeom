@@ -2,7 +2,7 @@
  "keyword": "노태문",
  "slug": "노태문",
  "firstSeen": 1795453200.0,
- "lastSeen": 1795459452.8869333,
+ "lastSeen": 1795463585.7834826,
  "peakRank": 2,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795459453,
    2,
    200
+  ],
+  [
+   1795463586,
+   3,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "MX 떠나는 노태문 “올해 부품값 급등에 어려움…도전 계속 지원”",
+   "url": "https://www.etnews.com/20261123000501",
+   "source": "전자신문"
+  },
   {
    "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
    "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%9E%A5%EB%8B%A8-%EC%9D%B8%EC%82%AC-2",
@@ -33,6 +43,8 @@
   "2026-11-24"
  ],
  "related": [
+  "브뢴뷔-대-미트윌란",
+  "nasdaq",
   "to-me-my-x-men",
   "sk그룹",
   "테슬라-주가",

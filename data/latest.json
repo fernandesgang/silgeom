@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795459453,
+ "generatedAt": 1795463586,
  "geo": "KR",
  "items": [
   {
@@ -17,25 +17,51 @@
      "source": "Marvel.com"
     },
     {
-     "title": "'Avengers: Doomsday' final trailer reveals Steve Rogers' son, Cyclops' iconic 'X-Men' line and epic Marvel team-up",
-     "url": "https://abc7chicago.com/post/avengers-doomsday-final-trailer-reveals-steve-rogers-son-cyclops-iconic-men-line-epic-marvel-team/20070629/",
-     "source": "ABC7 Chicago"
-    },
-    {
      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
      "source": "Ars Technica"
+    },
+    {
+     "title": "Movie Ticketing Feature Comes to Disney+ for ‘Avengers: Doomsday’",
+     "url": "https://thewaltdisneycompany.com/news/movie-ticketing-disney-plus-avengers-doomsday/",
+     "source": "The Walt Disney Company"
     }
    ]
   },
   {
    "rank": 2,
+   "keyword": "탁구",
+   "slug": "탁구",
+   "traffic": 200,
+   "startedAt": 1795455600.0,
+   "change": "up",
+   "diff": 4,
+   "news": [
+    {
+     "title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759864",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "다음달 4일 아산시장배 전국장애인탁구대회",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112640",
+     "source": "충청매일"
+    },
+    {
+     "title": "김포시, 제17회 장애인 생활체육대회 성황리 마무리 : 네이버 블로그",
+     "url": "https://blog.naver.com/PostView.naver?blogId=gimpotoday&logNo=224488349119&redirect=Dlog",
+     "source": "Naver Blog"
+    }
+   ]
+  },
+  {
+   "rank": 3,
    "keyword": "노태문",
    "slug": "노태문",
    "traffic": 200,
    "startedAt": 1795453200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
@@ -48,14 +74,14 @@
      "source": "동아일보"
     },
     {
-     "title": "노태문 \"인공지능 휴대전화 시대, 여러분이…MX 미래 기대\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123163632vUj",
-     "source": "연합뉴스TV"
+     "title": "MX 떠나는 노태문 “올해 부품값 급등에 어려움…도전 계속 지원”",
+     "url": "https://www.etnews.com/20261123000501",
+     "source": "전자신문"
     }
    ]
   },
   {
-   "rank": 3,
+   "rank": 4,
    "keyword": "sk그룹",
    "slug": "sk그룹",
    "traffic": 200,
@@ -69,19 +95,19 @@
      "source": "조선일보"
     },
     {
+     "title": "최태원 “노소영에 9440억 전액 지급” 화해권고 요청",
+     "url": "https://www.donga.com/news/Society/article/all/20261124/135077329/2",
+     "source": "동아일보"
+    },
+    {
      "title": "최태원 \"9천440억 전액 지급\"‥'세기의 이혼' 마무리 요청",
      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867926_37004.html",
      "source": "MBC 뉴스"
-    },
-    {
-     "title": "입장 바꾼 최태원 “노소영에 9440억 현금 지급”…화해권고 요청",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288668.html",
-     "source": "한겨레"
     }
    ]
   },
   {
-   "rank": 4,
+   "rank": 5,
    "keyword": "테슬라 주가",
    "slug": "테슬라-주가",
    "traffic": 200,
@@ -107,54 +133,28 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "qqq",
-   "slug": "qqq",
-   "traffic": 200,
-   "startedAt": 1795444200.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "NVIDIA's Market Cap Evaporates, Equaling Amazon's, Amid Tech Selloff",
-     "url": "https://www.chosun.com/english/market-money-en/2026/11/21/RVARKYWOLNHMRJFTVV4XQERNBE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
-     "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/",
-     "source": "The Motley Fool"
-    },
-    {
-     "title": "Nvidia: The Trade Of A Lifetime (NASDAQ:NVDA)",
-     "url": "https://seekingalpha.com/article/4971134-nvidia-the-trade-of-a-lifetime",
-     "source": "Seeking Alpha"
-    }
-   ]
-  },
-  {
    "rank": 6,
-   "keyword": "탁구",
-   "slug": "탁구",
+   "keyword": "브뢴뷔 대 미트윌란",
+   "slug": "브뢴뷔-대-미트윌란",
    "traffic": 100,
-   "startedAt": 1795455600.0,
+   "startedAt": 1795459800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759864",
-     "source": "국제뉴스"
+     "title": "Overreaction Monday - NFL Week 11: Niners, Lions, Jags, Chiefs & More",
+     "url": "https://www.espn.com/radio/play/_/id/50574502",
+     "source": "ESPN"
     },
     {
-     "title": "다음달 4일 아산시장배 전국장애인탁구대회",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112640",
-     "source": "충청매일"
+     "title": "Utah Valley 78-76 UT Martin (Nov 22, 2026) Final Score",
+     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921206/ut-martin-utah-valley",
+     "source": "ESPN"
     },
     {
-     "title": "김포시, 제17회 장애인 생활체육대회 성황리 마무리 : 네이버 블로그",
-     "url": "https://blog.naver.com/PostView.naver?blogId=gimpotoday&logNo=224488349119&redirect=Dlog",
-     "source": "Naver Blog"
+     "title": "Stephen F. Austin 72-70 Temple (Nov 22, 2026) Final Score",
+     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921205/temple-sf-austin",
+     "source": "ESPN"
     }
    ]
   },
@@ -164,8 +164,8 @@
    "slug": "샌디스크-주가",
    "traffic": 100,
    "startedAt": 1795446000.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "샌디스크 주가, 오늘 왜 급등하나?",
@@ -186,12 +186,38 @@
   },
   {
    "rank": 8,
+   "keyword": "nasdaq",
+   "slug": "nasdaq",
+   "traffic": 100,
+   "startedAt": 1795445400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+     "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+     "source": "CNBC"
+    },
+    {
+     "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026",
+     "source": "WSJ"
+    },
+    {
+     "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+     "source": "Bloomberg.com"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "tradingview",
    "slug": "tradingview",
    "traffic": 100,
    "startedAt": 1795444800.0,
    "change": "down",
-   "diff": 2,
+   "diff": 1,
    "news": [
     {
      "title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
@@ -207,32 +233,6 @@
      "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
      "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
      "source": "Traders Union"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "스페이스x 주가",
-   "slug": "스페이스x-주가",
-   "traffic": 100,
-   "startedAt": 1795444800.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "제프리스도 추가 상승 전망…10%대 급등",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04018006645648672",
-     "source": "마켓인"
-    },
-    {
-     "title": "스페이스X 주가, 급등한 이유는?",
-     "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187638",
-     "source": "Investing.com 한국어"
-    },
-    {
-     "title": "스페이스X가 AI 기술주 투자자에 '피난처' 부상, \"우주 기술 역량이 AI 사업 확장 뒷받침\"",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452637",
-     "source": "비즈니스포스트"
     }
    ]
   }
