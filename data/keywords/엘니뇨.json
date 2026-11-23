@@ -2,7 +2,7 @@
  "keyword": "엘니뇨",
  "slug": "엘니뇨",
  "firstSeen": 1795321200.0,
- "lastSeen": 1795330069.062487,
+ "lastSeen": 1795472834.8679013,
  "peakRank": 2,
  "peakTraffic": 2000,
  "history": [
@@ -15,9 +15,29 @@
    1795330069,
    2,
    2000
+  ],
+  [
+   1795472835,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "기상청, 이번 겨울 “예년보다 따뜻하고 강수량 많을 것”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719943",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "강한 엘니뇨에 올겨울 포근하고 강수량 많아…한파·대설도 주의",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=375150",
+   "source": "전기신문"
+  },
+  {
+   "title": "폭설인데 가뭄?...올겨울 날씨 '두 얼굴' 전망",
+   "url": "https://www.ytn.co.kr/_ln/0105_202611232250536367",
+   "source": "YTN"
+  },
   {
    "title": "엘니뇨, 향후 3개월 동안 매우 강력, 다가오는 강우 추세 예측",
    "url": "https://ko.laodong.vn/moi-truong/el-nino-rat-manh-trong-3-thang-toi-du-bao-xu-the-mua-sap-toi-1803893.ldo",
@@ -35,9 +55,19 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-24"
  ],
  "related": [
+  "김혜수",
+  "전원주",
+  "로스앤젤레스-fc",
+  "노시환",
+  "대한민국-축구-국가대표팀",
+  "ai-에이전트",
+  "이민진",
+  "비트코인-시세",
+  "스페이스x",
   "투자",
   "외교",
   "f1",
@@ -48,9 +78,6 @@
   "휴머노이드",
   "최민정",
   "제네시스-g80",
-  "최예나",
-  "휴온스-lpba-챔피언십",
-  "기상",
-  "무시알라"
+  "최예나"
  ]
 }
