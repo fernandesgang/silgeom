@@ -1,0 +1,46 @@
+{
+ "keyword": "팝콘",
+ "slug": "팝콘",
+ "firstSeen": 1795406400.0,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 6,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795412598,
+   6,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "카페인중독·바프 콜라보, 당류 1g 이하 팝콘 3종 선보여… 생크림·카라멜·피넛버터 구성",
+   "url": "https://www.gosiweek.com/article/1065577520120943",
+   "source": "피앤피뉴스"
+  },
+  {
+   "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
+   "source": "신아일보"
+  },
+  {
+   "title": "다시 만난 최승윤 대표",
+   "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940",
+   "source": "일요시사"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "경찰",
+  "fifa-u-17-월드컵",
+  "원자력-추진",
+  "주차",
+  "하이닉스-주가",
+  "코디-폰세",
+  "카카오",
+  "warriors-vs-celtics",
+  "기호일보"
+ ]
+}

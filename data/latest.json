@@ -1,249 +1,171 @@
 {
- "generatedAt": 1795407857,
+ "generatedAt": 1795412598,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "배치표",
-   "slug": "배치표",
+   "keyword": "경찰",
+   "slug": "경찰",
    "traffic": 2000,
-   "startedAt": 1795402800.0,
+   "startedAt": 1795405200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "약대 합격선 줄줄이 상승…서울대 약대 290점 '최고치' 전망",
-     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549526",
-     "source": "약사공론"
+     "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
+     "url": "https://news.jtbc.co.kr/article/NB12329355",
+     "source": "JTBC"
     },
     {
-     "title": "올해 서울대 의대 가려면 ‘수능 295점 이상’…대구선 284점대",
-     "url": "https://www.yeongnam.com/web/view.php?key=20261122029592315",
-     "source": "영남일보"
+     "title": "경찰, '부정시험 의혹' 리트 만점자 유족 면담‥과외 교사도 조사 예정",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6867833_36918.html?1795411511982",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "합격예측 앱, 포털 환산점수 도구…손쉽게 대입 전략 세운다",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22014006358",
-     "source": "국제신문"
+     "title": "단독 교육청, 이진우 '수능 시험지' 반출 법리검토 경찰에 요청",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611231120309984",
+     "source": "YTN"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "lpga",
-   "slug": "lpga",
-   "traffic": 2000,
-   "startedAt": 1795399200.0,
-   "change": "same",
+   "keyword": "fifa u-17 월드컵",
+   "slug": "fifa-u-17-월드컵",
+   "traffic": 1000,
+   "startedAt": 1795406400.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116",
-     "source": "news.sbs.co.kr"
+     "title": "’김지우 해트트릭’ 한국, 뉴칼레도니아 잡고 32강 조기 확정",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123083123Kzd",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "Thitikul Ends Sörenstam's LPGA Earnings Reign",
-     "url": "https://www.chosun.com/english/world-en/2026/11/23/DQZ7INLHRFAQPBZUYU3Z6LVYBU/",
+     "title": "韓 축구 새 재능 탄생…2009년생 '잘츠부르크 이적 확정' 김지호, U-17 월드컵 뉴칼레도니아전 '기대감'",
+     "url": "https://www.chosun.com/sports/football/2026/11/22/GI2TKZDCMJTDCYLCGNSDKOJXMQ/",
      "source": "조선일보"
     },
     {
-     "title": "Jeeno Thitikul Cashes in at Tiburon to Win $4M Prize for 3rd Straight Time",
-     "url": "https://www.lpga.com/news/2026/jeeno-thitikul-cashes-in-at-tiburon-to-win-4m-prize-for-3rd-straight-time",
-     "source": "LPGA"
+     "title": "U-17 축구대표팀, 월드컵 첫 경기서 우간다 3대 0 대승",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718341",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "새마을금고",
-   "slug": "새마을금고",
-   "traffic": 500,
-   "startedAt": 1795402200.0,
+   "keyword": "원자력 추진",
+   "slug": "원자력-추진",
+   "traffic": 1000,
+   "startedAt": 1795405800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "구로구-하나은행·동구로새마을금고·든솔신협, 전용계좌 협약",
-     "url": "https://www.newsis.com/view/NISX20261122_0003878041",
-     "source": "뉴시스"
+     "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
+     "url": "https://www.mk.co.kr/news/politics/12215581",
+     "source": "매일경제"
     },
     {
-     "title": "새마을금고·신협도 지방보조금 전용계좌…구로구, 금융기관 선택 폭 넓힌다",
-     "url": "https://biz.heraldcorp.com/article/10944889",
-     "source": "헤럴드경제"
+     "title": "中, IAEA 이사회서 한국 원잠 도입 반대",
+     "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/23/EQUGML6WHVF2VHVKRASUHDLZ6Y/",
+     "source": "조선일보"
     },
     {
-     "title": "용산구, 새마을금고와 보조사업자 금융 편의‧지역상생 업무협약",
-     "url": "http://www.newszoom.kr/2115821",
-     "source": "newszoom.kr"
+     "title": "미·중 국력 격차 역대 최소…중국 원잠 증강에 아시아 ‘핵잠 도입 도미노’",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008751",
+     "source": "아시아투데이"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "사채",
-   "slug": "사채",
+   "keyword": "주차",
+   "slug": "주차",
    "traffic": 500,
-   "startedAt": 1795401000.0,
+   "startedAt": 1795407000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "단독 쿠팡·배민도 손 못 대는 '배달 사채'...금감원, 실태 점검",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611230524034356",
-     "source": "YTN"
+     "title": "천안시, 시민체육공원 주차장… 30일까지 전면 통제",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3451170",
+     "source": "천지일보"
     },
     {
-     "title": "금융감독원, '배달 사채' 실태 파악 착수…불법 대부업 근절 나서",
-     "url": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=47336",
-     "source": "nbn 시사경제"
+     "title": "천안시, 30일까지 시민체육공원 주차 전면 통제",
+     "url": "https://www.joongdo.co.kr/web/view.php?key=20261123010007750",
+     "source": "중도일보"
     },
     {
-     "title": "배달기사 옥죄는 '배달 사채'…금감원, 불법 대부 실태 조사",
-     "url": "https://www.thepublic.kr/news/articleView.html?idxno=327956",
-     "source": "더퍼블릭"
+     "title": "천안시민체육공원 주차장 23일부터 전면 통제…30일까지 주차 불가",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112715",
+     "source": "충청매일"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "ssg 랜더스",
-   "slug": "ssg-랜더스",
+   "keyword": "하이닉스 주가",
+   "slug": "하이닉스-주가",
    "traffic": 500,
-   "startedAt": 1795397400.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795403400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
-     "url": "https://www.yna.co.kr/view/AKR20261122016900007",
-     "source": "연합뉴스"
+     "title": "\"삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야\"",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873510",
+     "source": "뉴시스"
     },
     {
-     "title": "[공식발표] '와 미쳤다' 93억에 내부 FA 전원 단속 성공! 37살 베테랑 왜 15억에 붙잡았나 \"헌신+경기운영능력 최우선 평가\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZRDMMJUHA3DCNZSHA4DAZBWMM/",
-     "source": "조선일보"
+     "title": "삼전닉스 싸다고 줍줍했다간…증권가 '서늘한 경고' [머니팁]",
+     "url": "https://www.hankyung.com/article/202611233663v",
+     "source": "한국경제"
     },
     {
-     "title": "프로야구 SSG, 투수 문승원과 최대 3년·15억원 FA 계약",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611230611191Xq",
-     "source": "연합뉴스TV"
+     "title": "미국 반도체 쇼크에...파랗게 질린 프리마켓, 17만전자·104만닉스 '뚝' - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/23/2026112308280475524",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "이부진 아들",
-   "slug": "이부진-아들",
+   "keyword": "팝콘",
+   "slug": "팝콘",
    "traffic": 200,
-   "startedAt": 1795402800.0,
+   "startedAt": 1795406400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "신라호텔 이부진 아들, 어머니 姓 따라 이씨로 변경",
-     "url": "https://www.chosun.com/national/court_law/2026/11/23/FBTBSPCOPRAOHJBPWLETX5I2XY/",
-     "source": "조선일보"
+     "title": "카페인중독·바프 콜라보, 당류 1g 이하 팝콘 3종 선보여… 생크림·카라멜·피넛버터 구성",
+     "url": "https://www.gosiweek.com/article/1065577520120943",
+     "source": "피앤피뉴스"
     },
     {
-     "title": "이부진 호텔신라 사장 아들, 어머니 姓 따라 李 씨로 姓 바꿔",
-     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229861",
-     "source": "법률신문"
+     "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
+     "source": "신아일보"
     },
     {
-     "title": "이부진 아들, 성인 되자 어머니 성 ‘이’씨로 바꿨다",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288610.html",
-     "source": "한겨레"
+     "title": "다시 만난 최승윤 대표",
+     "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940",
+     "source": "일요시사"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "삼성물산",
-   "slug": "삼성물산",
-   "traffic": 200,
-   "startedAt": 1795401600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "삼성물산 건설부문장에 최영재 사장 승진 임명",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375138",
-     "source": "전기신문"
-    },
-    {
-     "title": "삼성물산, 6년 만에 건설부문 수장 교체…신임 사장에 최영재(종합)",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445999",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "삼성물산 건설부문 사장에 최영재 부사장 승진",
-     "url": "https://www.yna.co.kr/view/AKR20261123039000003",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "치이카와 클리닉",
-   "slug": "치이카와-클리닉",
-   "traffic": 200,
-   "startedAt": 1795401000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "치이카와 클리닉 @삿포로 아피아",
-     "url": "https://domingo.ne.jp/ko/event/55460",
-     "source": "domingo.ne.jp"
-    },
-    {
-     "title": "내 지갑은 치료 불가···'치이카와 클리닉' 더현대 서울 상륙",
-     "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7399",
-     "source": "캠페인 인사이트"
-    },
-    {
-     "title": "'치이카와 클리닉' 팝업 스토어, 오늘(23일) 1차 사전 예약 오픈…시간·방법?",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16283185",
-     "source": "톱스타뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "국가장학금",
-   "slug": "국가장학금",
-   "traffic": 200,
-   "startedAt": 1795398600.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
-     "url": "https://www.yna.co.kr/view/AKR20261123047100530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "2027학년도 국가장학금 24일부터 신청…소득구간 10개→5개 개편",
-     "url": "https://www.newspim.com/news/view/20261123000075",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "국가장학금 1차 24일부터 신청…내년 지방 국립대 등록금 전액 지원",
-     "url": "https://www.news1.kr/society/education/6362413",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "rank": 10,
    "keyword": "코디 폰세",
    "slug": "코디-폰세",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795403400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "\"1년 만에 2위에서 9위 추락\"… 217만불 투입 한화 현역 빅리거 영입, 무너진 투수왕국 다시 세운다",
@@ -259,6 +181,84 @@
      "title": "상대는 폰세와 와이스다… 한화가 일찌감치 대답을 내놨다, 방향성은 확실, 결과도 확실할까",
      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021237",
      "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "카카오",
+   "slug": "카카오",
+   "traffic": 100,
+   "startedAt": 1795407600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“저녁값 3만원씩 보내줘”…더치페이 습관도 들여다보는 ‘카카오페이 스코어’",
+     "url": "https://stock.mk.co.kr/news/view/1204102",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "카카오페이, 마이데이터 초개인화 가속…\"데이터 비즈니스 선도\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123067400017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "카카오페이 \"2027년까지 신용평가 모형 고도화…포용금융 확대\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446028",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "warriors vs celtics",
+   "slug": "warriors-vs-celtics",
+   "traffic": 100,
+   "startedAt": 1795406400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "The Golden State Warriors won their first victory since leaving star Stephen Curry.Golden State beat..",
+     "url": "https://www.mk.co.kr/en/sports/12216024",
+     "source": "매일경제"
+    },
+    {
+     "title": "Boston Celtics to face Golden State on the road : NBA : JKN",
+     "url": "https://news.jkn.co.kr/editions/english/post/1115381",
+     "source": "재경일보"
+    },
+    {
+     "title": "Ivica Zubac grabs 14 rebounds, posts double-double",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-22/ivica-zubac-grabs-14-rebounds-posts-double-double",
+     "source": "NBC Sports"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "기호일보",
+   "slug": "기호일보",
+   "traffic": 100,
+   "startedAt": 1795405800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "차병원, 송도 국제병원 부지에 3천 가구 주상복합아파트 요구",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041673",
+     "source": "기호일보"
+    },
+    {
+     "title": "인천 배다리 관통도로 내년 전 구간 개통 ‘순항’",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041722",
+     "source": "기호일보"
+    },
+    {
+     "title": "인천경기디자인기업협회, 2026 인천국제디자인페어 마무리…관람객 2천여명 방문",
+     "url": "https://www.kyeonggi.com/article/20261122580241",
+     "source": "경기일보"
     }
    ]
   }

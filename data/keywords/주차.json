@@ -1,0 +1,46 @@
+{
+ "keyword": "주차",
+ "slug": "주차",
+ "firstSeen": 1795407000.0,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 4,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795412598,
+   4,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "천안시, 시민체육공원 주차장… 30일까지 전면 통제",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3451170",
+   "source": "천지일보"
+  },
+  {
+   "title": "천안시, 30일까지 시민체육공원 주차 전면 통제",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261123010007750",
+   "source": "중도일보"
+  },
+  {
+   "title": "천안시민체육공원 주차장 23일부터 전면 통제…30일까지 주차 불가",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112715",
+   "source": "충청매일"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "경찰",
+  "fifa-u-17-월드컵",
+  "원자력-추진",
+  "하이닉스-주가",
+  "팝콘",
+  "코디-폰세",
+  "카카오",
+  "warriors-vs-celtics",
+  "기호일보"
+ ]
+}

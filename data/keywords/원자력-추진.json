@@ -1,0 +1,46 @@
+{
+ "keyword": "원자력 추진",
+ "slug": "원자력-추진",
+ "firstSeen": 1795405800.0,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 3,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795412598,
+   3,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
+   "url": "https://www.mk.co.kr/news/politics/12215581",
+   "source": "매일경제"
+  },
+  {
+   "title": "中, IAEA 이사회서 한국 원잠 도입 반대",
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/23/EQUGML6WHVF2VHVKRASUHDLZ6Y/",
+   "source": "조선일보"
+  },
+  {
+   "title": "미·중 국력 격차 역대 최소…중국 원잠 증강에 아시아 ‘핵잠 도입 도미노’",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008751",
+   "source": "아시아투데이"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "경찰",
+  "fifa-u-17-월드컵",
+  "주차",
+  "하이닉스-주가",
+  "팝콘",
+  "코디-폰세",
+  "카카오",
+  "warriors-vs-celtics",
+  "기호일보"
+ ]
+}

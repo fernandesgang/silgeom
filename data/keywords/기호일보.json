@@ -1,0 +1,46 @@
+{
+ "keyword": "기호일보",
+ "slug": "기호일보",
+ "firstSeen": 1795405800.0,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795412598,
+   10,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "차병원, 송도 국제병원 부지에 3천 가구 주상복합아파트 요구",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041673",
+   "source": "기호일보"
+  },
+  {
+   "title": "인천 배다리 관통도로 내년 전 구간 개통 ‘순항’",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041722",
+   "source": "기호일보"
+  },
+  {
+   "title": "인천경기디자인기업협회, 2026 인천국제디자인페어 마무리…관람객 2천여명 방문",
+   "url": "https://www.kyeonggi.com/article/20261122580241",
+   "source": "경기일보"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "경찰",
+  "fifa-u-17-월드컵",
+  "원자력-추진",
+  "주차",
+  "하이닉스-주가",
+  "팝콘",
+  "코디-폰세",
+  "카카오",
+  "warriors-vs-celtics"
+ ]
+}

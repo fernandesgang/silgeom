@@ -1,0 +1,46 @@
+{
+ "keyword": "카카오",
+ "slug": "카카오",
+ "firstSeen": 1795407600.0,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795412598,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "“저녁값 3만원씩 보내줘”…더치페이 습관도 들여다보는 ‘카카오페이 스코어’",
+   "url": "https://stock.mk.co.kr/news/view/1204102",
+   "source": "매일경제 마켓"
+  },
+  {
+   "title": "카카오페이, 마이데이터 초개인화 가속…\"데이터 비즈니스 선도\"",
+   "url": "https://www.yna.co.kr/view/AKR20261123067400017",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "카카오페이 \"2027년까지 신용평가 모형 고도화…포용금융 확대\"",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446028",
+   "source": "연합인포맥스"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "경찰",
+  "fifa-u-17-월드컵",
+  "원자력-추진",
+  "주차",
+  "하이닉스-주가",
+  "팝콘",
+  "코디-폰세",
+  "warriors-vs-celtics",
+  "기호일보"
+ ]
+}

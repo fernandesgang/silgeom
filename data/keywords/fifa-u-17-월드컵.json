@@ -2,17 +2,37 @@
  "keyword": "fifa u-17 월드컵",
  "slug": "fifa-u-17-월드컵",
  "firstSeen": 1795158000.0,
- "lastSeen": 1795162129.5148563,
- "peakRank": 10,
- "peakTraffic": 100,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 2,
+ "peakTraffic": 1000,
  "history": [
   [
    1795162130,
    10,
    100
+  ],
+  [
+   1795412598,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "’김지우 해트트릭’ 한국, 뉴칼레도니아 잡고 32강 조기 확정",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123083123Kzd",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "韓 축구 새 재능 탄생…2009년생 '잘츠부르크 이적 확정' 김지호, U-17 월드컵 뉴칼레도니아전 '기대감'",
+   "url": "https://www.chosun.com/sports/football/2026/11/22/GI2TKZDCMJTDCYLCGNSDKOJXMQ/",
+   "source": "조선일보"
+  },
+  {
+   "title": "U-17 축구대표팀, 월드컵 첫 경기서 우간다 3대 0 대승",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8718341",
+   "source": "KBS 뉴스"
+  },
   {
    "title": "U-17 축구대표팀, 월드컵 첫 경기서 우간다 3대 0 대승",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718341",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-23"
  ],
  "related": [
+  "경찰",
+  "원자력-추진",
+  "주차",
+  "하이닉스-주가",
+  "팝콘",
+  "코디-폰세",
+  "카카오",
+  "warriors-vs-celtics",
+  "기호일보",
   "하정우",
   "이부진",
   "임지열",

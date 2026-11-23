@@ -1,0 +1,46 @@
+{
+ "keyword": "경찰",
+ "slug": "경찰",
+ "firstSeen": 1795405200.0,
+ "lastSeen": 1795412597.550012,
+ "peakRank": 1,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795412598,
+   1,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
+   "url": "https://news.jtbc.co.kr/article/NB12329355",
+   "source": "JTBC"
+  },
+  {
+   "title": "경찰, '부정시험 의혹' 리트 만점자 유족 면담‥과외 교사도 조사 예정",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6867833_36918.html?1795411511982",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "단독 교육청, 이진우 '수능 시험지' 반출 법리검토 경찰에 요청",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611231120309984",
+   "source": "YTN"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "fifa-u-17-월드컵",
+  "원자력-추진",
+  "주차",
+  "하이닉스-주가",
+  "팝콘",
+  "코디-폰세",
+  "카카오",
+  "warriors-vs-celtics",
+  "기호일보"
+ ]
+}
