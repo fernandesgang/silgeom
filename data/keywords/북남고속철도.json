@@ -1,0 +1,45 @@
+{
+ "keyword": "북남고속철도",
+ "slug": "북남고속철도",
+ "firstSeen": 1795460400.0,
+ "lastSeen": 1795466360.231098,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795466360,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "동울산종합시장, 호계공설시장 방문 - 포토 | 멀티미디어",
+   "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74455&pageIndex=1",
+   "source": "대한민국 정책브리핑"
+  },
+  {
+   "title": "38시간→5시간 반… ‘95조’ 베트남 고속철, 韓이 설계",
+   "url": "https://www.chosun.com/international/international_general/2026/11/23/T7UUKXT6RZCUVF7LJ2KLR4AWBY/",
+   "source": "조선일보"
+  },
+  {
+   "title": "이 대통령, 김윤덕 의원에 공개 칭찬…이례적 SNS 격려에 정치권 주목",
+   "url": "https://www.jjan.kr/article/20261123500404",
+   "source": "전북일보 인터넷신문"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "탁구",
+  "노태문",
+  "브뢴뷔-대-미트윌란",
+  "리플",
+  "sk그룹",
+  "테슬라-주가",
+  "강성태",
+  "샌디스크-주가"
+ ]
+}

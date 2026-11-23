@@ -2,7 +2,7 @@
  "keyword": "테슬라 주가",
  "slug": "테슬라-주가",
  "firstSeen": 1795446600.0,
- "lastSeen": 1795463585.7834826,
+ "lastSeen": 1795466360.231098,
  "peakRank": 2,
  "peakTraffic": 200,
  "history": [
@@ -25,9 +25,19 @@
    1795463586,
    5,
    200
+  ],
+  [
+   1795466360,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Tesla Bulls Banking on SpaceX “Don’t Get the Dilution Math,” Says Gary Black. Tesla Trades at 3.4x SpaceX’s 2027 Multiple",
+   "url": "https://www.tikr.com/ko/blog/tesla-bulls-banking-on-spacex-dont-get-the-dilution-math-says-gary-black-tesla-trades-at-3-4x-spacexs-2027-multiple",
+   "source": "TIKR.com"
+  },
   {
    "title": "테슬라 주가, 오늘 급등한 이유는?",
    "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187626",
@@ -48,6 +58,9 @@
   "2026-11-24"
  ],
  "related": [
+  "리플",
+  "강성태",
+  "북남고속철도",
   "브뢴뷔-대-미트윌란",
   "nasdaq",
   "노태문",

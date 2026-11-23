@@ -1,41 +1,15 @@
 {
- "generatedAt": 1795463586,
+ "generatedAt": 1795466360,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "to me my x men",
-   "slug": "to-me-my-x-men",
-   "traffic": 500,
-   "startedAt": 1795444800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
-     "url": "https://www.marvel.com/articles/movies/avengers-doomsday-final-trailer",
-     "source": "Marvel.com"
-    },
-    {
-     "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-     "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-     "source": "Ars Technica"
-    },
-    {
-     "title": "Movie Ticketing Feature Comes to Disney+ for ‘Avengers: Doomsday’",
-     "url": "https://thewaltdisneycompany.com/news/movie-ticketing-disney-plus-avengers-doomsday/",
-     "source": "The Walt Disney Company"
-    }
-   ]
-  },
-  {
-   "rank": 2,
    "keyword": "탁구",
    "slug": "탁구",
-   "traffic": 200,
+   "traffic": 1000,
    "startedAt": 1795455600.0,
    "change": "up",
-   "diff": 4,
+   "diff": 1,
    "news": [
     {
      "title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
@@ -55,12 +29,12 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 2,
    "keyword": "노태문",
    "slug": "노태문",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795453200.0,
-   "change": "down",
+   "change": "up",
    "diff": 1,
    "news": [
     {
@@ -69,19 +43,71 @@
      "source": "samsung.com"
     },
     {
-     "title": "삼성-SK 잇단 금요일 인사 뒤엔 ‘안정 속 쇄신’ [재계팀의 비즈워치]",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135076262/2",
-     "source": "동아일보"
-    },
-    {
      "title": "MX 떠나는 노태문 “올해 부품값 급등에 어려움…도전 계속 지원”",
      "url": "https://www.etnews.com/20261123000501",
      "source": "전자신문"
+    },
+    {
+     "title": "주요 그룹들 전문성 갖춘 인사 중용 ‘변화보다 안정’",
+     "url": "https://www.khan.co.kr/article/202611222028015",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "브뢴뷔 대 미트윌란",
+   "slug": "브뢴뷔-대-미트윌란",
+   "traffic": 200,
+   "startedAt": 1795459800.0,
+   "change": "up",
+   "diff": 3,
+   "news": [
+    {
+     "title": "Brondby vs FC Midtjylland Prediction, Betting Tips, Lineups & Odds | 23 Nov 2026",
+     "url": "https://www.sportsgambler.com/betting-tips/football/brondby-vs-fc-midtjylland-prediction-lineups-odds-2026-11-23/",
+     "source": "Sportsgambler"
+    },
+    {
+     "title": "Midtjylland cruise past Brondby to extend Superliga lead",
+     "url": "https://www.tribalfootball.com/article/midtjylland-cruise-past-brondby-to-extend-superliga-lead-95729c97-c324-48e3-bf3c-cd2c0fc86d69",
+     "source": "TribalFootball"
+    },
+    {
+     "title": "FC Midtjylland cruise past Brondby to open up gap at the top of the Superliga table",
+     "url": "https://www.flashscore.com/news/soccer-superliga-fc-midtjylland-cruise-past-brondby-to-open-up-gap-at-the-top-of-the-superliga-table/Wb1tDh0b/",
+     "source": "Flashscore.com"
     }
    ]
   },
   {
    "rank": 4,
+   "keyword": "리플",
+   "slug": "리플",
+   "traffic": 200,
+   "startedAt": 1795459800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "기대감의 시대 끝...AI, '수익성'으로 증명하라",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231102465190",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "‘IPO 성공’ 앤트로픽, 채권 시장에선?…WSJ “정크본드 등급 예상”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720100",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[특징주] SK텔레콤, '지분보유' 앤트로픽 급락에 6%대 하락",
+     "url": "https://www.yna.co.kr/view/AKR20261123040400008",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "sk그룹",
    "slug": "sk그룹",
    "traffic": 200,
@@ -107,7 +133,7 @@
    ]
   },
   {
-   "rank": 5,
+   "rank": 6,
    "keyword": "테슬라 주가",
    "slug": "테슬라-주가",
    "traffic": 200,
@@ -127,45 +153,71 @@
     },
     {
      "title": "Tesla Bulls Banking on SpaceX “Don’t Get the Dilution Math,” Says Gary Black. Tesla Trades at 3.4x SpaceX’s 2027 Multiple",
-     "url": "https://www.tikr.com/ko/blog/tesla-bulls-banking-on-spacex-dont-get-the-dilution-math-says-gary-black-tesla-trades-at-3-4x-spacexs-2027-multiple?",
+     "url": "https://www.tikr.com/ko/blog/tesla-bulls-banking-on-spacex-dont-get-the-dilution-math-says-gary-black-tesla-trades-at-3-4x-spacexs-2027-multiple",
      "source": "TIKR.com"
     }
    ]
   },
   {
-   "rank": 6,
-   "keyword": "브뢴뷔 대 미트윌란",
-   "slug": "브뢴뷔-대-미트윌란",
+   "rank": 7,
+   "keyword": "강성태",
+   "slug": "강성태",
    "traffic": 100,
-   "startedAt": 1795459800.0,
+   "startedAt": 1795461000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Overreaction Monday - NFL Week 11: Niners, Lions, Jags, Chiefs & More",
-     "url": "https://www.espn.com/radio/play/_/id/50574502",
-     "source": "ESPN"
+     "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\"",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976210",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "Utah Valley 78-76 UT Martin (Nov 22, 2026) Final Score",
-     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921206/ut-martin-utah-valley",
-     "source": "ESPN"
+     "title": "탄력 붙는 AI커닝방지법, 시험지 고유표식 등 법정비 나선다 - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/24/2026112319482456414",
+     "source": "머니투데이"
     },
     {
-     "title": "Stephen F. Austin 72-70 Temple (Nov 22, 2026) Final Score",
-     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921205/temple-sf-austin",
-     "source": "ESPN"
+     "title": "\"수능 핸드폰 재난문자 걸린 학생, 이미 연대 수시 논술 합격\"…교육부 \"사실관계 파악 중\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329402",
+     "source": "JTBC"
     }
    ]
   },
   {
-   "rank": 7,
+   "rank": 8,
+   "keyword": "북남고속철도",
+   "slug": "북남고속철도",
+   "traffic": 100,
+   "startedAt": 1795460400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "동울산종합시장, 호계공설시장 방문 - 포토 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74455&pageIndex=1",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "38시간→5시간 반… ‘95조’ 베트남 고속철, 韓이 설계",
+     "url": "https://www.chosun.com/international/international_general/2026/11/23/T7UUKXT6RZCUVF7LJ2KLR4AWBY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이 대통령, 김윤덕 의원에 공개 칭찬…이례적 SNS 격려에 정치권 주목",
+     "url": "https://www.jjan.kr/article/20261123500404",
+     "source": "전북일보 인터넷신문"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "샌디스크 주가",
    "slug": "샌디스크-주가",
    "traffic": 100,
    "startedAt": 1795446000.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "샌디스크 주가, 오늘 왜 급등하나?",
@@ -181,58 +233,6 @@
      "title": "샌디스크 분할 첫날 16% 털렸다…94달러가 79달러로",
      "url": "https://www.coinreaders.com/272529",
      "source": "코인리더스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "nasdaq",
-   "slug": "nasdaq",
-   "traffic": 100,
-   "startedAt": 1795445400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-     "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
-     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026",
-     "source": "WSJ"
-    },
-    {
-     "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-     "source": "Bloomberg.com"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "tradingview",
-   "slug": "tradingview",
-   "traffic": 100,
-   "startedAt": 1795444800.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
-     "url": "https://tradersunion.com/news/brokers-news/show/4377977-whitebit-and-tradingview-launch-black/",
-     "source": "Traders Union"
-    },
-    {
-     "title": "Black Friday Sale Now Live!",
-     "url": "https://essexcricket.org.uk/2026/11/23/black-friday-sale-now-live/",
-     "source": "Essex Cricket"
-    },
-    {
-     "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
-     "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
-     "source": "Traders Union"
     }
    ]
   }

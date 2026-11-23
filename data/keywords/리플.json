@@ -1,0 +1,45 @@
+{
+ "keyword": "리플",
+ "slug": "리플",
+ "firstSeen": 1795459800.0,
+ "lastSeen": 1795466360.231098,
+ "peakRank": 4,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795466360,
+   4,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "기대감의 시대 끝...AI, '수익성'으로 증명하라",
+   "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231102465190",
+   "source": "YTN 사이언스"
+  },
+  {
+   "title": "‘IPO 성공’ 앤트로픽, 채권 시장에선?…WSJ “정크본드 등급 예상”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8720100",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "[특징주] SK텔레콤, '지분보유' 앤트로픽 급락에 6%대 하락",
+   "url": "https://www.yna.co.kr/view/AKR20261123040400008",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "탁구",
+  "노태문",
+  "브뢴뷔-대-미트윌란",
+  "sk그룹",
+  "테슬라-주가",
+  "강성태",
+  "북남고속철도",
+  "샌디스크-주가"
+ ]
+}

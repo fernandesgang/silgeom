@@ -69,14 +69,14 @@
    "firstSeen": 1795446600.0,
    "peakRank": 2,
    "peakTraffic": 200,
-   "lastSeen": 1795463585.7834826
+   "lastSeen": 1795466360.231098
   },
   "샌디스크 주가": {
    "slug": "샌디스크-주가",
    "firstSeen": 1795446000.0,
    "peakRank": 5,
    "peakTraffic": 100,
-   "lastSeen": 1795463585.7834826
+   "lastSeen": 1795466360.231098
   },
   "tradingview": {
    "slug": "tradingview",
@@ -90,7 +90,7 @@
    "firstSeen": 1795451400.0,
    "peakRank": 2,
    "peakTraffic": 200,
-   "lastSeen": 1795463585.7834826
+   "lastSeen": 1795466360.231098
   },
   "스페이스x 주가": {
    "slug": "스페이스x-주가",
@@ -103,22 +103,22 @@
    "slug": "노태문",
    "firstSeen": 1795453200.0,
    "peakRank": 2,
-   "peakTraffic": 200,
-   "lastSeen": 1795463585.7834826
+   "peakTraffic": 500,
+   "lastSeen": 1795466360.231098
   },
   "탁구": {
    "slug": "탁구",
    "firstSeen": 1795455600.0,
-   "peakRank": 2,
-   "peakTraffic": 200,
-   "lastSeen": 1795463585.7834826
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795466360.231098
   },
   "브뢴뷔 대 미트윌란": {
    "slug": "브뢴뷔-대-미트윌란",
    "firstSeen": 1795459800.0,
-   "peakRank": 6,
-   "peakTraffic": 100,
-   "lastSeen": 1795463585.7834826
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795466360.231098
   },
   "nasdaq": {
    "slug": "nasdaq",
@@ -126,6 +126,27 @@
    "peakRank": 8,
    "peakTraffic": 100,
    "lastSeen": 1795463585.7834826
+  },
+  "리플": {
+   "slug": "리플",
+   "firstSeen": 1795459800.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795466360.231098
+  },
+  "강성태": {
+   "slug": "강성태",
+   "firstSeen": 1795461000.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795466360.231098
+  },
+  "북남고속철도": {
+   "slug": "북남고속철도",
+   "firstSeen": 1795460400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795466360.231098
   }
  }
 }
