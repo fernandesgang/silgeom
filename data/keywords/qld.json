@@ -2,17 +2,27 @@
  "keyword": "qld",
  "slug": "qld",
  "firstSeen": 1795444200.0,
- "lastSeen": 1795449163.4170582,
- "peakRank": 9,
+ "lastSeen": 1795456054.2369719,
+ "peakRank": 8,
  "peakTraffic": 100,
  "history": [
   [
    1795449163,
    9,
    100
+  ],
+  [
+   1795456054,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "704/25 Shafston Avenue, Kangaroo Point, Qld 4169",
+   "url": "https://www.realestate.com.au/property-apartment-qld-kangaroo+point-445574256",
+   "source": "Real Estate"
+  },
   {
    "title": "29 Kate Court, Murrumba Downs, Qld 4503",
    "url": "https://www.realestate.com.au/property-house-qld-murrumba+downs-445574524",
@@ -33,6 +43,11 @@
   "2026-11-24"
  ],
  "related": [
+  "sk그룹",
+  "테슬라-주가",
+  "샌디스크-주가",
+  "tradingview",
+  "스페이스x-주가",
   "nvidia-stock",
   "둠스데이",
   "to-me-my-x-men",

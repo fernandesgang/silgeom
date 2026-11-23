@@ -1,0 +1,44 @@
+{
+ "keyword": "스페이스x 주가",
+ "slug": "스페이스x-주가",
+ "firstSeen": 1795444800.0,
+ "lastSeen": 1795456054.2369719,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795456054,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "제프리스도 추가 상승 전망…10%대 급등",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04018006645648672",
+   "source": "마켓인"
+  },
+  {
+   "title": "스페이스X 주가, 급등한 이유는?",
+   "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187638",
+   "source": "Investing.com 한국어"
+  },
+  {
+   "title": "스페이스X가 AI 기술주 투자자에 '피난처' 부상, \"우주 기술 역량이 AI 사업 확장 뒷받침\"",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452637",
+   "source": "비즈니스포스트"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "to-me-my-x-men",
+  "sk그룹",
+  "테슬라-주가",
+  "qqq",
+  "샌디스크-주가",
+  "tradingview",
+  "qld"
+ ]
+}

@@ -1,6 +1,16 @@
 {
  "ranks": {
   "to me my x men": 1,
+  "sk그룹": 2,
+  "테슬라 주가": 3,
+  "qqq": 4,
+  "샌디스크 주가": 5,
+  "tradingview": 6,
+  "스페이스x 주가": 7,
+  "qld": 8
+ },
+ "prevRanks": {
+  "to me my x men": 1,
   "테슬라 주가": 2,
   "qqq": 3,
   "옆자리 프란체스카": 4,
@@ -9,16 +19,5 @@
   "샌디스크 주가": 7,
   "tradingview": 8
  },
- "prevRanks": {
-  "nvidia stock": 1,
-  "둠스데이": 2,
-  "to me my x men": 3,
-  "qqq": 4,
-  "옆자리 프란체스카": 5,
-  "토스": 6,
-  "코인니스": 7,
-  "박준형": 8,
-  "qld": 9
- },
- "changedAt": 1795452448.945292
+ "changedAt": 1795456054.2369719
 }

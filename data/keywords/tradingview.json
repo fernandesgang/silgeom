@@ -2,17 +2,27 @@
  "keyword": "tradingview",
  "slug": "tradingview",
  "firstSeen": 1795444800.0,
- "lastSeen": 1795452448.945292,
- "peakRank": 8,
+ "lastSeen": 1795456054.2369719,
+ "peakRank": 6,
  "peakTraffic": 100,
  "history": [
   [
    1795452449,
    8,
    100
+  ],
+  [
+   1795456054,
+   6,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "Black Friday Sale Now Live!",
+   "url": "https://essexcricket.org.uk/2026/11/23/black-friday-sale-now-live/",
+   "source": "Essex Cricket"
+  },
   {
    "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
    "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
@@ -28,6 +38,9 @@
   "2026-11-24"
  ],
  "related": [
+  "sk그룹",
+  "스페이스x-주가",
+  "qld",
   "to-me-my-x-men",
   "테슬라-주가",
   "qqq",
