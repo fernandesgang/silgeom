@@ -823,37 +823,37 @@
   "이진관 판사": {
    "slug": "이진관-판사",
    "firstSeen": 1795426800.0,
-   "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795432685.0658474
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795436197.453579
   },
   "중위소득": {
    "slug": "중위소득",
    "firstSeen": 1795428600.0,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795432685.0658474
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795436197.453579
   },
   "브레인악셀": {
    "slug": "브레인악셀",
    "firstSeen": 1795428600.0,
-   "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795432685.0658474
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795436197.453579
   },
   "일론 머스크": {
    "slug": "일론-머스크",
    "firstSeen": 1795428000.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795432685.0658474
+   "lastSeen": 1795436197.453579
   },
   "가석방": {
    "slug": "가석방",
    "firstSeen": 1795426800.0,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795432685.0658474
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795436197.453579
   },
   "이세창": {
    "slug": "이세창",
@@ -861,6 +861,41 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795432685.0658474
+  },
+  "상장": {
+   "slug": "상장",
+   "firstSeen": 1795431600.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795436197.453579
+  },
+  "반도체 메모리": {
+   "slug": "반도체-메모리",
+   "firstSeen": 1795430400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795436197.453579
+  },
+  "딜라이트": {
+   "slug": "딜라이트",
+   "firstSeen": 1795425000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795436197.453579
+  },
+  "m": {
+   "slug": "m",
+   "firstSeen": 1795431600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795436197.453579
+  },
+  "공항": {
+   "slug": "공항",
+   "firstSeen": 1795431000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795436197.453579
   }
  }
 }

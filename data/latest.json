@@ -1,129 +1,77 @@
 {
- "generatedAt": 1795432685,
+ "generatedAt": 1795436197,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "설악산",
-   "slug": "설악산",
-   "traffic": 5000,
-   "startedAt": 1795423200.0,
+   "keyword": "상장",
+   "slug": "상장",
+   "traffic": 1000,
+   "startedAt": 1795431600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "전남광주 아침 영하권 추위…24일까지 비 예보",
-     "url": "https://www.yna.co.kr/view/AKR20261122005700054",
+     "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+     "url": "https://www.yna.co.kr/view/AKR20261123100000017",
      "source": "연합뉴스"
     },
     {
-     "title": "[날씨] 호남권, 5~10mm비 /1~5cm 눈· · · 차량 안전거리 확보",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759687",
-     "source": "국제뉴스"
+     "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+     "source": "동아일보"
     },
     {
-     "title": "전남광주 첫눈 관측…내일 최고 7cm 눈",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718655",
-     "source": "KBS 뉴스"
+     "title": "카카오AI·카카오X 분할상장 계획도 '안갯속'",
+     "url": "https://www.hankyung.com/article/2026112349881",
+     "source": "한국경제"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "고규필",
-   "slug": "고규필",
+   "keyword": "이진관 판사",
+   "slug": "이진관-판사",
    "traffic": 1000,
-   "startedAt": 1795422000.0,
-   "change": "down",
+   "startedAt": 1795426800.0,
+   "change": "up",
    "diff": 1,
    "news": [
     {
-     "title": "배우 고규필·가수 에이민 부부 득녀…\"인생 가장 잘한 일\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123138400005",
-     "source": "연합뉴스"
+     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
+     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
+     "source": "한겨레"
     },
     {
-     "title": "고규필♥에이민, 오늘(23일) 득녀..\"아빠 판박이\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/HA3TIMZUGE3TAOBVGY2DQNLCMQ/",
-     "source": "조선일보"
+     "title": "홍준표 “기괴한 법률 수단 삼아”...‘이진관 판사 고발’ 국민의힘 비판",
+     "url": "https://www.kyeonggi.com/article/20261123580586",
+     "source": "경기일보"
     },
     {
-     "title": "'초롱이' 고규필, 23일 득녀…결혼 3년 만에 얻은 경사",
-     "url": "https://www.dispatch.co.kr/2351226",
-     "source": "디스패치"
+     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329370",
+     "source": "JTBC"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "이진관 판사",
-   "slug": "이진관-판사",
-   "traffic": 500,
-   "startedAt": 1795426800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329370",
-     "source": "JTBC"
-    },
-    {
-     "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719954",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
-     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "한국지엠",
-   "slug": "한국지엠",
-   "traffic": 500,
-   "startedAt": 1795422000.0,
-   "change": "up",
-   "diff": 3,
-   "news": [
-    {
-     "title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
-     "url": "https://www.yna.co.kr/view/AKR20261122031800007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "인천 ‘하늘길’ 건너 1초 차 접전…케냐 킵코에치, 2026 인천마라톤서 풀코스 첫 정상 등극",
-     "url": "https://www.donga.com/news/Sports/article/all/20261122/135065718/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "한국GM 노사, 지속가능성 모색 '인천마라톤' 참가",
-     "url": "https://www.etnews.com/20261123000135",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "rank": 5,
    "keyword": "중위소득",
    "slug": "중위소득",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795428600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
-     "title": "‘자녀가 있어 못받은 생계급여’ 기준 폐지 추진",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20544",
-     "source": "이투데이"
+     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-     "source": "뉴시스"
+     "title": "생계급여 대상, 2030년까지 단계적 확대",
+     "url": "https://www.khan.co.kr/article/202611232043015",
+     "source": "경향신문"
     },
     {
      "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
@@ -133,65 +81,169 @@
    ]
   },
   {
-   "rank": 6,
+   "rank": 4,
    "keyword": "브레인악셀",
    "slug": "브레인악셀",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795428600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
+    {
+     "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+     "source": "MBC 뉴스"
+    },
     {
      "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
      "url": "https://news.jtbc.co.kr/article/NB12329355",
      "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "반도체 메모리",
+   "slug": "반도체-메모리",
+   "traffic": 200,
+   "startedAt": 1795430400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
+     "url": "https://www.hankyung.com/article/2026112330656",
+     "source": "한국경제"
     },
     {
-     "title": "'리트 만점' 진상규명 첫 고비...유족, 수사 협조할까?",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231856261603_005.html",
-     "source": "YTN"
+     "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123024200008",
+     "source": "연합뉴스"
     },
     {
-     "title": "경찰 \"이진우 강제수사 가능‥기기 사용 여부 확인해야\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6867850_36918.html",
+     "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
+     "url": "https://core.asiae.co.kr/article/2026112317430850505",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "가석방",
+   "slug": "가석방",
+   "traffic": 200,
+   "startedAt": 1795426800.0,
+   "change": "up",
+   "diff": 3,
+   "news": [
+    {
+     "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
+     "source": "머니투데이"
+    },
+    {
+     "title": "청와대 “가석방 없는 무기형 도입, 스토킹 접근금지 기간 연장 검토 중”",
+     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288630.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "sa vs ban",
-   "slug": "sa-vs-ban",
+   "keyword": "딜라이트",
+   "slug": "딜라이트",
    "traffic": 200,
-   "startedAt": 1795422000.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795425000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
-     "url": "https://www.cricinfo.com/story/aiden-markram-says-it-s-quite-a-smooth-transition-to-be-leading-south-africa-again-1563619",
-     "source": "Cricinfo"
+     "title": "‘도란·카나비’ DK, 코치진 교체 T1…뜨거운 LCK 스토브리그",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085290",
+     "source": "진일보 | 전남일보"
     },
     {
-     "title": "South Africa vs Bangladesh, 2nd Test: Injuries won't take the sting out of Centurion Test",
-     "url": "https://www.cricbuzz.com/cricket-news/141019/south-africa-vs-bangladesh-2nd-test-injuries-wont-take-the-sting-out-of-centurion-test-cricbuzzcom",
-     "source": "Cricbuzz"
+     "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
+     "url": "https://www.koreadaily.com/article/20261120154610301",
+     "source": "미주중앙일보"
     },
     {
-     "title": "Double blow for Bangladesh as Nortje returns to supercharge Proteas pace",
-     "url": "https://novanews.co.za/anrich-nortje-returns-south-africa-bangladesh-second-test-supersport-park/",
-     "source": "https://novanews.co.za/"
+     "title": "[롤짤] 김대호 감독에 도란·카나비까지? 반전의 DK",
+     "url": "https://www.gamemeca.com/view.php?gid=1783995",
+     "source": "게임메카"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "m",
+   "slug": "m",
+   "traffic": 100,
+   "startedAt": 1795431600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
+     "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+     "source": "ESPN"
+    },
+    {
+     "title": "What does adding Tarik Skubal mean for the Mets’ long-term finances? - The Athletic",
+     "url": "https://www.nytimes.com/athletic/7804974/2026/11/23/tarik-skubal-mets-long-term-finances/",
+     "source": "The New York Times"
+    },
+    {
+     "title": "With Skubal off the market, will it open free-agent floodgates?",
+     "url": "https://www.mlb.com/news/what-tarik-skubal-deal-means-for-free-agent-market",
+     "source": "MLB.com"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "공항",
+   "slug": "공항",
+   "traffic": 100,
+   "startedAt": 1795431000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
+     "source": "전기신문"
+    },
+    {
+     "title": "박남춘 인천공항공사 사장 \"인천공항 이용료 현실화할 것\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261123063051065",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "박남춘 인천공항 사장 “임기 내 취항도시 200개·여객 9000만 명 목표”",
+     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/X6ZGTC42HVGHBP2N6Q3BERNECE/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "일론 머스크",
    "slug": "일론-머스크",
    "traffic": 100,
    "startedAt": 1795428000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
@@ -207,58 +259,6 @@
      "title": "AI 데이터센터 가동 지연이 재무 리스크 더 키운다, 후속 투자 위축되면 반도체 수요에 타격",
      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452662",
      "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "가석방",
-   "slug": "가석방",
-   "traffic": 100,
-   "startedAt": 1795426800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "청와대 “가석방 없는 무기형 도입, 스토킹 접근금지 기간 연장 검토 중”",
-     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288630.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "이세창",
-   "slug": "이세창",
-   "traffic": 100,
-   "startedAt": 1795425000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "이세창·김지연, 이혼 후 13년만 공개한 딸..김연아·이민정 닮은 외모 대박 \"한예종 입학\" [Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MQ3DEMJTMUYDIMJSG42DKNJQGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "이세창, 한예종 출신 배우 딸과 쇼핑…엄마·아빠 장점만 빼닮은 미모",
-     "url": "https://www.news1.kr/entertain/movie/6361517",
-     "source": "뉴스1"
-    },
-    {
-     "title": "퇴원한 이세창, 딸과 쇼핑하다 115만9000원 가격표에 “손 떨리는 거 봐”",
-     "url": "https://www.mk.co.kr/news/entertain/12214968",
-     "source": "매일경제"
     }
    ]
   }

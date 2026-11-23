@@ -2,17 +2,32 @@
  "keyword": "브레인악셀",
  "slug": "브레인악셀",
  "firstSeen": 1795428600.0,
- "lastSeen": 1795432685.0658474,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795436197.453579,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795432685,
    6,
    200
+  ],
+  [
+   1795436197,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+   "source": "MBC 뉴스"
+  },
   {
    "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
    "url": "https://news.jtbc.co.kr/article/NB12329355",
@@ -33,6 +48,11 @@
   "2026-11-23"
  ],
  "related": [
+  "상장",
+  "반도체-메모리",
+  "딜라이트",
+  "m",
+  "공항",
   "설악산",
   "고규필",
   "이진관-판사",
