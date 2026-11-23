@@ -447,7 +447,7 @@
    "firstSeen": 1795395000.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795399489.09556
+   "lastSeen": 1795403408.4767375
   },
   "에코프로비엠": {
    "slug": "에코프로비엠",
@@ -460,15 +460,15 @@
    "slug": "구조조정",
    "firstSeen": 1795395000.0,
    "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795399489.09556
+   "peakTraffic": 1000,
+   "lastSeen": 1795403408.4767375
   },
   "부산항": {
    "slug": "부산항",
    "firstSeen": 1795394400.0,
    "peakRank": 4,
-   "peakTraffic": 500,
-   "lastSeen": 1795399489.09556
+   "peakTraffic": 1000,
+   "lastSeen": 1795403408.4767375
   },
   "오지헌": {
    "slug": "오지헌",
@@ -489,14 +489,14 @@
    "firstSeen": 1795395600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795399489.09556
+   "lastSeen": 1795403408.4767375
   },
   "수원 fc": {
    "slug": "수원-fc",
    "firstSeen": 1795394400.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795399489.09556
+   "lastSeen": 1795403408.4767375
   },
   "kospi": {
    "slug": "kospi",
@@ -504,6 +504,41 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795399489.09556
+  },
+  "lpga": {
+   "slug": "lpga",
+   "firstSeen": 1795399200.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795403408.4767375
+  },
+  "ssg 랜더스": {
+   "slug": "ssg-랜더스",
+   "firstSeen": 1795397400.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795403408.4767375
+  },
+  "제주특별자치도": {
+   "slug": "제주특별자치도",
+   "firstSeen": 1795396800.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795403408.4767375
+  },
+  "삼성증권": {
+   "slug": "삼성증권",
+   "firstSeen": 1795396800.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795403408.4767375
+  },
+  "국가장학금": {
+   "slug": "국가장학금",
+   "firstSeen": 1795398600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795403408.4767375
   }
  }
 }

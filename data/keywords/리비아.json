@@ -2,7 +2,7 @@
  "keyword": "리비아",
  "slug": "리비아",
  "firstSeen": 1795395600.0,
- "lastSeen": 1795399489.09556,
+ "lastSeen": 1795403408.4767375,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,24 @@
    1795399489,
    8,
    100
+  ],
+  [
+   1795403408,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8719534",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "우크라 전쟁, 북아프리카로 전선 확대…리비아서 드론 공격에 러 군함 침몰",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1288569.html",
+   "source": "한겨레"
+  },
   {
    "title": "발트해에서 지중해까지... 우크라 드론의 ‘종횡무진 난타전’",
    "url": "https://www.chosun.com/international/international_general/2026/11/23/ZQZC6FQOENAMRGXROUCQ2TKOWE/",
@@ -33,6 +48,11 @@
   "2026-11-23"
  ],
  "related": [
+  "lpga",
+  "ssg-랜더스",
+  "제주특별자치도",
+  "삼성증권",
+  "국가장학금",
   "화이트캡스-대-솔트레이크",
   "에코프로비엠",
   "구조조정",

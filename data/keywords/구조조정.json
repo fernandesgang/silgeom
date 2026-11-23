@@ -2,17 +2,32 @@
  "keyword": "구조조정",
  "slug": "구조조정",
  "firstSeen": 1795395000.0,
- "lastSeen": 1795399489.09556,
+ "lastSeen": 1795403408.4767375,
  "peakRank": 3,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795399489,
    3,
    500
+  ],
+  [
+   1795403408,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "실적 나빠도 좋아도 희망퇴직…구조조정 전략이 변한다",
+   "url": "https://www.dhdaily.co.kr/news/articleView.html?idxno=30053",
+   "source": "대한데일리"
+  },
+  {
+   "title": "내수 ‘주춤’·해외는 ‘기회’…주류업계의 변신",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7193755",
+   "source": "주간한국"
+  },
   {
    "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
    "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280034.html",
@@ -33,6 +48,11 @@
   "2026-11-23"
  ],
  "related": [
+  "lpga",
+  "ssg-랜더스",
+  "제주특별자치도",
+  "삼성증권",
+  "국가장학금",
   "화이트캡스-대-솔트레이크",
   "에코프로비엠",
   "부산항",

@@ -1,0 +1,46 @@
+{
+ "keyword": "삼성증권",
+ "slug": "삼성증권",
+ "firstSeen": 1795396800.0,
+ "lastSeen": 1795403408.4767375,
+ "peakRank": 7,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795403408,
+   7,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147441",
+   "source": "보안뉴스"
+  },
+  {
+   "title": "계좌·운전면허번호까지…삼성증권 ‘고객의 소리’ 털려 8241명 정보 유출",
+   "url": "https://news.jtbc.co.kr/article/NB12329325",
+   "source": "JTBC"
+  },
+  {
+   "title": "삼성증권도 해킹 피해‥고객 8천2백 명 개인정보 유출",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6867771_36932.html",
+   "source": "MBC 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "화이트캡스-대-솔트레이크",
+  "lpga",
+  "ssg-랜더스",
+  "구조조정",
+  "부산항",
+  "제주특별자치도",
+  "국가장학금",
+  "리비아",
+  "수원-fc"
+ ]
+}

@@ -2,8 +2,8 @@
  "keyword": "lpga",
  "slug": "lpga",
  "firstSeen": 1795131600.0,
- "lastSeen": 1795318877.9429626,
- "peakRank": 3,
+ "lastSeen": 1795403408.4767375,
+ "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
   [
@@ -25,9 +25,29 @@
    1795318878,
    5,
    1000
+  ],
+  [
+   1795403408,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116",
+   "source": "news.sbs.co.kr"
+  },
+  {
+   "title": "Thitikul Surpasses Sorenstam as LPGA's Top Career Earner",
+   "url": "https://www.chosun.com/english/world-en/2026/11/23/DQZ7INLHRFAQPBZUYU3Z6LVYBU/",
+   "source": "조선일보"
+  },
+  {
+   "title": "Jeeno Thitikul Cashes in at Tiburon to Win $4M Prize for 3rd Straight Time",
+   "url": "https://www.lpga.com/news/2026/jeeno-thitikul-cashes-in-at-tiburon-to-win-4m-prize-for-3rd-straight-time",
+   "source": "LPGA"
+  },
   {
    "title": "Kim A-lim retains lead at LPGA Tour Championship, eyes $4 million prize",
    "url": "https://www.koreaherald.com/article/10945025",
@@ -72,29 +92,24 @@
    "title": "Thitikul talks spark on back nine during two rounds at CME",
    "url": "https://www.golfchannel.com/watch/lpga/thitikul-talks-spark-on-back-nine-during-two-rounds-at-cme",
    "source": "Golf Channel"
-  },
-  {
-   "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
-   "source": "news.sbs.co.kr"
-  },
-  {
-   "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
-   "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
-   "source": "아시아경제"
-  },
-  {
-   "title": "Jeeno Thitikul Birdies the Last 5 holes to Share the Lead in LPGA Tour Season Finale",
-   "url": "https://www.lpga.com/news/2026/jeeno-thitikul-birdies-the-last-5-holes-to-share-the-lead-in-lpga-tour-season-finale",
-   "source": "LPGA"
   }
  ],
  "days": [
   "2026-11-20",
   "2026-11-21",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "related": [
+  "화이트캡스-대-솔트레이크",
+  "ssg-랜더스",
+  "구조조정",
+  "부산항",
+  "제주특별자치도",
+  "삼성증권",
+  "국가장학금",
+  "리비아",
+  "수원-fc",
   "이강인",
   "재산",
   "플라이-투-더-스카이",
@@ -105,15 +120,6 @@
   "도경완",
   "수출규제",
   "담보-대출",
-  "마마-어워즈",
-  "오현규",
-  "inter-miami-vs-columbus",
-  "김호영",
-  "나경원",
-  "파주시",
-  "동아일보",
-  "편의점",
-  "두산베어스",
-  "nh농협카드"
+  "마마-어워즈"
  ]
 }
