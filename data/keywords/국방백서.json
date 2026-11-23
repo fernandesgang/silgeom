@@ -1,0 +1,46 @@
+{
+ "keyword": "국방백서",
+ "slug": "국방백서",
+ "firstSeen": 1795470000.0,
+ "lastSeen": 1795476433.4524534,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795476433,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
+   "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "[단독] 李 정부도 ‘북한은 적’… 北 적대적 두 국가론, DMZ 지뢰 폭발 영향",
+   "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/24/20261124003004",
+   "source": "서울신문"
+  },
+  {
+   "title": "2026 국방백서 ‘북한군은 적’ 유지…다음 달 발간 : 정치",
+   "url": "https://news.jkn.co.kr/post/1117710",
+   "source": "재경일보"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "skhy",
+  "개인정보",
+  "투수",
+  "로스앤젤레스-fc",
+  "나스닥-100",
+  "박정환",
+  "brentford-vs-everton",
+  "해고",
+  "비트코인-시세"
+ ]
+}

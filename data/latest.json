@@ -1,67 +1,93 @@
 {
- "generatedAt": 1795472835,
+ "generatedAt": 1795476433,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김혜수",
-   "slug": "김혜수",
-   "traffic": 2000,
-   "startedAt": 1795468200.0,
+   "keyword": "skhy",
+   "slug": "skhy",
+   "traffic": 1000,
+   "startedAt": 1795471200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "송혜교도 반한 김혜수 미모…“너무 아름다우시다”",
-     "url": "https://www.mk.co.kr/news/hot-issues/12215811",
+     "title": "(LEAD) SK hynix's U.S.-traded shares surge over 20 pct in Mon. morning trading after Nvidia CEO's reinstatement",
+     "url": "https://en.yna.co.kr/view/AEN20261124000251315",
+     "source": "Yonhap News Agency"
+    },
+    {
+     "title": "SK Hynix shares are trading below the KRW 1.1 million mark in early trading on the 23rd. The stock p..",
+     "url": "https://www.mk.co.kr/en/stock/12215849",
      "source": "매일경제"
     },
     {
-     "title": "MAMA 김혜수, 56세에 또 리즈 경신…인어공주 스타일링 통했다",
-     "url": "https://sports.khan.co.kr/article/202611221425003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "김혜수, 28살 어린 아이돌과 같은 드레스…자기관리 '감탄' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112019293288010",
-     "source": "머니투데이"
+     "title": "U.S. Semiconductor Stocks Surge on Jensen Huang's Return ... SKHY Up 20%",
+     "url": "https://en.fnnews.com/news/202611240713332201",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "전원주",
-   "slug": "전원주",
-   "traffic": 2000,
-   "startedAt": 1795467000.0,
+   "keyword": "개인정보",
+   "slug": "개인정보",
+   "traffic": 1000,
+   "startedAt": 1795470600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"괜찮으신 거 맞나\"…핼쑥한 전원주, 레드카펫서 휘청 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112219483031404",
+     "title": "삼성증권, 시스템 침입으로 8천여 명 개인정보 유출",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231100182230",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "[속보]삼성증권 ‘고객의 소리’ 해킹…고객 8241명 계좌번호·운전면허번호 유출",
+     "url": "https://www.khan.co.kr/article/202611231030001",
+     "source": "경향신문"
+    },
+    {
+     "title": "경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\" - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/23/2026112314015443802",
      "source": "머니투데이"
-    },
-    {
-     "title": "[잇슈 컬처] 전원주 공식 석상 참석에 누리꾼 “건강 응원”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719550",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“포토월서 휘청” 전원주, 쇠약해진 근황에…팬들 응원 ‘봇물’",
-     "url": "https://sports.khan.co.kr/article/202611221838003",
-     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 3,
+   "keyword": "투수",
+   "slug": "투수",
+   "traffic": 1000,
+   "startedAt": 1795469400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "MLB 메츠, 1루수 골드슈미트 영입…사흘간 7천400억원 투자",
+     "url": "https://www.yna.co.kr/view/AKR20261124022200007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "605억 '일시불' 지급 초파격! 다저스 제안조차 못하고 빼앗길 줄이야…실망한 LA 언론 \"오타니가 해줘야 한다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611231016775710O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘투타 에이스에 1조 6333억 원’ NYM 억 소리 나는 투자 ‘결실 맺을까’",
+     "url": "https://sports.donga.com/sports/article/all/20261123/135076586/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "로스앤젤레스 fc",
    "slug": "로스앤젤레스-fc",
    "traffic": 1000,
    "startedAt": 1795468800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
@@ -69,129 +95,155 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "‘코리안 더비’ 손흥민, 24일 세인트루이스와 MLS컵 16강 1차전 출격",
-     "url": "https://sports.donga.com/sports/article/all/20261123/135075871/1",
-     "source": "스포츠동아"
-    },
-    {
      "title": "\"손흥민 있어도 탈락\" vs \"결국 손흥민이 뒤집는다\"… 美 언론 정면충돌, 운명의 PO 개막",
      "url": "https://www.fnnews.com/news/202611230238089643",
      "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "노시환",
-   "slug": "노시환",
-   "traffic": 500,
-   "startedAt": 1795467600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'이제부터 진짜다!' 노시환 포스팅 분수령 진입 \"깜짝 발표는 잘 없어→현지 링크 떠야 청신호\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112314432578677",
-     "source": "머니투데이"
     },
     {
-     "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'영입설만 무성' 한화 노시환, MLB 포스팅 마감 열흘도 안 남아…12월 2일 최종 시한",
-     "url": "https://www.newspim.com/news/view/20261123001178",
-     "source": "뉴스핌"
+     "title": "‘코리안 더비’ 손흥민, 24일 세인트루이스와 MLS컵 16강 1차전 출격",
+     "url": "https://sports.donga.com/sports/article/all/20261123/135075871/1",
+     "source": "스포츠동아"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "대한민국 축구 국가대표팀",
-   "slug": "대한민국-축구-국가대표팀",
+   "keyword": "나스닥 100",
+   "slug": "나스닥-100",
    "traffic": 500,
-   "startedAt": 1795467000.0,
+   "startedAt": 1795472400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "나란히 K리그 1부 복귀하는 ‘수원 형제’…큰물에서 다시 생존경쟁",
-     "url": "https://www.khan.co.kr/article/202611232009015",
-     "source": "경향신문"
+     "title": "美증시 선물 2∼3%대 반등…조정국면 부른 AI 매도 진정",
+     "url": "https://www.yna.co.kr/view/AKR20261123123500009",
+     "source": "연합뉴스"
     },
     {
-     "title": "‘승격 청부사’ 증명, 1년이면 충분했다",
-     "url": "https://www.chosun.com/national/people/2026/11/23/27M7J7W5ZRCYZKWGGPNXVAMMDI/",
-     "source": "조선일보"
+     "title": "기술주 매도에 폭락했던 지수 반등 시도",
+     "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6867892_36981.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[지지대] 끝이 아닌 도전",
-     "url": "https://www.kyeonggi.com/article/20261122580324",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "ai 에이전트",
-   "slug": "ai-에이전트",
-   "traffic": 200,
-   "startedAt": 1795467600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/23/56I3GEDHFVA5FACSFRL62BZIUQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"남친 갈 병원 찾아줘\" 했더니…허락도 없이 황당한 일",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859612",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보",
-     "url": "https://www.etnews.com/20261123000327",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "이민진",
-   "slug": "이민진",
-   "traffic": 200,
-   "startedAt": 1795466400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"부정행위 막으려 재난문자\"…'파친코' 이민진이 본 韓수능",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645648344&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화\"",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57367",
-     "source": "주간조선"
-    },
-    {
-     "title": "이민진 작가, '아메리칸 학원' 출간 기념 뉴욕서 북토크 개최",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445959",
+     "title": "나스닥100 선물, 기술주 급락 후 저가매수에 2% 이상 반등(상보)",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446018",
      "source": "연합인포맥스"
     }
    ]
   },
   {
+   "rank": 6,
+   "keyword": "박정환",
+   "slug": "박정환",
+   "traffic": 200,
+   "startedAt": 1795471200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "박정환 9단, 승률 1%서 뒤집기…신진서 꺾고 명인전 기선제압",
+     "url": "https://www.news1.kr/sports/general-sport/6363432",
+     "source": "뉴스1"
+    },
+    {
+     "title": "끝난 줄 알았던 이야기…박정환, 결승 첫판서 대역전승",
+     "url": "https://www.cyberoro.com/news/news_view.oro?num=532968",
+     "source": "사이버오로"
+    },
+    {
+     "title": "승리 확률 1%서 뒤집기... 박정환, 신진서와 리턴매치 기선 제압 [제49기 SG배 한국일보 명인전]",
+     "url": "https://www.hankookilbo.com/news/article/A2026112317520003173",
+     "source": "한국일보"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "국방백서",
+   "slug": "국방백서",
+   "traffic": 200,
+   "startedAt": 1795470000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
+     "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "[단독] 李 정부도 ‘북한은 적’… 北 적대적 두 국가론, DMZ 지뢰 폭발 영향",
+     "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/24/20261124003004",
+     "source": "서울신문"
+    },
+    {
+     "title": "2026 국방백서 ‘북한군은 적’ 유지…다음 달 발간 : 정치",
+     "url": "https://news.jkn.co.kr/post/1117710",
+     "source": "재경일보"
+    }
+   ]
+  },
+  {
    "rank": 8,
+   "keyword": "brentford vs everton",
+   "slug": "brentford-vs-everton",
+   "traffic": 100,
+   "startedAt": 1795471200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Brentford 4-0 Everton - James Tarkowski sees red as Toffees thrashed",
+     "url": "https://www.bbc.com/sport/football/live/c64gnwyv7kvjt",
+     "source": "BBC"
+    },
+    {
+     "title": "David Moyes at a loss to explain Everton’s bad night at Brentford",
+     "url": "https://www.essexcountynews.co.uk/sport/national/26755941.david-moyes-loss-explain-evertons-bad-night-brentford/",
+     "source": "www.essexcountynews.co.uk"
+    },
+    {
+     "title": "Brentford 4-0 Everton: Keane Lewis-Potter double and James Tarkowski red card wreck David Moyes' record night as Jack Grealish returns from disciplinary exile",
+     "url": "https://www.goal.com/en-us/news/brentford-everton-keane-lewis-potter-double-james-tarkowski-red-card-wreck-david-moyes-record-night-jack-grealish-returns-disciplinary-exile/bltc4cd1bcb4d7f0661",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "해고",
+   "slug": "해고",
+   "traffic": 100,
+   "startedAt": 1795471200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "설립 3개월 해고된 노조간부, 법원 “지오메디칼, 부당해고”",
+     "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237871",
+     "source": "매일노동뉴스"
+    },
+    {
+     "title": "데이비드 존스 직원 1,689명 정리해고 통보",
+     "url": "https://www.weeklykoreanz.com/post/%EB%8D%B0%EC%9D%B4%EB%B9%84%EB%93%9C-%EC%A1%B4%EC%8A%A4-%EC%A7%81%EC%9B%90-1-689%EB%AA%85-%EC%A0%95%EB%A6%AC%ED%95%B4%EA%B3%A0-%ED%86%B5%EB%B3%B4",
+     "source": "위클리코리아"
+    },
+    {
+     "title": "젠슨 황 복귀, 엔비디아 주가 급등…트럼프가 직접 나서",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720686",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "비트코인 시세",
    "slug": "비트코인-시세",
    "traffic": 100,
    "startedAt": 1795468800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
@@ -207,58 +259,6 @@
      "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
      "url": "https://www.hankyung.com/article/202611233526i",
      "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "스페이스x",
-   "slug": "스페이스x",
-   "traffic": 100,
-   "startedAt": 1795466400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "스페이스X, 경쟁사보다 10년 앞서...‘아웃 퍼폼’-번스타인",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03663766645648672",
-     "source": "마켓인"
-    },
-    {
-     "title": "씨티그룹 \"스페이스X 기술 우위 20년 수준\"…스타링크 수익성도 개선",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848116",
-     "source": "제민일보"
-    },
-    {
-     "title": "애널리스트 “SpaceX, 경쟁사보다 약 10년 앞서 있다”",
-     "url": "https://kr.investing.com/news/analyst-ratings/article-2186401",
-     "source": "Investing.com 한국어"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "엘니뇨",
-   "slug": "엘니뇨",
-   "traffic": 100,
-   "startedAt": 1795466400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "기상청, 이번 겨울 “예년보다 따뜻하고 강수량 많을 것”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719943",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "강한 엘니뇨에 올겨울 포근하고 강수량 많아…한파·대설도 주의",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375150",
-     "source": "전기신문"
-    },
-    {
-     "title": "폭설인데 가뭄?...올겨울 날씨 '두 얼굴' 전망",
-     "url": "https://www.ytn.co.kr/_ln/0105_202611232250536367",
-     "source": "YTN"
     }
    ]
   }

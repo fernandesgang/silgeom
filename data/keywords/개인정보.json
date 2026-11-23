@@ -1,0 +1,46 @@
+{
+ "keyword": "개인정보",
+ "slug": "개인정보",
+ "firstSeen": 1795470600.0,
+ "lastSeen": 1795476433.4524534,
+ "peakRank": 2,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795476433,
+   2,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "삼성증권, 시스템 침입으로 8천여 명 개인정보 유출",
+   "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231100182230",
+   "source": "YTN 사이언스"
+  },
+  {
+   "title": "[속보]삼성증권 ‘고객의 소리’ 해킹…고객 8241명 계좌번호·운전면허번호 유출",
+   "url": "https://www.khan.co.kr/article/202611231030001",
+   "source": "경향신문"
+  },
+  {
+   "title": "경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\" - 머니투데이",
+   "url": "https://www.mt.co.kr/society/2026/11/23/2026112314015443802",
+   "source": "머니투데이"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "skhy",
+  "투수",
+  "로스앤젤레스-fc",
+  "나스닥-100",
+  "박정환",
+  "국방백서",
+  "brentford-vs-everton",
+  "해고",
+  "비트코인-시세"
+ ]
+}
