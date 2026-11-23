@@ -1,12 +1,12 @@
 {
- "generatedAt": 1795441155,
+ "generatedAt": 1795445004,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "상장",
    "slug": "상장",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795431600.0,
    "change": "same",
    "diff": 0,
@@ -22,20 +22,46 @@
      "source": "동아일보"
     },
     {
-     "title": "중복상장 규제 후폭풍…1.5兆 국제소송 당한 카카오",
-     "url": "https://www.hankyung.com/article/2026112350741",
+     "title": "카카오AI·카카오X 분할상장 계획도 '안갯속'",
+     "url": "https://www.hankyung.com/article/2026112349881",
      "source": "한국경제"
     }
    ]
   },
   {
    "rank": 2,
+   "keyword": "중위소득",
+   "slug": "중위소득",
+   "traffic": 2000,
+   "startedAt": 1795428600.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
+     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
+     "source": "뉴시스"
+    },
+    {
+     "title": "3년 새 빈곤층 69만 명↑…생계급여 문턱 낮춘다",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720434",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
    "keyword": "브레인악셀",
    "slug": "브레인악셀",
    "traffic": 2000,
    "startedAt": 1795428600.0,
-   "change": "up",
-   "diff": 2,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
@@ -44,7 +70,7 @@
     },
     {
      "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
-     "url": "https://www.ytn.co.kr/_ln/0106_202611232201517707",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611232201517707_005.html",
      "source": "YTN"
     },
     {
@@ -55,49 +81,23 @@
    ]
   },
   {
-   "rank": 3,
-   "keyword": "중위소득",
-   "slug": "중위소득",
-   "traffic": 1000,
-   "startedAt": 1795428600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-     "source": "뉴시스"
-    },
-    {
-     "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
    "rank": 4,
    "keyword": "이진관 판사",
    "slug": "이진관-판사",
    "traffic": 1000,
    "startedAt": 1795426800.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
+    {
+     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
+     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
+     "source": "한겨레"
+    },
     {
      "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
      "url": "https://news.jtbc.co.kr/article/NB12329370",
      "source": "JTBC"
-    },
-    {
-     "title": "홍준표 “국힘, 기괴한 법률로 이진관 판사 고발···계엄 대국민 사과부터 해라”",
-     "url": "https://weekly.khan.co.kr/article/202611232206001",
-     "source": "주간경향"
     },
     {
      "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
@@ -108,37 +108,11 @@
   },
   {
    "rank": 5,
-   "keyword": "혼다",
-   "slug": "혼다",
-   "traffic": 200,
-   "startedAt": 1795434600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
-     "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
-     "source": "NBC News"
-    },
-    {
-     "title": "Honda recalls over 810,000 vehicles. See the affected models",
-     "url": "https://www.usatoday.com/story/cars/recalls/2026/11/23/honda-recalls-vehicles-acura-accord-civic-cr-v-models/92922637007/",
-     "source": "USA Today"
-    },
-    {
-     "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
-     "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
-     "source": "Fox Business"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "반도체 메모리",
    "slug": "반도체-메모리",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795430400.0,
-   "change": "down",
+   "change": "up",
    "diff": 1,
    "news": [
     {
@@ -159,13 +133,39 @@
    ]
   },
   {
+   "rank": 6,
+   "keyword": "혼다",
+   "slug": "혼다",
+   "traffic": 200,
+   "startedAt": 1795434600.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+     "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+     "source": "NBC News"
+    },
+    {
+     "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+     "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+     "source": "Fox Business"
+    },
+    {
+     "title": "More than 300,000 Toyota, Lexus vehicles recalled over faulty Takata airbags",
+     "url": "https://www.wdbj7.com/2026/11/21/more-than-300000-toyota-lexus-vehicles-recalled-over-faulty-takata-airbags/",
+     "source": "WDBJ7"
+    }
+   ]
+  },
+  {
    "rank": 7,
    "keyword": "가석방",
    "slug": "가석방",
    "traffic": 200,
    "startedAt": 1795426800.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
@@ -178,9 +178,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "청와대 “가석방 없는 무기형 도입, 스토킹 접근금지 기간 연장 검토 중”",
-     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288630.html",
-     "source": "한겨레"
+     "title": "브리핑 하는 김성완 대변인",
+     "url": "https://mobile.newsis.com/photo/NISI20261123_0021542403",
+     "source": "뉴시스"
     }
    ]
   },
@@ -199,8 +199,8 @@
      "source": "ESPN"
     },
     {
-     "title": "Kansas City Royals news: Tarik Skubal gets paid",
-     "url": "https://sports.yahoo.com/articles/kansas-city-royals-news-tarik-130000884.html",
+     "title": "How the Mets’ payroll commitments look after the Tarik Skubal signing",
+     "url": "https://sports.yahoo.com/articles/mets-payroll-commitments-look-tarik-140000256.html",
      "source": "Yahoo Sports"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
      "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231601194035",
      "source": "YTN 사이언스"
     },
     {

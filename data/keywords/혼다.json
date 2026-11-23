@@ -2,7 +2,7 @@
  "keyword": "혼다",
  "slug": "혼다",
  "firstSeen": 1795434600.0,
- "lastSeen": 1795441155.0605023,
+ "lastSeen": 1795445004.396751,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795441155,
    5,
    200
+  ],
+  [
+   1795445004,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "More than 300,000 Toyota, Lexus vehicles recalled over faulty Takata airbags",
+   "url": "https://www.wdbj7.com/2026/11/21/more-than-300000-toyota-lexus-vehicles-recalled-over-faulty-takata-airbags/",
+   "source": "WDBJ7"
+  },
   {
    "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
    "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
