@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795403408,
+ "generatedAt": 1795407857,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "화이트캡스 대 솔트레이크",
-   "slug": "화이트캡스-대-솔트레이크",
+   "keyword": "배치표",
+   "slug": "배치표",
    "traffic": 2000,
-   "startedAt": 1795395000.0,
-   "change": "same",
+   "startedAt": 1795402800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "PREVIEW: 'Caps host Real Salt Lake in Game 1 of Round One, Best-Of-3 Series | Watch on Apple TV, TSN",
-     "url": "https://www.whitecapsfc.com/news/preview-caps-host-real-salt-lake-in-game-1",
-     "source": "www.whitecapsfc.com"
+     "title": "약대 합격선 줄줄이 상승…서울대 약대 290점 '최고치' 전망",
+     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549526",
+     "source": "약사공론"
     },
     {
-     "title": "How to watch Vancouver Whitecaps vs. Real Salt Lake MLS Cup Game 1 today - and get this Black Friday streamin",
-     "url": "https://www.oregonlive.com/tv/2026/11/how-to-watch-vancouver-whitecaps-vs-real-salt-lake-mls-cup-game-1-today-and-get-this-black-friday-streaming-deal.html",
-     "source": "OregonLive.com"
+     "title": "올해 서울대 의대 가려면 ‘수능 295점 이상’…대구선 284점대",
+     "url": "https://www.yeongnam.com/web/view.php?key=20261122029592315",
+     "source": "영남일보"
     },
     {
-     "title": "The Basics: November 22, 2026",
-     "url": "https://www.rsl.com/news/the-basics-november-22-2026",
-     "source": "Real Salt Lake"
+     "title": "합격예측 앱, 포털 환산점수 도구…손쉽게 대입 전략 세운다",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22014006358",
+     "source": "국제신문"
     }
    ]
   },
@@ -32,9 +32,9 @@
    "rank": 2,
    "keyword": "lpga",
    "slug": "lpga",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795399200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -43,7 +43,7 @@
      "source": "news.sbs.co.kr"
     },
     {
-     "title": "Thitikul Surpasses Sorenstam as LPGA's Top Career Earner",
+     "title": "Thitikul Ends Sörenstam's LPGA Earnings Reign",
      "url": "https://www.chosun.com/english/world-en/2026/11/23/DQZ7INLHRFAQPBZUYU3Z6LVYBU/",
      "source": "조선일보"
     },
@@ -56,12 +56,64 @@
   },
   {
    "rank": 3,
-   "keyword": "ssg 랜더스",
-   "slug": "ssg-랜더스",
-   "traffic": 1000,
-   "startedAt": 1795397400.0,
+   "keyword": "새마을금고",
+   "slug": "새마을금고",
+   "traffic": 500,
+   "startedAt": 1795402200.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "구로구-하나은행·동구로새마을금고·든솔신협, 전용계좌 협약",
+     "url": "https://www.newsis.com/view/NISX20261122_0003878041",
+     "source": "뉴시스"
+    },
+    {
+     "title": "새마을금고·신협도 지방보조금 전용계좌…구로구, 금융기관 선택 폭 넓힌다",
+     "url": "https://biz.heraldcorp.com/article/10944889",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "용산구, 새마을금고와 보조사업자 금융 편의‧지역상생 업무협약",
+     "url": "http://www.newszoom.kr/2115821",
+     "source": "newszoom.kr"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "사채",
+   "slug": "사채",
+   "traffic": 500,
+   "startedAt": 1795401000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "단독 쿠팡·배민도 손 못 대는 '배달 사채'...금감원, 실태 점검",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611230524034356",
+     "source": "YTN"
+    },
+    {
+     "title": "금융감독원, '배달 사채' 실태 파악 착수…불법 대부업 근절 나서",
+     "url": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=47336",
+     "source": "nbn 시사경제"
+    },
+    {
+     "title": "배달기사 옥죄는 '배달 사채'…금감원, 불법 대부 실태 조사",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=327956",
+     "source": "더퍼블릭"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "ssg 랜더스",
+   "slug": "ssg-랜더스",
+   "traffic": 500,
+   "startedAt": 1795397400.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
@@ -81,152 +133,132 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "구조조정",
-   "slug": "구조조정",
-   "traffic": 1000,
-   "startedAt": 1795395000.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280034.html",
-     "source": "인베스트조선"
-    },
-    {
-     "title": "실적 나빠도 좋아도 희망퇴직…구조조정 전략이 변한다",
-     "url": "https://www.dhdaily.co.kr/news/articleView.html?idxno=30053",
-     "source": "대한데일리"
-    },
-    {
-     "title": "내수 ‘주춤’·해외는 ‘기회’…주류업계의 변신",
-     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7193755",
-     "source": "주간한국"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "부산항",
-   "slug": "부산항",
-   "traffic": 1000,
-   "startedAt": 1795394400.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "부산항만공사, 중기 우수기술 판로 확대 '기술마켓데이' 개최",
-     "url": "https://www.fnnews.com/news/202611231019057668",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "부산항만공사, 중소기업 우수기술 판로 확대 지원...'맞춤형 구매상담·혁신제품 컨설팅'",
-     "url": "https://view.asiae.co.kr/article/2026112310252178670",
-     "source": "아시아경제"
-    },
-    {
-     "title": "부산항만공사, 중소기업 우수기술 판로 확대 지원",
-     "url": "https://biz.heraldcorp.com/article/10945924",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
    "rank": 6,
-   "keyword": "제주특별자치도",
-   "slug": "제주특별자치도",
-   "traffic": 500,
-   "startedAt": 1795396800.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 7,
-   "keyword": "삼성증권",
-   "slug": "삼성증권",
-   "traffic": 500,
-   "startedAt": 1795396800.0,
+   "keyword": "이부진 아들",
+   "slug": "이부진-아들",
+   "traffic": 200,
+   "startedAt": 1795402800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147441",
-     "source": "보안뉴스"
+     "title": "신라호텔 이부진 아들, 어머니 姓 따라 이씨로 변경",
+     "url": "https://www.chosun.com/national/court_law/2026/11/23/FBTBSPCOPRAOHJBPWLETX5I2XY/",
+     "source": "조선일보"
     },
     {
-     "title": "계좌·운전면허번호까지…삼성증권 ‘고객의 소리’ 털려 8241명 정보 유출",
-     "url": "https://news.jtbc.co.kr/article/NB12329325",
-     "source": "JTBC"
+     "title": "이부진 호텔신라 사장 아들, 어머니 姓 따라 李 씨로 姓 바꿔",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229861",
+     "source": "법률신문"
     },
     {
-     "title": "삼성증권도 해킹 피해‥고객 8천2백 명 개인정보 유출",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867771_36932.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "국가장학금",
-   "slug": "국가장학금",
-   "traffic": 100,
-   "startedAt": 1795398600.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 9,
-   "keyword": "리비아",
-   "slug": "리비아",
-   "traffic": 100,
-   "startedAt": 1795395600.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719534",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "리비아에서 드론 공격 받아 전복된 러시아 군함",
-     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261123_0002299373&provider_id=&cID=&type=Main&catg=&idx=2",
-     "source": "뉴시스"
-    },
-    {
-     "title": "우크라 전쟁, 북아프리카로 전선 확대…리비아서 드론 공격에 러 군함 침몰",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1288569.html",
+     "title": "이부진 아들, 성인 되자 어머니 성 ‘이’씨로 바꿨다",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288610.html",
      "source": "한겨레"
     }
    ]
   },
   {
-   "rank": 10,
-   "keyword": "수원 fc",
-   "slug": "수원-fc",
-   "traffic": 100,
-   "startedAt": 1795394400.0,
+   "rank": 7,
+   "keyword": "삼성물산",
+   "slug": "삼성물산",
+   "traffic": 200,
+   "startedAt": 1795401600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "삼성물산 건설부문장에 최영재 사장 승진 임명",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375138",
+     "source": "전기신문"
+    },
+    {
+     "title": "삼성물산, 6년 만에 건설부문 수장 교체…신임 사장에 최영재(종합)",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445999",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "삼성물산 건설부문 사장에 최영재 부사장 승진",
+     "url": "https://www.yna.co.kr/view/AKR20261123039000003",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "치이카와 클리닉",
+   "slug": "치이카와-클리닉",
+   "traffic": 200,
+   "startedAt": 1795401000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "치이카와 클리닉 @삿포로 아피아",
+     "url": "https://domingo.ne.jp/ko/event/55460",
+     "source": "domingo.ne.jp"
+    },
+    {
+     "title": "내 지갑은 치료 불가···'치이카와 클리닉' 더현대 서울 상륙",
+     "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7399",
+     "source": "캠페인 인사이트"
+    },
+    {
+     "title": "'치이카와 클리닉' 팝업 스토어, 오늘(23일) 1차 사전 예약 오픈…시간·방법?",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16283185",
+     "source": "톱스타뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "국가장학금",
+   "slug": "국가장학금",
+   "traffic": 200,
+   "startedAt": 1795398600.0,
    "change": "down",
    "diff": 1,
    "news": [
     {
-     "title": "수원 FC 1부 리그 복귀",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719455",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "'2년 연속 공격포인트 20개' 대기록에도 웃지 못한 에울레르 \"아직 승격할 기회 있다…죽기살기로 임한다\" [현장 인터뷰]",
-     "url": "https://www.chosun.com/sports/football/2026/11/23/MQ4DKMZVHEYWCMBVGQYDKYRTG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "수원FC, K리그2 준우승…수원 삼성과 동반 승격 확정(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261122035351007",
+     "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+     "url": "https://www.yna.co.kr/view/AKR20261123047100530",
      "source": "연합뉴스"
+    },
+    {
+     "title": "2027학년도 국가장학금 24일부터 신청…소득구간 10개→5개 개편",
+     "url": "https://www.newspim.com/news/view/20261123000075",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "국가장학금 1차 24일부터 신청…내년 지방 국립대 등록금 전액 지원",
+     "url": "https://www.news1.kr/society/education/6362413",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "코디 폰세",
+   "slug": "코디-폰세",
+   "traffic": 100,
+   "startedAt": 1795403400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"1년 만에 2위에서 9위 추락\"… 217만불 투입 한화 현역 빅리거 영입, 무너진 투수왕국 다시 세운다",
+     "url": "https://www.fnnews.com/news/202611230835395690",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "\"미안한 마음밖에 없다\" 2년 차 영건이 이 정도로 짓눌렸나…성장통 딛고 쓰는 정우주의 오답노트 [오!쎈 인터뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/20/202611201418776170O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "상대는 폰세와 와이스다… 한화가 일찌감치 대답을 내놨다, 방향성은 확실, 결과도 확실할까",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021237",
+     "source": "SPOTV NEWS"
     }
    ]
   }

@@ -2,17 +2,37 @@
  "keyword": "배치표",
  "slug": "배치표",
  "firstSeen": 1795141800.0,
- "lastSeen": 1795146096.1065001,
- "peakRank": 2,
+ "lastSeen": 1795407856.5728312,
+ "peakRank": 1,
  "peakTraffic": 2000,
  "history": [
   [
    1795146096,
    2,
    2000
+  ],
+  [
+   1795407857,
+   1,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "약대 합격선 줄줄이 상승…서울대 약대 290점 '최고치' 전망",
+   "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549526",
+   "source": "약사공론"
+  },
+  {
+   "title": "올해 서울대 의대 가려면 ‘수능 295점 이상’…대구선 284점대",
+   "url": "https://www.yeongnam.com/web/view.php?key=20261122029592315",
+   "source": "영남일보"
+  },
+  {
+   "title": "합격예측 앱, 포털 환산점수 도구…손쉽게 대입 전략 세운다",
+   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22014006358",
+   "source": "국제신문"
+  },
   {
    "title": "‘불수능’ 사라지자 SKY 문턱 껑충… 서울대 의예 298점·경영 287점 전망",
    "url": "https://www.donga.com/news/Society/article/all/20261120/135059516/1",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-23"
  ],
  "related": [
+  "lpga",
+  "새마을금고",
+  "사채",
+  "ssg-랜더스",
+  "이부진-아들",
+  "삼성물산",
+  "치이카와-클리닉",
+  "국가장학금",
+  "코디-폰세",
   "손흥민",
   "시애틀-사운더스-대-솔트레이크",
   "샌안토니오-대-la-클리퍼스",

@@ -509,15 +509,15 @@
    "slug": "lpga",
    "firstSeen": 1795399200.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795403408.4767375
+   "peakTraffic": 2000,
+   "lastSeen": 1795407856.5728312
   },
   "ssg 랜더스": {
    "slug": "ssg-랜더스",
    "firstSeen": 1795397400.0,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795403408.4767375
+   "lastSeen": 1795407856.5728312
   },
   "제주특별자치도": {
    "slug": "제주특별자치도",
@@ -537,8 +537,57 @@
    "slug": "국가장학금",
    "firstSeen": 1795398600.0,
    "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795407856.5728312
+  },
+  "배치표": {
+   "slug": "배치표",
+   "firstSeen": 1795402800.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795407856.5728312
+  },
+  "새마을금고": {
+   "slug": "새마을금고",
+   "firstSeen": 1795402200.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795407856.5728312
+  },
+  "사채": {
+   "slug": "사채",
+   "firstSeen": 1795401000.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795407856.5728312
+  },
+  "이부진 아들": {
+   "slug": "이부진-아들",
+   "firstSeen": 1795402800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795407856.5728312
+  },
+  "삼성물산": {
+   "slug": "삼성물산",
+   "firstSeen": 1795401600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795407856.5728312
+  },
+  "치이카와 클리닉": {
+   "slug": "치이카와-클리닉",
+   "firstSeen": 1795401000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795407856.5728312
+  },
+  "코디 폰세": {
+   "slug": "코디-폰세",
+   "firstSeen": 1795403400.0,
+   "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795403408.4767375
+   "lastSeen": 1795407856.5728312
   }
  }
 }
