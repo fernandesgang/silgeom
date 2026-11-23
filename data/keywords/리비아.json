@@ -1,0 +1,46 @@
+{
+ "keyword": "리비아",
+ "slug": "리비아",
+ "firstSeen": 1795395600.0,
+ "lastSeen": 1795399489.09556,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795399489,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "발트해에서 지중해까지... 우크라 드론의 ‘종횡무진 난타전’",
+   "url": "https://www.chosun.com/international/international_general/2026/11/23/ZQZC6FQOENAMRGXROUCQ2TKOWE/",
+   "source": "조선일보"
+  },
+  {
+   "title": "우크라 전선 넓히나‥리비아서 러 군함 등 연달아 피격",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6867740_36925.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "리비아에서 드론 공격 받아 전복된 러시아 군함",
+   "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261123_0002299373&provider_id=&cID=&type=Main&catg=&idx=2",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "화이트캡스-대-솔트레이크",
+  "에코프로비엠",
+  "구조조정",
+  "부산항",
+  "오지헌",
+  "강금실",
+  "스쿠발",
+  "수원-fc",
+  "kospi"
+ ]
+}

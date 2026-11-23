@@ -1,0 +1,46 @@
+{
+ "keyword": "에코프로비엠",
+ "slug": "에코프로비엠",
+ "firstSeen": 1795390200.0,
+ "lastSeen": 1795399489.09556,
+ "peakRank": 2,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795399489,
+   2,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "주가 반토막에 풋옵션 부담… 에코프로비엠, 기존 FI와 CB 재발행 추진",
+   "url": "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "‘8861억 증자’ 보탰는데 주주 몫 또 깎이나...에코프로비엠 CB 재발행 추진",
+   "url": "https://www.insight.co.kr/news/583126",
+   "source": "인사이트"
+  },
+  {
+   "title": "에코프로비엠, 4200억 CB 상환 후 재발행…풋옵션 압박에 이자율 상향 유력",
+   "url": "https://www.datatooza.com/article/2026112309403997185e62b76150_80",
+   "source": "데이터투자"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "화이트캡스-대-솔트레이크",
+  "구조조정",
+  "부산항",
+  "오지헌",
+  "강금실",
+  "스쿠발",
+  "리비아",
+  "수원-fc",
+  "kospi"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "keyword": "kospi",
+ "slug": "kospi",
+ "firstSeen": 1795394400.0,
+ "lastSeen": 1795399489.09556,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795399489,
+   10,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "US AI stock sell-off fuels fears of Black Monday in South Korea",
+   "url": "https://biz.chosun.com/en/en-finance/2026/11/22/MO2BF6HCF5HYLAPQLM2QX7MAXE/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "Ants fleeing at the 4,700 level... Aftermath of the U.S. semiconductor shock",
+   "url": "https://www.mt.co.kr/en/stock/2026/11/23/2026112308591987728",
+   "source": "머니투데이"
+  },
+  {
+   "title": "Fears Mount Over \"AI Shock\" Ahead of Monday... Will Kospi Hold Ground?",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858110",
+   "source": "SBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-23"
+ ],
+ "related": [
+  "화이트캡스-대-솔트레이크",
+  "에코프로비엠",
+  "구조조정",
+  "부산항",
+  "오지헌",
+  "강금실",
+  "스쿠발",
+  "리비아",
+  "수원-fc"
+ ]
+}
