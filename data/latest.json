@@ -1,247 +1,39 @@
 {
- "generatedAt": 1795516258,
+ "generatedAt": 1795519691,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "서경석",
-   "slug": "서경석",
-   "traffic": 2000,
-   "startedAt": 1795509000.0,
+   "keyword": "프로포폴",
+   "slug": "프로포폴",
+   "traffic": 1000,
+   "startedAt": 1795514400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "AI 커닝에 소환된 서경석 \"내 한국사 만점도 의심해\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112413420026321",
-     "source": "머니투데이"
+     "title": "‘반포대교 추락 포르쉐’ 약물 공급 혐의 병원장…1심서 징역형",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721193",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "''IQ 146·서울대 출신' 서경석, AI 부정행위 불똥 \"한국사 시험 만점도 의심하더라\"",
-     "url": "https://www.fnnews.com/news/202611241349554546",
+     "title": "'반포대교 추락' 운전자에게 프로포폴 공급한 병원장, 1심 징역 1년 6개월",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868215_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "'프로포폴 오남용' 병원장 징역 1년6개월…184차례 투약",
+     "url": "https://www.fnnews.com/news/202611241604524137",
      "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "'한국사 만점' 서경석, 'AI 부정행위' 대란 불똥 \"내 점수도 의심..안경 안써 다행\"[핫피플]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GIZGEN3BGRRTOYJZHBRDIZJUGU/",
-     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "데블스플랜3 우승자",
-   "slug": "데블스플랜3-우승자",
-   "traffic": 2000,
-   "startedAt": 1795509000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "‘데블스 플랜3’ 오늘(24일) 종영...최종 우승자 누구?",
-     "url": "https://www.mk.co.kr/news/hot-issues/12216785",
-     "source": "매일경제"
-    },
-    {
-     "title": "역대급 과몰입…이도 논란부터 존박 사과까지, ‘데블스 플랜’ 최종 우승자는? [Oh!쎈 이슈]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/24/GU4DSMBTG5RWCZJXME4TAYZUHE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "‘데블스 플랜: 데드 어게인’ 오늘(24일) 최종회 공개…최후의 1인 가린다",
-     "url": "https://sports.donga.com/ent/article/all/20261124/135078511/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "스테이블코인",
-   "slug": "스테이블코인",
-   "traffic": 500,
-   "startedAt": 1795510800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "디지털자산업자, 앞으로 금융회사 수준의 안전성 확보해야",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861647",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "베일벗은 스테이블코인 규제…은행·빅테크 셈법은",
-     "url": "https://zdnet.co.kr/view/?no=20261124141609",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "차은우",
-   "slug": "차은우",
-   "traffic": 500,
-   "startedAt": 1795508400.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "광명 붕은우, 알고 보니 명문대생…아버지 직업도 '깜짝' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112323505139563",
-     "source": "머니투데이"
-    },
-    {
-     "title": "\"아버지가 변호사인데 왜 붕어빵을?\"…'광명 붕은우'의 반전 정체",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60031",
-     "source": "주간조선"
-    },
-    {
-     "title": "'차은우 닮은꼴' 붕어빵 청년 달인, 명문대생이었다",
-     "url": "https://www.newsis.com/view/NISX20261123_0003879915",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "australia vs england",
-   "slug": "australia-vs-england",
-   "traffic": 200,
-   "startedAt": 1795510800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Last-over MCG finish suggests a series of fine margins",
-     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-2nd-t20i-1528707/match-preview",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "Australia v England: second men’s Twenty20 international – live",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/24/australia-vs-england-second-mens-twenty20-international-live",
-     "source": "The Guardian"
-    },
-    {
-     "title": "SIX, SIX, SIX! Unlikely hero spearheads Aussie fightback in T20 tug-of-war — LIVE",
-     "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-2026-australia-vs-england-second-t20i-live-blog-and-updates-team-selection-how-to-stream-will-jacks-broken-hand/1hi2ohfb23wjv1pyoeresrgy11",
-     "source": "Fox Sports"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "카카오모빌리티",
-   "slug": "카카오모빌리티",
-   "traffic": 200,
-   "startedAt": 1795510200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
-     "url": "https://www.yna.co.kr/view/AKR20261123100000017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "중복상장 규제 후폭풍…1.5조 국제소송 당한 카카오",
-     "url": "https://www.hankyung.com/article/2026112350741",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "슈퍼문",
-   "slug": "슈퍼문",
-   "traffic": 200,
-   "startedAt": 1795509000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
-     "source": "국제신문"
-    },
-    {
-     "title": "오늘 밤, 슈퍼문과 플레이아데스 성단이 만난대요",
-     "url": "https://www.chosun.com/kid/kid_science/kid_space/2026/11/23/SFLRTV5U65ASDCLA5HLE4JCFHY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "11월 비버문 24일 뜬다…슈퍼문 월출 오후 4시35분",
-     "url": "https://www.jejutwn.com/news/article.html?no=464836",
-     "source": "제주교통복지신문"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "달",
-   "slug": "달",
-   "traffic": 200,
-   "startedAt": 1795508400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "손바닥만한 위성 통신 부품이 한 개 수억원, 174억 투자 대박 낸 스타트업",
-     "url": "https://www.chosun.com/economy/startup_story/2026/11/23/BOPKV6HBTZDXLPUICZV4RYJHGY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"지구와 달, 레이저로 초고속 연결\"…정부, 2029년 달궤도 통신위성 쏜다",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880454",
-     "source": "뉴시스"
-    },
-    {
-     "title": "세계는 우주군 경쟁중… ‘민간개발-軍활용’ 원팀으로 따라잡아야",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135070030/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "지폐",
-   "slug": "지폐",
-   "traffic": 100,
-   "startedAt": 1795511400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "조폐공사, 화폐 부산물 활용 '돈빛 조명' 공개…화폐굿즈 신제품",
-     "url": "https://www.news1.kr/local/daejeon-chungnam/6364176",
-     "source": "뉴스1"
-    },
-    {
-     "title": "[이서영의 재테크루] 돈복 부르던 은행 달력, 영크크 소장 욕구 자극하는 굿즈로",
-     "url": "https://www.ajunews.com/view/20261123130039888",
-     "source": "아주경제"
-    },
-    {
-     "title": "조폐공사, 지폐 부산물 기반 오브제 ‘돈빛 조명’ 공개",
-     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428565",
-     "source": "데일리한국"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "박수진",
-   "slug": "박수진",
-   "traffic": 100,
-   "startedAt": 1795510800.0,
+   "keyword": "배용준",
+   "slug": "배용준",
+   "traffic": 1000,
+   "startedAt": 1795514400.0,
    "change": "new",
    "diff": 0,
    "news": [
@@ -259,6 +51,214 @@
      "title": "반포엔 ‘욘사마’가 산다…배용준♥박수진, 韓 거주 중",
      "url": "https://sports.khan.co.kr/article/202611241505003",
      "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "스테이블코인",
+   "slug": "스테이블코인",
+   "traffic": 1000,
+   "startedAt": 1795510800.0,
+   "change": "same",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "베일벗은 스테이블코인 규제…은행·빅테크 셈법은",
+     "url": "https://zdnet.co.kr/view/?no=20261124141609",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "해킹 발생한 디지털자산업자에 무과실 손해배상책임·징벌적 과징금 물린다",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868154_36932.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "pakistan a vs nepal",
+   "slug": "pakistan-a-vs-nepal",
+   "traffic": 500,
+   "startedAt": 1795513200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Pakistan vs Nepal Live Score, Asia Cup Rising Stars Live Updates:Pakistan Shocked, 3-Down In 7 Overs vs Nepal",
+     "url": "https://sports.ndtv.com/cricket/pakistan-vs-nepal-live-score-asia-cup-rising-stars-live-updates-12370170",
+     "source": "NDTV Sports"
+    },
+    {
+     "title": "Pakistan A vs Nepal, free match prediction 24 November 2026",
+     "url": "https://www.thetopbookies.com/betting-tips/cricket/pak-a-vs-nep-24-Nov-2026",
+     "source": "TheTopBookies"
+    },
+    {
+     "title": "Pakistan A vs Nepal Live Streaming: When And Where To Watch Rising Stars Asia Cup Match?",
+     "url": "https://www.ndtvprofit.com/sports/pakistan-a-vs-nepal-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-match-12369526",
+     "source": "NDTV Profit"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "히잡",
+   "slug": "히잡",
+   "traffic": 200,
+   "startedAt": 1795515000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "女가수 히잡 없이 노래했다고... 이란, 태형 74대 집행",
+     "url": "https://www.chosun.com/international/international_general/2026/11/24/QMYPD6IS55A5ND6CN6FHJPOMHE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이란, 히잡 없이 공연한 여성 가수에 태형 74대",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6868199_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "민소매 드레스에 긴머리로 노래했다고…20대 女가수에 태형 74대 집행 '이 나라'",
+     "url": "https://www.etnews.com/20261124000338",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "한석준",
+   "slug": "한석준",
+   "traffic": 200,
+   "startedAt": 1795513800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "한석준, 5년 갈아넣은 방송서 '강제 하차'...\"화나서 울었다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112411215878301",
+     "source": "머니투데이"
+    },
+    {
+     "title": "한석준 “‘우리말 겨루기’ 강제 하차에 차 세우고 오열”…전현무 동반 퇴사도 거절",
+     "url": "https://www.donga.com/news/Culture/article/all/20261124/135082092/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "한석준 ‘우리말 겨루기’ 강제 하차에 오열…“화나서 운 건 처음”",
+     "url": "https://biz.heraldcorp.com/article/10947482",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "캐니언",
+   "slug": "캐니언",
+   "traffic": 200,
+   "startedAt": 1795513200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
+     "url": "https://www.hankyung.com/article/202611222346i",
+     "source": "한국경제"
+    },
+    {
+     "title": "한화생명, 카나비 떠난 자리에 ‘캐니언’ 김건부 영입",
+     "url": "https://www.kukinews.com/article/view/kuk202611240240",
+     "source": "쿠키뉴스"
+    },
+    {
+     "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
+     "source": "진일보 | 전남일보"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "지폐",
+   "slug": "지폐",
+   "traffic": 200,
+   "startedAt": 1795511400.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "화폐 부산물 활용한 '돈빛 조명' 출시…와디즈 펀딩 진행",
+     "url": "https://www.newsis.com/view/NISX20261124_0003881094",
+     "source": "뉴시스"
+    },
+    {
+     "title": "조폐공사, 화폐 부산물 활용 '돈빛 조명' 공개…화폐굿즈 신제품",
+     "url": "https://www.news1.kr/local/daejeon-chungnam/6364176",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[이서영의 재테크루] 돈복 부르던 은행 달력, 영크크 소장 욕구 자극하는 굿즈로",
+     "url": "https://www.ajunews.com/view/20261123130039888",
+     "source": "아주경제"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "australia vs england",
+   "slug": "australia-vs-england",
+   "traffic": 200,
+   "startedAt": 1795510800.0,
+   "change": "down",
+   "diff": 4,
+   "news": [
+    {
+     "title": "Australia v England: second men’s Twenty20 cricket international – live",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/24/australia-vs-england-second-mens-twenty20-international-live",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Last-over MCG finish suggests a series of fine margins",
+     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-2nd-t20i-1528707/match-preview",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "England in Australia: Nikhil Chaudhary stars as hosts win T20 series opener",
+     "url": "https://www.bbc.com/sport/cricket/articles/cme39qlevnrqo",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "다리오 아모데이",
+   "slug": "다리오-아모데이",
+   "traffic": 100,
+   "startedAt": 1795512000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'AI 중앙은행' 된 엔비디아…복귀한 젠슨 황, 오하이오서 첫 시험대 [김주완의 글로벌머니 X파일]",
+     "url": "https://www.hankyung.com/article/202611246927i",
+     "source": "한국경제"
+    },
+    {
+     "title": "실적은 좋은데 주가는 왜 떨어질까?…AI 투자 수익성에 커진 의구심",
+     "url": "https://www.newsis.com/view/NISX20261120_0003877131",
+     "source": "뉴시스"
+    },
+    {
+     "title": "엔비디아 고객 금융 7000억달러…FT \"AI 생태계 연쇄 충격 우려\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645648672",
+     "source": "마켓인"
     }
    ]
   }

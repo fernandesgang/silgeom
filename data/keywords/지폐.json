@@ -2,17 +2,27 @@
  "keyword": "지폐",
  "slug": "지폐",
  "firstSeen": 1795511400.0,
- "lastSeen": 1795516258.4721854,
- "peakRank": 9,
- "peakTraffic": 100,
+ "lastSeen": 1795519690.7736554,
+ "peakRank": 8,
+ "peakTraffic": 200,
  "history": [
   [
    1795516258,
    9,
    100
+  ],
+  [
+   1795519691,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "화폐 부산물 활용한 '돈빛 조명' 출시…와디즈 펀딩 진행",
+   "url": "https://www.newsis.com/view/NISX20261124_0003881094",
+   "source": "뉴시스"
+  },
   {
    "title": "조폐공사, 화폐 부산물 활용 '돈빛 조명' 공개…화폐굿즈 신제품",
    "url": "https://www.news1.kr/local/daejeon-chungnam/6364176",
@@ -33,6 +43,13 @@
   "2026-11-24"
  ],
  "related": [
+  "프로포폴",
+  "배용준",
+  "pakistan-a-vs-nepal",
+  "히잡",
+  "한석준",
+  "캐니언",
+  "다리오-아모데이",
   "서경석",
   "데블스플랜3-우승자",
   "스테이블코인",

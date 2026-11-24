@@ -2,17 +2,27 @@
  "keyword": "스테이블코인",
  "slug": "스테이블코인",
  "firstSeen": 1795510800.0,
- "lastSeen": 1795516258.4721854,
+ "lastSeen": 1795519690.7736554,
  "peakRank": 3,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795516258,
    3,
    500
+  ],
+  [
+   1795519691,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "해킹 발생한 디지털자산업자에 무과실 손해배상책임·징벌적 과징금 물린다",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6868154_36932.html",
+   "source": "MBC 뉴스"
+  },
   {
    "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
    "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/",
@@ -33,6 +43,13 @@
   "2026-11-24"
  ],
  "related": [
+  "프로포폴",
+  "배용준",
+  "pakistan-a-vs-nepal",
+  "히잡",
+  "한석준",
+  "캐니언",
+  "다리오-아모데이",
   "서경석",
   "데블스플랜3-우승자",
   "차은우",

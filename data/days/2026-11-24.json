@@ -901,15 +901,15 @@
    "slug": "스테이블코인",
    "firstSeen": 1795510800.0,
    "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795516258.4721854
+   "peakTraffic": 1000,
+   "lastSeen": 1795519690.7736554
   },
   "australia vs england": {
    "slug": "australia-vs-england",
    "firstSeen": 1795510800.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795516258.4721854
+   "lastSeen": 1795519690.7736554
   },
   "카카오모빌리티": {
    "slug": "카카오모빌리티",
@@ -935,9 +935,9 @@
   "지폐": {
    "slug": "지폐",
    "firstSeen": 1795511400.0,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795516258.4721854
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795519690.7736554
   },
   "박수진": {
    "slug": "박수진",
@@ -945,6 +945,55 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795516258.4721854
+  },
+  "프로포폴": {
+   "slug": "프로포폴",
+   "firstSeen": 1795514400.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795519690.7736554
+  },
+  "배용준": {
+   "slug": "배용준",
+   "firstSeen": 1795514400.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795519690.7736554
+  },
+  "pakistan a vs nepal": {
+   "slug": "pakistan-a-vs-nepal",
+   "firstSeen": 1795513200.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795519690.7736554
+  },
+  "히잡": {
+   "slug": "히잡",
+   "firstSeen": 1795515000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795519690.7736554
+  },
+  "한석준": {
+   "slug": "한석준",
+   "firstSeen": 1795513800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795519690.7736554
+  },
+  "캐니언": {
+   "slug": "캐니언",
+   "firstSeen": 1795513200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795519690.7736554
+  },
+  "다리오 아모데이": {
+   "slug": "다리오-아모데이",
+   "firstSeen": 1795512000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795519690.7736554
   }
  }
 }

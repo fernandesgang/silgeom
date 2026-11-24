@@ -2,7 +2,7 @@
  "keyword": "australia vs england",
  "slug": "australia-vs-england",
  "firstSeen": 1795510800.0,
- "lastSeen": 1795516258.4721854,
+ "lastSeen": 1795519690.7736554,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795516258,
    5,
    200
+  ],
+  [
+   1795519691,
+   9,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "England in Australia: Nikhil Chaudhary stars as hosts win T20 series opener",
+   "url": "https://www.bbc.com/sport/cricket/articles/cme39qlevnrqo",
+   "source": "BBC"
+  },
   {
    "title": "Last-over MCG finish suggests a series of fine margins",
    "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-2nd-t20i-1528707/match-preview",
@@ -33,6 +43,13 @@
   "2026-11-24"
  ],
  "related": [
+  "프로포폴",
+  "배용준",
+  "pakistan-a-vs-nepal",
+  "히잡",
+  "한석준",
+  "캐니언",
+  "다리오-아모데이",
   "서경석",
   "데블스플랜3-우승자",
   "스테이블코인",
