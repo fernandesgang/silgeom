@@ -2,7 +2,7 @@
  "keyword": "꽁안 하노이 fc 대 비셀 고베",
  "slug": "꽁안-하노이-fc-대-비셀-고베",
  "firstSeen": 1795524600.0,
- "lastSeen": 1795535654.4244635,
+ "lastSeen": 1795539268.4577765,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -20,9 +20,19 @@
    1795535654,
    5,
    200
+  ],
+  [
+   1795539268,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Coach Polking: 'There's no time to celebrate'",
+   "url": "https://www.vietnam.vn/en/hlv-polking-khong-co-thoi-gian-an-mung-dau",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "Japan's strongest team suffers a crushing defeat in Vietnam.",
    "url": "https://www.vietnam.vn/en/doi-bong-manh-nhat-nhat-ban-tham-bai-o-viet-nam",
@@ -54,6 +64,8 @@
   "2026-11-25"
  ],
  "related": [
+  "pakistan-a-vs-nepal-national-cricket-team-standings",
+  "챔피언스리그",
   "주진우",
   "황영묵",
   "cricbuzz",

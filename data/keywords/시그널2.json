@@ -2,14 +2,19 @@
  "keyword": "시그널2",
  "slug": "시그널2",
  "firstSeen": 1795530600.0,
- "lastSeen": 1795535654.4244635,
- "peakRank": 7,
- "peakTraffic": 100,
+ "lastSeen": 1795539268.4577765,
+ "peakRank": 5,
+ "peakTraffic": 200,
  "history": [
   [
    1795535654,
    7,
    100
+  ],
+  [
+   1795539268,
+   5,
+   200
   ]
  ],
  "news": [
@@ -33,6 +38,8 @@
   "2026-11-25"
  ],
  "related": [
+  "pakistan-a-vs-nepal-national-cricket-team-standings",
+  "챔피언스리그",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "주우재",
   "주진우",

@@ -13,28 +13,28 @@
    "firstSeen": 1795535654.4244635,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795535654.4244635
+   "lastSeen": 1795539268.4577765
   },
   "주진우": {
    "slug": "주진우",
    "firstSeen": 1795535654.4244635,
    "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795535654.4244635
+   "lastSeen": 1795539268.4577765
   },
   "황영묵": {
    "slug": "황영묵",
    "firstSeen": 1795535654.4244635,
-   "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795535654.4244635
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795539268.4577765
   },
   "꽁안 하노이 fc 대 비셀 고베": {
    "slug": "꽁안-하노이-fc-대-비셀-고베",
    "firstSeen": 1795535654.4244635,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795535654.4244635
+   "lastSeen": 1795539268.4577765
   },
   "cricbuzz": {
    "slug": "cricbuzz",
@@ -46,30 +46,44 @@
   "시그널2": {
    "slug": "시그널2",
    "firstSeen": 1795535654.4244635,
-   "peakRank": 7,
-   "peakTraffic": 100,
-   "lastSeen": 1795535654.4244635
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795539268.4577765
   },
   "추성훈 은퇴전": {
    "slug": "추성훈-은퇴전",
    "firstSeen": 1795535654.4244635,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795535654.4244635
+   "lastSeen": 1795539268.4577765
   },
   "미국 상품거래위원회": {
    "slug": "미국-상품거래위원회",
    "firstSeen": 1795535654.4244635,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795535654.4244635
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795539268.4577765
   },
   "화재": {
    "slug": "화재",
    "firstSeen": 1795535654.4244635,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795535654.4244635
+   "lastSeen": 1795539268.4577765
+  },
+  "pakistan a vs nepal national cricket team standings": {
+   "slug": "pakistan-a-vs-nepal-national-cricket-team-standings",
+   "firstSeen": 1795535400.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795539268.4577765
+  },
+  "챔피언스리그": {
+   "slug": "챔피언스리그",
+   "firstSeen": 1795532400.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795539268.4577765
   }
  }
 }

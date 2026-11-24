@@ -2,7 +2,7 @@
  "keyword": "주진우",
  "slug": "주진우",
  "firstSeen": 1795530600.0,
- "lastSeen": 1795535654.4244635,
+ "lastSeen": 1795539268.4577765,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,24 @@
    1795535654,
    3,
    200
+  ],
+  [
+   1795539268,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "유동규 \"닭백숙집서 판돈 200만원 포커\"…이용철 \"육식을 못한다\"",
+   "url": "https://weekly.chosun.com/news/articleView.html?idxno=60061",
+   "source": "주간조선"
+  },
+  {
+   "title": "[단독] '대장동 수사' 강백신 검사 \"정치권력자가 원하는 사실 조작할 것 … 현대판 지록위마\"",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450302.html",
+   "source": "뉴데일리"
+  },
   {
    "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
    "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
@@ -33,6 +48,8 @@
   "2026-11-25"
  ],
  "related": [
+  "pakistan-a-vs-nepal-national-cricket-team-standings",
+  "챔피언스리그",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "주우재",
   "황영묵",

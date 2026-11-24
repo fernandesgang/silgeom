@@ -1,77 +1,41 @@
 {
- "generatedAt": 1795535654,
+ "generatedAt": 1795539268,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "대전 하나 시티즌 대 베이징 궈안 순위",
-   "slug": "대전-하나-시티즌-대-베이징-궈안-순위",
-   "traffic": 1000,
-   "startedAt": 1795522200.0,
-   "change": "same",
+   "keyword": "pakistan a vs nepal national cricket team standings",
+   "slug": "pakistan-a-vs-nepal-national-cricket-team-standings",
+   "traffic": 5000,
+   "startedAt": 1795535400.0,
+   "change": "new",
    "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "Pakistan vs Nepal Full Score, Asia Cup Rising Stars Highlights: Pakistan Thrash Nepal, Top Group",
+     "url": "https://sports.ndtv.com/cricket/pakistan-vs-nepal-live-score-asia-cup-rising-stars-live-updates-12370170",
+     "source": "NDTV Sports"
+    },
+    {
+     "title": "Pakistan A defend 168 to survive Nepal scare",
+     "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/pakistan-a-vs-nepal-11th-match-group-b-1562352/match-report",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Shaheens crush Nepal to stay unbeaten in Asia Cup Rising Stars",
+     "url": "https://tribune.com.pk/story/2642108/shaheens-crush-nepal-to-stay-unbeaten-in-asia-cup-rising-stars",
+     "source": "The Express Tribune"
+    }
+   ]
   },
   {
    "rank": 2,
-   "keyword": "주우재",
-   "slug": "주우재",
-   "traffic": 500,
-   "startedAt": 1795525200.0,
-   "change": "up",
-   "diff": 3,
-   "news": [
-    {
-     "title": "올해 연말 최우수상 기대 중인 허경환, 견제 대상이 있다? | KBS 261124 방송",
-     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC2&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
-     "source": "대한민국 대표 공영미디어 KBS"
-    },
-    {
-     "title": "주우재, 허경환 과거 태도 폭로 \"인기 없다고 깔보고 무시해\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112423374016469",
-     "source": "머니투데이"
-    },
-    {
-     "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880179",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "주진우",
-   "slug": "주진우",
-   "traffic": 200,
-   "startedAt": 1795530600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "이용철 \"저강도 내란 상태\"...'조희대 탄핵'엔 말 아껴",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611242334054477",
-     "source": "YTN"
-    },
-    {
-     "title": "‘李 공소취소 안한다는 말 못 하나’ 질문에 법무장관 후보자 “예”",
-     "url": "https://www.kmib.co.kr/article/20261124501310",
-     "source": "국민일보"
-    }
-   ]
-  },
-  {
-   "rank": 4,
    "keyword": "황영묵",
    "slug": "황영묵",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795528800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "\"간곡히 부탁드립니다\" 결혼식 앞둔 한화 황영묵, SNS에 직접 글 올려 호소한 사연은",
@@ -91,70 +55,70 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "꽁안 하노이 fc 대 비셀 고베",
-   "slug": "꽁안-하노이-fc-대-비셀-고베",
-   "traffic": 200,
-   "startedAt": 1795524600.0,
-   "change": "up",
+   "rank": 3,
+   "keyword": "주우재",
+   "slug": "주우재",
+   "traffic": 500,
+   "startedAt": 1795525200.0,
+   "change": "down",
    "diff": 1,
    "news": [
     {
-     "title": "Japan's strongest team suffers a crushing defeat in Vietnam.",
-     "url": "https://www.vietnam.vn/en/doi-bong-manh-nhat-nhat-ban-tham-bai-o-viet-nam",
+     "title": "올해 연말 최우수상 기대 중인 허경환, 견제 대상이 있다? | KBS 261124 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC2&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
+     "source": "대한민국 대표 공영미디어 KBS"
+    },
+    {
+     "title": "주우재, 허경환 과거 태도 폭로 \"인기 없다고 깔보고 무시해\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112423374016469",
+     "source": "머니투데이"
+    },
+    {
+     "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880179",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "챔피언스리그",
+   "slug": "챔피언스리그",
+   "traffic": 200,
+   "startedAt": 1795532400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'축구 경기장 근처에 맹수가 돌아다닌다고?' 아스톤 빌라-갈라타사라이 UCL 앞두고 '발칵'...사자 수색에 드론 7대 동원 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611240831773337O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "경기 프리뷰: 갈라타사라이 vs 아스톤 빌라, 11월 25일 00:45: 원정 경기에서의 어려움 극복.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-galatasaray-vs-aston-villa-0h45-ngay-25-11-vuot-kho-noi-dat-khach",
      "source": "Vietnam.vn"
     },
     {
-     "title": "Cong An Ha Noi vs Vissel Kobe: Where to Watch, Kick-off Time and Live Stream Info",
-     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-cong-an-ha-noi-v-vissel-kobe/bltca0e71cc2f68c8f0",
-     "source": "Goal.com"
-    },
-    {
-     "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
-     "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
-     "source": "The AFC"
+     "title": "챔피언스 리그 갈라타사라이 대 아스톤 빌라 경기 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-galatasaray-vs-aston-villa-tai-champions-league-1805476.ldo",
+     "source": "Laodong.vn"
     }
    ]
   },
   {
-   "rank": 6,
-   "keyword": "cricbuzz",
-   "slug": "cricbuzz",
-   "traffic": 200,
-   "startedAt": 1795523400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
-     "url": "https://www.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
-     "source": "Cricbuzz"
-    },
-    {
-     "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final?",
-     "url": "https://sports.yahoo.com/articles/india-opponents-2026-asia-games-152500289.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "India A Cricket Team Vs United Arab Emirates National Cricket Team Match Scorecard",
-     "url": "https://newspatrolling.com/india-a-cricket-team-vs-united-arab-emirates-national-cricket-team-match-scorecard/",
-     "source": "Newspatrolling.com"
-    }
-   ]
-  },
-  {
-   "rank": 7,
+   "rank": 5,
    "keyword": "시그널2",
    "slug": "시그널2",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795530600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
-     "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-     "url": "https://sports.khan.co.kr/article/202611240740003",
-     "source": "스포츠경향"
+     "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
+     "source": "연합뉴스TV"
     },
     {
      "title": "'조진웅 논란'에도 12월 방송 확정…'두 번째 시그널' 포스터 공개 - 머니투데이",
@@ -162,46 +126,46 @@
      "source": "머니투데이"
     },
     {
-     "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
-     "source": "연합뉴스TV"
+     "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+     "url": "https://sports.khan.co.kr/article/202611240740003",
+     "source": "스포츠경향"
     }
    ]
   },
   {
-   "rank": 8,
-   "keyword": "추성훈 은퇴전",
-   "slug": "추성훈-은퇴전",
-   "traffic": 100,
-   "startedAt": 1795528800.0,
-   "change": "new",
-   "diff": 0,
+   "rank": 6,
+   "keyword": "주진우",
+   "slug": "주진우",
+   "traffic": 200,
+   "startedAt": 1795530600.0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
-     "title": "\"기개도 없으면서 남자다운 척!\" 추성훈 은퇴→日 격투기 전설 아들 '공개 저격'...20년 전 악연 재소환에 일본도 시끌 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/25/202611242000772812O",
-     "source": "머니투데이"
+     "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[잇슈 컬처] 추성훈, 격투 인생 마침표…장문의 심경글",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719549",
-     "source": "KBS 뉴스"
+     "title": "유동규 \"닭백숙집서 판돈 200만원 포커\"…이용철 \"육식을 못한다\"",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60061",
+     "source": "주간조선"
     },
     {
-     "title": "[8회 예고] 추성훈의 마지막 도전 (ft.깜짝 응원단) # 상남자의여행법",
-     "url": "https://programs.sbs.co.kr/plus/realmantrip/clip/90295/22000640261",
-     "source": "programs.sbs.co.kr"
+     "title": "[단독] '대장동 수사' 강백신 검사 \"정치권력자가 원하는 사실 조작할 것 … 현대판 지록위마\"",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450302.html",
+     "source": "뉴데일리"
     }
    ]
   },
   {
-   "rank": 9,
+   "rank": 7,
    "keyword": "미국 상품거래위원회",
    "slug": "미국-상품거래위원회",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795527600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정",
@@ -221,28 +185,80 @@
    ]
   },
   {
+   "rank": 8,
+   "keyword": "꽁안 하노이 fc 대 비셀 고베",
+   "slug": "꽁안-하노이-fc-대-비셀-고베",
+   "traffic": 200,
+   "startedAt": 1795524600.0,
+   "change": "down",
+   "diff": 3,
+   "news": [
+    {
+     "title": "Coach Polking: 'There's no time to celebrate'",
+     "url": "https://www.vietnam.vn/en/hlv-polking-khong-co-thoi-gian-an-mung-dau",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
+     "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
+     "source": "The AFC"
+    },
+    {
+     "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
+     "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
+     "source": "Báo Nghệ An"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "추성훈 은퇴전",
+   "slug": "추성훈-은퇴전",
+   "traffic": 100,
+   "startedAt": 1795528800.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "\"기개도 없으면서 남자다운 척!\" 추성훈 은퇴→日 격투기 전설 아들 '공개 저격'...20년 전 악연 재소환에 일본도 시끌 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/25/202611242000772812O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[잇슈 컬처] 추성훈, 격투 인생 마침표…장문의 심경글",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719549",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[8회 예고] 추성훈의 마지막 도전 (ft.깜짝 응원단) # 상남자의여행법",
+     "url": "https://programs.sbs.co.kr/plus/realmantrip/clip/90295/22000640261",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
    "rank": 10,
    "keyword": "화재",
    "slug": "화재",
    "traffic": 100,
    "startedAt": 1795524600.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721247",
-     "source": "KBS 뉴스"
+     "title": "구리소방서, 노후 공동주택 화재 취약세대에 화재감지기 보급 강화",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806085",
+     "source": "일간투데이"
     },
     {
-     "title": "부산 일가족 3명 사망 화재 감식…기름통 발견돼 연관성 조사",
-     "url": "https://www.yna.co.kr/view/AKR20261124099800051",
-     "source": "연합뉴스"
+     "title": "동네 소방시설 한 눈에…구리소방서 AI 활용 웹지도 구축",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008764",
+     "source": "아시아투데이"
     },
     {
-     "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241156560345_005.html",
-     "source": "YTN"
+     "title": "여수시, 화재취약계층에 자동소화패치 1,738개 지원…주거 안전 강화",
+     "url": "https://sisaissue.com/View.aspx?No=4327900",
+     "source": "시사의창"
     }
    ]
   }
