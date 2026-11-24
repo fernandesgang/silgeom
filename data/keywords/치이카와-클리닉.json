@@ -2,17 +2,32 @@
  "keyword": "치이카와 클리닉",
  "slug": "치이카와-클리닉",
  "firstSeen": 1795401000.0,
- "lastSeen": 1795407856.5728312,
- "peakRank": 8,
- "peakTraffic": 200,
+ "lastSeen": 1795499320.8620768,
+ "peakRank": 5,
+ "peakTraffic": 1000,
  "history": [
   [
    1795407857,
    8,
    200
+  ],
+  [
+   1795499321,
+   5,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "'치이카와 클리닉' 팝업 1차 사전예약 하루 연기된 이유",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760308",
+   "source": "국제뉴스"
+  },
+  {
+   "title": "치이카와 팝업 1차 예약 하루 연기…사이트 정비",
+   "url": "https://www.jejutwn.com/news/article.html?no=464852",
+   "source": "제주교통복지신문"
+  },
   {
    "title": "치이카와 클리닉 @삿포로 아피아",
    "url": "https://domingo.ne.jp/ko/event/55460",
@@ -30,9 +45,19 @@
   }
  ],
  "days": [
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "related": [
+  "퇴직",
+  "장기-기증",
+  "12-월-3-일",
+  "강호동",
+  "지방세",
+  "김서형",
+  "팝콘",
+  "트롯-데스매치-금타는-금요일",
+  "과즙-세연-방시혁",
   "배치표",
   "lpga",
   "새마을금고",
