@@ -343,6 +343,76 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795476433.4524534
+  },
+  "김호령": {
+   "slug": "김호령",
+   "firstSeen": 1795474200.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795479876.927973
+  },
+  "울릉도": {
+   "slug": "울릉도",
+   "firstSeen": 1795474200.0,
+   "peakRank": 2,
+   "peakTraffic": 10000,
+   "lastSeen": 1795479876.927973
+  },
+  "축구": {
+   "slug": "축구",
+   "firstSeen": 1795476000.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795479876.927973
+  },
+  "김범수": {
+   "slug": "김범수",
+   "firstSeen": 1795474800.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795479876.927973
+  },
+  "c-390 밀레니엄": {
+   "slug": "c-390-밀레니엄",
+   "firstSeen": 1795474200.0,
+   "peakRank": 5,
+   "peakTraffic": 2000,
+   "lastSeen": 1795479876.927973
+  },
+  "대한민국 농림축산식품부 장관": {
+   "slug": "대한민국-농림축산식품부-장관",
+   "firstSeen": 1795476000.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795479876.927973
+  },
+  "미래에셋증권": {
+   "slug": "미래에셋증권",
+   "firstSeen": 1795475400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795479876.927973
+  },
+  "마라톤": {
+   "slug": "마라톤",
+   "firstSeen": 1795475400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795479876.927973
+  },
+  "이지애 아나운서": {
+   "slug": "이지애-아나운서",
+   "firstSeen": 1795474200.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795479876.927973
+  },
+  "tsla": {
+   "slug": "tsla",
+   "firstSeen": 1795474800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795479876.927973
   }
  }
 }

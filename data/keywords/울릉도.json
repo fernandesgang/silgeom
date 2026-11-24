@@ -2,9 +2,9 @@
  "keyword": "울릉도",
  "slug": "울릉도",
  "firstSeen": 1795384800.0,
- "lastSeen": 1795391938.947649,
- "peakRank": 4,
- "peakTraffic": 1000,
+ "lastSeen": 1795479876.927973,
+ "peakRank": 2,
+ "peakTraffic": 10000,
  "history": [
   [
    1795389605,
@@ -15,9 +15,29 @@
    1795391939,
    4,
    1000
+  ],
+  [
+   1795479877,
+   2,
+   10000
   ]
  ],
  "news": [
+  {
+   "title": "[속보] 경북 울릉군 지역에 '비행체 영공 침범'‥한때 경계경보",
+   "url": "https://imnews.imbc.com/news/2026/politics/article/6868037_36911.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "[속보] 북한 항공기 추정 비행체 영공 침범…울릉군 경보 후 해제",
+   "url": "https://news.jtbc.co.kr/article/NB12329504",
+   "source": "JTBC"
+  },
+  {
+   "title": "러 군용기 카디즈 침범… 울릉도에 주민 대피령",
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/24/2VBBFPPE3VBWFJRTMV4P6MJOIY/",
+   "source": "조선일보"
+  },
   {
    "title": "[단독]울릉도 표류 北 주민 6명 조만간 송환하기로",
    "url": "https://www.donga.com/news/Politics/article/all/20261123/135070407/2",
@@ -35,9 +55,18 @@
   }
  ],
  "days": [
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "related": [
+  "축구",
+  "김범수",
+  "c-390-밀레니엄",
+  "대한민국-농림축산식품부-장관",
+  "미래에셋증권",
+  "마라톤",
+  "이지애-아나운서",
+  "tsla",
   "노시환",
   "김호령",
   "대학",
@@ -49,8 +78,6 @@
   "치매",
   "weather",
   "天气",
-  "콜레트-크레스",
-  "레임덕",
-  "klasemen-liverpool-vs-manchester-united-f-c"
+  "콜레트-크레스"
  ]
 }
