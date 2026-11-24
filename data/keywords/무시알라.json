@@ -2,17 +2,37 @@
  "keyword": "무시알라",
  "slug": "무시알라",
  "firstSeen": 1795318800.0,
- "lastSeen": 1795326321.144422,
- "peakRank": 9,
+ "lastSeen": 1795549939.1445184,
+ "peakRank": 8,
  "peakTraffic": 100,
  "history": [
   [
    1795322797,
    9,
    100
+  ],
+  [
+   1795549939,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "충격 '김민재 동료' 아침에 의식 잃고, 저녁에 레알전 뛰었다 \"발작 은폐 의혹\"... 뮌헨 고위층 '분노 폭발' - 머니투데이",
+   "url": "https://www.mt.co.kr/sports/2026/11/24/2026112421302892400",
+   "source": "머니투데이"
+  },
+  {
+   "title": "1850억 공중분해 위기! 재계약 후 60경기 결장+발작 증세, 독일 최고 유망주 어쩌나…뮌헨 고민 깊다 \"이전 수준까지 올라오기 어려워\"",
+   "url": "https://www.xportsnews.com/article/2222152",
+   "source": "엑스포츠뉴스"
+  },
+  {
+   "title": "무시알라가 은퇴한다는 소식은 사실이 아닙니다.",
+   "url": "https://www.vietnam.vn/ko/tin-musiala-giai-nghe-la-gia",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "[오피셜] “바이에른 뮌헨은 선수를 보호하라”… 국제축구선수협회 성명 발표, 무시알라 향해 연봉 삭감 압박하는 구단 수뇌부 겨냥",
    "url": "https://www.besteleven.com/news/articleView.html?idxno=314233",
@@ -35,9 +55,18 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-25"
  ],
  "related": [
+  "pakistan-a-vs-nepal-national-cricket-team-standings",
+  "제우스",
+  "에릭-페디",
+  "챔피언스리그",
+  "시그널2",
+  "알나스르-대-알사드",
+  "경원선",
+  "랜드로버-디펜더",
   "엘니뇨",
   "최민정",
   "제네시스-g80",

@@ -2,17 +2,27 @@
  "keyword": "에릭 페디",
  "slug": "에릭-페디",
  "firstSeen": 1795538400.0,
- "lastSeen": 1795545835.0373507,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795549939.1445184,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795545835,
    6,
    200
+  ],
+  [
+   1795549939,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "NC 다이노스 복귀 제안 거절한 페디…미국 잔류 결정 : 스포츠",
+   "url": "https://news.jkn.co.kr/post/1120179",
+   "source": "재경일보"
+  },
   {
    "title": "\"죄송합니다. 미국에 남겠습니다\" 20승 투수 또 한국행 불발, 대체 왜 거절했나",
    "url": "https://www.chosun.com/sports/baseball/2026/11/24/MFSGIZBVHAZWKNBXGNTGEYTCMY/",
@@ -33,6 +43,10 @@
   "2026-11-25"
  ],
  "related": [
+  "제우스",
+  "알나스르-대-알사드",
+  "경원선",
+  "무시알라",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
   "주우재",
   "챔피언스리그",

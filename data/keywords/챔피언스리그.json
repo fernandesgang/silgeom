@@ -2,7 +2,7 @@
  "keyword": "챔피언스리그",
  "slug": "챔피언스리그",
  "firstSeen": 1795532400.0,
- "lastSeen": 1795545835.0373507,
+ "lastSeen": 1795549939.1445184,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -15,9 +15,29 @@
    1795545835,
    3,
    500
+  ],
+  [
+   1795549939,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "AFC 챔피언스 리그 3-1 비셀 고베 생중계 (후반전): 페레아 또 득점",
+   "url": "https://www.vietnam.vn/ko/truc-tiep-cahn-3-1-vissel-kobe-cup-c1-chau-a-hiep-2-perea-tiep-tuc-lap-cong",
+   "source": "Vietnam.vn"
+  },
+  {
+   "title": "응우옌 필립은 아시안컵에서 두 번째로 교체되었다.",
+   "url": "https://www.vietnam.vn/ko/nguyen-filip-lan-thu-hai-bi-thay-ra-o-cup-chau-a",
+   "source": "Vietnam.vn"
+  },
+  {
+   "title": "폴킹 씨는 전 도르트문트 감독을 이겨서 기뻤다.",
+   "url": "https://www.vietnam.vn/ko/ong-polking-hanh-phuc-khi-thang-cuu-hlv-dortmund",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "특공대·열화상 드론까지 투입…‘사자’ 쫓던 이스탄불의 반전",
    "url": "https://www.joongang.co.kr/article/25481691",
@@ -43,6 +63,10 @@
   "2026-11-25"
  ],
  "related": [
+  "제우스",
+  "알나스르-대-알사드",
+  "경원선",
+  "무시알라",
   "에릭-페디",
   "랜드로버-디펜더",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
