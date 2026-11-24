@@ -2,17 +2,32 @@
  "keyword": "꽁안 하노이 fc 대 비셀 고베",
  "slug": "꽁안-하노이-fc-대-비셀-고베",
  "firstSeen": 1795524600.0,
- "lastSeen": 1795528426.0469253,
- "peakRank": 8,
- "peakTraffic": 100,
+ "lastSeen": 1795531630.4947722,
+ "peakRank": 6,
+ "peakTraffic": 200,
  "history": [
   [
    1795528426,
    8,
    100
+  ],
+  [
+   1795531630,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
+   "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
+   "source": "The AFC"
+  },
+  {
+   "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
+   "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
+   "source": "Báo Nghệ An"
+  },
   {
    "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
    "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
@@ -28,6 +43,7 @@
   "2026-11-24"
  ],
  "related": [
+  "주우재",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "united-arab-emirates-national-cricket-team-vs-india-a-cricke",
   "의식불명",

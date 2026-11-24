@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795528426,
+ "generatedAt": 1795531630,
  "geo": "KR",
  "items": [
   {
@@ -8,9 +8,14 @@
    "slug": "대전-하나-시티즌-대-베이징-궈안-순위",
    "traffic": 20000,
    "startedAt": 1795522200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
+    {
+     "title": "17분 만에 3골 몰아친 화력쇼! 대전, 中 베이징 3-2 잡고 ACLE '연패 탈출'... 포항은 日 교토에 패배(종합) - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112422205886486",
+     "source": "머니투데이"
+    },
     {
      "title": "'전반에만 3골 폭발' 대전, 안방에서 中 베이징 3-2 격파! ACLE 연패 탈출...16강 진출 희망 살렸다",
      "url": "https://www.chosun.com/sports/football/2026/11/24/GQYWCNBTGZSGCOBQGM2DOZJVMU/",
@@ -20,37 +25,32 @@
      "title": "'마사 결승골' 대전, ACLE서 베이징 3-2 제압…포항은 교토에 패배",
      "url": "https://www.news1.kr/sports/soccer/6364852",
      "source": "뉴스1"
-    },
-    {
-     "title": "토트넘 코치로 손흥민과 유로파리그 우승 일궜던 몽고메리, 베이징 감독으로 대전 원정···“K리그 선수들 신체 능력 뛰어나” [MK피플]",
-     "url": "https://www.mk.co.kr/news/sports/12217217",
-     "source": "매일경제"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "united arab emirates national cricket team vs india a cricket team standings",
-   "slug": "united-arab-emirates-national-cricket-team-vs-india-a-cricke",
+   "keyword": "최재훈",
+   "slug": "최재훈",
    "traffic": 1000,
-   "startedAt": 1795524000.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795521000.0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
-     "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
-     "url": "https://www.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
-     "source": "Cricbuzz"
+     "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
+     "url": "https://www.viva100.com/article/20261124500737",
+     "source": "브릿지경제"
     },
     {
-     "title": "'Had a feeling I would score a hundred': India-born Harpreet Bhatia's emotional ton on Guru Nanak Jayant",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/had-a-feeling-i-would-score-a-hundred-india-born-harpreet-bhatias-emotional-ton-on-guru-nanak-jayanti-against-india-a/articleshow/136126818.cms",
-     "source": "The Times of India"
+     "title": "[동정] 최재훈 달성군수",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
+     "source": "아시아뉴스통신"
     },
     {
-     "title": "Asia Cup Rising Stars: India 'A' vs United Arab Emirates in Doha on November 24, 2026",
-     "url": "https://www.thehindu.com/sport/cricket/asia-cup-rising-stars-india-a-vs-uae-in-doha/article71737454.ece",
-     "source": "The Hindu"
+     "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
+     "source": "머니투데이"
     }
    ]
   },
@@ -82,65 +82,18 @@
   },
   {
    "rank": 4,
-   "keyword": "최재훈",
-   "slug": "최재훈",
-   "traffic": 500,
-   "startedAt": 1795521000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
-     "url": "https://www.viva100.com/article/20261124500737",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "[동정] 최재훈 달성군수",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
-     "source": "아시아뉴스통신"
-    },
-    {
-     "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "치안감",
-   "slug": "치안감",
-   "traffic": 200,
-   "startedAt": 1795522200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "‘경찰 2인자’ 치안정감에 김병기·송영호 승진 내정",
-     "url": "https://www.khan.co.kr/article/202611241022011",
-     "source": "경향신문"
-    },
-    {
-     "title": "[인사] 경찰청",
-     "url": "https://www.etnews.com/20261124000332",
-     "source": "전자신문"
-    },
-    {
-     "title": "함영욱 경기남부청 광역수사단장, 치안감 승진 내정",
-     "url": "https://www.kyeongin.com/article/1775292",
-     "source": "경인일보"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "비",
    "slug": "비",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795521600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
+    {
+     "title": "틈만나면, 67회 다시보기 : 브런치와 바이크를 넘나드는 찐친들! 비X김재욱의 신촌 틈새 공략!",
+     "url": "https://programs.sbs.co.kr/enter/teum/vod/82255/22000640176",
+     "source": "programs.sbs.co.kr"
+    },
     {
      "title": "틈만나면, : 비×유연석, 김재욱의 자리 이동 제안에 즉각 움직이며 틈 미션 도전",
      "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484401985",
@@ -150,22 +103,95 @@
      "title": "'틈만나면,' 비, 체지방률 0%의 반전 식성…\"죽기 전 치즈버거 먹고파\" - 머니투데이",
      "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112408057243137",
      "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "주우재",
+   "slug": "주우재",
+   "traffic": 200,
+   "startedAt": 1795525200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "허경환, 데뷔 20주년 맞이 키 크는 수술을 결심하다?! | KBS 261124 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC4&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
+     "source": "대한민국 대표 공영미디어 KBS"
     },
     {
-     "title": "‘틈만나면’ 비, “지방간 있다” 충격 고백…'LDL 고민' 유연석과 ‘40대 건강 수다’",
-     "url": "https://www.viva100.com/article/20261123501391",
-     "source": "브릿지경제"
+     "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880179",
+     "source": "뉴시스"
+    },
+    {
+     "title": "주우재 \"허경환에 2억까지 빌려줄 수 있다\" 특급 의리(옥문아)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GQ3DMOLGMU4DMNRSG4YDOYZTME/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "꽁안 하노이 fc 대 비셀 고베",
+   "slug": "꽁안-하노이-fc-대-비셀-고베",
+   "traffic": 200,
+   "startedAt": 1795524600.0,
+   "change": "up",
+   "diff": 2,
+   "news": [
+    {
+     "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
+     "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
+     "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
+     "source": "The AFC"
+    },
+    {
+     "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
+     "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
+     "source": "Báo Nghệ An"
     }
    ]
   },
   {
    "rank": 7,
+   "keyword": "치안감",
+   "slug": "치안감",
+   "traffic": 200,
+   "startedAt": 1795522200.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
+    {
+     "title": "‘경찰 2인자’ 치안정감에 김병기-송영호…치안감 4명도 승진",
+     "url": "https://www.donga.com/news/Society/article/all/20261124/135080013/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "함영욱 경기남부청 광역수사단장, 치안감 승진 내정",
+     "url": "https://www.kyeongin.com/article/1775292",
+     "source": "경인일보"
+    },
+    {
+     "title": "부안 출신 김병기 경찰청 경비국장, 치안정감 승진 내정",
+     "url": "https://www.jjan.kr/article/20261124500092",
+     "source": "전북일보 인터넷신문"
+    }
+   ]
+  },
+  {
+   "rank": 8,
    "keyword": "무궁화호",
    "slug": "무궁화호",
    "traffic": 200,
    "startedAt": 1795520400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "코레일, 새 단장한 무궁화호 첫 운행…2028년까지 객차 280칸 개량",
@@ -185,49 +211,28 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "꽁안 하노이 fc 대 비셀 고베",
-   "slug": "꽁안-하노이-fc-대-비셀-고베",
-   "traffic": 100,
-   "startedAt": 1795524600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
-     "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "Cong An Ha Noi vs Vissel Kobe: Where to Watch, Kick-off Time and Live Stream Info",
-     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-cong-an-ha-noi-v-vissel-kobe/bltca0e71cc2f68c8f0",
-     "source": "Goal.com"
-    }
-   ]
-  },
-  {
    "rank": 9,
    "keyword": "화재",
    "slug": "화재",
    "traffic": 100,
    "startedAt": 1795524600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "달리던 전주 시내버스서 불…승객 20명 대피",
-     "url": "https://www.yna.co.kr/view/AKR20261124043500055",
+     "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721247",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "부산 일가족 3명 사망 화재 감식…기름통 발견돼 연관성 조사",
+     "url": "https://www.yna.co.kr/view/AKR20261124099800051",
      "source": "연합뉴스"
     },
     {
-     "title": "전주 시내버스 주행 중 화재… 승객 20여명 무사 대피",
-     "url": "https://m.segye.com/view/20261124511560",
-     "source": "세계일보"
-    },
-    {
-     "title": "전주도로 달리던 시내버스 화재…승객 20명 스스로 대피",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880435",
-     "source": "뉴시스"
+     "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241156560345_005.html",
+     "source": "YTN"
     }
    ]
   }

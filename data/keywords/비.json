@@ -2,17 +2,27 @@
  "keyword": "비",
  "slug": "비",
  "firstSeen": 1795521600.0,
- "lastSeen": 1795528426.0469253,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795531630.4947722,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795528426,
    6,
    200
+  ],
+  [
+   1795531630,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "틈만나면, 67회 다시보기 : 브런치와 바이크를 넘나드는 찐친들! 비X김재욱의 신촌 틈새 공략!",
+   "url": "https://programs.sbs.co.kr/enter/teum/vod/82255/22000640176",
+   "source": "programs.sbs.co.kr"
+  },
   {
    "title": "틈만나면, : 비×유연석, 김재욱의 자리 이동 제안에 즉각 움직이며 틈 미션 도전",
    "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484401985",
@@ -33,6 +43,7 @@
   "2026-11-24"
  ],
  "related": [
+  "주우재",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "united-arab-emirates-national-cricket-team-vs-india-a-cricke",
   "의식불명",

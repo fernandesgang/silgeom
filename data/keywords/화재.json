@@ -2,7 +2,7 @@
  "keyword": "화재",
  "slug": "화재",
  "firstSeen": 1795524600.0,
- "lastSeen": 1795528426.0469253,
+ "lastSeen": 1795531630.4947722,
  "peakRank": 9,
  "peakTraffic": 100,
  "history": [
@@ -13,6 +13,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8721247",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "부산 일가족 3명 사망 화재 감식…기름통 발견돼 연관성 조사",
+   "url": "https://www.yna.co.kr/view/AKR20261124099800051",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241156560345_005.html",
+   "source": "YTN"
+  },
   {
    "title": "달리던 전주 시내버스서 불…승객 20명 대피",
    "url": "https://www.yna.co.kr/view/AKR20261124043500055",
@@ -33,6 +48,7 @@
   "2026-11-24"
  ],
  "related": [
+  "주우재",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "united-arab-emirates-national-cricket-team-vs-india-a-cricke",
   "의식불명",
