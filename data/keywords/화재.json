@@ -1,0 +1,45 @@
+{
+ "keyword": "화재",
+ "slug": "화재",
+ "firstSeen": 1795524600.0,
+ "lastSeen": 1795528426.0469253,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795528426,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "달리던 전주 시내버스서 불…승객 20명 대피",
+   "url": "https://www.yna.co.kr/view/AKR20261124043500055",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "전주 시내버스 주행 중 화재… 승객 20여명 무사 대피",
+   "url": "https://m.segye.com/view/20261124511560",
+   "source": "세계일보"
+  },
+  {
+   "title": "전주도로 달리던 시내버스 화재…승객 20명 스스로 대피",
+   "url": "https://www.newsis.com/view/NISX20261124_0003880435",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "대전-하나-시티즌-대-베이징-궈안-순위",
+  "united-arab-emirates-national-cricket-team-vs-india-a-cricke",
+  "의식불명",
+  "최재훈",
+  "치안감",
+  "비",
+  "무궁화호",
+  "꽁안-하노이-fc-대-비셀-고베"
+ ]
+}
