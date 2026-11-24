@@ -2,7 +2,7 @@
  "keyword": "정치",
  "slug": "정치",
  "firstSeen": 1795046400.0,
- "lastSeen": 1795056086.105443,
+ "lastSeen": 1795552881.8784688,
  "peakRank": 1,
  "peakTraffic": 20000,
  "history": [
@@ -10,9 +10,29 @@
    1795056086,
    1,
    20000
+  ],
+  [
+   1795552882,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "“컨설팅비 10억 요구 거부에 허위 폭로” 장동혁 측 징계 논란 역공… 갈등 확산",
+   "url": "https://www.donga.com/news/Politics/article/all/20261125/135084474/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "국민의힘 당권파 \"윤리위원 측, 자문료 요구\" vs. 친한계 \"핵심은 불법 개입\"",
+   "url": "https://www.chosun.com/politics/assembly/2026/11/24/Y5YJ5X4GLBBYXIKZCMFQZR5BDI/",
+   "source": "조선일보"
+  },
   {
    "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
    "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-25"
  ],
  "related": [
+  "중앙일보",
+  "레알-마드리드-대-에인트호번",
+  "아스널-대-도르트문트",
+  "al-nassr-vs-al-sadd",
+  "에코프로비엠",
+  "알나스르-대-알사드",
+  "한국농어민신문",
+  "의대생",
+  "체포",
   "시즌2",
   "이혼",
   "전역",

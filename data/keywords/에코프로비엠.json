@@ -2,7 +2,7 @@
  "keyword": "에코프로비엠",
  "slug": "에코프로비엠",
  "firstSeen": 1795390200.0,
- "lastSeen": 1795399489.09556,
+ "lastSeen": 1795552881.8784688,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795399489,
    2,
    1000
+  ],
+  [
+   1795552882,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "에코프로비엠, 싱가포르 종속회사 주식 6222억 취득",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04211526645649000",
+   "source": "마켓인"
+  },
+  {
+   "title": "에코프로비엠",
+   "url": "https://stock.mk.co.kr/news/view/1205120",
+   "source": "매일경제 마켓"
+  },
+  {
+   "title": "에코프로비엠, 인도네시아 제련소 투자 위해 6222억원 투입 : 기업·산업",
+   "url": "https://news.jkn.co.kr/post/1119529",
+   "source": "재경일보"
+  },
   {
    "title": "주가 반토막에 풋옵션 부담… 에코프로비엠, 기존 FI와 CB 재발행 추진",
    "url": "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-25"
  ],
  "related": [
+  "중앙일보",
+  "레알-마드리드-대-에인트호번",
+  "아스널-대-도르트문트",
+  "al-nassr-vs-al-sadd",
+  "정치",
+  "알나스르-대-알사드",
+  "한국농어민신문",
+  "의대생",
+  "체포",
   "화이트캡스-대-솔트레이크",
   "구조조정",
   "부산항",
