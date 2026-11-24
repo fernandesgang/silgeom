@@ -2,8 +2,8 @@
  "keyword": "꽁안 하노이 fc 대 비셀 고베",
  "slug": "꽁안-하노이-fc-대-비셀-고베",
  "firstSeen": 1795524600.0,
- "lastSeen": 1795531630.4947722,
- "peakRank": 6,
+ "lastSeen": 1795535654.4244635,
+ "peakRank": 5,
  "peakTraffic": 200,
  "history": [
   [
@@ -15,9 +15,19 @@
    1795531630,
    6,
    200
+  ],
+  [
+   1795535654,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Japan's strongest team suffers a crushing defeat in Vietnam.",
+   "url": "https://www.vietnam.vn/en/doi-bong-manh-nhat-nhat-ban-tham-bai-o-viet-nam",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
    "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
@@ -40,9 +50,16 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "related": [
+  "주진우",
+  "황영묵",
+  "cricbuzz",
+  "시그널2",
+  "추성훈-은퇴전",
+  "미국-상품거래위원회",
   "주우재",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "united-arab-emirates-national-cricket-team-vs-india-a-cricke",

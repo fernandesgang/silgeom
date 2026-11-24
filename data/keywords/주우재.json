@@ -2,17 +2,32 @@
  "keyword": "주우재",
  "slug": "주우재",
  "firstSeen": 1795525200.0,
- "lastSeen": 1795531630.4947722,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795535654.4244635,
+ "peakRank": 2,
+ "peakTraffic": 500,
  "history": [
   [
    1795531630,
    5,
    200
+  ],
+  [
+   1795535654,
+   2,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "올해 연말 최우수상 기대 중인 허경환, 견제 대상이 있다? | KBS 261124 방송",
+   "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC2&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
+   "source": "대한민국 대표 공영미디어 KBS"
+  },
+  {
+   "title": "주우재, 허경환 과거 태도 폭로 \"인기 없다고 깔보고 무시해\" - 머니투데이",
+   "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112423374016469",
+   "source": "머니투데이"
+  },
   {
    "title": "허경환, 데뷔 20주년 맞이 키 크는 수술을 결심하다?! | KBS 261124 방송",
    "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC4&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
@@ -30,9 +45,16 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "related": [
+  "주진우",
+  "황영묵",
+  "cricbuzz",
+  "시그널2",
+  "추성훈-은퇴전",
+  "미국-상품거래위원회",
   "대전-하나-시티즌-대-베이징-궈안-순위",
   "최재훈",
   "의식불명",
