@@ -746,9 +746,9 @@
   "군인": {
    "slug": "군인",
    "firstSeen": 1795498800.0,
-   "peakRank": 5,
-   "peakTraffic": 1000,
-   "lastSeen": 1795503118.7676516
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795508292.8939989
   },
   "농심": {
    "slug": "농심",
@@ -763,6 +763,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795503118.7676516
+  },
+  "원현주": {
+   "slug": "원현주",
+   "firstSeen": 1795501200.0,
+   "peakRank": 1,
+   "peakTraffic": 20000,
+   "lastSeen": 1795508292.8939989
+  },
+  "성심당": {
+   "slug": "성심당",
+   "firstSeen": 1795501200.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795508292.8939989
+  },
+  "박지윤 카톡": {
+   "slug": "박지윤-카톡",
+   "firstSeen": 1795499400.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795508292.8939989
+  },
+  "이도현": {
+   "slug": "이도현",
+   "firstSeen": 1795503600.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795508292.8939989
+  },
+  "uae vs india a": {
+   "slug": "uae-vs-india-a",
+   "firstSeen": 1795501200.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795508292.8939989
+  },
+  "김새롬": {
+   "slug": "김새롬",
+   "firstSeen": 1795504200.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795508292.8939989
+  },
+  "보육": {
+   "slug": "보육",
+   "firstSeen": 1795501200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795508292.8939989
+  },
+  "서울양평고속도로": {
+   "slug": "서울양평고속도로",
+   "firstSeen": 1795500000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795508292.8939989
+  },
+  "트리플스타": {
+   "slug": "트리플스타",
+   "firstSeen": 1795500000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795508292.8939989
   }
  }
 }

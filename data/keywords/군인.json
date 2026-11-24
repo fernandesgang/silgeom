@@ -2,9 +2,9 @@
  "keyword": "군인",
  "slug": "군인",
  "firstSeen": 1795302600.0,
- "lastSeen": 1795503118.7676516,
- "peakRank": 5,
- "peakTraffic": 1000,
+ "lastSeen": 1795508292.8939989,
+ "peakRank": 4,
+ "peakTraffic": 2000,
  "history": [
   [
    1795307508,
@@ -15,9 +15,19 @@
    1795503119,
    5,
    1000
+  ],
+  [
+   1795508293,
+   4,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "세리머니 하는 신임 공군 장교들",
+   "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261124_0021544044&pID=1&cID=&sID=1&type=photoMain&idx=5",
+   "source": "뉴시스"
+  },
   {
    "title": "피겨 국대 출신부터 3대 군인가족까지…공군 장교 146명 임관",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8721051",
@@ -54,6 +64,15 @@
   "2026-11-24"
  ],
  "related": [
+  "원현주",
+  "성심당",
+  "박지윤-카톡",
+  "이도현",
+  "uae-vs-india-a",
+  "김새롬",
+  "보육",
+  "서울양평고속도로",
+  "트리플스타",
   "퇴직",
   "장기-기증",
   "12-월-3-일",
@@ -64,13 +83,6 @@
   "트롯-데스매치-금타는-금요일",
   "임성한",
   "수험",
-  "삼전-닉스",
-  "부동산",
-  "수출규제",
-  "알테오젠",
-  "인공지능",
-  "real-madrid-vs-rc-celta-de-vigo-standings",
-  "털",
-  "화석연료"
+  "삼전-닉스"
  ]
 }
