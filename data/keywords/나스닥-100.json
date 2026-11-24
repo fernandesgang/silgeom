@@ -2,9 +2,9 @@
  "keyword": "나스닥 100",
  "slug": "나스닥-100",
  "firstSeen": 1795212600.0,
- "lastSeen": 1795476433.4524534,
- "peakRank": 4,
- "peakTraffic": 500,
+ "lastSeen": 1795563510.499137,
+ "peakRank": 2,
+ "peakTraffic": 2000,
  "history": [
   [
    1795217049,
@@ -20,9 +20,29 @@
    1795476433,
    5,
    500
+  ],
+  [
+   1795563510,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "“진짜 승자는 트럼프?”…젠슨 황 복귀에 누가 웃고 울었나 [잇슈 머니]",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721736",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "젠슨 황, 엔비디아 전사회의 열고 사과‥\"심리치료 받고 있다\"",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6868324_36925.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "[이시각헤드라인] 11월 24일 뉴스센터",
+   "url": "https://www.yna.co.kr/view/MYH20261124008800038",
+   "source": "연합뉴스"
+  },
   {
    "title": "美증시 선물 2∼3%대 반등…조정국면 부른 AI 매도 진정",
    "url": "https://www.yna.co.kr/view/AKR20261123123500009",
@@ -56,9 +76,17 @@
  ],
  "days": [
   "2026-11-21",
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "related": [
+  "real-madrid-vs-psv-eindhoven-standings",
+  "채무",
+  "박윤영",
+  "al-nassr-vs-al-sadd-sc-standings",
+  "schd",
+  "사우디아라비아",
+  "김포시",
   "skhy",
   "개인정보",
   "투수",
@@ -71,13 +99,6 @@
   "추성훈",
   "베냐민-네타냐후",
   "로보택시",
-  "mu",
-  "연예인",
-  "nvda",
-  "경기남부",
-  "공매도",
-  "부고",
-  "경찰관",
-  "한국항공우주산업"
+  "mu"
  ]
 }

@@ -2,9 +2,9 @@
  "keyword": "박윤영",
  "slug": "박윤영",
  "firstSeen": 1795225200.0,
- "lastSeen": 1795485164.5354877,
+ "lastSeen": 1795563510.499137,
  "peakRank": 5,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795231774,
@@ -15,9 +15,24 @@
    1795485165,
    9,
    200
+  ],
+  [
+   1795563510,
+   5,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "[경영전략] AX 영토 넓히는 KT 박윤영, 연말 인사로 ’2027 재도약’ 시동 By FinancialPost",
+   "url": "https://kr.investing.com/news/stock-market-news/article-2188156",
+   "source": "Investing.com 한국어"
+  },
+  {
+   "title": "KT-행안부 “AI로 지역 문제 해결”… 강원 춘천-경북 청도서 시범사업",
+   "url": "https://www.donga.com/news/Economy/article/all/20261123/135076264/2",
+   "source": "동아일보"
+  },
   {
    "title": "“골목상권 살리고 돌봄 기록도 AI로”…KT·행안부, 지역문제 해결 맞손",
    "url": "https://www.khan.co.kr/article/202611231500001",
@@ -51,9 +66,19 @@
  ],
  "days": [
   "2026-11-21",
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "related": [
+  "real-madrid-vs-psv-eindhoven-standings",
+  "나스닥-100",
+  "채무",
+  "skhy",
+  "al-nassr-vs-al-sadd-sc-standings",
+  "mu",
+  "schd",
+  "사우디아라비아",
+  "김포시",
   "세인트루이스-시티-sc-대-엘에이-fc",
   "청약홈",
   "필라데피아-대-포틀랜드",
@@ -64,13 +89,6 @@
   "차두리",
   "사이드카",
   "동아일보",
-  "편의점",
-  "경부선",
-  "알테오젠",
-  "두산베어스",
-  "jisoo-sun-showers-from-the-angry-birds-movie-3",
-  "nh농협카드",
-  "매일경제",
-  "전북특별자치도"
+  "편의점"
  ]
 }

@@ -2,7 +2,7 @@
  "keyword": "skhy",
  "slug": "skhy",
  "firstSeen": 1795471200.0,
- "lastSeen": 1795476433.4524534,
+ "lastSeen": 1795563510.499137,
  "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795476433,
    1,
    1000
+  ],
+  [
+   1795563510,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Federal Judge Rejects Memory Makers’ Defense To Advance Class-Action Antitrust Lawsuit; Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage",
+   "url": "https://wccftech.com/federal-judge-rejects-memory-makers-defense-samsung-micron-sk-hynix-dram-shortage-lawsuit/",
+   "source": "Wccftech"
+  },
+  {
+   "title": "A 700% Price Hike on A Key Component in Gaming Consoles? Blame A 25-Year Cartel.",
+   "url": "https://www.thebignewsletter.com/p/a-700-price-hike-on-a-key-component",
+   "source": "BIG by Matt Stoller"
+  },
+  {
+   "title": "NASDAQ: SKHY Investigation: SK hynix Inc. Investors are Encouraged to Contact Kessler Topaz Meltzer & Check, LLP",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261123dc04687/nasdaq-skhy-investigation-sk-hynix-inc-investors-are-encouraged-to-contact-kessler-topaz-meltzer-check-llp",
+   "source": "Morningstar"
+  },
   {
    "title": "(LEAD) SK hynix's U.S.-traded shares surge over 20 pct in Mon. morning trading after Nvidia CEO's reinstatement",
    "url": "https://en.yna.co.kr/view/AEN20261124000251315",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "related": [
+  "real-madrid-vs-psv-eindhoven-standings",
+  "채무",
+  "박윤영",
+  "al-nassr-vs-al-sadd-sc-standings",
+  "mu",
+  "schd",
+  "사우디아라비아",
+  "김포시",
   "개인정보",
   "투수",
   "로스앤젤레스-fc",

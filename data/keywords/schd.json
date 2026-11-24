@@ -2,7 +2,7 @@
  "keyword": "schd",
  "slug": "schd",
  "firstSeen": 1795038600.0,
- "lastSeen": 1795044325.6426501,
+ "lastSeen": 1795563510.499137,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795044326,
    3,
    500
+  ],
+  [
+   1795563510,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "I Own SCHD. Here’s Why I Also Own This 7%-Yielding Income ETF.",
+   "url": "https://www.theglobeandmail.com/investing/markets/stocks/SCHD-A/pressreleases/8983443/i-own-schd-heres-why-i-also-own-this-7-yielding-income-etf/",
+   "source": "The Globe and Mail"
+  },
+  {
+   "title": "3 Dividend ETFs Offering Steadier Footing in a Shaky Market",
+   "url": "https://www.marketbeat.com/articles/3-dividend-etfs-offering-steadier-footing-in-a-shaky-market/",
+   "source": "MarketBeat"
+  },
+  {
+   "title": "I Own SCHD. Here’s Why I Also Own This 7%-Yielding Income ETF.",
+   "url": "https://www.fool.com/investing/2026/11/24/i-own-schd-here-s-why-i-also-own-this-7-yielding-income-etf/",
+   "source": "The Motley Fool"
+  },
   {
    "title": "Charles Schwab (SCHW) Now Has The Largest U.S. Dividend ETF",
    "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-now-largest-031034095.html",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-25"
  ],
  "related": [
+  "real-madrid-vs-psv-eindhoven-standings",
+  "나스닥-100",
+  "채무",
+  "skhy",
+  "박윤영",
+  "al-nassr-vs-al-sadd-sc-standings",
+  "mu",
+  "사우디아라비아",
+  "김포시",
   "미역국",
   "t1",
   "new-zealand-vs-india",
