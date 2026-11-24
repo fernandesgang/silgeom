@@ -1,0 +1,46 @@
+{
+ "keyword": "강원도민일보",
+ "slug": "강원도민일보",
+ "firstSeen": 1795483200.0,
+ "lastSeen": 1795488312.4154723,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795488312,
+   10,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "고성 바다하늘길 방문객 30만명 돌파",
+   "url": "https://www.kado.net/news/curationView.html?idxno=2086838",
+   "source": "강원도민일보"
+  },
+  {
+   "title": "부산서 80대 몰던 차량 전봇대 들이받아…동승자 숨져",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720902",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "부산서 80대 운전자 승용차 전신주 충격…동승자 사망",
+   "url": "https://www.yna.co.kr/view/AKR20261124060100051",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "김호중",
+  "현대자동차",
+  "부사관",
+  "군산시의회",
+  "디워",
+  "뉴욕-메츠",
+  "서울역",
+  "신인감독-김연경-2",
+  "남도일보"
+ ]
+}

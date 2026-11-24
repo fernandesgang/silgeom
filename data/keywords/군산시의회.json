@@ -2,17 +2,37 @@
  "keyword": "군산시의회",
  "slug": "군산시의회",
  "firstSeen": 1795057200.0,
- "lastSeen": 1795063866.0363262,
- "peakRank": 9,
+ "lastSeen": 1795488312.4154723,
+ "peakRank": 4,
  "peakTraffic": 200,
  "history": [
   [
    1795063866,
    9,
    200
+  ],
+  [
+   1795488312,
+   4,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "군산시의회 행정복지위원회 행정사무감사 9일차",
+   "url": "https://www.ikbn.news/news/article.html?no=217810",
+   "source": "한국방송뉴스"
+  },
+  {
+   "title": "군산시의회, 귀농·귀촌 정착 지원 및 동물 정책 개선 요구",
+   "url": "http://www.sisakoreanews.kr/123991",
+   "source": "https://www.sisakoreanews.kr/"
+  },
+  {
+   "title": "군산시의회 경건위, 기업 간 MOU 실효성 확보 주문",
+   "url": "https://www.domin.co.kr/news/articleView.html?idxno=1575826&sc_section_code=S1N1",
+   "source": "전북도민일보"
+  },
   {
    "title": "군산시의회, 고독사 위험군 연중 관리 주문…사례관리 예산 배분도 지적",
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756625",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-24"
  ],
  "related": [
+  "김호중",
+  "현대자동차",
+  "부사관",
+  "디워",
+  "뉴욕-메츠",
+  "서울역",
+  "신인감독-김연경-2",
+  "남도일보",
+  "강원도민일보",
   "크리스-페덱",
   "주식시장",
   "양민혁",
