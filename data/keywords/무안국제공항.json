@@ -1,0 +1,46 @@
+{
+ "keyword": "무안국제공항",
+ "slug": "무안국제공항",
+ "firstSeen": 1795515600.0,
+ "lastSeen": 1795523756.490893,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795523756,
+   10,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
+   "url": "https://www.hankyung.com/article/2026112349231",
+   "source": "한국경제"
+  },
+  {
+   "title": "광주군공항 무안 확정 내년으로…주민공청회 법적시한 지나",
+   "url": "https://www.newsis.com/view/NISX20261123_0003878920",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "프로포폴",
+  "배용준",
+  "의식불명",
+  "pakistan-a-vs-nepal",
+  "히잡",
+  "한석준",
+  "부천시",
+  "afc-챔스",
+  "전광훈"
+ ]
+}

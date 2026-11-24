@@ -2,17 +2,27 @@
  "keyword": "히잡",
  "slug": "히잡",
  "firstSeen": 1795515000.0,
- "lastSeen": 1795519690.7736554,
+ "lastSeen": 1795523756.490893,
  "peakRank": 5,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795519691,
    5,
    200
+  ],
+  [
+   1795523756,
+   5,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "\"감히 히잡 안 쓰고 공연을?\"…이란, 女가수에 태형 74대 집행",
+   "url": "https://weekly.chosun.com/news/articleView.html?idxno=60052",
+   "source": "주간조선"
+  },
   {
    "title": "女가수 히잡 없이 노래했다고... 이란, 태형 74대 집행",
    "url": "https://www.chosun.com/international/international_general/2026/11/24/QMYPD6IS55A5ND6CN6FHJPOMHE/",
@@ -33,6 +43,11 @@
   "2026-11-24"
  ],
  "related": [
+  "의식불명",
+  "부천시",
+  "afc-챔스",
+  "전광훈",
+  "무안국제공항",
   "프로포폴",
   "배용준",
   "스테이블코인",
