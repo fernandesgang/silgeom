@@ -1,0 +1,45 @@
+{
+ "keyword": "순항 미사일",
+ "slug": "순항-미사일",
+ "firstSeen": 1795487400.0,
+ "lastSeen": 1795492012.9848382,
+ "peakRank": 6,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795492013,
+   6,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "“레이저 맞고 ‘뚝’ 떨어진 순항미사일”…한국 대공 방어 레이저 수준은? [밀리터리+]",
+   "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261122601010",
+   "source": "나우뉴스"
+  },
+  {
+   "title": "300kW 레이저로 순항미사일 첫 격추, 록히드마틴 '발키리'",
+   "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=3037",
+   "source": "데일리방산"
+  },
+  {
+   "title": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
+   "url": "https://www.yna.co.kr/view/AKR20261124083900009",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-24"
+ ],
+ "related": [
+  "정상빈",
+  "호세-수아레즈",
+  "카카오",
+  "휴머노이드",
+  "부사관",
+  "월드컵",
+  "경마공원",
+  "성남시"
+ ]
+}

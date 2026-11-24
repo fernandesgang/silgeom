@@ -1,232 +1,222 @@
 {
- "generatedAt": 1795488312,
+ "generatedAt": 1795492013,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김호중",
-   "slug": "김호중",
-   "traffic": 10000,
-   "startedAt": 1795482600.0,
+   "keyword": "정상빈",
+   "slug": "정상빈",
+   "traffic": 2000,
+   "startedAt": 1795486200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'가석방' 김호중, 오늘(24일) 보호관찰 종료…복귀 여부 '관심' - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/24/2026112408081669041",
+     "title": "'우승 트로피 원한다던 손흥민, 시작부터 위기' 정상빈 선발 출격한 세인트루이스에 선제골 허용...LAFC 전반 0-1 마무리 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611241108777757O",
      "source": "머니투데이"
     },
     {
-     "title": "'가석방 147일' 김호중, 오늘 형기 만료일 … 무대 다시 설까",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450145.html",
-     "source": "뉴데일리"
+     "title": "정상빈의 무대가 되고 있다! 세인트루이스, LAFC에 '정상빈 1골 1도움'으로 2-0 리드",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/24/MYYDGZRYMEYTOZRYMEZGMYZXHA/",
+     "source": "조선일보"
     },
     {
-     "title": "김호중, 오늘이 원래 만기 출소일…가석방 조기 출소 후 복귀는 안갯속",
-     "url": "https://www.mk.co.kr/news/hot-issues/12216724",
-     "source": "매일경제"
+     "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867724_37012.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "현대자동차",
-   "slug": "현대자동차",
-   "traffic": 2000,
-   "startedAt": 1795483200.0,
+   "keyword": "호세 수아레즈",
+   "slug": "호세-수아레즈",
+   "traffic": 1000,
+   "startedAt": 1795487400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "현대차, 산림청과 전기차 ST1 기반 산불 대응 차량 실증사업",
-     "url": "https://www.yna.co.kr/view/AKR20261124034200003",
-     "source": "연합뉴스"
+     "title": "[공식발표] '와' 두산도 현역 빅리거 데려왔다! 13억에 '154km 좌완' 수아레즈 영입 \"최상급 구속 보유한 완성형 투수\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611241059777700O",
+     "source": "머니투데이"
     },
     {
-     "title": "현대차, ST1 기반 산불 대응 차량 실증… 산림청·세화자동차와 협력",
-     "url": "https://www.autoview.co.kr/ko-kr/articles/102629",
-     "source": "오토뷰"
+     "title": "[프로야구] 두산, '빅리그 통산 23승' 좌완 파이어볼러 수아레즈 영입",
+     "url": "https://www.newspim.com/news/view/20261124000655",
+     "source": "뉴스핌"
     },
     {
-     "title": "현대차 전기 상용차 ST1, 산불 현장 간다…산림청과 1년 실증",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880701",
-     "source": "뉴시스"
+     "title": "프로야구 두산, 'MLB 151경기' 외국인 투수 수아레즈 영입",
+     "url": "https://www.news1.kr/sports/baseball/6364025",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "부사관",
-   "slug": "부사관",
-   "traffic": 500,
-   "startedAt": 1795484400.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 4,
-   "keyword": "군산시의회",
-   "slug": "군산시의회",
-   "traffic": 200,
-   "startedAt": 1795484400.0,
+   "keyword": "카카오",
+   "slug": "카카오",
+   "traffic": 1000,
+   "startedAt": 1795486800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "군산시의회 행정복지위원회 행정사무감사 9일차",
-     "url": "https://www.ikbn.news/news/article.html?no=217810",
-     "source": "한국방송뉴스"
+     "title": "스타벅스서도 3% 할인…카카오페이 굿딜, 제휴 111곳으로 확대",
+     "url": "https://stock.mk.co.kr/news/view/1204772",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "군산시의회, 귀농·귀촌 정착 지원 및 동물 정책 개선 요구",
-     "url": "http://www.sisakoreanews.kr/123991",
-     "source": "https://www.sisakoreanews.kr/"
+     "title": "카카오페이 '굿딜'에 스타벅스 입점",
+     "url": "https://www.etnews.com/20261124000212",
+     "source": "전자신문"
     },
     {
-     "title": "군산시의회 경건위, 기업 간 MOU 실효성 확보 주문",
-     "url": "https://www.domin.co.kr/news/articleView.html?idxno=1575826&sc_section_code=S1N1",
-     "source": "전북도민일보"
+     "title": "카카오페이, 조건 없는 할인 결제 확대..스타벅스도 매일 3% 할인",
+     "url": "https://kpenews.com/View.aspx?No=4326223",
+     "source": "한국정경신문"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "휴머노이드",
+   "slug": "휴머노이드",
+   "traffic": 1000,
+   "startedAt": 1795485600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "KG스틸, 국산 휴머노이드 로봇 투입…피지컬 AI 실증 나선다",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02404246645649000",
+     "source": "마켓인"
+    },
+    {
+     "title": "[연합뉴스TV 스페셜-수어] 헬로로봇",
+     "url": "https://www.yonhapnewstv.co.kr/program/view/11111",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "KG스틸, 휴머노이드 로봇 '앨리스 M2' 도입…피지컬AI 기술 실증 본격화",
+     "url": "https://www.news1.kr/industry/general-industry/6363830",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "디워",
-   "slug": "디워",
-   "traffic": 200,
+   "keyword": "부사관",
+   "slug": "부사관",
+   "traffic": 1000,
    "startedAt": 1795484400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "단독 심형래, 힉스필드AI와 손잡았다…19년 만에 AI 입은 '디워' 재개봉",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611230700126895",
-     "source": "YTN"
-    },
-    {
-     "title": "이무기 다시 깨어난다…심형래 ‘디워’, 힉스필드AI와 글로벌 승부수",
-     "url": "https://sports.khan.co.kr/article/202611231315003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고",
-     "url": "https://www.cineplay.co.kr/ko-kr/articles/30918",
-     "source": "씨네플레이"
-    }
-   ]
+   "change": "down",
+   "diff": 2,
+   "news": []
   },
   {
    "rank": 6,
-   "keyword": "뉴욕 메츠",
-   "slug": "뉴욕-메츠",
+   "keyword": "순항 미사일",
+   "slug": "순항-미사일",
    "traffic": 200,
-   "startedAt": 1795482600.0,
+   "startedAt": 1795487400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“하루에 2억씩 법니다”…공 하나 던지는데 ‘3천만원’ 받는 투수 나왔다",
-     "url": "https://www.mk.co.kr/news/world/12216881",
-     "source": "매일경제"
+     "title": "“레이저 맞고 ‘뚝’ 떨어진 순항미사일”…한국 대공 방어 레이저 수준은? [밀리터리+]",
+     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261122601010",
+     "source": "나우뉴스"
     },
     {
-     "title": "구자욱 200억 대박 포기할 수도! 美 파격 추천, 뉴욕 메츠 영입 후보 급부상 \"KOO, 스쿠발 품은 메츠의 다음 타깃\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/24/G44DMYJRGI4TGOBYHE4WCYJZGQ/",
-     "source": "조선일보"
+     "title": "300kW 레이저로 순항미사일 첫 격추, 록히드마틴 '발키리'",
+     "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=3037",
+     "source": "데일리방산"
     },
     {
-     "title": "MLB 메츠, 베테랑 1루수 골드슈미트 영입…3일 간 약 7,500억 투자",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720912",
-     "source": "KBS 뉴스"
+     "title": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
+     "url": "https://www.yna.co.kr/view/AKR20261124083900009",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "서울역",
-   "slug": "서울역",
+   "keyword": "월드컵",
+   "slug": "월드컵",
    "traffic": 200,
-   "startedAt": 1795482600.0,
+   "startedAt": 1795487400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "잇단 열차 탈선…4대 중 3대 ‘감지 제동장치’ 없어",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720226",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "철도노조, 23일 예정됐던 쟁의행위 26일로 연기…\"사고 복구 먼저\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261122021351063",
+     "title": "2031년 여자 월드컵 미국 등 4개국 공동 개최…2035년은 영국",
+     "url": "https://www.yna.co.kr/view/AKR20261124020700007",
      "source": "연합뉴스"
     },
     {
-     "title": "[속보] 젠슨 황 복귀에 코스피 6%대 급등 출발",
-     "url": "https://www.nocutnews.co.kr/news/6611469",
-     "source": "노컷뉴스"
+     "title": "2031 여자 월드컵, 미국·멕시코 등 4개국서 개최…2035년은 영국",
+     "url": "https://www.donga.com/news/Sports/article/all/20261124/135078884/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "FIFA, 2031년 여자 월드컵 북중미 4개국 공동 개최…2035년은 영국",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880502",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "신인감독 김연경 2",
-   "slug": "신인감독-김연경-2",
+   "keyword": "경마공원",
+   "slug": "경마공원",
    "traffic": 200,
-   "startedAt": 1795482000.0,
+   "startedAt": 1795486200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "MBC '신인감독 김연경2', 6주 연속 TV비드라마 화제성 1위",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525785",
-     "source": "iMBC 연예"
+     "title": "민주당 대전 지방의원들 \"대전, 공공기관 이전 완벽 준비\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123043000063",
+     "source": "연합뉴스"
     },
     {
-     "title": "원더독스 베트남 원정, 195cm 장신·무더위 변수",
-     "url": "https://www.jejutwn.com/news/article.html?no=464833",
-     "source": "제주교통복지신문"
+     "title": "신용한 충북지사, 국비 확보와 민생 예산 집행에 총력",
+     "url": "https://www.viva100.com/article/20261123501427",
+     "source": "브릿지경제"
     },
     {
-     "title": "\"키 195cm 장신 공격수·무더위 변수\"… '신인감독 김연경2' 흔들리는 선수들",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759553",
-     "source": "국제뉴스"
+     "title": "진안군의회 “2차 공공기관 지방이전, 전북 핵심기관 우선 배치해야”",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261124010009149",
+     "source": "아시아투데이"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "남도일보",
-   "slug": "남도일보",
+   "keyword": "성남시",
+   "slug": "성남시",
    "traffic": 200,
-   "startedAt": 1795480800.0,
-   "change": "down",
-   "diff": 5,
-   "news": []
-  },
-  {
-   "rank": 10,
-   "keyword": "강원도민일보",
-   "slug": "강원도민일보",
-   "traffic": 100,
-   "startedAt": 1795483200.0,
+   "startedAt": 1795486200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "고성 바다하늘길 방문객 30만명 돌파",
-     "url": "https://www.kado.net/news/curationView.html?idxno=2086838",
-     "source": "강원도민일보"
+     "title": "성남시, '리브컴어워즈' 3개부분 결선…2년연속 수상도전",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880444",
+     "source": "뉴시스"
     },
     {
-     "title": "부산서 80대 몰던 차량 전봇대 들이받아…동승자 숨져",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720902",
-     "source": "KBS 뉴스"
+     "title": "성남시, 리브컴 어워즈 3개 부문 결선…내년 모로코에서 수상에 도전",
+     "url": "https://www.etnews.com/20261124000025",
+     "source": "전자신문"
     },
     {
-     "title": "부산서 80대 운전자 승용차 전신주 충격…동승자 사망",
-     "url": "https://www.yna.co.kr/view/AKR20261124060100051",
-     "source": "연합뉴스"
+     "title": "성남시, 공공기술로 도시 경쟁력 확장…식품 안전·환경행정 국제무대 도전",
+     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008322",
+     "source": "중도일보"
     }
    ]
   }

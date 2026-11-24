@@ -2,7 +2,7 @@
  "keyword": "휴머노이드",
  "slug": "휴머노이드",
  "firstSeen": 1795315800.0,
- "lastSeen": 1795326321.144422,
+ "lastSeen": 1795492012.9848382,
  "peakRank": 3,
  "peakTraffic": 1000,
  "history": [
@@ -15,9 +15,29 @@
    1795326321,
    3,
    1000
+  ],
+  [
+   1795492013,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "KG스틸, 국산 휴머노이드 로봇 투입…피지컬 AI 실증 나선다",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02404246645649000",
+   "source": "마켓인"
+  },
+  {
+   "title": "[연합뉴스TV 스페셜-수어] 헬로로봇",
+   "url": "https://www.yonhapnewstv.co.kr/program/view/11111",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "KG스틸, 휴머노이드 로봇 '앨리스 M2' 도입…피지컬AI 기술 실증 본격화",
+   "url": "https://www.news1.kr/industry/general-industry/6363830",
+   "source": "뉴스1"
+  },
   {
    "title": "[영상]양계장 바닥 뒤적뒤적…사람 대신 계란 줍는 휴머노이드 온다",
    "url": "https://www.khan.co.kr/article/202611220900011",
@@ -50,9 +70,18 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-24"
  ],
  "related": [
+  "정상빈",
+  "호세-수아레즈",
+  "카카오",
+  "부사관",
+  "순항-미사일",
+  "월드컵",
+  "경마공원",
+  "성남시",
   "엘니뇨",
   "최민정",
   "제네시스-g80",

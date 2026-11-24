@@ -502,8 +502,8 @@
    "slug": "부사관",
    "firstSeen": 1795484400.0,
    "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795488312.4154723
+   "peakTraffic": 1000,
+   "lastSeen": 1795492012.9848382
   },
   "군산시의회": {
    "slug": "군산시의회",
@@ -546,6 +546,62 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795488312.4154723
+  },
+  "정상빈": {
+   "slug": "정상빈",
+   "firstSeen": 1795486200.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795492012.9848382
+  },
+  "호세 수아레즈": {
+   "slug": "호세-수아레즈",
+   "firstSeen": 1795487400.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795492012.9848382
+  },
+  "카카오": {
+   "slug": "카카오",
+   "firstSeen": 1795486800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795492012.9848382
+  },
+  "휴머노이드": {
+   "slug": "휴머노이드",
+   "firstSeen": 1795485600.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795492012.9848382
+  },
+  "순항 미사일": {
+   "slug": "순항-미사일",
+   "firstSeen": 1795487400.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795492012.9848382
+  },
+  "월드컵": {
+   "slug": "월드컵",
+   "firstSeen": 1795487400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795492012.9848382
+  },
+  "경마공원": {
+   "slug": "경마공원",
+   "firstSeen": 1795486200.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795492012.9848382
+  },
+  "성남시": {
+   "slug": "성남시",
+   "firstSeen": 1795486200.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795492012.9848382
   }
  }
 }
