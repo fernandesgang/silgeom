@@ -2,7 +2,7 @@
  "keyword": "주진우",
  "slug": "주진우",
  "firstSeen": 1795530600.0,
- "lastSeen": 1795542176.2474802,
+ "lastSeen": 1795545835.0373507,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,19 @@
    1795539268,
    6,
    200
+  ],
+  [
+   1795545835,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다”",
+   "url": "https://www.khan.co.kr/article/202611242140015",
+   "source": "경향신문"
+  },
   {
    "title": "공소 취소 확답 안 하고 \"친분 있지만 측근 아냐\"",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861813",
@@ -58,6 +68,7 @@
   "2026-11-25"
  ],
  "related": [
+  "에릭-페디",
   "랜드로버-디펜더",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
   "챔피언스리그",

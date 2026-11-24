@@ -2,14 +2,19 @@
  "keyword": "챔피언스리그",
  "slug": "챔피언스리그",
  "firstSeen": 1795532400.0,
- "lastSeen": 1795542176.2474802,
- "peakRank": 4,
- "peakTraffic": 200,
+ "lastSeen": 1795545835.0373507,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795539268,
    4,
    200
+  ],
+  [
+   1795545835,
+   3,
+   500
   ]
  ],
  "news": [
@@ -38,6 +43,7 @@
   "2026-11-25"
  ],
  "related": [
+  "에릭-페디",
   "랜드로버-디펜더",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
   "황영묵",

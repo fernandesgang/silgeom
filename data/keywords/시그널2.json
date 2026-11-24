@@ -2,9 +2,9 @@
  "keyword": "시그널2",
  "slug": "시그널2",
  "firstSeen": 1795530600.0,
- "lastSeen": 1795542176.2474802,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795545835.0373507,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795535654,
@@ -15,9 +15,19 @@
    1795539268,
    5,
    200
+  ],
+  [
+   1795545835,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+   "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+   "source": "YTN"
+  },
   {
    "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
    "url": "https://sports.khan.co.kr/article/202611240740003",
@@ -38,6 +48,7 @@
   "2026-11-25"
  ],
  "related": [
+  "에릭-페디",
   "랜드로버-디펜더",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
   "챔피언스리그",

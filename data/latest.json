@@ -1,21 +1,16 @@
 {
- "generatedAt": 1795542176,
+ "generatedAt": 1795545835,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "pakistan a vs nepal national cricket team standings",
    "slug": "pakistan-a-vs-nepal-national-cricket-team-standings",
-   "traffic": 5000,
+   "traffic": 2000,
    "startedAt": 1795535400.0,
    "change": "same",
    "diff": 0,
    "news": [
-    {
-     "title": "Pakistan vs Nepal Full Score, Asia Cup Rising Stars Highlights: Pakistan Thrash Nepal, Top Group",
-     "url": "https://sports.ndtv.com/cricket/pakistan-vs-nepal-live-score-asia-cup-rising-stars-live-updates-12370170",
-     "source": "NDTV Sports"
-    },
     {
      "title": "Pakistan A defend 168 to survive Nepal scare",
      "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/pakistan-a-vs-nepal-11th-match-group-b-1562352/match-report",
@@ -25,43 +20,22 @@
      "title": "Rohail Nazir's unbeaten half-century guides Pakistan Shaheens to a 96-run win over Nepal",
      "url": "https://www.pcb.com.pk/news-detail/rohail-nazir-s-unbeaten-half-century-guides-pakistan-shaheens-to-a-96-run-win-over-nepal.html",
      "source": "Pakistan Cricket Board (PCB)"
+    },
+    {
+     "title": "Nepal crash out of Asia Cup Rising Stars after 96-run defeat to Pakistan A",
+     "url": "https://kathmandupost.com/sports/2026/11/24/nepal-crash-out-of-asia-cup-rising-stars-after-96-run-defeat-to-pakistan-a",
+     "source": "The Kathmandu Post"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "황영묵",
-   "slug": "황영묵",
-   "traffic": 500,
-   "startedAt": 1795528800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"간곡히 부탁드립니다\" 결혼식 앞둔 한화 황영묵, SNS에 직접 글 올려 호소한 사연은",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/24/MNRDGZRTGY3GCODFMEYDGYRWGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"가족들 조롱·비난 멈춰주세요\" 한화 황영묵은 왜, 결혼 코 앞에 두고 장문 메시지 남겼나 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416370949378",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“아내와 백년가약 맺는다” 한화 내야수 황영묵, 29일 결혼 발표",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3761964",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "주우재",
    "slug": "주우재",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795525200.0,
-   "change": "same",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "올해 연말 최우수상 기대 중인 허경환, 견제 대상이 있다? | KBS 261124 방송",
@@ -81,13 +55,13 @@
    ]
   },
   {
-   "rank": 4,
+   "rank": 3,
    "keyword": "챔피언스리그",
    "slug": "챔피언스리그",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795532400.0,
-   "change": "same",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "'축구 경기장 근처에 맹수가 돌아다닌다고?' 아스톤 빌라-갈라타사라이 UCL 앞두고 '발칵'...사자 수색에 드론 7대 동원 - 머니투데이",
@@ -107,14 +81,19 @@
    ]
   },
   {
-   "rank": 5,
+   "rank": 4,
    "keyword": "시그널2",
    "slug": "시그널2",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795530600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
+    {
+     "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+     "source": "YTN"
+    },
     {
      "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
@@ -124,32 +103,79 @@
      "title": "'조진웅 논란'에도 12월 방송 확정…'두 번째 시그널' 포스터 공개 - 머니투데이",
      "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112410143352396",
      "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "황영묵",
+   "slug": "황영묵",
+   "traffic": 500,
+   "startedAt": 1795528800.0,
+   "change": "down",
+   "diff": 3,
+   "news": [
+    {
+     "title": "\"간곡히 부탁드립니다\" 결혼식 앞둔 한화 황영묵, SNS에 직접 글 올려 호소한 사연은",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/24/MNRDGZRTGY3GCODFMEYDGYRWGM/",
+     "source": "조선일보"
     },
     {
-     "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-     "url": "https://sports.khan.co.kr/article/202611240740003",
-     "source": "스포츠경향"
+     "title": "\"가족들 조롱·비난 멈춰주세요\" 한화 황영묵은 왜, 결혼 코 앞에 두고 장문 메시지 남겼나 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416370949378",
+     "source": "머니투데이"
+    },
+    {
+     "title": "프로야구 한화 황영묵, 1년 3개월 교제한 예비 신부와 29일 결혼",
+     "url": "https://www.news1.kr/sports/baseball/6364231",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 6,
+   "keyword": "에릭 페디",
+   "slug": "에릭-페디",
+   "traffic": 200,
+   "startedAt": 1795538400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"죄송합니다. 미국에 남겠습니다\" 20승 투수 또 한국행 불발, 대체 왜 거절했나",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/24/MFSGIZBVHAZWKNBXGNTGEYTCMY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "‘FA 최대어’ 원태인 영입전, NC도 뛰어들었다",
+     "url": "https://www.khan.co.kr/article/202611242032005",
+     "source": "경향신문"
+    },
+    {
+     "title": "구자욱 '시끌', 원태인 '잠잠'...알고보면 물밑 계산은 더 치열",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611242337414343",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "rank": 7,
    "keyword": "주진우",
    "slug": "주진우",
    "traffic": 200,
    "startedAt": 1795530600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
+    {
+     "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다”",
+     "url": "https://www.khan.co.kr/article/202611242140015",
+     "source": "경향신문"
+    },
     {
      "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
      "source": "MBC 뉴스"
-    },
-    {
-     "title": "공소 취소 확답 안 하고 \"친분 있지만 측근 아냐\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861813",
-     "source": "SBS 뉴스"
     },
     {
      "title": "유동규와 ‘닭백숙집 포커’ 의혹에… 이용철 “난 육식 못한다” 부인",
@@ -159,13 +185,13 @@
    ]
   },
   {
-   "rank": 7,
+   "rank": 8,
    "keyword": "미국 상품거래위원회",
    "slug": "미국-상품거래위원회",
    "traffic": 200,
    "startedAt": 1795527600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정",
@@ -185,38 +211,12 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "꽁안 하노이 fc 대 비셀 고베",
-   "slug": "꽁안-하노이-fc-대-비셀-고베",
-   "traffic": 200,
-   "startedAt": 1795524600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "CAHN continues its winning streak in the AFC Champions League, Coach Polking reveals a special detail.",
-     "url": "https://www.vietnam.vn/en/cahn-tiep-tuc-thang-o-cup-c1-chau-a-hlv-polking-ke-dieu-dac-biet",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "Coach Polking: 'There's no time to celebrate'",
-     "url": "https://www.vietnam.vn/en/hlv-polking-khong-co-thoi-gian-an-mung-dau",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "CAHN secured a historic 3-1 victory against Vissel Kobe after a thrilling back-and-forth match.",
-     "url": "https://www.vietnam.vn/en/cahn-gianh-chien-thang-lich-su-3-1-truoc-vissel-kobe-sau-man-doi-cong-hap-dan",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
    "rank": 9,
    "keyword": "랜드로버 디펜더",
    "slug": "랜드로버-디펜더",
    "traffic": 100,
    "startedAt": 1795533600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -242,8 +242,8 @@
    "slug": "추성훈-은퇴전",
    "traffic": 100,
    "startedAt": 1795528800.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "\"기개도 없으면서 남자다운 척!\" 추성훈 은퇴→日 격투기 전설 아들 '공개 저격'...20년 전 악연 재소환에 일본도 시끌 - 머니투데이",
