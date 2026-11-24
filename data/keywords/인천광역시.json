@@ -2,17 +2,37 @@
  "keyword": "인천광역시",
  "slug": "인천광역시",
  "firstSeen": 1795299600.0,
- "lastSeen": 1795305071.0887609,
- "peakRank": 7,
- "peakTraffic": 100,
+ "lastSeen": 1795560288.248845,
+ "peakRank": 5,
+ "peakTraffic": 200,
  "history": [
   [
    1795305071,
    7,
    100
+  ],
+  [
+   1795560288,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "인천시교육청, AI 시대 맞춤 독서교육 실천 방안 모색",
+   "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723138",
+   "source": "뉴스타운"
+  },
+  {
+   "title": "인천광역시교육청, 독서교육 전문적학습공동체 15팀 연구 성과 공유",
+   "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806042",
+   "source": "일간투데이"
+  },
+  {
+   "title": "인천시교육청·한국독서학회, '읽걷쓰AI' 독서교육 협약",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760801",
+   "source": "국제뉴스"
+  },
   {
    "title": "인천시, 수소산업 담당자 직무교육…인프라 운영 역량 강화",
    "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722785",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-25"
  ],
  "related": [
+  "마녀",
+  "슬로반-브라티슬라바-대-레알-베티스",
+  "테슬라",
+  "man-city-vs-napoli",
+  "코모-대-aek",
+  "박지현",
+  "미들즈브러-대-스완지-시티",
   "구자욱",
   "부동산",
   "인터-마이애미-대-콜럼버스-크루",

@@ -252,6 +252,69 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795556659.6226797
+  },
+  "뉴스": {
+   "slug": "뉴스",
+   "firstSeen": 1795556400.0,
+   "peakRank": 1,
+   "peakTraffic": 500,
+   "lastSeen": 1795560288.248845
+  },
+  "마녀": {
+   "slug": "마녀",
+   "firstSeen": 1795555200.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795560288.248845
+  },
+  "슬로반 브라티슬라바 대 레알 베티스": {
+   "slug": "슬로반-브라티슬라바-대-레알-베티스",
+   "firstSeen": 1795555800.0,
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795560288.248845
+  },
+  "테슬라": {
+   "slug": "테슬라",
+   "firstSeen": 1795555800.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795560288.248845
+  },
+  "인천광역시": {
+   "slug": "인천광역시",
+   "firstSeen": 1795555800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795560288.248845
+  },
+  "man city vs napoli": {
+   "slug": "man-city-vs-napoli",
+   "firstSeen": 1795555200.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795560288.248845
+  },
+  "코모 대 aek": {
+   "slug": "코모-대-aek",
+   "firstSeen": 1795556400.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795560288.248845
+  },
+  "박지현": {
+   "slug": "박지현",
+   "firstSeen": 1795555800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795560288.248845
+  },
+  "미들즈브러 대 스완지 시티": {
+   "slug": "미들즈브러-대-스완지-시티",
+   "firstSeen": 1795555800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795560288.248845
   }
  }
 }

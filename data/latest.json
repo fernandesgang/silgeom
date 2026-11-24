@@ -1,238 +1,228 @@
 {
- "generatedAt": 1795556660,
+ "generatedAt": 1795560288,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "배당",
-   "slug": "배당",
-   "traffic": 1000,
-   "startedAt": 1795551600.0,
+   "keyword": "뉴스",
+   "slug": "뉴스",
+   "traffic": 500,
+   "startedAt": 1795556400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "한국투자저축, 지주에 1800억 배당…투자 위축에 '자생력' 흔들리나",
-     "url": "https://v.daum.net/v/8ynXX4UZsc",
-     "source": "Daum"
+     "title": "미 국무부, 김주애 고가 스키 장비에 “대북 반입 금지 사치품”",
+     "url": "https://www.khan.co.kr/article/202611250722001",
+     "source": "경향신문"
     },
     {
-     "title": "[그래픽] 금융지주 계열 저축은행 순이익",
-     "url": "https://www.ceoscoredaily.com/page/view/2026112310440920985",
-     "source": "CEO스코어데일리"
+     "title": "美국무부, 김주애 '200만원' 스키복에 \"반입 금지 사치품\"",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611250717415865",
+     "source": "YTN"
     },
     {
-     "title": "[진단_저축은행 ⑨다올저축은행] 순이익 반등에도 수익성 회복은 미완... PF 부실·신용등급 하락 부담 여전",
-     "url": "https://insite.newsworker.co.kr/news/articleView.html?idxno=401976",
-     "source": "뉴스워커 인사이트"
+     "title": "北, 미중러 정상회담에 무반응…김정은은 내치 집중",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123061244O6p",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "로스앤젤레스 다저스",
-   "slug": "로스앤젤레스-다저스",
+   "keyword": "마녀",
+   "slug": "마녀",
    "traffic": 500,
-   "startedAt": 1795552200.0,
+   "startedAt": 1795555200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Might LA deal Teo to give De Paula a longer look in '27?",
-     "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez",
-     "source": "MLB.com"
+     "title": "마법 세계로 빨려든 모녀 마녀의 모험…디즈니 '헥스: 마녀왕국'",
+     "url": "https://www.yna.co.kr/view/AKR20261124173200005",
+     "source": "연합뉴스"
     },
     {
-     "title": "Dodgers Trade Pitch Lands Royals Pitcher in Teoscar Hernandez Blockbuster",
-     "url": "https://sports.yahoo.com/articles/dodgers-trade-pitch-lands-royals-205147750.html",
-     "source": "Yahoo Sports"
+     "title": "`디즈니표` 마법소녀 탄생…신작 `헥스: 마녀왕국` 25일 개봉",
+     "url": "https://www.imaeil.com/page/view/2026112417072450634",
+     "source": "매일신문"
     },
     {
-     "title": "Dodgers notes: Teoscar Hernández, Shohei Ohtani, Royce Lewis",
-     "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/128134/dodgers-teoscar-hernandez-shohei-ohtani-royce-lewis",
-     "source": "True Blue LA"
+     "title": "수십 년간 디즈니 공주들 괴롭혔던 마녀… '헥스'에선 유쾌한 구원자가 됐다",
+     "url": "https://www.hankookilbo.com/news/article/A2026112417300005393",
+     "source": "한국일보"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "arsenal vs dortmund",
-   "slug": "arsenal-vs-dortmund",
+   "keyword": "슬로반 브라티슬라바 대 레알 베티스",
+   "slug": "슬로반-브라티슬라바-대-레알-베티스",
    "traffic": 200,
-   "startedAt": 1795552800.0,
+   "startedAt": 1795555800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Team news: Gyokeres starts against Dortmund",
-     "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
-     "source": "Arsenal.com"
-    },
-    {
-     "title": "Party atmosphere at London's BVB embassy: Don't Stop Believin'",
-     "url": "https://sports.yahoo.com/articles/party-atmosphere-londons-bvb-embassy-175600260.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "XI Score Shocker: Why Borussia Dortmund Can Pull Off an Upset at the Emirates",
-     "url": "https://www.365scores.com/news/xi-score-shocker-why-borussia-dortmund-can-pull-off-an-upset-at-the-emirates",
-     "source": "365Scores"
+     "title": "슬로반 브라티슬라바 vs 레알 베티스 예측: 좋은 컨디션을 유지하고 있는 두 팀의 맞대결입니다.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-slovan-bratislava-vs-real-betis-man-so-tai-cua-hai-doi-vao-phom",
+     "source": "Vietnam.vn"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "정철원",
-   "slug": "정철원",
+   "keyword": "테슬라",
+   "slug": "테슬라",
    "traffic": 200,
-   "startedAt": 1795552800.0,
+   "startedAt": 1795555800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "키움 히어로즈 임지열 받고 정철원 내준 롯데…외야 보강 첫 단추",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261123.22018006747",
-     "source": "국제신문"
+     "title": "테슬라-스페이스X 합병 '본격' 시작되나...특별위원회 구성",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01613766645649328",
+     "source": "마켓인"
     },
     {
-     "title": "신인왕 내준 롯데·주장 보낸 키움…트레이드 속사정은",
-     "url": "https://www.yna.co.kr/view/AKR20261120159200007",
-     "source": "연합뉴스"
+     "title": "스페이스X·테슬라 합병특위 이사 5명 결정…역대급 합병 시동 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/24/2026112416594231003",
+     "source": "머니투데이"
     },
     {
-     "title": "정철원 떠난 롯데 불펜, 영건 군단 있으매…전미르-이준서 등 기대주 활약 예감",
-     "url": "https://sports.donga.com/sports/article/all/20261124/135082330/1",
-     "source": "스포츠동아"
+     "title": "스페이스X-테슬라, '사상 최대 합병' 속도전…\"연내 마무리\"",
+     "url": "https://www.fnnews.com/news/202611250327007129",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "건설",
-   "slug": "건설",
+   "keyword": "인천광역시",
+   "slug": "인천광역시",
    "traffic": 200,
-   "startedAt": 1795551600.0,
+   "startedAt": 1795555800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "반도체·주택 건설 인력난 대응…민관 전문인력 협의체 구성",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375208",
-     "source": "전기신문"
+     "title": "인천시교육청, AI 시대 맞춤 독서교육 실천 방안 모색",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723138",
+     "source": "뉴스타운"
     },
     {
-     "title": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 軍간부 활용 검토”",
-     "url": "https://www.donga.com/news/Economy/article/all/20261125/135084271/2",
-     "source": "동아일보"
+     "title": "인천광역시교육청, 독서교육 전문적학습공동체 15팀 연구 성과 공유",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806042",
+     "source": "일간투데이"
     },
     {
-     "title": "\"반도체 공장 건설에 26만명 필요…건설인력 부족 심각\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124145912KSi",
-     "source": "연합뉴스TV"
+     "title": "인천시교육청·한국독서학회, '읽걷쓰AI' 독서교육 협약",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760801",
+     "source": "국제뉴스"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "노소영",
-   "slug": "노소영",
+   "keyword": "man city vs napoli",
+   "slug": "man-city-vs-napoli",
    "traffic": 200,
-   "startedAt": 1795551600.0,
+   "startedAt": 1795555200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "최태원 “재산분할금 9440억원 내겠다”…9년 법정다툼 종료 임박",
-     "url": "https://www.mk.co.kr/news/business/12216253",
-     "source": "매일경제"
+     "title": "Manchester City Survives Late Equalizer vs Napoli",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/25/NSKPCV7OH5B2PAGGPKG36KA3WM/",
+     "source": "조선일보"
     },
     {
-     "title": "9440억원 재산분할 받는 노소영, 세금은 ‘0원’…이유는?",
-     "url": "https://www.donga.com/news/Society/article/all/20261124/135081378/1",
-     "source": "동아일보"
+     "title": "3 Man City winners and 3 unlucky losers in brutal draw with Napoli",
+     "url": "https://mancitysquare.com/man-city-winners-unlucky-losers-brutal-draw-napoli",
+     "source": "Man City Square"
     },
     {
-     "title": "대법원에 화해권고 요청한 최태원, 젠슨 황 사태 보고 내린 결정? [Y녹취록]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611241354582522",
-     "source": "YTN"
+     "title": "\"It's a dream for us!\" - Massimiliano Allegri reveals what victory over Manchester City would mean for Napoli's Champions League hopes",
+     "url": "https://www.goal.com/en-us/news/-massimiliano-allegri-victory-manchester-city-napoli-champions-league-/blt3a5fed9556d45cde",
+     "source": "Goal.com"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "한동훈",
-   "slug": "한동훈",
-   "traffic": 200,
-   "startedAt": 1795551600.0,
+   "keyword": "코모 대 aek",
+   "slug": "코모-대-aek",
+   "traffic": 100,
+   "startedAt": 1795556400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
-     "source": "YTN"
+     "title": "코모 1907 : 인구 8만 소도시 축구팀, 관광객을 팬으로 빨아들인 비결",
+     "url": "https://longblack.co/note/2184",
+     "source": "롱블랙 LongBlack"
     },
     {
-     "title": "[여의도 앨리스] ‘조작징계’ 의혹 잇단 폭로에도 국민의힘 의원 다수는 왜 시큰둥할까",
-     "url": "https://www.khan.co.kr/article/202611250600101",
-     "source": "경향신문"
+     "title": "맨유 4-1로 박살 낸 이유가 있었다...'코모 감독' 파브레가스 \"선수들이 받는 압박감 매우 커, 잘 관리하는 게 우리의 일\"",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699170",
+     "source": "인터풋볼"
     },
     {
-     "title": "국민의힘 당권파 \"윤리위원 측, 자문료 요구\" vs. 친한계 \"핵심은 불법 개입\"",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/24/Y5YJ5X4GLBBYXIKZCMFQZR5BDI/",
-     "source": "조선일보"
+     "title": "코모 vs AEK 아테네 FC 예측: 홈 이점",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-como-vs-aek-athens-fc-diem-tua-san-nha",
+     "source": "Vietnam.vn"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "치어리더",
-   "slug": "치어리더",
+   "keyword": "박지현",
+   "slug": "박지현",
    "traffic": 100,
-   "startedAt": 1795552800.0,
+   "startedAt": 1795555800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "GS칼텍스 선두 탈환…실바·타나차 41점 합작",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125051451vZs",
-     "source": "연합뉴스TV"
+     "title": "‘한국 여배우 최초 후보’ 박지현, 국제에미상 수상 불발···‘하이퍼나이프’도 고배",
+     "url": "https://www.khan.co.kr/article/202611242206001",
+     "source": "경향신문"
     },
     {
-     "title": "하지원 치어리더가 말아주는 프리티걸 [O! SPORTS 숏폼] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/202611242203778192O",
-     "source": "머니투데이"
+     "title": "제54회 국제 에미상 시상식 도착한 박지현",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261124_0002300518&pID=1&cID=&sID=1&type=Main&idx=6",
+     "source": "뉴시스"
     },
     {
-     "title": "'1R 1위' 듀스 내줘도 믿을 구석 충분했다…주장 투입까지 대적중, \"긍정적인 생각하면서 풀자고 했다\"",
-     "url": "https://www.chosun.com/sports/volleyball/2026/11/24/MYZWEMBTMI4GIYRQG5SDSNLEGU/",
+     "title": "\"후보 꿈만같아\"..박지현, '韓최초' 국제에미상 연기상 수상 불발",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/MQ2TEMRXMMYDKMDDGAYDQOJZGE/",
      "source": "조선일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "한진그룹",
-   "slug": "한진그룹",
+   "keyword": "미들즈브러 대 스완지 시티",
+   "slug": "미들즈브러-대-스완지-시티",
    "traffic": 100,
-   "startedAt": 1795551600.0,
+   "startedAt": 1795555800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[한진-호반 경영권 분쟁] '단순투자' 유지하는 호반, 지분 경쟁서 실리 챙겨 : 네이버 블로그",
-     "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224490004802&redirect=Dlog",
-     "source": "Naver Blog"
+     "title": "Middlesbrough 2-1 Swansea City: Myles Peart-Harris and Will Lankshear strike as leaders win",
+     "url": "https://www.bbc.com/sport/football/live/cmkgd1j51wx1t",
+     "source": "BBC"
     },
     {
-     "title": "장금상선, 현금자산·단기금융상품 1조1042억 눈길…시총 3000억 ㈜한진 인수 여력 충분",
-     "url": "https://www.fieldnews.kr/news/articleView.html?idxno=33365",
-     "source": "필드뉴스"
+     "title": "Ashley Williams | We know the size of the task, and it will need our full focus",
+     "url": "https://www.swanseacity.com/news/ashley-williams-we-know-size-task-and-it-will-need-our-full-focus",
+     "source": "Swansea City"
     },
     {
-     "title": "한진칼 ‘내우외환’",
-     "url": "https://www.munhwa.com/article/11633297",
-     "source": "문화일보"
+     "title": "Licensable picture: Championship - Middlesbrough v Swansea City",
+     "url": "https://www.reutersconnect.com/item/championship-middlesbrough-v-swansea-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk8xTVI2MEY",
+     "source": "Reuters Connect"
     }
    ]
   }
