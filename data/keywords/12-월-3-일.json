@@ -2,17 +2,32 @@
  "keyword": "12 월 3 일",
  "slug": "12-월-3-일",
  "firstSeen": 1795494000.0,
- "lastSeen": 1795499320.8620768,
+ "lastSeen": 1795503118.7676516,
  "peakRank": 3,
- "peakTraffic": 1000,
+ "peakTraffic": 2000,
  "history": [
   [
    1795499321,
    3,
    1000
+  ],
+  [
+   1795503119,
+   3,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "매년 12월 3일 '국민주권의 날'로‥다음 달 첫 기념식",
+   "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868171_36974.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "[속보]이 대통령 \"빛의 혁명 12·3 국가기념일 '국민주권의 날'로 지정\"",
+   "url": "https://www.newsis.com/view/NISX20261124_0003880560",
+   "source": "뉴시스"
+  },
   {
    "title": "12월 3일 국가기념일 된다…李 “계엄 맞선 ‘국민 주권의 날’ 기려야”",
    "url": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
@@ -33,6 +48,9 @@
   "2026-11-24"
  ],
  "related": [
+  "군인",
+  "농심",
+  "임성한",
   "퇴직",
   "장기-기증",
   "강호동",

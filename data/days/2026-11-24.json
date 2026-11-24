@@ -678,28 +678,28 @@
    "firstSeen": 1795494000.0,
    "peakRank": 1,
    "peakTraffic": 20000,
-   "lastSeen": 1795499320.8620768
+   "lastSeen": 1795503118.7676516
   },
   "장기 기증": {
    "slug": "장기-기증",
    "firstSeen": 1795494600.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795499320.8620768
+   "peakTraffic": 2000,
+   "lastSeen": 1795503118.7676516
   },
   "12 월 3 일": {
    "slug": "12-월-3-일",
    "firstSeen": 1795494000.0,
    "peakRank": 3,
-   "peakTraffic": 1000,
-   "lastSeen": 1795499320.8620768
+   "peakTraffic": 2000,
+   "lastSeen": 1795503118.7676516
   },
   "강호동": {
    "slug": "강호동",
    "firstSeen": 1795493400.0,
    "peakRank": 4,
-   "peakTraffic": 1000,
-   "lastSeen": 1795499320.8620768
+   "peakTraffic": 2000,
+   "lastSeen": 1795503118.7676516
   },
   "치이카와 클리닉": {
    "slug": "치이카와-클리닉",
@@ -712,15 +712,15 @@
    "slug": "지방세",
    "firstSeen": 1795494000.0,
    "peakRank": 6,
-   "peakTraffic": 500,
-   "lastSeen": 1795499320.8620768
+   "peakTraffic": 1000,
+   "lastSeen": 1795503118.7676516
   },
   "김서형": {
    "slug": "김서형",
    "firstSeen": 1795494000.0,
    "peakRank": 7,
-   "peakTraffic": 500,
-   "lastSeen": 1795499320.8620768
+   "peakTraffic": 1000,
+   "lastSeen": 1795503118.7676516
   },
   "팝콘": {
    "slug": "팝콘",
@@ -734,7 +734,7 @@
    "firstSeen": 1795494000.0,
    "peakRank": 9,
    "peakTraffic": 200,
-   "lastSeen": 1795499320.8620768
+   "lastSeen": 1795503118.7676516
   },
   "과즙 세연 방시혁": {
    "slug": "과즙-세연-방시혁",
@@ -742,6 +742,27 @@
    "peakRank": 10,
    "peakTraffic": 200,
    "lastSeen": 1795499320.8620768
+  },
+  "군인": {
+   "slug": "군인",
+   "firstSeen": 1795498800.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795503118.7676516
+  },
+  "농심": {
+   "slug": "농심",
+   "firstSeen": 1795496400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795503118.7676516
+  },
+  "임성한": {
+   "slug": "임성한",
+   "firstSeen": 1795494000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795503118.7676516
   }
  }
 }

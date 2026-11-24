@@ -2,17 +2,37 @@
  "keyword": "군인",
  "slug": "군인",
  "firstSeen": 1795302600.0,
- "lastSeen": 1795307508.4091113,
- "peakRank": 9,
- "peakTraffic": 200,
+ "lastSeen": 1795503118.7676516,
+ "peakRank": 5,
+ "peakTraffic": 1000,
  "history": [
   [
    1795307508,
    9,
    200
+  ],
+  [
+   1795503119,
+   5,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "피겨 국대 출신부터 3대 군인가족까지…공군 장교 146명 임관",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8721051",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "세리머니 하는 신임 공군 장교들",
+   "url": "https://mobile.newsis.com/photo/NISI20261124_0021544044",
+   "source": "뉴시스"
+  },
+  {
+   "title": "육군 병장 → 공군 하사·소위 임관… 권성찬 “군번줄만 3개 됐어요”",
+   "url": "https://www.munhwa.com/article/11633633",
+   "source": "문화일보"
+  },
   {
    "title": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-24"
  ],
  "related": [
+  "퇴직",
+  "장기-기증",
+  "12-월-3-일",
+  "강호동",
+  "지방세",
+  "김서형",
+  "농심",
+  "트롯-데스매치-금타는-금요일",
+  "임성한",
   "수험",
   "삼전-닉스",
   "부동산",
