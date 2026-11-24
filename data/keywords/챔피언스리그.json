@@ -2,7 +2,7 @@
  "keyword": "챔피언스리그",
  "slug": "챔피언스리그",
  "firstSeen": 1795532400.0,
- "lastSeen": 1795539268.4577765,
+ "lastSeen": 1795542176.2474802,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -13,6 +13,11 @@
   ]
  ],
  "news": [
+  {
+   "title": "특공대·열화상 드론까지 투입…‘사자’ 쫓던 이스탄불의 반전",
+   "url": "https://www.joongang.co.kr/article/25481691",
+   "source": "중앙일보"
+  },
   {
    "title": "'축구 경기장 근처에 맹수가 돌아다닌다고?' 아스톤 빌라-갈라타사라이 UCL 앞두고 '발칵'...사자 수색에 드론 7대 동원 - 머니투데이",
    "url": "https://www.mt.co.kr/sports/2026/11/24/202611240831773337O",
@@ -33,6 +38,7 @@
   "2026-11-25"
  ],
  "related": [
+  "랜드로버-디펜더",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
   "황영묵",
   "주우재",
