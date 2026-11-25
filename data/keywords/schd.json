@@ -2,7 +2,7 @@
  "keyword": "schd",
  "slug": "schd",
  "firstSeen": 1795038600.0,
- "lastSeen": 1795563510.499137,
+ "lastSeen": 1795649158.5221348,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -15,9 +15,19 @@
    1795563510,
    8,
    200
+  ],
+  [
+   1795649159,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "The Dividend ETF I'd Choose to to Generate $500 a Month in Passive Income",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-id-choose-generate-213502594.html",
+   "source": "Yahoo Finance"
+  },
   {
    "title": "I Own SCHD. Here’s Why I Also Own This 7%-Yielding Income ETF.",
    "url": "https://www.theglobeandmail.com/investing/markets/stocks/SCHD-A/pressreleases/8983443/i-own-schd-heres-why-i-also-own-this-7-yielding-income-etf/",
@@ -51,9 +61,17 @@
  ],
  "days": [
   "2026-11-19",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "related": [
+  "리그-오브-레전드-챔피언스-코리아",
+  "이강인",
+  "필라데피아-대-마이애미",
+  "tqqq",
+  "losc-vs-bayern",
+  "금융감독원",
+  "삼성중공업",
   "real-madrid-vs-psv-eindhoven-standings",
   "나스닥-100",
   "채무",
@@ -66,11 +84,6 @@
   "미역국",
   "t1",
   "new-zealand-vs-india",
-  "겨울",
-  "ionq",
-  "nvda",
-  "다우-존스-산업평균지수",
-  "lg그룹",
-  "새마을금고"
+  "겨울"
  ]
 }

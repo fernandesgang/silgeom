@@ -350,6 +350,76 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795645778.6406138
+  },
+  "리그 오브 레전드 챔피언스 코리아": {
+   "slug": "리그-오브-레전드-챔피언스-코리아",
+   "firstSeen": 1795644600.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795649158.5221348
+  },
+  "이강인": {
+   "slug": "이강인",
+   "firstSeen": 1795643400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795649158.5221348
+  },
+  "필라데피아 대 마이애미": {
+   "slug": "필라데피아-대-마이애미",
+   "firstSeen": 1795644600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795649158.5221348
+  },
+  "나스닥 100": {
+   "slug": "나스닥-100",
+   "firstSeen": 1795645200.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795649158.5221348
+  },
+  "schd": {
+   "slug": "schd",
+   "firstSeen": 1795644600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795649158.5221348
+  },
+  "ionq": {
+   "slug": "ionq",
+   "firstSeen": 1795644600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795649158.5221348
+  },
+  "tqqq": {
+   "slug": "tqqq",
+   "firstSeen": 1795644600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795649158.5221348
+  },
+  "losc vs bayern": {
+   "slug": "losc-vs-bayern",
+   "firstSeen": 1795643400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795649158.5221348
+  },
+  "금융감독원": {
+   "slug": "금융감독원",
+   "firstSeen": 1795645200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795649158.5221348
+  },
+  "삼성중공업": {
+   "slug": "삼성중공업",
+   "firstSeen": 1795642800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795649158.5221348
   }
  }
 }

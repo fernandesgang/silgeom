@@ -2,7 +2,7 @@
  "keyword": "tqqq",
  "slug": "tqqq",
  "firstSeen": 1795128000.0,
- "lastSeen": 1795210015.432244,
+ "lastSeen": 1795649158.5221348,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,24 @@
    1795210015,
    9,
    200
+  ],
+  [
+   1795649159,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Wall Street piles into TQQQ ETF, dumps SQQQ as AI bubble fears escalate",
+   "url": "https://invezz.com/sg/news/2026/11/25/wall-street-piles-into-tqqq-etf-dumps-sqqq-as-ai-bubble-fears-escalate/",
+   "source": "Invezz"
+  },
+  {
+   "title": "SQQQ ETF Shares Rebound, Rise Over 6% After Key Trading Signal",
+   "url": "https://www.benzinga.com/opinion/26/11/63559066/sqqq-etf-shares-rebound-rise-over-6-percent-after-key-trading-signal",
+   "source": "Benzinga"
+  },
   {
    "title": "Pain in TQQQ, SOXL may offer silver lining for tech stocks - SocGen",
    "url": "https://seekingalpha.com/news/4674377-pain-in-tqqq-soxl-may-offer-silver-lining-for-tech-stocks-socgen",
@@ -46,9 +61,19 @@
  ],
  "days": [
   "2026-11-20",
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-26"
  ],
  "related": [
+  "리그-오브-레전드-챔피언스-코리아",
+  "이강인",
+  "필라데피아-대-마이애미",
+  "나스닥-100",
+  "schd",
+  "ionq",
+  "losc-vs-bayern",
+  "금융감독원",
+  "삼성중공업",
   "황유민",
   "장윤정",
   "김호령",
@@ -59,12 +84,6 @@
   "한국수력원자력",
   "파운드리",
   "중산층",
-  "오상욱",
-  "주한-미군",
-  "눈",
-  "vix",
-  "ai-데이터-센터",
-  "new-zealand-vs-india",
-  "오픈ai"
+  "오상욱"
  ]
 }

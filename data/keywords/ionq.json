@@ -2,7 +2,7 @@
  "keyword": "ionq",
  "slug": "ionq",
  "firstSeen": 1795039800.0,
- "lastSeen": 1795047997.0732815,
+ "lastSeen": 1795649158.5221348,
  "peakRank": 6,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,29 @@
    1795047997,
    8,
    200
+  ],
+  [
+   1795649159,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Ionq stock hits 52-week low at 20.51 USD",
+   "url": "https://www.investing.com/news/company-news/ionq-stock-hits-52week-low-at-2051-usd-93CH-5051051",
+   "source": "Investing.com"
+  },
+  {
+   "title": "IonQ (NYSE:IONQ) Shares Down 3.8% - What's Next?",
+   "url": "https://www.marketbeat.com/instant-alerts/price-ionq-nyse-ionq-shares-down-38-whats-next-2026-11-24/",
+   "source": "MarketBeat"
+  },
+  {
+   "title": "Why Are Quantum Computing Stocks Jumping Today? IonQ, Rigetti, and D-Wave Rally as Tech Rebounds",
+   "url": "https://www.tipranks.com/news/why-are-quantum-computing-stocks-jumping-today-ionq-rigetti-and-d-wave-rally-as-tech-rebounds",
+   "source": "TipRanks"
+  },
   {
    "title": "Rigetti Sinks 8%, IonQ Down 7% as Quantum Stocks Slide Again Ahead of Nvidia Earnings",
    "url": "https://www.tikr.com/blog/rigetti-sinks-8-ionq-down-7-as-quantum-stocks-slide-again-ahead-of-nvidia-earnings",
@@ -45,9 +65,18 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-26"
  ],
  "related": [
+  "리그-오브-레전드-챔피언스-코리아",
+  "이강인",
+  "필라데피아-대-마이애미",
+  "나스닥-100",
+  "tqqq",
+  "losc-vs-bayern",
+  "금융감독원",
+  "삼성중공업",
   "수능-시작",
   "관광",
   "weather",
@@ -59,11 +88,6 @@
   "미역국",
   "t1",
   "schd",
-  "new-zealand-vs-india",
-  "겨울",
-  "nvda",
-  "다우-존스-산업평균지수",
-  "lg그룹",
-  "새마을금고"
+  "new-zealand-vs-india"
  ]
 }
