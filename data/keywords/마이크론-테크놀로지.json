@@ -2,7 +2,7 @@
  "keyword": "마이크론 테크놀로지",
  "slug": "마이크론-테크놀로지",
  "firstSeen": 1795228200.0,
- "lastSeen": 1795235463.8032827,
+ "lastSeen": 1795611403.4937336,
  "peakRank": 5,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795235464,
    5,
    500
+  ],
+  [
+   1795611403,
+   7,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "씨티, 메모리주 폭락 과도…마이크론 2배·샌디스크 3배 상승 전망",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446284",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "마이크론, 하락…BNP파리마 목표가 대폭 하향",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01095526645649328",
+   "source": "마켓인"
+  },
+  {
+   "title": "메모리 슈퍼사이클 정점론 4가지 근거…마이크론 목표가 반토막 - 머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/11/25/2026112510071236055",
+   "source": "머니투데이"
+  },
   {
    "title": "마이크론테크놀로지, AI 투자 우려에 7거래일 연속 하락…주가 14%↓",
    "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01230006645648016",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-25"
  ],
  "related": [
+  "은퇴-요원-관리팀",
+  "난방",
+  "재혼황후",
+  "백화점",
+  "해군",
+  "강남",
+  "persib-bandung-vs-fc-seoul",
+  "lg에너지솔루션",
+  "조이현",
   "퇴직금",
   "대통령",
   "구자욱",
