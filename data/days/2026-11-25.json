@@ -767,9 +767,9 @@
   "thanksgiving 2026": {
    "slug": "thanksgiving-2026",
    "firstSeen": 1795590000.0,
-   "peakRank": 8,
-   "peakTraffic": 200,
-   "lastSeen": 1795595003.9769359
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795600072.9064114
   },
   "불광역": {
    "slug": "불광역",
@@ -784,6 +784,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795595003.9769359
+  },
+  "국민연금공단": {
+   "slug": "국민연금공단",
+   "firstSeen": 1795596000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795600072.9064114
+  },
+  "임차인": {
+   "slug": "임차인",
+   "firstSeen": 1795591800.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795600072.9064114
+  },
+  "루카 윌리엄스 바넷": {
+   "slug": "루카-윌리엄스-바넷",
+   "firstSeen": 1795593000.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795600072.9064114
+  },
+  "태국": {
+   "slug": "태국",
+   "firstSeen": 1795595400.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795600072.9064114
+  },
+  "검찰청": {
+   "slug": "검찰청",
+   "firstSeen": 1795594800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795600072.9064114
+  },
+  "lta": {
+   "slug": "lta",
+   "firstSeen": 1795593000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795600072.9064114
+  },
+  "최명길": {
+   "slug": "최명길",
+   "firstSeen": 1795592400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795600072.9064114
+  },
+  "행동": {
+   "slug": "행동",
+   "firstSeen": 1795591800.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795600072.9064114
+  },
+  "증안 펀드": {
+   "slug": "증안-펀드",
+   "firstSeen": 1795591800.0,
+   "peakRank": 10,
+   "peakTraffic": 200,
+   "lastSeen": 1795600072.9064114
   }
  }
 }
