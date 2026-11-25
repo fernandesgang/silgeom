@@ -2,17 +2,37 @@
  "keyword": "미스터트롯",
  "slug": "미스터트롯",
  "firstSeen": 1795124400.0,
- "lastSeen": 1795130463.4447408,
- "peakRank": 5,
- "peakTraffic": 500,
+ "lastSeen": 1795566496.8211691,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795130463,
    5,
    500
+  ],
+  [
+   1795566497,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "안정환, ‘미스터트롯4’서 춤추는 모습 볼까…시청률 30% 공약에 소환",
+   "url": "https://sports.donga.com/ent/article/all/20261124/135078415/1",
+   "source": "스포츠동아"
+  },
+  {
+   "title": "최유정 \"'미스터트롯4' 시청률 28% 돌파하면 트로트 도전할 것\"",
+   "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525829",
+   "source": "iMBC 연예"
+  },
+  {
+   "title": "TV CHOSUN [미스터트롯4] 김희재X안성훈X박지현X김용빈X손빈아X춘길, 선배 마스터들도 깜짝!",
+   "url": "https://www.pressna.com/news/newsview.php?ncode=1065602780466121",
+   "source": "프레스뉴스"
+  },
   {
    "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
    "url": "https://www.mk.co.kr/news/musics/12211506",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-25"
  ],
  "related": [
+  "윤이나",
+  "김혜성",
+  "주주",
+  "man-city-vs-ssc-napoli-standings",
+  "필라델피아-반도체-지수",
+  "야닉-시너",
+  "장인화",
+  "롯데손해보험",
   "아파트",
   "택시",
   "weather",

@@ -385,6 +385,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795563510.499137
+  },
+  "윤이나": {
+   "slug": "윤이나",
+   "firstSeen": 1795561800.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795566496.8211691
+  },
+  "김혜성": {
+   "slug": "김혜성",
+   "firstSeen": 1795561200.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795566496.8211691
+  },
+  "미스터트롯": {
+   "slug": "미스터트롯",
+   "firstSeen": 1795561200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795566496.8211691
+  },
+  "주주": {
+   "slug": "주주",
+   "firstSeen": 1795562400.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795566496.8211691
+  },
+  "man city vs ssc napoli standings": {
+   "slug": "man-city-vs-ssc-napoli-standings",
+   "firstSeen": 1795561800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795566496.8211691
+  },
+  "필라델피아 반도체 지수": {
+   "slug": "필라델피아-반도체-지수",
+   "firstSeen": 1795560000.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795566496.8211691
+  },
+  "야닉 시너": {
+   "slug": "야닉-시너",
+   "firstSeen": 1795561200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795566496.8211691
+  },
+  "장인화": {
+   "slug": "장인화",
+   "firstSeen": 1795560600.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795566496.8211691
+  },
+  "롯데손해보험": {
+   "slug": "롯데손해보험",
+   "firstSeen": 1795560000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795566496.8211691
   }
  }
 }
