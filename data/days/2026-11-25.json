@@ -790,7 +790,7 @@
    "firstSeen": 1795596000.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795600072.9064114
+   "lastSeen": 1795603647.9818113
   },
   "임차인": {
    "slug": "임차인",
@@ -803,22 +803,22 @@
    "slug": "루카-윌리엄스-바넷",
    "firstSeen": 1795593000.0,
    "peakRank": 3,
-   "peakTraffic": 1000,
-   "lastSeen": 1795600072.9064114
+   "peakTraffic": 2000,
+   "lastSeen": 1795603647.9818113
   },
   "태국": {
    "slug": "태국",
    "firstSeen": 1795595400.0,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795600072.9064114
+   "lastSeen": 1795603647.9818113
   },
   "검찰청": {
    "slug": "검찰청",
    "firstSeen": 1795594800.0,
    "peakRank": 5,
-   "peakTraffic": 500,
-   "lastSeen": 1795600072.9064114
+   "peakTraffic": 1000,
+   "lastSeen": 1795603647.9818113
   },
   "lta": {
    "slug": "lta",
@@ -847,6 +847,48 @@
    "peakRank": 10,
    "peakTraffic": 200,
    "lastSeen": 1795600072.9064114
+  },
+  "가시마 앤틀러스 대 전북": {
+   "slug": "가시마-앤틀러스-대-전북",
+   "firstSeen": 1795597800.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795603647.9818113
+  },
+  "고경표 음주 운전": {
+   "slug": "고경표-음주-운전",
+   "firstSeen": 1795599000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795603647.9818113
+  },
+  "코레일 파업": {
+   "slug": "코레일-파업",
+   "firstSeen": 1795597200.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795603647.9818113
+  },
+  "삼성전자 주가": {
+   "slug": "삼성전자-주가",
+   "firstSeen": 1795598400.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795603647.9818113
+  },
+  "하사": {
+   "slug": "하사",
+   "firstSeen": 1795599000.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795603647.9818113
+  },
+  "슈퍼문": {
+   "slug": "슈퍼문",
+   "firstSeen": 1795597200.0,
+   "peakRank": 10,
+   "peakTraffic": 200,
+   "lastSeen": 1795603647.9818113
   }
  }
 }

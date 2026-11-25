@@ -1,15 +1,25 @@
 {
- "generatedAt": 1795600073,
+ "generatedAt": 1795603648,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
+   "keyword": "가시마 앤틀러스 대 전북",
+   "slug": "가시마-앤틀러스-대-전북",
+   "traffic": 5000,
+   "startedAt": 1795597800.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
+  },
+  {
+   "rank": 2,
    "keyword": "국민연금공단",
    "slug": "국민연금공단",
    "traffic": 2000,
    "startedAt": 1795596000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "국민연금공단 \"유족연금 50% 상향, 사회적 합의 선행돼야\"",
@@ -29,38 +39,12 @@
    ]
   },
   {
-   "rank": 2,
-   "keyword": "임차인",
-   "slug": "임차인",
-   "traffic": 2000,
-   "startedAt": 1795591800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "전주시, 전세사기 피해 임차인 주거비 지원…최대 300만원",
-     "url": "https://www.newspim.com/news/view/20261125000413",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "전세사기 피해 대응 알려준다…전남광주, 현장상담 확대",
-     "url": "https://www.fnnews.com/news/202611201102094833",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "전세사기 피해자 보증금 3분의 1 지원, 최소보장제 신청방법",
-     "url": "https://www.lawtalk.co.kr/posts/214960",
-     "source": "로톡"
-    }
-   ]
-  },
-  {
    "rank": 3,
    "keyword": "루카 윌리엄스 바넷",
    "slug": "루카-윌리엄스-바넷",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795593000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -82,12 +66,116 @@
   },
   {
    "rank": 4,
+   "keyword": "고경표 음주 운전",
+   "slug": "고경표-음주-운전",
+   "traffic": 1000,
+   "startedAt": 1795599000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“팁만 5만원” 고경표, 과거엔 대리 불렀다 ‘목격담 등장’",
+     "url": "https://sports.khan.co.kr/article/202611251039003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "“하…” 음주운전 고경표, 다친 미화원께 연락드렸냐 물었더니",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288790.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720656",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "코레일 파업",
+   "slug": "코레일-파업",
+   "traffic": 1000,
+   "startedAt": 1795597200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "철도노조, 내일(26일)부터 ‘안전운행 투쟁’… 일부 열차 운행 차질 예상",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722349",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "철도노조, 26일부터 준법투쟁 돌입…수도권 전철·KTX 운행 지연 우려",
+     "url": "https://www.kyeonggi.com/article/20261125580504",
+     "source": "경기일보"
+    },
+    {
+     "title": "출근길 대란 피했지만, 연례행사 된 서울 지하철 파업 걱정…‘적자 해소’ 과제는 그대로 남았다",
+     "url": "https://www.khan.co.kr/article/202611251638001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "검찰청",
+   "slug": "검찰청",
+   "traffic": 1000,
+   "startedAt": 1795594800.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "단독 검찰청 폐지에 '허리급' 평검사 잇단 사직인사...\"자괴감 느껴\"",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611251504258738",
+     "source": "YTN"
+    },
+    {
+     "title": "올해 퇴직·휴직 검사 347명…\"파견 축소·법무부 겸직 인원 조정해야\"",
+     "url": "https://www.fnnews.com/news/202611162235519376",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "작년보다 벌써 40명 많다…검사 퇴직·휴직 347명, 5년 새 최다",
+     "url": "https://www.joongang.co.kr/article/25479099",
+     "source": "중앙일보"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "삼성전자 주가",
+   "slug": "삼성전자-주가",
+   "traffic": 500,
+   "startedAt": 1795598400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "삼성전자 주가, 오늘 약 9% 급락한 이유는?",
+     "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2189781",
+     "source": "Investing.com 한국어"
+    },
+    {
+     "title": "반도체 투톱 10% 안팎 급락…코스피 6% 넘게 밀려",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446490",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "삼전닉스 9∼11% 급락…삼전, 시총 1천조원 하회(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261125043951008",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 8,
    "keyword": "태국",
    "slug": "태국",
    "traffic": 500,
    "startedAt": 1795595400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 4,
    "news": [
     {
      "title": "Chula Experts Outline Thailand’s Path to Quantum Computing Opportunities",
@@ -107,158 +195,54 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "검찰청",
-   "slug": "검찰청",
-   "traffic": 500,
-   "startedAt": 1795594800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "약탈경제반대행동, 검찰청 폐지 이후 범죄피해자 구제 방안 논의",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3451963",
-     "source": "천지일보"
-    },
-    {
-     "title": "읍급 인민의회 대표에 대한 제도 강화",
-     "url": "https://ko.laodong.vn/thoi-su/tang-che-do-doi-voi-dai-bieu-hdnd-cap-xa-1806391.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "국회 상임위원회는 사법부 및 검찰청 분야의 지도적 직책에 대한 수당을 규정하는 결의안을 통과시켰습니다.",
-     "url": "https://www.vietnam.vn/ko/uy-ban-thuong-vu-quoc-hoi-thong-qua-nghi-quyet-quy-dinh-ve-phu-cap-chuc-vu-lanh-dao-nganh-toa-an-kiem-sat",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "thanksgiving 2026",
-   "slug": "thanksgiving-2026",
-   "traffic": 500,
-   "startedAt": 1795590000.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "What stores are open on Thanksgiving and Black Friday 2026? Grocery, drugstores and more | List",
-     "url": "https://abc7ny.com/post/what-stores-are-open-thanksgiving-black-friday-2026-grocery-drugstores-more-list/20071063/",
-     "source": "ABC7 New York"
-    },
-    {
-     "title": "Excited for Black Friday deals? Here's when malls will open in South Florida",
-     "url": "https://www.nbcmiami.com/holidays-in-south-florida/black-friday-deals-malls-hours-south-florida-miami-broward/3892276/",
-     "source": "NBC 6 South Florida"
-    },
-    {
-     "title": "What’s open and closed in Miami for Thanksgiving 2026: County offices, transit, Publix, Walgreens and more",
-     "url": "https://secretmiami.com/whats-open-closed-miami-thanksgiving-2026/",
-     "source": "Secret Miami"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "lta",
-   "slug": "lta",
-   "traffic": 200,
-   "startedAt": 1795593000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Factsheet: LTA Launches New 3D Animated Series to Introduce Children to Public Transport",
-     "url": "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/11/news-releases/factsheet--lta-launches-new-3d-animated-series-to-introduce-chil.html",
-     "source": "Land Transport Authority (LTA)"
-    },
-    {
-     "title": "LTA launches 3D animated series on Singapore public transport for young children",
-     "url": "https://www.straitstimes.com/singapore/transport/lta-launches-3d-animated-series-on-singapore-public-transport-for-young-children",
-     "source": "The Straits Times"
-    },
-    {
-     "title": "All aboard! LTA's new 3D animated series aims to spark kids' love for buses and trains, Singapore News",
-     "url": "https://www.asiaone.com/singapore/ride-seek-jay-ella-animated-series-land-transport-authority",
-     "source": "AsiaOne.com"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "최명길",
-   "slug": "최명길",
-   "traffic": 200,
-   "startedAt": 1795592400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "배우 최명길, 한국브리지협회 명예 홍보대사 위촉",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20590",
-     "source": "이투데이"
-    },
-    {
-     "title": "한국브리지협회, 배우 최명길 ‘브리지 명예홍보대사’로 위촉",
-     "url": "https://www.donga.com/news/Culture/article/all/20261125/135090216/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "배우 최명길, 브리지 명예홍보대사 됐다…위촉장 대신 ‘추억의 액자’",
-     "url": "https://ichannela.com/news/detail/000000561542.do",
-     "source": "채널A"
-    }
-   ]
-  },
-  {
    "rank": 9,
-   "keyword": "행동",
-   "slug": "행동",
+   "keyword": "하사",
+   "slug": "하사",
    "traffic": 200,
-   "startedAt": 1795591800.0,
+   "startedAt": 1795599000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"엄마의 나이가 자녀의 행동을 바꾼다?\"…세대 간 행동 변화의 비밀 밝혔다",
-     "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10066176&title=%22%EC%97%84%EB%A7%88%EC%9D%98+%EB%82%98%EC%9D%B4%EA%B0%80+%EC%9E%90%EB%85%80%EC%9D%98+%ED%96%89%EB%8F%99%EC%9D%84+%EB%B0%94%EA%BE%BC%EB%8B%A4%3F%22%E2%80%A6%EC%84%B8%EB%8C%80+%EA%B0%84+%ED%96%89%EB%8F%99+%EB%B3%80%ED%99%94%EC%9D%98+%EB%B9%84%EB%B0%80+%EB%B0%9D%ED%98%94%EB%8B%A4",
-     "source": "BRIC"
-    },
-    {
-     "title": "\"어린 엄마에게서 태어날수록 위험신호에 더 민감\"",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611241105428994",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "“엄마 나이가 자녀의 행동을 바꾼다?”···DGIST, 세대 간 행동 변화의 비밀 밝혀",
-     "url": "https://www.khan.co.kr/article/202611241101021",
+     "title": "진주 저수지서 여성 공군 하사 숨진 채 발견···군, 가혹행위 여부 수사",
+     "url": "https://www.khan.co.kr/article/202611251607001",
      "source": "경향신문"
+    },
+    {
+     "title": "진주서 공군 20대 여군 중사 숨진 채 발견…군 당국 수사",
+     "url": "https://www.yna.co.kr/view/AKR20261125124700052",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "공군 소속 여성 하사 숨진 채 발견…군 당국 수사",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125172222hsM",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "증안 펀드",
-   "slug": "증안-펀드",
+   "keyword": "슈퍼문",
+   "slug": "슈퍼문",
    "traffic": 200,
-   "startedAt": 1795591800.0,
+   "startedAt": 1795597200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] 코스피 6% 급락한 날…정부, 증안펀드 확대 추진",
-     "url": "https://www.hankyung.com/article/202611259509i",
-     "source": "한국경제"
+     "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611251603008783",
+     "source": "YTN 사이언스"
     },
     {
-     "title": "증안펀드 규모 늘린다... 25개 금융사에 출자 여력 타진",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/25/AFLCJVAB55CNFK55UDP5WA3B6I/",
-     "source": "조선일보"
+     "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "불법 공매도 3개월 집중감시…금감원·거래소 합동 TF 가동",
-     "url": "https://www.yna.co.kr/view/AKR20261124114700002",
-     "source": "연합뉴스"
+     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
+     "source": "국제신문"
     }
    ]
   }
