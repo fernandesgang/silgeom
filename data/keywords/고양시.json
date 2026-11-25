@@ -2,7 +2,7 @@
  "keyword": "고양시",
  "slug": "고양시",
  "firstSeen": 1795506600.0,
- "lastSeen": 1795512597.8302402,
+ "lastSeen": 1795642403.7802422,
  "peakRank": 7,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795512598,
    7,
    200
+  ],
+  [
+   1795642404,
+   8,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "고양시 공공기관장 첫 청문회 ‘지명 철회’ 촉구",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042100",
+   "source": "기호일보"
+  },
+  {
+   "title": "고양시의회 국민의힘 시의원 16명, 고양연구원장·고양문화재단 대표 지명철회 촉구",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337756",
+   "source": "인천일보"
+  },
+  {
+   "title": "고양시 인사청문회 두고 국힘 시의원들 반발…김달수·최창의 지명 철회 촉구",
+   "url": "https://www.joongboo.com/news/articleView.html?idxno=363743522",
+   "source": "중부일보"
+  },
   {
    "title": "금천구, 인공지능(AI) 영상 '다시 한걸음'으로 청년 취업정책 알렸다",
    "url": "https://www.yna.co.kr/view/RPR20261124000600353",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-26"
  ],
  "related": [
+  "생계",
+  "세무사",
+  "기초노령연금",
+  "3기-신도시-부천대장지구",
+  "종합부동산세",
+  "편의점",
+  "새만금",
   "이도현",
   "이관희",
   "웨스팅하우스",

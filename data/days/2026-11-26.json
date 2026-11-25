@@ -231,6 +231,62 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795638467.5793161
+  },
+  "생계": {
+   "slug": "생계",
+   "firstSeen": 1795638000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795642403.7802422
+  },
+  "세무사": {
+   "slug": "세무사",
+   "firstSeen": 1795637400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795642403.7802422
+  },
+  "기초노령연금": {
+   "slug": "기초노령연금",
+   "firstSeen": 1795636800.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795642403.7802422
+  },
+  "3기 신도시 부천대장지구": {
+   "slug": "3기-신도시-부천대장지구",
+   "firstSeen": 1795638600.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795642403.7802422
+  },
+  "종합부동산세": {
+   "slug": "종합부동산세",
+   "firstSeen": 1795638600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795642403.7802422
+  },
+  "편의점": {
+   "slug": "편의점",
+   "firstSeen": 1795638600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795642403.7802422
+  },
+  "새만금": {
+   "slug": "새만금",
+   "firstSeen": 1795638000.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795642403.7802422
+  },
+  "고양시": {
+   "slug": "고양시",
+   "firstSeen": 1795636800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795642403.7802422
   }
  }
 }
