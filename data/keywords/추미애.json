@@ -2,17 +2,37 @@
  "keyword": "추미애",
  "slug": "추미애",
  "firstSeen": 1795297800.0,
- "lastSeen": 1795302927.8670437,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795620146.1179428,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795302928,
    6,
    200
+  ],
+  [
+   1795620146,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288477",
+   "source": "OhmyNews"
+  },
+  {
+   "title": "추미애 \"상부 지시보다 헌법 기준으로 판단해야\"…신규 공직자 특강",
+   "url": "https://www.news1.kr/local/gyeonggi/6366005",
+   "source": "뉴스1"
+  },
+  {
+   "title": "추미애 지사, 신규 공직자에게 \"상부 지시에 익숙해질 때면 헌법을 기준 삼으세요\"",
+   "url": "https://view.asiae.co.kr/article/2026112517290794068",
+   "source": "아시아경제"
+  },
   {
    "title": "추미애 “한덕수 판결 순억지···조희대 탄핵, 좌고우면하면 안 돼”",
    "url": "https://www.khan.co.kr/article/202611211912001",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-26"
  ],
  "related": [
+  "세계의-주인",
+  "존리",
+  "유은성",
+  "acl-two",
+  "일조권",
+  "청룡영화상-2026",
+  "박보검",
+  "금연",
+  "fc서울",
   "구자욱",
   "젠슨-황",
   "ai-데이터-센터",

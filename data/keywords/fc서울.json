@@ -2,7 +2,7 @@
  "keyword": "fc서울",
  "slug": "fc서울",
  "firstSeen": 1795611000.0,
- "lastSeen": 1795615868.781536,
+ "lastSeen": 1795620146.1179428,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,29 @@
    1795615869,
    8,
    100
+  ],
+  [
+   1795620146,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "[공식발표] FC서울 우승 주역 문선민, 구성윤·야잔·클리말라 제쳤다...팬 투표 70%로 10월의 선수 선정",
+   "url": "https://www.chosun.com/sports/football/2026/11/25/MEYDCMRTMM3GGOLGGQ2TSYZWG4/",
+   "source": "조선일보"
+  },
+  {
+   "title": "FC서울 문선민, 팬 투표 70% 득표…10월 최고의 선수 선정",
+   "url": "https://m.segye.com/view/20261125505476",
+   "source": "세계일보"
+  },
+  {
+   "title": "서울 문선민, 팬들이 선정한 ‘HS효성더클래스 10월의 선수상’ 수상",
+   "url": "https://www.anewsa.com/detail.php?number=3221674",
+   "source": "아시아뉴스통신"
+  },
   {
    "title": "FC서울 야잔 \"많은 페르십 반둥 팬들의 응원? 기죽지 않고 우리 플레이 할 것\"",
    "url": "https://www.sports-g.com/news/articleView.html?idxno=217360",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "related": [
+  "세계의-주인",
+  "존리",
+  "추미애",
+  "유은성",
+  "acl-two",
+  "일조권",
+  "박보검",
+  "금연",
   "에콰도르-u-17-대-대한민국-u-17",
   "난방",
   "청룡영화제",
