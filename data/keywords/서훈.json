@@ -1,0 +1,45 @@
+{
+ "keyword": "서훈",
+ "slug": "서훈",
+ "firstSeen": 1795572000.0,
+ "lastSeen": 1795578624.7705085,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795578625,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+   "url": "https://news.jtbc.co.kr/article/NB12329695",
+   "source": "JTBC"
+  },
+  {
+   "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+   "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
+   "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&pWise=sub&pWiseSub=R4",
+   "source": "대한민국 정책브리핑"
+  }
+ ],
+ "days": [
+  "2026-11-25"
+ ],
+ "related": [
+  "반도체",
+  "연금-개혁",
+  "디에고-시메오네",
+  "폭설",
+  "디트로이트-타이거스",
+  "3기-신도시",
+  "한국대학신문",
+  "김천-구미"
+ ]
+}

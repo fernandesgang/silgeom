@@ -2,17 +2,37 @@
  "keyword": "반도체",
  "slug": "반도체",
  "firstSeen": 1795217400.0,
- "lastSeen": 1795225825.824846,
- "peakRank": 2,
- "peakTraffic": 5000,
+ "lastSeen": 1795578624.7705085,
+ "peakRank": 1,
+ "peakTraffic": 20000,
  "history": [
   [
    1795225826,
    2,
    5000
+  ],
+  [
+   1795578625,
+   1,
+   20000
   ]
  ],
  "news": [
+  {
+   "title": "코스피 5% 급락하며 '매도 사이드카'‥5천 선 반납",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6868374_36932.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
+   "url": "https://www.yna.co.kr/view/AKR20261125066900008",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다 - 머니투데이",
+   "url": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
+   "source": "머니투데이"
+  },
   {
    "title": "“반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야”",
    "url": "https://www.chosun.com/economy/weeklybiz/2026/11/21/E6ALXTVRWRGODKPHHSVIY4SVOI/",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-25"
  ],
  "related": [
+  "연금-개혁",
+  "디에고-시메오네",
+  "서훈",
+  "폭설",
+  "디트로이트-타이거스",
+  "3기-신도시",
+  "한국대학신문",
+  "김천-구미",
   "패딩",
   "lpga",
   "지스타",

@@ -1,15 +1,67 @@
 {
- "generatedAt": 1795574996,
+ "generatedAt": 1795578625,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
+   "keyword": "반도체",
+   "slug": "반도체",
+   "traffic": 20000,
+   "startedAt": 1795573800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "코스피 5% 급락하며 '매도 사이드카'‥5천 선 반납",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868374_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
+     "url": "https://www.yna.co.kr/view/AKR20261125066900008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "연금 개혁",
+   "slug": "연금-개혁",
+   "traffic": 5000,
+   "startedAt": 1795571400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+     "url": "https://weekly.khan.co.kr/article/202611250802011",
+     "source": "주간경향"
+    },
+    {
+     "title": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "정은경 복지장관 “국민연금 68세부터 수령 사실 아냐…정부 검토 안 해”",
+     "url": "https://www.segye.com/newsView/20261125504579",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
+   "rank": 3,
    "keyword": "디에고 시메오네",
    "slug": "디에고-시메오네",
    "traffic": 2000,
    "startedAt": 1795569600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
@@ -29,13 +81,39 @@
    ]
   },
   {
-   "rank": 2,
-   "keyword": "폭설",
-   "slug": "폭설",
-   "traffic": 500,
-   "startedAt": 1795569000.0,
+   "rank": 4,
+   "keyword": "서훈",
+   "slug": "서훈",
+   "traffic": 1000,
+   "startedAt": 1795572000.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329695",
+     "source": "JTBC"
+    },
+    {
+     "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&pWise=sub&pWiseSub=R4",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "폭설",
+   "slug": "폭설",
+   "traffic": 1000,
+   "startedAt": 1795569000.0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
@@ -55,13 +133,13 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 6,
    "keyword": "디트로이트 타이거스",
    "slug": "디트로이트-타이거스",
    "traffic": 500,
    "startedAt": 1795568400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
@@ -81,65 +159,13 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "atp 월드 투어",
-   "slug": "atp-월드-투어",
-   "traffic": 500,
-   "startedAt": 1795567200.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "Jodar breaks Agassi’s 28-year record with year-end Top 10 jump",
-     "url": "https://www.atptour.com/en/news/jodar-year-end-top-10-record-2026",
-     "source": "ATP Tour"
-    },
-    {
-     "title": "Every ATP player who won their first title this year including Rafael Jodar as the 2026 season ends",
-     "url": "https://tennishead.net/every-atp-player-who-won-their-first-title-this-year-including-rafael-jodar-as-the-2026-season-ends/",
-     "source": "Tennishead"
-    },
-    {
-     "title": "Rafael Jódar, the Spanish tennis player who climbed to the top 10 with a team of one",
-     "url": "https://www.martincid.com/people/rafael-jodar/",
-     "source": "Martin Cid Magazine"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "국민은행",
-   "slug": "국민은행",
-   "traffic": 500,
-   "startedAt": 1795567200.0,
-   "change": "down",
-   "diff": 3,
-   "news": [
-    {
-     "title": "KB국민은행 \"서울시 11개 구금고 유치…점유율 1위\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125034800002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "KB국민은행, 서울 11개 자치구 금고 확보…시중은행 중 최다",
-     "url": "https://biz.heraldcorp.com/article/10948417",
-     "source": "헤럴드경제"
-    },
-    {
-     "title": "KB국민은행, 서울 구금고 6곳 신규 유치…점유율 44% ‘1위’",
-     "url": "https://www.viva100.com/article/20261125500491",
-     "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "rank": 6,
+   "rank": 7,
    "keyword": "3기 신도시",
    "slug": "3기-신도시",
    "traffic": 200,
    "startedAt": 1795570200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
@@ -159,64 +185,54 @@
    ]
   },
   {
-   "rank": 7,
-   "keyword": "급여 지원",
-   "slug": "급여-지원",
-   "traffic": 200,
-   "startedAt": 1795567800.0,
-   "change": "down",
-   "diff": 2,
-   "news": []
-  },
-  {
    "rank": 8,
-   "keyword": "국민카드",
-   "slug": "국민카드",
-   "traffic": 200,
-   "startedAt": 1795567200.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "한국대학신문",
+   "slug": "한국대학신문",
+   "traffic": 100,
+   "startedAt": 1795573200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "[게시판] 신한카드, 아디다스 첫 글로벌 제휴카드 출시",
-     "url": "https://www.yna.co.kr/view/AKR20261124132800002",
-     "source": "연합뉴스"
+     "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
+     "url": "https://sjbnews.com/news/news.php?number=893393&year=2026",
+     "source": "새전북신문"
     },
     {
-     "title": "[금융소식] 신한카드·BC카드·KB국민카드·여신금융협회·NH농협캐피탈",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3451559",
-     "source": "천지일보"
+     "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
+     "url": "https://news.unn.net/news/articleView.html?idxno=600953",
+     "source": "한국대학신문"
     },
     {
-     "title": "[여전사 풍향계] ‘아디다스 신한카드’ 출시…스토어 10% 할인 外",
-     "url": "https://www.ekn.kr/web/view.php?key=20261124024274089",
-     "source": "에너지경제신문"
+     "title": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
+     "source": "중도일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "부산은행",
-   "slug": "부산은행",
+   "keyword": "김천(구미)",
+   "slug": "김천-구미",
    "traffic": 100,
-   "startedAt": 1795567200.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795569600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "부산은행, 25일 '부산 중진공 정책자금 전용통장' 출시",
-     "url": "https://www.yna.co.kr/view/AKR20261124112900051",
-     "source": "연합뉴스"
+     "title": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
+     "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
+     "source": "대전일보"
     },
     {
-     "title": "BNK부산은행, 중진공 정책자금 전용통장 출시…사전 검증·증빙 시스템 연계",
-     "url": "https://www.etnews.com/20261124000289",
-     "source": "전자신문"
-    },
-    {
-     "title": "정책자금 증빙 더 편리해진다…중진공·부산은행 맞손",
-     "url": "https://www.news1.kr/industry/sb-founded/6363992",
+     "title": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
+     "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
      "source": "뉴스1"
+    },
+    {
+     "title": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
+     "url": "https://www.newsis.com/view/NISX20261124_0003881691",
+     "source": "뉴시스"
     }
    ]
   }

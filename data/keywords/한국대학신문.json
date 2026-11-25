@@ -1,0 +1,45 @@
+{
+ "keyword": "한국대학신문",
+ "slug": "한국대학신문",
+ "firstSeen": 1795573200.0,
+ "lastSeen": 1795578624.7705085,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795578625,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
+   "url": "https://sjbnews.com/news/news.php?number=893393&year=2026",
+   "source": "새전북신문"
+  },
+  {
+   "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
+   "url": "https://news.unn.net/news/articleView.html?idxno=600953",
+   "source": "한국대학신문"
+  },
+  {
+   "title": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
+   "url": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
+   "source": "중도일보"
+  }
+ ],
+ "days": [
+  "2026-11-25"
+ ],
+ "related": [
+  "반도체",
+  "연금-개혁",
+  "디에고-시메오네",
+  "서훈",
+  "폭설",
+  "디트로이트-타이거스",
+  "3기-신도시",
+  "김천-구미"
+ ]
+}

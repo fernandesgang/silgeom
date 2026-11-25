@@ -1,0 +1,45 @@
+{
+ "keyword": "김천(구미)",
+ "slug": "김천-구미",
+ "firstSeen": 1795569600.0,
+ "lastSeen": 1795578624.7705085,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795578625,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
+   "source": "대전일보"
+  },
+  {
+   "title": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
+   "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
+   "source": "뉴스1"
+  },
+  {
+   "title": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
+   "url": "https://www.newsis.com/view/NISX20261124_0003881691",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-25"
+ ],
+ "related": [
+  "반도체",
+  "연금-개혁",
+  "디에고-시메오네",
+  "서훈",
+  "폭설",
+  "디트로이트-타이거스",
+  "3기-신도시",
+  "한국대학신문"
+ ]
+}
