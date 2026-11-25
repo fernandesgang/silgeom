@@ -2,17 +2,37 @@
  "keyword": "atp 월드 투어",
  "slug": "atp-월드-투어",
  "firstSeen": 1795567200.0,
- "lastSeen": 1795571844.7375784,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795574996.4084353,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795571845,
    6,
    200
+  ],
+  [
+   1795574996,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Jodar breaks Agassi’s 28-year record with year-end Top 10 jump",
+   "url": "https://www.atptour.com/en/news/jodar-year-end-top-10-record-2026",
+   "source": "ATP Tour"
+  },
+  {
+   "title": "Every ATP player who won their first title this year including Rafael Jodar as the 2026 season ends",
+   "url": "https://tennishead.net/every-atp-player-who-won-their-first-title-this-year-including-rafael-jodar-as-the-2026-season-ends/",
+   "source": "Tennishead"
+  },
+  {
+   "title": "Rafael Jódar, the Spanish tennis player who climbed to the top 10 with a team of one",
+   "url": "https://www.martincid.com/people/rafael-jodar/",
+   "source": "Martin Cid Magazine"
+  },
   {
    "title": "Jodar: From 'watching Alcaraz on TV' to becoming teammates & rivals",
    "url": "https://www.atptour.com/en/unlocked/articles/jodar-locker-room-code-2026",
@@ -33,6 +53,10 @@
   "2026-11-25"
  ],
  "related": [
+  "디에고-시메오네",
+  "폭설",
+  "디트로이트-타이거스",
+  "3기-신도시",
   "병무청",
   "국민은행",
   "이한범",
