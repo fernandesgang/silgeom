@@ -699,7 +699,7 @@
    "firstSeen": 1795585200.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795589699.8682752
+   "lastSeen": 1795595003.9769359
   },
   "김지민": {
    "slug": "김지민",
@@ -713,21 +713,21 @@
    "firstSeen": 1795585200.0,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795589699.8682752
+   "lastSeen": 1795595003.9769359
   },
   "엔비디아 ceo 미국 의회 조사 최신 뉴스 알려줘": {
    "slug": "엔비디아-ceo-미국-의회-조사-최신-뉴스-알려줘",
    "firstSeen": 1795585800.0,
-   "peakRank": 7,
-   "peakTraffic": 200,
-   "lastSeen": 1795589699.8682752
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795595003.9769359
   },
   "박현경": {
    "slug": "박현경",
    "firstSeen": 1795585200.0,
-   "peakRank": 8,
-   "peakTraffic": 200,
-   "lastSeen": 1795589699.8682752
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795595003.9769359
   },
   "이해인": {
    "slug": "이해인",
@@ -742,6 +742,48 @@
    "peakRank": 10,
    "peakTraffic": 200,
    "lastSeen": 1795589699.8682752
+  },
+  "sk하이닉스 채용": {
+   "slug": "sk하이닉스-채용",
+   "firstSeen": 1795587000.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795595003.9769359
+  },
+  "대한민국 법무부": {
+   "slug": "대한민국-법무부",
+   "firstSeen": 1795588800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795595003.9769359
+  },
+  "하이닉스": {
+   "slug": "하이닉스",
+   "firstSeen": 1795588800.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795595003.9769359
+  },
+  "thanksgiving 2026": {
+   "slug": "thanksgiving-2026",
+   "firstSeen": 1795590000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795595003.9769359
+  },
+  "불광역": {
+   "slug": "불광역",
+   "firstSeen": 1795586400.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795595003.9769359
+  },
+  "주간한국": {
+   "slug": "주간한국",
+   "firstSeen": 1795586400.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795595003.9769359
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "주간한국",
+ "slug": "주간한국",
+ "firstSeen": 1795586400.0,
+ "lastSeen": 1795595003.9769359,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795595004,
+   10,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "폐격납고의 화려한 겨울 변신",
+   "url": "https://www.koreatimes.net/weekly/180809",
+   "source": "캐나다 한국일보"
+  },
+  {
+   "title": "‘어린 금수저’의 불륜 행각… 역사를 송두리째 뒤바꿨다",
+   "url": "https://www.chosun.com/national/incident/2026/11/25/YLWBRSPHR5CZXJ6R7SZZHZYKNY/",
+   "source": "조선일보"
+  },
+  {
+   "title": "[TV톡] 300억·AI 무색한 전투신…'문무', 대하사극 스케일은 어디에",
+   "url": "https://enews.imbc.com/M/Detail/525874",
+   "source": "iMBC 연예"
+  }
+ ],
+ "days": [
+  "2026-11-25"
+ ],
+ "related": [
+  "이혼",
+  "sk하이닉스-채용",
+  "엔비디아-ceo-미국-의회-조사-최신-뉴스-알려줘",
+  "예멘",
+  "대한민국-법무부",
+  "하이닉스",
+  "박현경",
+  "thanksgiving-2026",
+  "불광역"
+ ]
+}

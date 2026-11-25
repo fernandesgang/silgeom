@@ -1,21 +1,16 @@
 {
- "generatedAt": 1795589700,
+ "generatedAt": 1795595004,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "이혼",
    "slug": "이혼",
-   "traffic": 5000,
+   "traffic": 2000,
    "startedAt": 1795585200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
-    {
-     "title": "'사생활 논란' 래퍼 양홍원, 결혼 1달만 이혼...원현주 “원만하게 합의”",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611241617056433",
-     "source": "YTN"
-    },
     {
      "title": "\"양홍원과 이혼\" 원현주, 입장 발표문에 변호사 태그한 이유는 - 머니투데이",
      "url": "https://www.mt.co.kr/society/2026/11/25/2026112514003999234",
@@ -25,43 +20,74 @@
      "title": "결혼식 닷새 만에 불륜 의혹 터지더니…양홍원·원현주, 결국 이혼",
      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861287",
      "source": "SBS 뉴스"
+    },
+    {
+     "title": "[전문] 양홍원·원현주 결국 파경…직접 이혼 발표",
+     "url": "https://sports.khan.co.kr/article/202611241530003",
+     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "김지민",
-   "slug": "김지민",
-   "traffic": 2000,
-   "startedAt": 1795582800.0,
+   "keyword": "sk하이닉스 채용",
+   "slug": "sk하이닉스-채용",
+   "traffic": 1000,
+   "startedAt": 1795587000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'출산 코앞' 김지민, ♥김준호 앞 차려놓은 밥상에 떡하니…만삭 임산부 반전 먹방",
-     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/25/MZSWCOBUGY2DEMRWGYYWKOJXHA/",
-     "source": "조선일보"
+     "title": "HBM 양산부터 설계까지…마이크론, 'K-반도체 인재 확보' 전방위 공세",
+     "url": "https://www.etnews.com/20261123000358",
+     "source": "전자신문"
     },
     {
-     "title": "스타들의 임신·출산 소식|'옥문아' 강재준 \"아들 나와 판박이...출산 당시 의사가 '강재준씨 태어났다' 말했을 정도\"",
-     "url": "https://news.zum.com/photo/62767808/109062829",
-     "source": "ZUM 뉴스"
+     "title": "[르포] “지금이 입사 적기입니다” 삼성·SK 안방서 ‘두뇌 쟁탈전’ 벌인 마이크론 [반도체 인재 보릿고개]",
+     "url": "https://biz.heraldcorp.com/article/10947768",
+     "source": "헤럴드경제"
     },
     {
-     "title": "‘임신’ 김지민, ♥김준호, 반려견과 함께 태교 여행…“우리 가족 첫 여행”",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135066747/1",
+     "title": "美마이크론, 한국 인재 채용 행사…AI 반도체 연구개발 인력 집중 공략",
+     "url": "https://www.donga.com/news/Economy/article/all/20261124/135081135/1",
      "source": "동아일보"
     }
    ]
   },
   {
    "rank": 3,
+   "keyword": "엔비디아 ceo 미국 의회 조사 최신 뉴스 알려줘",
+   "slug": "엔비디아-ceo-미국-의회-조사-최신-뉴스-알려줘",
+   "traffic": 1000,
+   "startedAt": 1795585800.0,
+   "change": "up",
+   "diff": 4,
+   "news": [
+    {
+     "title": "Jensen Huang’s return reveals the cost of irreplaceability",
+     "url": "https://www.koreajoongangdaily.com/bilingual-news/jensen-huangs-return-and-the-price-of-being-irreplaceable-kor/12989606",
+     "source": "Korea JoongAng Daily"
+    },
+    {
+     "title": "젠슨 황 “엔비디아, 별도 승계 계획 필요 없어”···‘1인 체제’ 유지 의지",
+     "url": "https://www.khan.co.kr/article/202611251412001",
+     "source": "경향신문"
+    },
+    {
+     "title": "트럼프 \"젠슨 황 사면도 선택지...의회서 진실 말해야\"",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251600429160",
+     "source": "YTN 사이언스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "예멘",
    "slug": "예멘",
    "traffic": 1000,
    "startedAt": 1795585200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "예멘서 공습에 26명 사망…사우디 고층 건물 또 피격",
@@ -69,9 +95,9 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "후티 예고 없는 공습에 80층 사우디 건물 피해···‘레드라인’ 아덴 진격 코앞",
-     "url": "https://www.khan.co.kr/article/202611251503011",
-     "source": "경향신문"
+     "title": "후티, 예멘 임시수도 아덴 턱밑까지 진격…국제유가 급등 우려",
+     "url": "https://www.donga.com/news/Inter/article/all/20261125/135088229/1",
+     "source": "동아일보"
     },
     {
      "title": "순식간에 날아든 미사일...공격당한 사우디 랜드마크 [자막뉴스]",
@@ -81,107 +107,65 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "재산세",
-   "slug": "재산세",
-   "traffic": 1000,
-   "startedAt": 1795581000.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "오래 비어있던 노후주택을 '폐가'로 보아 '과세대상'에서 뺄 수 있나 [부동산 절세시대]",
-     "url": "https://www.hankyung.com/article/202611018074Q",
-     "source": "한국경제"
-    },
-    {
-     "title": "\"상속주택 종부세, 신고기한 기준으로 납세의무·과세표준 확정해야\"",
-     "url": "https://www.fnnews.com/news/202611201100424666",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "111일 만에 전입신고…실거주 확인 땐 취득세 감면",
-     "url": "https://taxtimes.co.kr/news/article.html?no=277876",
-     "source": "한국세정신문"
-    }
-   ]
-  },
-  {
    "rank": 5,
-   "keyword": "대만",
-   "slug": "대만",
-   "traffic": 1000,
-   "startedAt": 1795581000.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "대한민국 법무부",
+   "slug": "대한민국-법무부",
+   "traffic": 500,
+   "startedAt": 1795588800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "반도체 호황에 전국민 보너스…조건 없이 '1인당 80만원' 지급",
-     "url": "https://www.hankyung.com/article/202611258309H",
-     "source": "한국경제"
+     "title": "코리아넷뉴스 - 법무부, 전자여행허가제 한시 면제 조치 2027년까지 연장",
+     "url": "https://www.korean-culture.org/koreanet/view.do?seq=1056161&page=1&pageSize=10&photoPageSize=6&totalCount=0&searchType=null&searchText=&searchCondition=1&cateCode=",
+     "source": "문화체육관광부 한국문화원"
     },
     {
-     "title": "\"1인당 80만원씩 쏜다\"…대만, 반도체 호황에 전국민 보너스 추진",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882960",
-     "source": "뉴시스"
+     "title": "법무부 국적회복 집중 처리로 평균 심사기간 4개월 줄어",
+     "url": "https://www.yna.co.kr/view/AKR20261125043000004",
+     "source": "연합뉴스"
     },
     {
-     "title": "“1인당 80만원 드릴게요”…소득·나이 제한없이 뿌린다는 ‘이 지원금’",
-     "url": "https://www.mk.co.kr/news/world/12217663",
-     "source": "매일경제"
+     "title": "국적회복 심사 13개월→9개월 단축…처리 건수는 7배로 늘려",
+     "url": "https://www.donga.com/news/Society/article/all/20261125/135086262/1",
+     "source": "동아일보"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "은퇴요원+관리팀",
-   "slug": "은퇴요원-관리팀",
-   "traffic": 1000,
-   "startedAt": 1795581000.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "하이닉스",
+   "slug": "하이닉스",
+   "traffic": 500,
+   "startedAt": 1795588800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "차승원·김도훈, 브로맨스 꽃피울까?…'은퇴요원+관리팀', 포스터 공개",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611250906393953",
-     "source": "YTN"
+     "title": "[속보] 코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868479_36932.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "전직·좌천 블랙요원의 은밀한 공조… 차승원ⅹ김도훈 ‘은퇴요원+관리팀’, 새해 첫 포문",
-     "url": "https://www.viva100.com/article/20261125500792",
-     "source": "브릿지경제"
+     "title": "메모리 전망 꺾이고 긴축 경계감까지…K-증시 긴장 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/25/2026112516555345864",
+     "source": "머니투데이"
     },
     {
-     "title": "[방송소식] 차승원·김도훈 주연 '은퇴요원+관리팀' 내년 1월 첫선",
-     "url": "https://www.yna.co.kr/view/AKR20261125054100005",
-     "source": "연합뉴스"
+     "title": "\"반등할 줄 알았는데\"…삼전닉스 동반 폭락에 개미들 '한숨'",
+     "url": "https://www.hankyung.com/article/2026112597396",
+     "source": "한국경제"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "엔비디아 ceo 미국 의회 조사 최신 뉴스 알려줘",
-   "slug": "엔비디아-ceo-미국-의회-조사-최신-뉴스-알려줘",
-   "traffic": 200,
-   "startedAt": 1795585800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Jensen Huang’s return reveals the cost of irreplaceability",
-     "url": "https://www.koreajoongangdaily.com/bilingual-news/jensen-huangs-return-and-the-price-of-being-irreplaceable-kor/12989606",
-     "source": "Korea JoongAng Daily"
-    }
-   ]
-  },
-  {
-   "rank": 8,
    "keyword": "박현경",
    "slug": "박현경",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795585200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "박현경, ‘LPGA 7승’ 하타오카와 JLPGA ‘왕중왕전’ 첫날 동반 라운드…신지애는 7년 만의 타이틀 탈환 ...",
@@ -189,66 +173,92 @@
      "source": "스포츠경향"
     },
     {
-     "title": "신지애, JLPGA '메이저 2연승+리코컵 탈환' 기대",
-     "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022748",
+     "title": "박현경, 이번주 일본 메이저 우승 도전 [JLPGA 최종전]",
+     "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022747",
      "source": "골프한국"
     },
     {
-     "title": "한·미·일 여자골프를 평정한 신지애 '투어 통산 68승의 대기록'",
-     "url": "https://www.widesports.co.kr/news/articleView.html?idxno=31480",
-     "source": "와이드스포츠"
+     "title": "박현경·신지애, 일본 여자골프 '황금세대'와 격돌…'왕중왕전 출격'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03558806645649328&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "thanksgiving 2026",
+   "slug": "thanksgiving-2026",
+   "traffic": 200,
+   "startedAt": 1795590000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "What stores are open on Thanksgiving and Black Friday 2026? Grocery, drugstores and more | List",
+     "url": "https://abc7ny.com/post/what-stores-are-open-thanksgiving-black-friday-2026-grocery-drugstores-more-list/20071063/",
+     "source": "ABC7 New York"
+    },
+    {
+     "title": "Excited for Black Friday deals? Here's when malls will open in South Florida",
+     "url": "https://www.nbcmiami.com/holidays-in-south-florida/black-friday-deals-malls-hours-south-florida-miami-broward/3892276/",
+     "source": "NBC 6 South Florida"
+    },
+    {
+     "title": "What’s open and closed in Miami for Thanksgiving 2026: County offices, transit, Publix, Walgreens and more",
+     "url": "https://secretmiami.com/whats-open-closed-miami-thanksgiving-2026/",
+     "source": "Secret Miami"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "이해인",
-   "slug": "이해인",
+   "keyword": "불광역",
+   "slug": "불광역",
    "traffic": 200,
-   "startedAt": 1795582800.0,
+   "startedAt": 1795586400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'32억 대출' 40억 건물주 이해인 \"이자만 1400만…매달 400만 적자\"",
-     "url": "https://www.newsis.com/view/NISX20261125_0003881875",
+     "title": "은평구 불광역세권 4천92세대 재개발 '시동'…정비구역 지정",
+     "url": "https://www.yna.co.kr/view/AKR20261125084200004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "은평구, 불광역세권 4092세대 재개발 정비구역 지정 고시",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883134",
      "source": "뉴시스"
     },
     {
-     "title": "8억으로 40억 건물 산 이해인 \"월 1000만원 수익에도…매달 적자\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112511180588579",
+     "title": "불광역 앞에 최고 45층·4092가구…재개발 정비구역 지정 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/estate/2026/11/25/2026112511231978368",
      "source": "머니투데이"
-    },
-    {
-     "title": "이해인, '40억 건물주' 고충 토로 \"대출 이자만 1400만 원…잠 못 잘 정도\"",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6364745",
-     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "핫트랙스",
-   "slug": "핫트랙스",
-   "traffic": 200,
-   "startedAt": 1795582200.0,
+   "keyword": "주간한국",
+   "slug": "주간한국",
+   "traffic": 100,
+   "startedAt": 1795586400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] ‘음반 사려 장사진’ 이제 못 본다… 교보문고 음반 사업 철수",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CTRN3ZMS35DATFMSUBQSYHS24Q/",
+     "title": "폐격납고의 화려한 겨울 변신",
+     "url": "https://www.koreatimes.net/weekly/180809",
+     "source": "캐나다 한국일보"
+    },
+    {
+     "title": "‘어린 금수저’의 불륜 행각… 역사를 송두리째 뒤바꿨다",
+     "url": "https://www.chosun.com/national/incident/2026/11/25/YLWBRSPHR5CZXJ6R7SZZHZYKNY/",
      "source": "조선일보"
     },
     {
-     "title": "변화하는 시장 환경 속에 음반매장 핫트랙스 철수",
-     "url": "https://www.newsis.com/view/NISI20261125_0021544975",
-     "source": "뉴시스"
-    },
-    {
-     "title": "비틀스·아이돌 팬들 줄 세우던 광화문 음반 명소 ‘핫트랙스’ 문닫는다",
-     "url": "https://www.donga.com/news/Society/article/all/20261125/135088551/1",
-     "source": "동아일보"
+     "title": "[TV톡] 300억·AI 무색한 전투신…'문무', 대하사극 스케일은 어디에",
+     "url": "https://enews.imbc.com/M/Detail/525874",
+     "source": "iMBC 연예"
     }
    ]
   }
