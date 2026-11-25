@@ -2,7 +2,7 @@
  "keyword": "선수",
  "slug": "선수",
  "firstSeen": 1795622400.0,
- "lastSeen": 1795627656.1746569,
+ "lastSeen": 1795630818.9333885,
  "peakRank": 4,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795627656,
    4,
    200
+  ],
+  [
+   1795630819,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
+   "url": "https://www.sportschosun.com/football/2026-11-25/202611250100153640014135",
+   "source": "스포츠조선"
+  },
+  {
+   "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
+   "url": "https://www.chosun.com/sports/world-football/2026/11/18/GI2TQMDGGBSTANZZHBRTSOJZMM/",
+   "source": "조선일보"
+  },
+  {
+   "title": "경기 중 숨진 아르헨티나 유소년 선수…동료들의 추모 속 안전 논쟁",
+   "url": "https://dspdaily.com/news/view.php?no=28208",
+   "source": "인터내셔널포커스"
+  },
   {
    "title": "‘포니정 영리더상’에 안세영 선수·김도형 교수",
    "url": "https://www.khan.co.kr/article/202611252011015",
@@ -33,6 +53,8 @@
   "2026-11-26"
  ],
  "related": [
+  "sabah-대-바르셀로나",
+  "매일경제",
   "성유리",
   "시그널",
   "정부",

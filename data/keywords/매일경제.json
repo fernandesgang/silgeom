@@ -2,17 +2,37 @@
  "keyword": "매일경제",
  "slug": "매일경제",
  "firstSeen": 1795223400.0,
- "lastSeen": 1795231774.2557518,
- "peakRank": 9,
- "peakTraffic": 100,
+ "lastSeen": 1795630818.9333885,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795228794,
    9,
    100
+  ],
+  [
+   1795630819,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
+   "url": "https://news.jtbc.co.kr/article/NB12329686",
+   "source": "JTBC"
+  },
+  {
+   "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8722789",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "젠슨 황 랠리 하루 만에 반납, 반도체 −7.9%… 코스피 5,000 오늘 지킬까, 볼 숫자 4개",
+   "url": "https://contents.premium.naver.com/answerindata/answerindatalab/contents/261125085945832em",
+   "source": "네이버 프리미엄콘텐츠"
+  },
   {
    "title": "국방홍보원, 매일경제와 국방·안보 콘텐츠 발굴 위한 MOU 체결",
    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6360931",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-26"
  ],
  "related": [
+  "sabah-대-바르셀로나",
+  "성유리",
+  "시그널",
+  "정부",
+  "선수",
+  "qqq",
+  "성시경",
+  "양준혁",
   "경부선",
   "알테오젠",
   "박윤영",
@@ -44,7 +73,6 @@
   "편의점",
   "두산베어스",
   "공군사관학교",
-  "nh농협카드",
-  "전북특별자치도"
+  "nh농협카드"
  ]
 }

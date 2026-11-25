@@ -76,28 +76,28 @@
    "firstSeen": 1795624804.9807475,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
   },
   "성유리": {
    "slug": "성유리",
    "firstSeen": 1795624804.9807475,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
   },
   "qqq": {
    "slug": "qqq",
    "firstSeen": 1795620000.0,
    "peakRank": 3,
    "peakTraffic": 200,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
   },
   "성시경": {
    "slug": "성시경",
    "firstSeen": 1795618800.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
   },
   "공포탐욕지수": {
    "slug": "공포탐욕지수",
@@ -118,21 +118,35 @@
    "firstSeen": 1795624804.9807475,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
   },
   "정부": {
    "slug": "정부",
    "firstSeen": 1795623000.0,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
   },
   "선수": {
    "slug": "선수",
    "firstSeen": 1795622400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795627656.1746569
+   "lastSeen": 1795630818.9333885
+  },
+  "sabah 대 바르셀로나": {
+   "slug": "sabah-대-바르셀로나",
+   "firstSeen": 1795625400.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795630818.9333885
+  },
+  "매일경제": {
+   "slug": "매일경제",
+   "firstSeen": 1795624800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795630818.9333885
   }
  }
 }
