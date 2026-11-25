@@ -2,7 +2,7 @@
  "keyword": "정부",
  "slug": "정부",
  "firstSeen": 1795136400.0,
- "lastSeen": 1795630818.9333885,
+ "lastSeen": 1795635124.818936,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -30,9 +30,29 @@
    1795630819,
    5,
    500
+  ],
+  [
+   1795635125,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "“인공지능으로 지키는 제주”",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=848455",
+   "source": "제민일보"
+  },
+  {
+   "title": "인천시, 정부 혁신 박람회서 ‘ABC+E’ 전략 알린다",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337863",
+   "source": "인천일보"
+  },
+  {
+   "title": "삼성SDS, 국가품질혁신상 AI 부문 대통령표창…기업 첫 수상",
+   "url": "https://www.yna.co.kr/view/AKR20261125156300017",
+   "source": "연합뉴스"
+  },
   {
    "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
    "url": "https://www.hani.co.kr/arti/international/international_general/1289144.html",
@@ -77,16 +97,6 @@
    "title": "UN 전자정부평가 결과 관련 브리핑",
    "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156790048",
    "source": "대한민국 정책브리핑"
-  },
-  {
-   "title": "한국, 유엔 전자정부평가서 12년 만에 세계 1위 탈환",
-   "url": "https://www.khan.co.kr/article/202611200956001",
-   "source": "경향신문"
-  },
-  {
-   "title": "李대통령, 전자정부 1위 탈환에 \"국민 체감이 중요…개인정보보호 철저\"",
-   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445734",
-   "source": "연합인포맥스"
   }
  ],
  "days": [
@@ -95,6 +105,9 @@
   "2026-11-26"
  ],
  "related": [
+  "다나와",
+  "대한광통신",
+  "데이비스컵",
   "sabah-대-바르셀로나",
   "매일경제",
   "성유리",
@@ -111,9 +124,6 @@
   "검은-월요일",
   "이대호",
   "인수-합병",
-  "기온",
-  "코스닥",
-  "류효영",
-  "소년-소녀-가장"
+  "기온"
  ]
 }

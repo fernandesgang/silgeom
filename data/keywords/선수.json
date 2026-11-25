@@ -2,9 +2,9 @@
  "keyword": "선수",
  "slug": "선수",
  "firstSeen": 1795622400.0,
- "lastSeen": 1795630818.9333885,
- "peakRank": 4,
- "peakTraffic": 200,
+ "lastSeen": 1795635124.818936,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795627656,
@@ -15,9 +15,24 @@
    1795630819,
    6,
    200
+  ],
+  [
+   1795635125,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "스페인에 이어 아르헨티나에서도 경기 중 사망 사고… 걷어낸 공에 머리 맞은 유소년 선수, 현장에 구급차가 없었다",
+   "url": "https://www.besteleven.com/news/articleView.html?idxno=314136",
+   "source": "베스트일레븐"
+  },
+  {
+   "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
+   "url": "https://biz.chosun.com/sports/football/2026/11/18/MU4TSOLCHBSDINBVMI4DIMRUGA/",
+   "source": "Chosunbiz"
+  },
   {
    "title": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
    "url": "https://www.sportschosun.com/football/2026-11-25/202611250100153640014135",
@@ -53,6 +68,9 @@
   "2026-11-26"
  ],
  "related": [
+  "다나와",
+  "대한광통신",
+  "데이비스컵",
   "sabah-대-바르셀로나",
   "매일경제",
   "성유리",

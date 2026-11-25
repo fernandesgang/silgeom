@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795630819,
+ "generatedAt": 1795635125,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "sabah-대-바르셀로나",
    "traffic": 2000,
    "startedAt": 1795625400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -30,116 +30,38 @@
   },
   {
    "rank": 2,
-   "keyword": "성유리",
-   "slug": "성유리",
-   "traffic": 2000,
-   "startedAt": 1795617600.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "다나와",
+   "slug": "다나와",
+   "traffic": 500,
+   "startedAt": 1795627800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
-     "source": "뉴스1"
+     "title": "다나와, 챗GPT에 AI 쇼핑 서비스 연동…실시간 가격·사양 비교",
+     "url": "https://www.yna.co.kr/view/AKR20261125076400030",
+     "source": "연합뉴스"
     },
     {
-     "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882889",
-     "source": "뉴시스"
+     "title": "다나와 AI 쇼핑, 클로드 이어 챗GPT 연동",
+     "url": "https://www.etnews.com/20261125000440",
+     "source": "전자신문"
     },
     {
-     "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
-     "url": "https://www.koreadaily.com/article/20261125011004845",
-     "source": "미주중앙일보"
+     "title": "다나와, 챗GPT에 상품 데이터 연동…AI 쇼핑 서비스 확대",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202611252105391232204ead0791_12",
+     "source": "로이슈"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "매일경제",
-   "slug": "매일경제",
-   "traffic": 1000,
-   "startedAt": 1795624800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
-     "url": "https://news.jtbc.co.kr/article/NB12329686",
-     "source": "JTBC"
-    },
-    {
-     "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722789",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "젠슨 황 랠리 하루 만에 반납, 반도체 −7.9%… 코스피 5,000 오늘 지킬까, 볼 숫자 4개",
-     "url": "https://contents.premium.naver.com/answerindata/answerindatalab/contents/261125085945832em",
-     "source": "네이버 프리미엄콘텐츠"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "시그널",
-   "slug": "시그널",
-   "traffic": 1000,
-   "startedAt": 1795618200.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
-     "source": "YTN"
-    },
-    {
-     "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-     "url": "https://sports.khan.co.kr/article/202611240740003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "정부",
-   "slug": "정부",
-   "traffic": 500,
-   "startedAt": 1795623000.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1289144.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "美 무역대표, 韓 투자 지원 계획 비판…\"실제 수요 없이 공급만 확대\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446558",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
-     "url": "https://www.khan.co.kr/article/202611252226001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "선수",
    "slug": "선수",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795622400.0,
-   "change": "down",
-   "diff": 2,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
@@ -147,14 +69,92 @@
      "source": "스포츠조선"
     },
     {
-     "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/18/GI2TQMDGGBSTANZZHBRTSOJZMM/",
-     "source": "조선일보"
+     "title": "스페인에 이어 아르헨티나에서도 경기 중 사망 사고… 걷어낸 공에 머리 맞은 유소년 선수, 현장에 구급차가 없었다",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314136",
+     "source": "베스트일레븐"
     },
     {
-     "title": "경기 중 숨진 아르헨티나 유소년 선수…동료들의 추모 속 안전 논쟁",
-     "url": "https://dspdaily.com/news/view.php?no=28208",
-     "source": "인터내셔널포커스"
+     "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
+     "url": "https://biz.chosun.com/sports/football/2026/11/18/MU4TSOLCHBSDINBVMI4DIMRUGA/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "대한광통신",
+   "slug": "대한광통신",
+   "traffic": 500,
+   "startedAt": 1795621200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "대한광통신, 종속회사 티에프오네트웍스 흡수합병",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03791686645649328",
+     "source": "마켓인"
+    },
+    {
+     "title": "대한광통신, 자회사 티에프오네트웍스 흡수합병 결정",
+     "url": "https://www.datatooza.com/article/20261125165640402552ef3a5986_80",
+     "source": "데이터투자"
+    },
+    {
+     "title": "대한광통신, 종속회사 티에프오네트웍스 흡수합병",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03791686645649328&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "매일경제",
+   "slug": "매일경제",
+   "traffic": 200,
+   "startedAt": 1795624800.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
+    {
+     "title": "비트코인 파동으로 보기, 5만5천 달러 바닥선과 6만4천6백 달러 첫 관문",
+     "url": "https://contents.premium.naver.com/kkk0221/kkkk0321/contents/261125012829486am",
+     "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+     "title": "'항복국면' 본격화…비트코인 손절매, 4년전 FTX 사태 후 최대",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01964726645649328",
+     "source": "마켓인"
+    },
+    {
+     "title": "[코인 시황] 비트코인 5만9000달러선 붕괴…글로벌 주식 매도 압력 지속",
+     "url": "https://www.newspim.com/news/view/20261125001285",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "정부",
+   "slug": "정부",
+   "traffic": 200,
+   "startedAt": 1795623000.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "“인공지능으로 지키는 제주”",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=848455",
+     "source": "제민일보"
+    },
+    {
+     "title": "인천시, 정부 혁신 박람회서 ‘ABC+E’ 전략 알린다",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337863",
+     "source": "인천일보"
+    },
+    {
+     "title": "삼성SDS, 국가품질혁신상 AI 부문 대통령표창…기업 첫 수상",
+     "url": "https://www.yna.co.kr/view/AKR20261125156300017",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -164,8 +164,8 @@
    "slug": "qqq",
    "traffic": 200,
    "startedAt": 1795620000.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
@@ -178,9 +178,9 @@
      "source": "The Korea Times"
     },
     {
-     "title": "The Nasdaq Is Approaching Bear Market Territory: 2 Stocks Down 22% and 37% to Buy Right Now",
-     "url": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/",
-     "source": "The Motley Fool"
+     "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+     "url": "https://www.benzinga.com/markets/equities/26/11/63637323/nasdaq-100-worst-two-month-drop-since-2008",
+     "source": "Benzinga"
     }
    ]
   },
@@ -190,8 +190,8 @@
    "slug": "성시경",
    "traffic": 200,
    "startedAt": 1795618800.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
@@ -212,27 +212,27 @@
   },
   {
    "rank": 9,
-   "keyword": "양준혁",
-   "slug": "양준혁",
+   "keyword": "데이비스컵",
+   "slug": "데이비스컵",
    "traffic": 100,
-   "startedAt": 1795617600.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795621800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
-     "url": "https://www.koreadaily.com/article/20261125070147086",
-     "source": "미주중앙일보"
+     "title": "랭킹은 숫자일 뿐… ‘이변의 주인공’ 꿈꾸는 韓 테니스",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/25/LQJT3FYE55CGFJLZ4UWTZA2C5U/",
+     "source": "조선일보"
     },
     {
-     "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
-     "url": "https://biz.heraldcorp.com/article/10948394",
-     "source": "헤럴드경제"
+     "title": "\"정현 조심하라\" 이탈리아가 콕 찍은 '韓의 복병'... 실제로 기자회견서도 정현에게 질문 쏟아졌다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416181685671",
+     "source": "머니투데이"
     },
     {
-     "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
-     "url": "https://www.nocutnews.co.kr/news/6612161",
-     "source": "노컷뉴스"
+     "title": "[데이비스컵] 이변 다짐한 에이스 권순우 “우리를 약체로 볼텐데, 꼭 이긴다는 마음가짐으로”",
+     "url": "https://sports.khan.co.kr/article/202611251107003",
+     "source": "스포츠경향"
     }
    ]
   }
