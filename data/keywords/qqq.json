@@ -2,7 +2,7 @@
  "keyword": "qqq",
  "slug": "qqq",
  "firstSeen": 1795444200.0,
- "lastSeen": 1795624804.9807475,
+ "lastSeen": 1795627656.1746569,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -30,9 +30,24 @@
    1795624805,
    3,
    200
+  ],
+  [
+   1795627656,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+   "url": "https://www.benzinga.com/markets/equities/26/11/63637323/nasdaq-100-worst-two-month-drop-since-2008",
+   "source": "Benzinga"
+  },
+  {
+   "title": "The Nasdaq Is Approaching Bear Market Territory: 2 Stocks Down 22% and 37% to Buy Right Now",
+   "url": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/",
+   "source": "The Motley Fool"
+  },
   {
    "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
    "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
@@ -89,6 +104,8 @@
   "2026-11-26"
  ],
  "related": [
+  "정부",
+  "선수",
   "시그널",
   "성유리",
   "성시경",
@@ -106,8 +123,6 @@
   "샌디스크-주가",
   "tradingview",
   "nvidia-stock",
-  "둠스데이",
-  "to-me-my-x-men",
-  "옆자리-프란체스카"
+  "둠스데이"
  ]
 }
