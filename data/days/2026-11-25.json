@@ -943,8 +943,8 @@
    "slug": "난방",
    "firstSeen": 1795607400.0,
    "peakRank": 2,
-   "peakTraffic": 500,
-   "lastSeen": 1795611403.4937336
+   "peakTraffic": 2000,
+   "lastSeen": 1795615868.781536
   },
   "재혼황후": {
    "slug": "재혼황후",
@@ -1001,6 +1001,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795611403.4937336
+  },
+  "에콰도르 u-17 대 대한민국 u-17": {
+   "slug": "에콰도르-u-17-대-대한민국-u-17",
+   "firstSeen": 1795608600.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795615868.781536
+  },
+  "청룡영화제": {
+   "slug": "청룡영화제",
+   "firstSeen": 1795609800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795615868.781536
+  },
+  "청룡영화상 2026": {
+   "slug": "청룡영화상-2026",
+   "firstSeen": 1795611000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795615868.781536
+  },
+  "u17 월드컵": {
+   "slug": "u17-월드컵",
+   "firstSeen": 1795609800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795615868.781536
+  },
+  "신민아": {
+   "slug": "신민아",
+   "firstSeen": 1795609800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795615868.781536
+  },
+  "pce 발표": {
+   "slug": "pce-발표",
+   "firstSeen": 1795609200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795615868.781536
+  },
+  "fc서울": {
+   "slug": "fc서울",
+   "firstSeen": 1795611000.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795615868.781536
+  },
+  "bangladesh vs south africa": {
+   "slug": "bangladesh-vs-south-africa",
+   "firstSeen": 1795609800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795615868.781536
+  },
+  "캐시워크 정답": {
+   "slug": "캐시워크-정답",
+   "firstSeen": 1795609800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795615868.781536
   }
  }
 }

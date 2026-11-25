@@ -2,17 +2,37 @@
  "keyword": "u17 월드컵",
  "slug": "u17-월드컵",
  "firstSeen": 1795360800.0,
- "lastSeen": 1795368090.755163,
- "peakRank": 8,
- "peakTraffic": 100,
+ "lastSeen": 1795615868.781536,
+ "peakRank": 5,
+ "peakTraffic": 200,
  "history": [
   [
    1795368091,
    8,
    100
+  ],
+  [
+   1795615869,
+   5,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "베트남 U17 대표팀은 2026년 U17 월드컵 다음 라운드에 진출하는 팀 중 하나입니다.",
+   "url": "https://www.vietnam.vn/ko/u17-viet-nam-nam-trong-nhom-di-tiep-tai-u17-world-cup-2026",
+   "source": "Vietnam.vn"
+  },
+  {
+   "title": "2026 U17 월드컵 U17 베트남 대 U17 말리 축구 경기 일정",
+   "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-u17-viet-nam-vs-u17-mali-tai-giai-u17-world-cup-2026-1806352.ldo",
+   "source": "Laodong.vn"
+  },
+  {
+   "title": "베트남 U17 대표팀 공격수가 말리 U17 대표팀과의 경기에 앞서 자신의 목표에 대해 설명했다.",
+   "url": "https://www.vietnam.vn/ko/tien-dao-u17-viet-nam-noi-ro-muc-tieu-truoc-tran-gap-u17-mali",
+   "source": "Vietnam.vn"
+  },
   {
    "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
    "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-25"
  ],
  "related": [
+  "에콰도르-u-17-대-대한민국-u-17",
+  "난방",
+  "청룡영화제",
+  "청룡영화상-2026",
+  "신민아",
+  "pce-발표",
+  "fc서울",
+  "bangladesh-vs-south-africa",
+  "캐시워크-정답",
   "리버풀-대-맨유",
   "liverpool-vs-man-utd",
   "리버풀-맨유",
