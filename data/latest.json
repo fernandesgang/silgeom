@@ -1,238 +1,248 @@
 {
- "generatedAt": 1795566497,
+ "generatedAt": 1795571845,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "윤이나",
-   "slug": "윤이나",
+   "keyword": "병무청",
+   "slug": "병무청",
    "traffic": 1000,
-   "startedAt": 1795561800.0,
+   "startedAt": 1795566600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "윤이나, 25일 ‘실내 팀 대회’ WTGL 데뷔…보스턴은 시즌 첫 승 도전",
-     "url": "https://www.donga.com/news/Sports/article/all/20261124/135081960/1",
-     "source": "동아일보"
+     "title": "병무청-군인공제회C&C, 병역의무자 전자도서관 자료 1.1억 기부 약정",
+     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6364613",
+     "source": "뉴스1"
     },
     {
-     "title": "스크린으로 골프 시작한 윤이나, 마침내 WTGL 데뷔한다",
-     "url": "https://www.sedaily.com/article/20118147",
-     "source": "서울경제"
+     "title": "병역의무자 전자도서관 내년 개관…약 32만 명 이용 대상",
+     "url": "https://www.ajunews.com/view/20261124162022901",
+     "source": "아주경제"
     },
     {
-     "title": "윤이나, WTGL 데뷔전 출격…시즌 첫 승 도전",
-     "url": "https://mbiz.heraldcorp.com/article/10947056",
-     "source": "헤럴드경제"
+     "title": "병무청-군인공제회C&C, 병역의무자 전자도서관 구축 약정 체결",
+     "url": "http://www.ksw-news.com/news/articleView.html?idxno=3066880",
+     "source": "한국사회복지저널"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "김혜성",
-   "slug": "김혜성",
-   "traffic": 1000,
-   "startedAt": 1795561200.0,
+   "keyword": "국민은행",
+   "slug": "국민은행",
+   "traffic": 500,
+   "startedAt": 1795567200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "‘ML 71G→43G’ 점점 기회 사라지는 김혜성, 내년도 쉽지 않다 “다저스가 보강할 포지션은 2루수” - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/202611231954773845O",
-     "source": "머니투데이"
+     "title": "KB국민은행 \"서울시 11개 구금고 유치…점유율 1위\"",
+     "url": "https://www.yna.co.kr/view/AKR20261125034800002",
+     "source": "연합뉴스"
     },
     {
-     "title": "“다저스 약점은 2루수” 김혜성 언급도 안됐다… 보장계약 마지막, 기로에 섰다",
-     "url": "https://sports.khan.co.kr/article/202611241424003",
-     "source": "스포츠경향"
+     "title": "KB국민은행, 서울 11개 자치구 금고 확보…시중은행 중 최다",
+     "url": "https://biz.heraldcorp.com/article/10948417",
+     "source": "헤럴드경제"
     },
     {
-     "title": "'이럴 수가' 김혜성 날벼락, 다저스 트레이드 단행…내야 멀티자원 루이스 영입→입지 더 좁아지나",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/GEYTCMZSMZSDMYRVG4ZTOZTDG4/",
-     "source": "조선일보"
+     "title": "KB국민은행, 서울시 11개 구금고 유치 '1위'",
+     "url": "https://www.newspim.com/news/view/20261125000199",
+     "source": "뉴스핌"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "미스터트롯",
-   "slug": "미스터트롯",
-   "traffic": 1000,
-   "startedAt": 1795561200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "안정환, ‘미스터트롯4’서 춤추는 모습 볼까…시청률 30% 공약에 소환",
-     "url": "https://sports.donga.com/ent/article/all/20261124/135078415/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "최유정 \"'미스터트롯4' 시청률 28% 돌파하면 트로트 도전할 것\"",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525829",
-     "source": "iMBC 연예"
-    },
-    {
-     "title": "TV CHOSUN [미스터트롯4] 김희재X안성훈X박지현X김용빈X손빈아X춘길, 선배 마스터들도 깜짝!",
-     "url": "https://www.pressna.com/news/newsview.php?ncode=1065602780466121",
-     "source": "프레스뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "주주",
-   "slug": "주주",
+   "keyword": "이한범",
+   "slug": "이한범",
    "traffic": 500,
-   "startedAt": 1795562400.0,
+   "startedAt": 1795566600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "삼성 준감위, 75조 주주환원 이해상충 검토",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001728",
-     "source": "IT조선"
+     "title": "‘대한민국 국가대표’ 이한범, 초대형 시련 찾아왔다…최근 6경기 단 7분 출전→21세 유망주에게 주전 자리 빼앗겼다",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699064",
+     "source": "인터풋볼"
     },
     {
-     "title": "이한상 교수 \"삼성 자사주 소각, 지배주주와 일반주주 이해 충돌\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446379",
-     "source": "연합인포맥스"
+     "title": "‘대한민국 국가대표 CB' 이한범, 21세 유망주에게 밀렸다...최근 6경기 단 7분 출전",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101217",
+     "source": "포포투"
     },
     {
-     "title": "정기회의 참석하는 이찬희 삼성 준감위원장",
-     "url": "https://mobile.newsis.com/photo/NISI20261124_0021543945",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "man city vs ssc napoli standings",
-   "slug": "man-city-vs-ssc-napoli-standings",
-   "traffic": 500,
-   "startedAt": 1795561800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Manchester City Survives Late Equalizer vs Napoli",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/25/NSKPCV7OH5B2PAGGPKG36KA3WM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Cherki rescues Manchester City in 2-2 draw with Napoli",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/25/CY2JMIIZBZB3NOU7DZ4M3RP5NY/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "\"It's a dream for us!\" - Massimiliano Allegri reveals what victory over Manchester City would mean for Napoli's Champions League hopes",
-     "url": "https://www.goal.com/en-ca/news/-massimiliano-allegri-victory-manchester-city-napoli-champions-league-/blt3a5fed9556d45cde",
+     "title": "‘韓 축구 날벼락’ 공식전 8경기 치르는 동안 고작 36분 출전…벤치로 밀려난 국가대표 센터백 이한범, 커리어 ‘대위기’",
+     "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%82%E1%85%A1%E1%86%AF%E1%84%87%E1%85%A7%E1%84%85%E1%85%A1%E1%86%A8-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AB-8%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%8E%E1%85%B5%E1%84%85%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%A8-36%E1%84%87%E1%85%AE%E1%86%AB-%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%AB--%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%85%E1%85%A9-%E1%84%86%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%A1%E1%84%83%E1%85%A2%E1%84%91%E1%85%AD-%E1%84%89%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%A2%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B7-%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5-%E1%84%83%E1%85%A2%E1%84%8B%E1%85%B1%E1%84%80%E1%85%B5/bltf5514f7969437b28",
      "source": "Goal.com"
     }
    ]
   },
   {
-   "rank": 6,
-   "keyword": "필라델피아 반도체 지수",
-   "slug": "필라델피아-반도체-지수",
+   "rank": 4,
+   "keyword": "고소영",
+   "slug": "고소영",
    "traffic": 500,
-   "startedAt": 1795560000.0,
+   "startedAt": 1795566600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "하루 만에 끝나버린 ‘젠슨 황 복귀 효과’···반도체주 급락, 상승분 60% 반납",
-     "url": "https://www.khan.co.kr/article/202611250711001",
-     "source": "경향신문"
+     "title": "54세 고소영, 패딩 입더니 “어려 보이려고 너무 노력한 느낌”",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/24/MRSGGZRZG4YTMMRSGAZGCYZYMQ/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "[뉴욕마켓워치] 젠슨 황 복귀에도 AI 불안 여전…달러↓주식·채권 혼조",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446380",
-     "source": "연합인포맥스"
+     "title": "고소영, 49kg 몸무게 당당 공개 \"관리하니까 옷 핏 살아 다 잘 어울려\"",
+     "url": "https://www.koreadaily.com/article/20261124022443512",
+     "source": "미주중앙일보"
     },
     {
-     "title": "뉴욕증시, 엔비디아 급등 후 차익실현에 혼조…나스닥 1.5%↓",
-     "url": "https://www.yna.co.kr/view/AKR20261125011200072",
-     "source": "연합뉴스"
+     "title": "54세 고소영, 현재 몸무게 49kg 공개…“어릴 땐 숫자에 집착했다”",
+     "url": "https://sports.donga.com/ent/article/all/20261124/135083655/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "급여 지원",
+   "slug": "급여-지원",
+   "traffic": 200,
+   "startedAt": 1795567800.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
+  },
+  {
+   "rank": 6,
+   "keyword": "atp 월드 투어",
+   "slug": "atp-월드-투어",
+   "traffic": 200,
+   "startedAt": 1795567200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Jodar: From 'watching Alcaraz on TV' to becoming teammates & rivals",
+     "url": "https://www.atptour.com/en/unlocked/articles/jodar-locker-room-code-2026",
+     "source": "ATP Tour"
+    },
+    {
+     "title": "Men’s tennis is changing in 2028. From money to the calendar, here’s what to know",
+     "url": "https://www.nytimes.com/athletic/7797722/2026/11/21/tennis-atp-tour-prize-money-bonuses-rankings-calendar/",
+     "source": "The New York Times"
+    },
+    {
+     "title": "ATP Tour unveils expanded compensation plan to benefit top 250 players",
+     "url": "https://www.espn.com/tennis/story/_/id/50539880/atp-tour-unveils-expanded-compensation-top-250-players",
+     "source": "ESPN"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "야닉 시너",
-   "slug": "야닉-시너",
+   "keyword": "국민카드",
+   "slug": "국민카드",
    "traffic": 200,
-   "startedAt": 1795561200.0,
+   "startedAt": 1795567200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[테니스] 야닉 시너, 결국 무릎 수술···호주 오픈 출전 불투명",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762118",
-     "source": "국제뉴스"
+     "title": "[게시판] 신한카드, 아디다스 첫 글로벌 제휴카드 출시",
+     "url": "https://www.yna.co.kr/view/AKR20261124132800002",
+     "source": "연합뉴스"
     },
     {
-     "title": "'윔블던 우승 후 4개월째 실종' 세계 1위 자리까지 내준 시너, 이번엔 호주 오픈마저 불참 위기 → '무릎 부상 악몽' 언제 끝나나",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698879",
-     "source": "인터풋볼"
+     "title": "[여전사 풍향계] ‘아디다스 신한카드’ 출시…스토어 10% 할인 外",
+     "url": "https://m.ekn.kr/view.php?key=20261124024274089",
+     "source": "에너지경제신문"
     },
     {
-     "title": "[오피셜] '한국전 대신 수술대 올랐다'…이탈리아 테니스 슈퍼스타, 결국 무릎에 칼 댔다→\"세계 2위 신네르, 1월 호주 오픈도 결장\"",
-     "url": "https://www.xportsnews.com/article/2222600",
-     "source": "www.xportsnews.com"
+     "title": "[금융소식] 신한카드·BC카드·KB국민카드·여신금융협회·NH농협캐피탈",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3451559",
+     "source": "천지일보"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "장인화",
-   "slug": "장인화",
+   "keyword": "우리카드",
+   "slug": "우리카드",
    "traffic": 200,
-   "startedAt": 1795560600.0,
+   "startedAt": 1795566600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“장인화 회장도 동일 선상서 평가” 포스코 차기 회장 선출 12월 시작",
-     "url": "https://www.thebigdata.co.kr/view.php?ud=202611241502016389570d99e4c8_23",
-     "source": "빅데이터뉴스"
+     "title": "‘롯데 턱밑까지 추격’…우리카드, 중위권 판도 흔든다",
+     "url": "https://m.ekn.kr/view.php?key=20261124026373652",
+     "source": "에너지경제신문"
     },
     {
-     "title": "명암 뚜렷한 3년…장인화 포스코그룹 회장 연임 '촉각'",
-     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427916",
-     "source": "데일리한국"
+     "title": "‘대학 동문’이 약점?···지배구조 개선안에 김재관·이종민 하마평 엇갈려 [국민은행장 레이스]",
+     "url": "https://www.fntimes.com/html/view.php?ud=202611250113468646b4a7c6999c_18",
+     "source": "한국금융신문"
     },
     {
-     "title": "[포스코 인사 점검] 이희근·신성원·김상철 내년 3월 이사 임기 만료… 주요 본부장 인선 관심",
-     "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082729",
-     "source": "뉴스클레임"
+     "title": "이재근 체제 첫 KB국민은행장은 누구...후보군 각축",
+     "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=886505",
+     "source": "한스경제"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "롯데손해보험",
-   "slug": "롯데손해보험",
-   "traffic": 100,
-   "startedAt": 1795560000.0,
+   "keyword": "삼성카드",
+   "slug": "삼성카드",
+   "traffic": 200,
+   "startedAt": 1795565400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "롯데손보, 신한 편입 전 90% 무상감자…기본자본 4600억원 확충",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980216.html",
-     "source": "인베스트조선"
+     "title": "삼성카드 주가 상승 중",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3221378&type=&mobile=",
+     "source": "아시아뉴스통신"
     },
     {
-     "title": "롯데손해보험, 액면가 100원으로 감액…자본금 2793억 잉여금으로 옮긴다",
-     "url": "https://m.news2day.co.kr/article/20261120500190",
-     "source": "뉴스투데이"
+     "title": "삼성금융 계열사 CEO 전원 유임…이번주 임원인사",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446358",
+     "source": "연합인포맥스"
     },
     {
-     "title": "[자본시장 말모이] 액면감액 뜻, 주식 수는 그대로인데 왜 감자일까",
-     "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38576",
-     "source": "중기이코노미"
+     "title": "삼성 금융계열사 CEO 연임 가닥…임원 인사 이번주 단행",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882353",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "부산은행",
+   "slug": "부산은행",
+   "traffic": 100,
+   "startedAt": 1795567200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "부산은행, 25일 '부산 중진공 정책자금 전용통장' 출시",
+     "url": "https://www.yna.co.kr/view/AKR20261124112900051",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "BNK부산은행, 중진공 정책자금 전용통장 출시…사전 검증·증빙 시스템 연계",
+     "url": "https://www.etnews.com/20261124000289",
+     "source": "전자신문"
+    },
+    {
+     "title": "정책자금 증빙 더 편리해진다…중진공·부산은행 맞손",
+     "url": "https://www.news1.kr/industry/sb-founded/6363992",
+     "source": "뉴스1"
     }
    ]
   }

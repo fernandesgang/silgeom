@@ -1,0 +1,46 @@
+{
+ "keyword": "삼성카드",
+ "slug": "삼성카드",
+ "firstSeen": 1795565400.0,
+ "lastSeen": 1795571844.7375784,
+ "peakRank": 9,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795571845,
+   9,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "삼성카드 주가 상승 중",
+   "url": "https://m.anewsa.com/article_sub3.php?number=3221378&type=&mobile=",
+   "source": "아시아뉴스통신"
+  },
+  {
+   "title": "삼성금융 계열사 CEO 전원 유임…이번주 임원인사",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446358",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "삼성 금융계열사 CEO 연임 가닥…임원 인사 이번주 단행",
+   "url": "https://www.newsis.com/view/NISX20261125_0003882353",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-25"
+ ],
+ "related": [
+  "병무청",
+  "국민은행",
+  "이한범",
+  "고소영",
+  "급여-지원",
+  "atp-월드-투어",
+  "국민카드",
+  "우리카드",
+  "부산은행"
+ ]
+}
