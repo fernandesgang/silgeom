@@ -551,8 +551,8 @@
    "slug": "반도체",
    "firstSeen": 1795573800.0,
    "peakRank": 1,
-   "peakTraffic": 20000,
-   "lastSeen": 1795578624.7705085
+   "peakTraffic": 50000,
+   "lastSeen": 1795582550.2957742
   },
   "연금 개혁": {
    "slug": "연금-개혁",
@@ -573,7 +573,7 @@
    "firstSeen": 1795573200.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795578624.7705085
+   "lastSeen": 1795582550.2957742
   },
   "김천(구미)": {
    "slug": "김천-구미",
@@ -581,6 +581,62 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795578624.7705085
+  },
+  "공휴일": {
+   "slug": "공휴일",
+   "firstSeen": 1795576800.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795582550.2957742
+  },
+  "술": {
+   "slug": "술",
+   "firstSeen": 1795578600.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795582550.2957742
+  },
+  "오현규": {
+   "slug": "오현규",
+   "firstSeen": 1795578000.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795582550.2957742
+  },
+  "대전광역시": {
+   "slug": "대전광역시",
+   "firstSeen": 1795576200.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795582550.2957742
+  },
+  "에디차": {
+   "slug": "에디차",
+   "firstSeen": 1795577400.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795582550.2957742
+  },
+  "홍익표": {
+   "slug": "홍익표",
+   "firstSeen": 1795576200.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795582550.2957742
+  },
+  "제강": {
+   "slug": "제강",
+   "firstSeen": 1795576200.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795582550.2957742
+  },
+  "채권": {
+   "slug": "채권",
+   "firstSeen": 1795576800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795582550.2957742
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "공휴일",
+ "slug": "공휴일",
+ "firstSeen": 1795576800.0,
+ "lastSeen": 1795582550.2957742,
+ "peakRank": 2,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795582550,
+   2,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html",
+   "source": "한겨레"
+  },
+  {
+   "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
+   "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
+   "source": "대한민국 정책브리핑"
+  },
+  {
+   "title": "12월 3일 '국민주권의날' 지정...이 대통령 \"위대한 국민 승리\"",
+   "url": "https://www.ytn.co.kr/_ln/0101_202611241534293163",
+   "source": "YTN"
+  }
+ ],
+ "days": [
+  "2026-11-25"
+ ],
+ "related": [
+  "반도체",
+  "술",
+  "오현규",
+  "대전광역시",
+  "에디차",
+  "홍익표",
+  "제강",
+  "채권",
+  "한국대학신문"
+ ]
+}
