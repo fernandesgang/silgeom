@@ -153,7 +153,7 @@
    "firstSeen": 1795627800.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795635124.818936
+   "lastSeen": 1795638467.5793161
   },
   "대한광통신": {
    "slug": "대한광통신",
@@ -168,6 +168,69 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795635124.818936
+  },
+  "스포르팅 대 맨유": {
+   "slug": "스포르팅-대-맨유",
+   "firstSeen": 1795633800.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795638467.5793161
+  },
+  "삼성전기": {
+   "slug": "삼성전기",
+   "firstSeen": 1795631400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795638467.5793161
+  },
+  "클뤼프 브뤼허 대 리버풀": {
+   "slug": "클뤼프-브뤼허-대-리버풀",
+   "firstSeen": 1795634400.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795638467.5793161
+  },
+  "psg 대 로마": {
+   "slug": "psg-대-로마",
+   "firstSeen": 1795634400.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795638467.5793161
+  },
+  "황윤성": {
+   "slug": "황윤성",
+   "firstSeen": 1795633800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795638467.5793161
+  },
+  "바르셀로나": {
+   "slug": "바르셀로나",
+   "firstSeen": 1795627800.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795638467.5793161
+  },
+  "슬라비아 프라하 대 비야레알": {
+   "slug": "슬라비아-프라하-대-비야레알",
+   "firstSeen": 1795632000.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795638467.5793161
+  },
+  "제임스 네일": {
+   "slug": "제임스-네일",
+   "firstSeen": 1795630200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795638467.5793161
+  },
+  "한국여자프로골프협회": {
+   "slug": "한국여자프로골프협회",
+   "firstSeen": 1795628400.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795638467.5793161
   }
  }
 }
