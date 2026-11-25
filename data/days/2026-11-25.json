@@ -592,16 +592,16 @@
   "술": {
    "slug": "술",
    "firstSeen": 1795578600.0,
-   "peakRank": 3,
-   "peakTraffic": 2000,
-   "lastSeen": 1795582550.2957742
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795585785.602688
   },
   "오현규": {
    "slug": "오현규",
    "firstSeen": 1795578000.0,
    "peakRank": 4,
    "peakTraffic": 1000,
-   "lastSeen": 1795582550.2957742
+   "lastSeen": 1795585785.602688
   },
   "대전광역시": {
    "slug": "대전광역시",
@@ -637,6 +637,62 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795582550.2957742
+  },
+  "재산세": {
+   "slug": "재산세",
+   "firstSeen": 1795581000.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795585785.602688
+  },
+  "트레킹": {
+   "slug": "트레킹",
+   "firstSeen": 1795579200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795585785.602688
+  },
+  "은퇴요원+관리팀": {
+   "slug": "은퇴요원-관리팀",
+   "firstSeen": 1795581000.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795585785.602688
+  },
+  "대만": {
+   "slug": "대만",
+   "firstSeen": 1795581000.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795585785.602688
+  },
+  "안랩": {
+   "slug": "안랩",
+   "firstSeen": 1795581000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795585785.602688
+  },
+  "산호세 대 휴스턴 다이너모": {
+   "slug": "산호세-대-휴스턴-다이너모",
+   "firstSeen": 1795580400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795585785.602688
+  },
+  "miss universe 2026": {
+   "slug": "miss-universe-2026",
+   "firstSeen": 1795579800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795585785.602688
+  },
+  "김희애": {
+   "slug": "김희애",
+   "firstSeen": 1795579200.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795585785.602688
   }
  }
 }

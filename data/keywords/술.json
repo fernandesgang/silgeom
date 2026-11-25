@@ -2,17 +2,37 @@
  "keyword": "술",
  "slug": "술",
  "firstSeen": 1795578600.0,
- "lastSeen": 1795582550.2957742,
- "peakRank": 3,
- "peakTraffic": 2000,
+ "lastSeen": 1795585785.602688,
+ "peakRank": 1,
+ "peakTraffic": 5000,
  "history": [
   [
    1795582550,
    3,
    2000
+  ],
+  [
+   1795585786,
+   1,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "“기억 못 한다” 술 취해 지인 살해한 50대 징역 25년 선고",
+   "url": "https://www.khan.co.kr/article/202611251403001",
+   "source": "경향신문"
+  },
+  {
+   "title": "술 취해 지인 찌르고 \"손가락 베여\" 신고…\"심신상실\" 50대 중형",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862817",
+   "source": "SBS 뉴스"
+  },
+  {
+   "title": "사흘 내내 같이 술 먹은 지인 흉기로 살해하고 “기억 안 나” 50대 징역 25년",
+   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261125.99099007984",
+   "source": "국제신문"
+  },
   {
    "title": "'주차 수상하네' 문 열린 순간 냄새 '확' 50대 여성 쫓아가자",
    "url": "https://imnews.imbc.com/news/2026/society/article/6868395_36918.html",
@@ -33,6 +53,14 @@
   "2026-11-25"
  ],
  "related": [
+  "재산세",
+  "트레킹",
+  "은퇴요원-관리팀",
+  "대만",
+  "안랩",
+  "산호세-대-휴스턴-다이너모",
+  "miss-universe-2026",
+  "김희애",
   "반도체",
   "공휴일",
   "오현규",
