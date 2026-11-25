@@ -2,17 +2,37 @@
  "keyword": "당구",
  "slug": "당구",
  "firstSeen": 1795206000.0,
- "lastSeen": 1795210015.432244,
- "peakRank": 7,
- "peakTraffic": 200,
+ "lastSeen": 1795645778.6406138,
+ "peakRank": 1,
+ "peakTraffic": 2000,
  "history": [
   [
    1795210015,
    7,
    200
+  ],
+  [
+   1795645779,
+   1,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "산체스, 2009년생 한민준 완파…PBA 6차 투어 64강 진출",
+   "url": "https://www.yna.co.kr/view/AKR20261125044600007",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "“너무 일찍 성사된 LPBA 빅매치” 김가영-스롱 휴온스배 8강서 격돌…김보미 임경진도 합류[휴온스배LPBA]",
+   "url": "https://mkbn.mk.co.kr/news/sports/12218329",
+   "source": "mkbn.mk.co.kr"
+  },
+  {
+   "title": "'NH농협카드 듀오' 정수빈-김보미, '우승 기운'으로 동반 16강... 김민아도 장가연에 승부치기 신승 [PBA] - 머니투데이",
+   "url": "https://www.mt.co.kr/sports/2026/11/25/2026112422172689895",
+   "source": "머니투데이"
+  },
   {
    "title": "제16회 중구청장배·제17회 연맹회장배 당구대회 개최",
    "url": "https://www.junggunews.com/news/articleView.html?idxno=42979",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-26"
  ],
  "related": [
+  "법학적성시험",
+  "psg-vs-roma",
+  "kf-21-보라매",
+  "야간선물",
+  "손아섭",
+  "허찬미",
+  "보안",
+  "조원태",
   "황유민",
   "장윤정",
   "김호령",

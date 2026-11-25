@@ -287,6 +287,69 @@
    "peakRank": 8,
    "peakTraffic": 100,
    "lastSeen": 1795642403.7802422
+  },
+  "당구": {
+   "slug": "당구",
+   "firstSeen": 1795641000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795645778.6406138
+  },
+  "법학적성시험": {
+   "slug": "법학적성시험",
+   "firstSeen": 1795641600.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795645778.6406138
+  },
+  "psg vs roma": {
+   "slug": "psg-vs-roma",
+   "firstSeen": 1795640400.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795645778.6406138
+  },
+  "kf-21 보라매": {
+   "slug": "kf-21-보라매",
+   "firstSeen": 1795640400.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795645778.6406138
+  },
+  "야간선물": {
+   "slug": "야간선물",
+   "firstSeen": 1795640400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795645778.6406138
+  },
+  "손아섭": {
+   "slug": "손아섭",
+   "firstSeen": 1795641000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795645778.6406138
+  },
+  "허찬미": {
+   "slug": "허찬미",
+   "firstSeen": 1795641000.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795645778.6406138
+  },
+  "보안": {
+   "slug": "보안",
+   "firstSeen": 1795640400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795645778.6406138
+  },
+  "조원태": {
+   "slug": "조원태",
+   "firstSeen": 1795641600.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795645778.6406138
   }
  }
 }

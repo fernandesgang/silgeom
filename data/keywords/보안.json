@@ -1,0 +1,45 @@
+{
+ "keyword": "보안",
+ "slug": "보안",
+ "firstSeen": 1795640400.0,
+ "lastSeen": 1795645778.6406138,
+ "peakRank": 8,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795645779,
+   8,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "아레스·더존비즈온·스틸리언, AI 사이버위협 대응 기술 협력",
+   "url": "https://www.etnews.com/20261125000572",
+   "source": "전자신문"
+  },
+  {
+   "title": "해킹 당한 더존비즈온, 보안 강화 ‘분골쇄신’... ‘보안 특별 자문위원회’ 출범",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147531",
+   "source": "보안뉴스"
+  },
+  {
+   "title": "더존비즈온, 안랩과 사이버 보안 강화 기술·사업 협력",
+   "url": "https://www.sedaily.com/article/20118486",
+   "source": "서울경제"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "당구",
+  "법학적성시험",
+  "psg-vs-roma",
+  "kf-21-보라매",
+  "야간선물",
+  "손아섭",
+  "허찬미",
+  "조원태"
+ ]
+}

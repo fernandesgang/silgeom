@@ -2,7 +2,7 @@
  "keyword": "조원태",
  "slug": "조원태",
  "firstSeen": 1795207800.0,
- "lastSeen": 1795213408.38951,
+ "lastSeen": 1795645778.6406138,
  "peakRank": 7,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795213408,
    7,
    200
+  ],
+  [
+   1795645779,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "델타항공 부사장 \"대한항공 조원태 회장과 임원진 깊이 신뢰\"",
+   "url": "https://www.yna.co.kr/view/AKR20261125149600805",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "[분석] 호반그룹 지분 이슈에 ’조원태 신뢰’ 못 박은 델타항공…한진칼 우군 재확인 By FinancialPost",
+   "url": "https://kr.investing.com/news/stock-market-news/article-2189989",
+   "source": "Investing.com 한국어"
+  },
+  {
+   "title": "제프 무마우 델타항공 부사장 “조원태 한진 회장·대한항공 경영진, 깊이 신뢰”",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550341.html",
+   "source": "뉴데일리 경제"
+  },
   {
    "title": "경찰, 조원태 회장 휴대전화 압수…‘663억 자사주’ 배임 의혹",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718471",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-26"
  ],
  "related": [
+  "당구",
+  "법학적성시험",
+  "psg-vs-roma",
+  "kf-21-보라매",
+  "야간선물",
+  "손아섭",
+  "허찬미",
+  "보안",
   "생계",
   "김연경",
   "카리나",
