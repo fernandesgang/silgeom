@@ -853,14 +853,14 @@
    "firstSeen": 1795597800.0,
    "peakRank": 1,
    "peakTraffic": 5000,
-   "lastSeen": 1795603647.9818113
+   "lastSeen": 1795607313.50068
   },
   "고경표 음주 운전": {
    "slug": "고경표-음주-운전",
    "firstSeen": 1795599000.0,
    "peakRank": 4,
-   "peakTraffic": 1000,
-   "lastSeen": 1795603647.9818113
+   "peakTraffic": 2000,
+   "lastSeen": 1795607313.50068
   },
   "코레일 파업": {
    "slug": "코레일-파업",
@@ -879,16 +879,58 @@
   "하사": {
    "slug": "하사",
    "firstSeen": 1795599000.0,
-   "peakRank": 9,
-   "peakTraffic": 200,
-   "lastSeen": 1795603647.9818113
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795607313.50068
   },
   "슈퍼문": {
    "slug": "슈퍼문",
    "firstSeen": 1795597200.0,
-   "peakRank": 10,
+   "peakRank": 8,
+   "peakTraffic": 500,
+   "lastSeen": 1795607313.50068
+  },
+  "최우제": {
+   "slug": "최우제",
+   "firstSeen": 1795600800.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795607313.50068
+  },
+  "숲": {
+   "slug": "숲",
+   "firstSeen": 1795600200.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795607313.50068
+  },
+  "청룡영화상": {
+   "slug": "청룡영화상",
+   "firstSeen": 1795603200.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795607313.50068
+  },
+  "검사": {
+   "slug": "검사",
+   "firstSeen": 1795600200.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795607313.50068
+  },
+  "경주마": {
+   "slug": "경주마",
+   "firstSeen": 1795602000.0,
+   "peakRank": 9,
    "peakTraffic": 200,
-   "lastSeen": 1795603647.9818113
+   "lastSeen": 1795607313.50068
+  },
+  "페이즈": {
+   "slug": "페이즈",
+   "firstSeen": 1795603200.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795607313.50068
   }
  }
 }
