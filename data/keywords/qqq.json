@@ -2,7 +2,7 @@
  "keyword": "qqq",
  "slug": "qqq",
  "firstSeen": 1795444200.0,
- "lastSeen": 1795459452.8869333,
+ "lastSeen": 1795624804.9807475,
  "peakRank": 3,
  "peakTraffic": 200,
  "history": [
@@ -25,9 +25,29 @@
    1795459453,
    5,
    200
+  ],
+  [
+   1795624805,
+   3,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+   "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+   "source": "TradingView"
+  },
+  {
+   "title": "US Sector Performance: Technology Leads Broad-Based Momentum Rebound as Nine Sectors Advance",
+   "url": "https://kalkine.com/news/premium/us-sector-performance-technology-leads-broad-based-momentum-rebound-as-nine-sectors-advance",
+   "source": "kalkine.com"
+  },
+  {
+   "title": "Defensives Lead Sectors In Wednesday Trading As Growth Trails",
+   "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63632400/defensives-lead-sectors-in-wednesday-trading-as-growth-trails",
+   "source": "Benzinga"
+  },
   {
    "title": "Nvidia: The Trade Of A Lifetime (NASDAQ:NVDA)",
    "url": "https://seekingalpha.com/article/4971134-nvidia-the-trade-of-a-lifetime",
@@ -65,9 +85,19 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-26"
  ],
  "related": [
+  "시그널",
+  "성유리",
+  "성시경",
+  "공포탐욕지수",
+  "금연",
+  "유은성",
+  "공포지수",
+  "양준혁",
+  "박보검",
   "노태문",
   "탁구",
   "sk그룹",
@@ -78,10 +108,6 @@
   "nvidia-stock",
   "둠스데이",
   "to-me-my-x-men",
-  "옆자리-프란체스카",
-  "토스",
-  "코인니스",
-  "박준형",
-  "qld"
+  "옆자리-프란체스카"
  ]
 }
