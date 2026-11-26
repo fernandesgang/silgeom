@@ -1,0 +1,46 @@
+{
+ "keyword": "노동쟁의",
+ "slug": "노동쟁의",
+ "firstSeen": 1795702200.0,
+ "lastSeen": 1795714203.323478,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795714203,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "헌재 “다른 노조 파업 지원했다고 처벌한 옛 노동법은 위헌”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8723445",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "신군부가 범죄로 규정한 노동자들의 ‘연대’…헌재, 36년 만에 위헌 결정",
+   "url": "https://www.khan.co.kr/article/202611261644001",
+   "source": "경향신문"
+  },
+  {
+   "title": "헌재 ‘노동쟁의 제3자 개입 금지’ 위헌 결정…36년만에 판단 뒤집어",
+   "url": "https://www.donga.com/news/Politics/article/all/20261126/135096108/1",
+   "source": "동아일보"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "반도체-메모리",
+  "김민",
+  "강소휘",
+  "스파이",
+  "크리스-리벤",
+  "송파구",
+  "아마존",
+  "정연",
+  "정은경"
+ ]
+}
