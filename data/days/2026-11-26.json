@@ -881,14 +881,14 @@
    "firstSeen": 1795680600.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795686231.6134508
+   "lastSeen": 1795690088.0132499
   },
   "2027 학년도 대학 수학 능력 시험": {
    "slug": "2027-학년도-대학-수학-능력-시험",
    "firstSeen": 1795678200.0,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795686231.6134508
+   "lastSeen": 1795690088.0132499
   },
   "코레일": {
    "slug": "코레일",
@@ -900,23 +900,23 @@
   "디워": {
    "slug": "디워",
    "firstSeen": 1795681800.0,
-   "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795686231.6134508
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795690088.0132499
   },
   "손예진": {
    "slug": "손예진",
    "firstSeen": 1795680000.0,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795686231.6134508
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795690088.0132499
   },
   "이집트": {
    "slug": "이집트",
    "firstSeen": 1795678800.0,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795686231.6134508
+   "lastSeen": 1795690088.0132499
   },
   "우재준": {
    "slug": "우재준",
@@ -928,9 +928,9 @@
   "영업 비밀": {
    "slug": "영업-비밀",
    "firstSeen": 1795679400.0,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795686231.6134508
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795690088.0132499
   },
   "김시아": {
    "slug": "김시아",
@@ -938,6 +938,34 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795686231.6134508
+  },
+  "검찰": {
+   "slug": "검찰",
+   "firstSeen": 1795686000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795690088.0132499
+  },
+  "김희애": {
+   "slug": "김희애",
+   "firstSeen": 1795680600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795690088.0132499
+  },
+  "구미역": {
+   "slug": "구미역",
+   "firstSeen": 1795686000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795690088.0132499
+  },
+  "미국 휴장": {
+   "slug": "미국-휴장",
+   "firstSeen": 1795684800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795690088.0132499
   }
  }
 }
