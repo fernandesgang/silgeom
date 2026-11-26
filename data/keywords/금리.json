@@ -1,0 +1,46 @@
+{
+ "keyword": "금리",
+ "slug": "금리",
+ "firstSeen": 1795651200.0,
+ "lastSeen": 1795658162.965981,
+ "peakRank": 7,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795658163,
+   7,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "[속보] 한은, 기준금리 3.25%로 0.25%p 인상",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
+   "url": "https://news.jtbc.co.kr/article/NB12329898",
+   "source": "JTBC"
+  },
+  {
+   "title": "[속보] 반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상",
+   "url": "https://www.hankyung.com/article/202611261251i",
+   "source": "한국경제"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "조별리그",
+  "빅터-레이예스",
+  "시청률",
+  "진우와-해티",
+  "병무청",
+  "계엄",
+  "양부남",
+  "기장군",
+  "광주은행"
+ ]
+}

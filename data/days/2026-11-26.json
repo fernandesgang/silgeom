@@ -483,6 +483,76 @@
    "peakRank": 9,
    "peakTraffic": 200,
    "lastSeen": 1795652759.4008384
+  },
+  "조별리그": {
+   "slug": "조별리그",
+   "firstSeen": 1795650000.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795658162.965981
+  },
+  "빅터 레이예스": {
+   "slug": "빅터-레이예스",
+   "firstSeen": 1795650000.0,
+   "peakRank": 2,
+   "peakTraffic": 10000,
+   "lastSeen": 1795658162.965981
+  },
+  "시청률": {
+   "slug": "시청률",
+   "firstSeen": 1795651200.0,
+   "peakRank": 3,
+   "peakTraffic": 5000,
+   "lastSeen": 1795658162.965981
+  },
+  "진우와 해티": {
+   "slug": "진우와-해티",
+   "firstSeen": 1795653600.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795658162.965981
+  },
+  "병무청": {
+   "slug": "병무청",
+   "firstSeen": 1795653600.0,
+   "peakRank": 5,
+   "peakTraffic": 1000,
+   "lastSeen": 1795658162.965981
+  },
+  "계엄": {
+   "slug": "계엄",
+   "firstSeen": 1795654200.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795658162.965981
+  },
+  "금리": {
+   "slug": "금리",
+   "firstSeen": 1795651200.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795658162.965981
+  },
+  "양부남": {
+   "slug": "양부남",
+   "firstSeen": 1795650000.0,
+   "peakRank": 8,
+   "peakTraffic": 500,
+   "lastSeen": 1795658162.965981
+  },
+  "기장군": {
+   "slug": "기장군",
+   "firstSeen": 1795653000.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795658162.965981
+  },
+  "광주은행": {
+   "slug": "광주은행",
+   "firstSeen": 1795651200.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795658162.965981
   }
  }
 }

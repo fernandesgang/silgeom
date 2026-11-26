@@ -1,0 +1,46 @@
+{
+ "keyword": "시청률",
+ "slug": "시청률",
+ "firstSeen": 1795651200.0,
+ "lastSeen": 1795658162.965981,
+ "peakRank": 3,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795658163,
+   3,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
+   "url": "https://www.joongang.co.kr/article/25481953",
+   "source": "중앙일보"
+  },
+  {
+   "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
+   "url": "https://www.fnnews.com/news/202611252205108656",
+   "source": "파이낸셜뉴스"
+  },
+  {
+   "title": "“아직 저 안 보셨잖아요” 육성재, 면접장에서 박민영 재회 후 다시 잡아보는 면접 기회!",
+   "url": "https://programs.sbs.co.kr/drama/ninetosix/clip/90025/OC484417737",
+   "source": "programs.sbs.co.kr"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "조별리그",
+  "빅터-레이예스",
+  "진우와-해티",
+  "병무청",
+  "계엄",
+  "금리",
+  "양부남",
+  "기장군",
+  "광주은행"
+ ]
+}
