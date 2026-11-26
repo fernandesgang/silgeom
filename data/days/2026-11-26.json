@@ -805,6 +805,76 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795676026.317492
+  },
+  "이승우": {
+   "slug": "이승우",
+   "firstSeen": 1795677000.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795681271.9231207
+  },
+  "마이클 버리": {
+   "slug": "마이클-버리",
+   "firstSeen": 1795675200.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795681271.9231207
+  },
+  "김민식": {
+   "slug": "김민식",
+   "firstSeen": 1795676400.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795681271.9231207
+  },
+  "골든글러브": {
+   "slug": "골든글러브",
+   "firstSeen": 1795675800.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795681271.9231207
+  },
+  "kbo mvp": {
+   "slug": "kbo-mvp",
+   "firstSeen": 1795675200.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795681271.9231207
+  },
+  "김민석": {
+   "slug": "김민석",
+   "firstSeen": 1795674000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795681271.9231207
+  },
+  "36사단": {
+   "slug": "36사단",
+   "firstSeen": 1795677000.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795681271.9231207
+  },
+  "35사단": {
+   "slug": "35사단",
+   "firstSeen": 1795676400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795681271.9231207
+  },
+  "음악회": {
+   "slug": "음악회",
+   "firstSeen": 1795673400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795681271.9231207
+  },
+  "백철승": {
+   "slug": "백철승",
+   "firstSeen": 1795672800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795681271.9231207
   }
  }
 }
