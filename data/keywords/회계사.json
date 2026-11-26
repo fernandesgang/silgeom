@@ -2,7 +2,7 @@
  "keyword": "회계사",
  "slug": "회계사",
  "firstSeen": 1795099200.0,
- "lastSeen": 1795346491.4853325,
+ "lastSeen": 1795710252.0764704,
  "peakRank": 4,
  "peakTraffic": 500,
  "history": [
@@ -25,9 +25,29 @@
    1795346491,
    7,
    200
+  ],
+  [
+   1795710252,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "전국 60개 대학 AI·SW 성과 한자리에",
+   "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181",
+   "source": "YTN 사이언스"
+  },
+  {
+   "title": "회계사 선발 중장기 계획 세운다더니 제외…업계 후폭풍",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03739206645649656",
+   "source": "마켓인"
+  },
+  {
+   "title": "청년공인회계사회 “2027년 1,100명 선발, 미지정 현실 외면”",
+   "url": "https://www.lec.co.kr/news/articleView.html?idxno=753080",
+   "source": "법률저널"
+  },
   {
    "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
    "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
@@ -72,28 +92,22 @@
    "title": "최운열 한공회장, 세계에 신외감법 성과 알려…\"韓 회계투명성 껑충\"",
    "url": "https://www.news1.kr/finance/general-stock/6360144",
    "source": "뉴스1"
-  },
-  {
-   "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
-   "url": "https://stock.mk.co.kr/news/view/1201525",
-   "source": "매일경제 마켓"
-  },
-  {
-   "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
-   "url": "https://www.mk.co.kr/news/stock/12212309",
-   "source": "매일경제"
-  },
-  {
-   "title": "회계사 합격해도 수습처 없다…금융위, 내년 선발 1100명으로 감축 전망",
-   "url": "https://www.newsis.com/view/NISX20261119_0003874868",
-   "source": "뉴시스"
   }
  ],
  "days": [
   "2026-11-20",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-27"
  ],
  "related": [
+  "송파구",
+  "반도체-메모리",
+  "강소휘",
+  "스파이",
+  "크리스-리벤",
+  "수디르만컵",
+  "정은경",
+  "삼성반도체",
   "남진",
   "수능-부정행위",
   "원자력-잠수함",
@@ -105,14 +119,6 @@
   "acc-emerging-teams-asia-cup",
   "김영훈",
   "서울-경전철-서부선",
-  "김혜윤",
-  "기온",
-  "코스닥",
-  "천위페이",
-  "웹툰",
-  "앤트로픽",
-  "anthropic-stock",
-  "앤트로픽-주가",
-  "습관"
+  "김혜윤"
  ]
 }

@@ -2,17 +2,27 @@
  "keyword": "송파구",
  "slug": "송파구",
  "firstSeen": 1795700400.0,
- "lastSeen": 1795706281.5257342,
- "peakRank": 7,
- "peakTraffic": 200,
+ "lastSeen": 1795710252.0764704,
+ "peakRank": 1,
+ "peakTraffic": 5000,
  "history": [
   [
    1795706282,
    7,
    200
+  ],
+  [
+   1795710252,
+   1,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "서울 아파트값 소폭 상승… 9개구는 하락",
+   "url": "https://www.chosun.com/economy/real_estate/2026/11/27/73KKTCUB3BDD5I3CNBDHE2PHSQ/",
+   "source": "조선일보"
+  },
   {
    "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
    "url": "https://www.mk.co.kr/news/realestate/12219258",
@@ -33,6 +43,10 @@
   "2026-11-27"
  ],
  "related": [
+  "회계사",
+  "크리스-리벤",
+  "정은경",
+  "삼성반도체",
   "나인투식스",
   "김아현-주식-눈물",
   "반도체-메모리",
