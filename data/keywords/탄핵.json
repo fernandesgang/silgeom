@@ -1,0 +1,46 @@
+{
+ "keyword": "탄핵",
+ "slug": "탄핵",
+ "firstSeen": 1795728000.0,
+ "lastSeen": 1795732219.0610452,
+ "peakRank": 1,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795732219,
+   1,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "대법원장 탄핵 추진에 '반대' 44％·'찬성' 34％ [NBS]",
+   "url": "https://imnews.imbc.com/news/2026/politics/article/6868802_36911.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "탄핵 연대에 \"책임은 여당\" 쓴소리...조작기소 특검 2명 압축",
+   "url": "https://www.ytn.co.kr/_ln/0101_202611270625025650",
+   "source": "YTN"
+  },
+  {
+   "title": "[동서남북] 차라리 ‘못마땅한 판결’을 특검하라",
+   "url": "https://www.chosun.com/opinion/dongseonambuk/2026/11/26/TCMSNQ3PZND7HFOOC3BFREANN4/",
+   "source": "조선일보"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "정년",
+  "유튜버",
+  "주식",
+  "광명시",
+  "정부-예산",
+  "알테오젠",
+  "삼성자산운용",
+  "한국경제신문사",
+  "마이클세일러"
+ ]
+}

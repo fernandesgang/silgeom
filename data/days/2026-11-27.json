@@ -287,6 +287,76 @@
    "peakRank": 9,
    "peakTraffic": 200,
    "lastSeen": 1795728409.6498497
+  },
+  "탄핵": {
+   "slug": "탄핵",
+   "firstSeen": 1795728000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795732219.0610452
+  },
+  "정년": {
+   "slug": "정년",
+   "firstSeen": 1795726800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795732219.0610452
+  },
+  "유튜버": {
+   "slug": "유튜버",
+   "firstSeen": 1795726200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795732219.0610452
+  },
+  "주식": {
+   "slug": "주식",
+   "firstSeen": 1795726800.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795732219.0610452
+  },
+  "광명시": {
+   "slug": "광명시",
+   "firstSeen": 1795726800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795732219.0610452
+  },
+  "정부 예산": {
+   "slug": "정부-예산",
+   "firstSeen": 1795726800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795732219.0610452
+  },
+  "알테오젠": {
+   "slug": "알테오젠",
+   "firstSeen": 1795726200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795732219.0610452
+  },
+  "삼성자산운용": {
+   "slug": "삼성자산운용",
+   "firstSeen": 1795727400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795732219.0610452
+  },
+  "한국경제신문사": {
+   "slug": "한국경제신문사",
+   "firstSeen": 1795727400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795732219.0610452
+  },
+  "마이클세일러": {
+   "slug": "마이클세일러",
+   "firstSeen": 1795726800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795732219.0610452
   }
  }
 }

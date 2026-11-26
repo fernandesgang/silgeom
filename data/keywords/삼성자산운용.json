@@ -1,0 +1,46 @@
+{
+ "keyword": "삼성자산운용",
+ "slug": "삼성자산운용",
+ "firstSeen": 1795727400.0,
+ "lastSeen": 1795732219.0610452,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795732219,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "[조세금융만평] AI 앞에 무력해진 시험 감독망",
+   "url": "https://www.tfmedia.co.kr/news/article.html?no=209117",
+   "source": "조세금융신문"
+  },
+  {
+   "title": "한화 건설부문, 광명 하안주공5단지 수주 한화포레나 브랜드 성장 바탕으로 정비사업 2.5조 달성",
+   "url": "https://www.hanwha.co.kr/newsroom/media_center/news/news_view.do?seq=16446",
+   "source": "한화그룹"
+  },
+  {
+   "title": "한화 건설, 정비사업 2.5조 ‘역대 최대’…실적 연결 관건",
+   "url": "https://www.sentv.co.kr/article/view/sentv202611190141",
+   "source": "서울경제TV"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "탄핵",
+  "정년",
+  "유튜버",
+  "주식",
+  "광명시",
+  "정부-예산",
+  "알테오젠",
+  "한국경제신문사",
+  "마이클세일러"
+ ]
+}

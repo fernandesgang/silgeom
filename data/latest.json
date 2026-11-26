@@ -1,264 +1,264 @@
 {
- "generatedAt": 1795728410,
+ "generatedAt": 1795732219,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "서울수도권",
-   "slug": "서울수도권",
-   "traffic": 200000,
-   "startedAt": 1795723800.0,
+   "keyword": "탄핵",
+   "slug": "탄핵",
+   "traffic": 2000,
+   "startedAt": 1795728000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "낮 최고 21도 '포근'…중부 곳곳에 빗방울",
-     "url": "https://www.yna.co.kr/view/AKR20261127003900034",
-     "source": "연합뉴스"
+     "title": "대법원장 탄핵 추진에 '반대' 44％·'찬성' 34％ [NBS]",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6868802_36911.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[날씨] 11월 말인데 20도 안팎 ’포근’…중부 곳곳 약한 비",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127053917ajC",
-     "source": "연합뉴스TV"
+     "title": "탄핵 연대에 \"책임은 여당\" 쓴소리...조작기소 특검 2명 압축",
+     "url": "https://www.ytn.co.kr/_ln/0101_202611270625025650",
+     "source": "YTN"
     },
     {
-     "title": "12월 날씨였다 10월 날씨로…기온 ‘급반전’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722988",
-     "source": "KBS 뉴스"
+     "title": "[동서남북] 차라리 ‘못마땅한 판결’을 특검하라",
+     "url": "https://www.chosun.com/opinion/dongseonambuk/2026/11/26/TCMSNQ3PZND7HFOOC3BFREANN4/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "김장",
-   "slug": "김장",
-   "traffic": 2000,
-   "startedAt": 1795721400.0,
+   "keyword": "정년",
+   "slug": "정년",
+   "traffic": 1000,
+   "startedAt": 1795726800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "창원시·좋은데이 등 사랑의 김장나눔 추진 - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/11/26/2026112616585016562",
-     "source": "머니투데이"
+     "title": "“아빠는 출근, 아들은 백수?”…‘65세 정년 연장’ 추진 논란 [잇슈 머니]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724076",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "[강릉소식]캠코 강원-대한적십자사, 사랑의 김장김치 나눔 등",
-     "url": "https://www.newsis.com/view/NISX20261126_0003884808",
-     "source": "뉴시스"
+     "title": "일자리 없거나 나쁘거나‥연내 입법 가능할까?",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868959_37012.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "중구새마을회 ‘따뜻한 마음 담은 새마을 김장’ 행사",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073713",
-     "source": "경상일보"
+     "title": "\"5년 더 버티자\" 고연봉 직장인 돌변하자…기업 '초비상'",
+     "url": "https://www.hankyung.com/article/2026112502941",
+     "source": "한국경제"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "화재",
-   "slug": "화재",
-   "traffic": 500,
-   "startedAt": 1795724400.0,
+   "keyword": "유튜버",
+   "slug": "유튜버",
+   "traffic": 1000,
+   "startedAt": 1795726200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "물 쏘며 접근하자 \"쾅쾅\" 연쇄 폭음‥\"뒤로 빠져!\" 인천 남동공단 '전력 진화'",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868810_36918.html",
-     "source": "MBC 뉴스"
+     "title": "’구독자 1,010만’ 진우와 해티, 이혼 발표…채널은 어떻게 나눴나",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126161521wKw",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "인천 남동산단 PVC공장 화재, 시신 1구 발견",
-     "url": "https://www.donga.com/news/Society/article/all/20261127/135099439/2",
-     "source": "동아일보"
+     "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
+     "url": "https://www.newsis.com/view/NISX20261126_0003883842",
+     "source": "뉴시스"
     },
     {
-     "title": "직원들 20명 대피했는데 1명 '연락두절'…불 탄 공장서 시신 발견 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112617495848406",
-     "source": "머니투데이"
+     "title": "진우·해티 이혼 발표⇒유튜브는 남편·인스타는 아내…앞서 헤어진 국제부부 채널은? [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/G42TCZBSGA2WKZRVGEYWMZRZGY/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "정찬성",
-   "slug": "정찬성",
+   "keyword": "주식",
+   "slug": "주식",
    "traffic": 500,
-   "startedAt": 1795723200.0,
+   "startedAt": 1795726800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'코좀' 정찬성, 스승 에디 차 별세에 절절한 추모…\"꼭 다시 만나자\"",
-     "url": "https://www.news1.kr/sports/general-sport/6367232",
-     "source": "뉴스1"
+     "title": "\"스페이스X 1주 13조원 간다\"…머스크 또 파격 전망 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/27/2026112706312036711",
+     "source": "머니투데이"
     },
     {
-     "title": "\"코리안 좀비 스승\" 에디 차 코치 별세…향년 53세",
-     "url": "http://busan.fnnews.com/news/202611251549156731",
-     "source": "부산파이낸셜뉴스"
+     "title": "美어린이에 주식 나눈 머스크…주당 13조원 주장하며 \"보유해라\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127003100075",
+     "source": "연합뉴스"
     },
     {
-     "title": "'정찬성 운명의 스승' 한국계 UFC 코치, 향년 53세로 돌연 사망...\"아직도 충격에서 못 벗어났다\" 격투계 추모 물결",
-     "url": "https://www.koreadaily.com/article/20261125034113605",
-     "source": "미주중앙일보"
+     "title": "머스크·스페이스X, 트럼프 계좌에 24조원 주식 기부…\"누적액의 2배\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01767926645649656",
+     "source": "마켓인"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "크리스털 팰리스 대 레알 소시에다드",
-   "slug": "크리스털-팰리스-대-레알-소시에다드",
-   "traffic": 500,
-   "startedAt": 1795722600.0,
+   "keyword": "광명시",
+   "slug": "광명시",
+   "traffic": 200,
+   "startedAt": 1795726800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "유로파 리그 크리스탈 팰리스 대 레알 소시에다드 경기 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-real-sociedad-tai-europa-league-1807071.ldo",
-     "source": "Laodong.vn"
+     "title": "[경기] '복합형 돔구장' 경기도 후보지에 광명·수원 선정",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611261534574084",
+     "source": "YTN"
     },
     {
-     "title": "크리스탈 팰리스 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
-     "source": "Vietnam.vn"
+     "title": "파주시 \"돔구장 탈락에도 스포츠·문화 발전 노력 계속\"",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885092",
+     "source": "뉴시스"
     },
     {
-     "title": "경기 프리뷰: 크리스탈 팰리스 vs 레알 소시에다드, 11월 27일 새벽 3시: 승리는 어디에서 나올까?",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-real-sociedad-3h00-ngay-27-11-chien-thang-noi-dau",
-     "source": "Vietnam.vn"
+     "title": "[정책토론대축제] 경기북부 ‘돔형 복합시설’의 가능성과 과제는",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363743734",
+     "source": "중부일보"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "오현규",
-   "slug": "오현규",
-   "traffic": 500,
-   "startedAt": 1795722600.0,
+   "keyword": "정부 예산",
+   "slug": "정부-예산",
+   "traffic": 200,
+   "startedAt": 1795726800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "오현규의 안풀리는 날, 관중 난투극까지 난장판! ‘모처럼 선발출장, 그러나 슛 0회, 결국 교체아웃’ 베르셰바전",
-     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217303",
-     "source": "풋볼리스트"
+     "title": "민주당 전남광주시당, 국책사업 국비 541억원 증액 건의",
+     "url": "https://www.yna.co.kr/view/AKR20261126185900054",
+     "source": "연합뉴스"
     },
     {
-     "title": "‘韓 대표’ 오현규, 공식 제안 예고! 英 프리미어리그 입성 ‘이적료 책정’ 최소 443억 원 “더 낮은 가격에...",
-     "url": "https://sports.khan.co.kr/article/202611261806003",
-     "source": "스포츠경향"
+     "title": "정부예산 확보…양충모 남원시장, 국회서 막바지 총력",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885032",
+     "source": "뉴시스"
     },
     {
-     "title": "'韓 축구 어떡하나' 오현규, 토트넘 이적→꿈의 PL 무대 입성 불발 위기…'유럽 대항전 출전 불가' 스파르타크 모스크바행 가능성 급부상",
-     "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%86%A8%E1%84%92%E1%85%A1%E1%84%82%E1%85%A1-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%A8%E2%86%92%E1%84%81%E1%85%AE%E1%86%B7%E1%84%8B%E1%85%B4-pl-%E1%84%86%E1%85%AE%E1%84%83%E1%85%A2-%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A5%E1%86%BC-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AF-%E1%84%8B%E1%85%B1%E1%84%80%E1%85%B5--%E1%84%8B%E1%85%B2%E1%84%85%E1%85%A5%E1%86%B8-%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%AB-%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%AB-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A1-%E1%84%89%E1%85%B3%E1%84%91%E1%85%A1%E1%84%85%E1%85%B3%E1%84%90%E1%85%A1%E1%84%8F%E1%85%B3-%E1%84%86%E1%85%A9%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%87%E1%85%A1%E1%84%92%E1%85%A2%E1%86%BC-%E1%84%80%E1%85%A1%E1%84%82%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC-%E1%84%80%E1%85%B3%E1%86%B8%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC/bltf610667537a5a660",
-     "source": "Goal.com"
+     "title": "사순문 장흥군수 “청년이 살고 싶은 장흥… 예산 1조 시대 열 것”",
+     "url": "https://www.segye.com/newsView/20261126515980",
+     "source": "세계일보"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "고양이",
-   "slug": "고양이",
-   "traffic": 500,
-   "startedAt": 1795721400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“프로 가출냥이의 119㎞ 산책”…주인 몰래 기차 타고 런던 다녀온 고양이",
-     "url": "https://www.etnews.com/20261126000347",
-     "source": "전자신문"
-    },
-    {
-     "title": "’방랑벽 냥이’ 영국서 화제…“나홀로 119㎞ 기차여행“",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261125114429Y4U",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "기차 즐기는 英 '탈출귀재' 고양이…홀로 1시간 여행 후 귀환",
-     "url": "https://www.yna.co.kr/view/AKR20261125067300009",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "버스",
-   "slug": "버스",
+   "keyword": "알테오젠",
+   "slug": "알테오젠",
    "traffic": 200,
-   "startedAt": 1795724400.0,
+   "startedAt": 1795726200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "교통약자 1,646만 명…저상버스↑·이동편의시설↓",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724045",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "시내버스 2대 중 1대는 저상버스…국민 3명 중 1명은 교통약자",
-     "url": "https://www.yna.co.kr/view/AKR20261126168500003",
+     "title": "알테오젠, '키트루다SC' 기술료 538원 추가로 받는다",
+     "url": "https://www.yna.co.kr/view/AKR20261126184700017",
      "source": "연합뉴스"
     },
     {
-     "title": "고령화에 국민 3명 중 1명은 교통약자…1년 새 33만명 늘어",
-     "url": "https://www.newsis.com/view/NISX20261126_0003883645",
+     "title": "알테오젠, MSD서 538억원 추가 수령…키트루다SC 두 번째 판매 마일스톤",
+     "url": "https://pharm.edaily.co.kr/news/read?newsId=03670326645649656",
+     "source": "팜이데일리"
+    },
+    {
+     "title": "알테오젠, '키트루다SC' 두번째 마일스톤 수령",
+     "url": "https://www.newsis.com/view/NISX20261126_0003884502",
      "source": "뉴시스"
     }
    ]
   },
   {
-   "rank": 9,
-   "keyword": "전기자동차 배터리",
-   "slug": "전기자동차-배터리",
-   "traffic": 200,
-   "startedAt": 1795723200.0,
+   "rank": 8,
+   "keyword": "삼성자산운용",
+   "slug": "삼성자산운용",
+   "traffic": 100,
+   "startedAt": 1795727400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
-     "url": "https://www.hankyung.com/article/2026112502651",
+     "title": "[조세금융만평] AI 앞에 무력해진 시험 감독망",
+     "url": "https://www.tfmedia.co.kr/news/article.html?no=209117",
+     "source": "조세금융신문"
+    },
+    {
+     "title": "한화 건설부문, 광명 하안주공5단지 수주 한화포레나 브랜드 성장 바탕으로 정비사업 2.5조 달성",
+     "url": "https://www.hanwha.co.kr/newsroom/media_center/news/news_view.do?seq=16446",
+     "source": "한화그룹"
+    },
+    {
+     "title": "한화 건설, 정비사업 2.5조 ‘역대 최대’…실적 연결 관건",
+     "url": "https://www.sentv.co.kr/article/view/sentv202611190141",
+     "source": "서울경제TV"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "한국경제신문사",
+   "slug": "한국경제신문사",
+   "traffic": 100,
+   "startedAt": 1795727400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"삼전닉스 너무 올라서 고민\"…수백억 자산가들의 '속앓이'",
+     "url": "https://www.hankyung.com/article/2026112502771",
      "source": "한국경제"
     },
     {
-     "title": "배터리 리스제 도입 논의…중고 전기차 시장 변 주목",
-     "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005971244",
-     "source": "매일경제TV"
+     "title": "뒷심 부족 삼전닉스에…개미는 '좌불안석'",
+     "url": "https://www.newsis.com/view/NISX20261125_0003881888",
+     "source": "뉴시스"
     },
     {
-     "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
-     "source": "SBS 뉴스"
+     "title": "[전날 애프터마켓] 삼전·SK하닉 상승폭 축소…로봇·2차전지도 밀려",
+     "url": "https://www.etoday.co.kr/news/view/2652508",
+     "source": "이투데이"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "가스 터빈",
-   "slug": "가스-터빈",
-   "traffic": 200,
-   "startedAt": 1795719000.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "마이클세일러",
+   "slug": "마이클세일러",
+   "traffic": 100,
+   "startedAt": 1795726800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "[단독] 가스터빈부터 변압기·케이블까지…美 전력 호황 올라탄 韓 기업",
-     "url": "https://www.hankyung.com/article/202611262574i",
-     "source": "한국경제"
+     "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02728966645649000&mediaCodeNo=257",
+     "source": "이데일리"
     },
     {
-     "title": "100분기 연속 흑자 찍은 LS일렉트릭…“글로벌 배전 빅4와 진검승부”",
-     "url": "https://www.sedaily.com/article/20119296",
-     "source": "서울경제"
+     "title": "비트코인 100이 80으로…CFTC ‘20% 깎기’",
+     "url": "https://www.coinreaders.com/273370",
+     "source": "코인리더스"
     },
     {
-     "title": "[더벨]HT로보틱스, 데이터센터 부품 공급 첫발 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/25/2026112415419613855",
-     "source": "머니투데이"
+     "title": "CFTC, 블록체인 파생상품 거래소 첫 승인…글로벌 암호화폐 규제 체계 본격 가동",
+     "url": "https://www.youthassembly.kr/news/1048565",
+     "source": "유스연합"
     }
    ]
   }
