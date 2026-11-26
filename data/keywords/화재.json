@@ -2,9 +2,9 @@
  "keyword": "화재",
  "slug": "화재",
  "firstSeen": 1795524600.0,
- "lastSeen": 1795539268.4577765,
- "peakRank": 9,
- "peakTraffic": 100,
+ "lastSeen": 1795728409.6498497,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795528426,
@@ -15,9 +15,29 @@
    1795535654,
    10,
    100
+  ],
+  [
+   1795728410,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "물 쏘며 접근하자 \"쾅쾅\" 연쇄 폭음‥\"뒤로 빠져!\" 인천 남동공단 '전력 진화'",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6868810_36918.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "인천 남동산단 PVC공장 화재, 시신 1구 발견",
+   "url": "https://www.donga.com/news/Society/article/all/20261127/135099439/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "직원들 20명 대피했는데 1명 '연락두절'…불 탄 공장서 시신 발견 - 머니투데이",
+   "url": "https://www.mt.co.kr/society/2026/11/26/2026112617495848406",
+   "source": "머니투데이"
+  },
   {
    "title": "구리소방서, 노후 공동주택 화재 취약세대에 화재감지기 보급 강화",
    "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806085",
@@ -66,9 +86,19 @@
  ],
  "days": [
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-27"
  ],
  "related": [
+  "서울수도권",
+  "김장",
+  "정찬성",
+  "크리스털-팰리스-대-레알-소시에다드",
+  "오현규",
+  "고양이",
+  "버스",
+  "전기자동차-배터리",
+  "가스-터빈",
   "pakistan-a-vs-nepal-national-cricket-team-standings",
   "챔피언스리그",
   "주진우",
@@ -79,12 +109,6 @@
   "미국-상품거래위원회",
   "주우재",
   "대전-하나-시티즌-대-베이징-궈안-순위",
-  "united-arab-emirates-national-cricket-team-vs-india-a-cricke",
-  "의식불명",
-  "최재훈",
-  "치안감",
-  "비",
-  "무궁화호",
-  "꽁안-하노이-fc-대-비셀-고베"
+  "united-arab-emirates-national-cricket-team-vs-india-a-cricke"
  ]
 }

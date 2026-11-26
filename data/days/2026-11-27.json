@@ -215,8 +215,8 @@
    "slug": "가스-터빈",
    "firstSeen": 1795719000.0,
    "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795725012.89208
+   "peakTraffic": 200,
+   "lastSeen": 1795728409.6498497
   },
   "경기도": {
    "slug": "경기도",
@@ -224,6 +224,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795725012.89208
+  },
+  "서울수도권": {
+   "slug": "서울수도권",
+   "firstSeen": 1795723800.0,
+   "peakRank": 1,
+   "peakTraffic": 200000,
+   "lastSeen": 1795728409.6498497
+  },
+  "김장": {
+   "slug": "김장",
+   "firstSeen": 1795721400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795728409.6498497
+  },
+  "화재": {
+   "slug": "화재",
+   "firstSeen": 1795724400.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795728409.6498497
+  },
+  "정찬성": {
+   "slug": "정찬성",
+   "firstSeen": 1795723200.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795728409.6498497
+  },
+  "크리스털 팰리스 대 레알 소시에다드": {
+   "slug": "크리스털-팰리스-대-레알-소시에다드",
+   "firstSeen": 1795722600.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795728409.6498497
+  },
+  "오현규": {
+   "slug": "오현규",
+   "firstSeen": 1795722600.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795728409.6498497
+  },
+  "고양이": {
+   "slug": "고양이",
+   "firstSeen": 1795721400.0,
+   "peakRank": 7,
+   "peakTraffic": 500,
+   "lastSeen": 1795728409.6498497
+  },
+  "버스": {
+   "slug": "버스",
+   "firstSeen": 1795724400.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795728409.6498497
+  },
+  "전기자동차 배터리": {
+   "slug": "전기자동차-배터리",
+   "firstSeen": 1795723200.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795728409.6498497
   }
  }
 }

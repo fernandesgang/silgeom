@@ -1,0 +1,46 @@
+{
+ "keyword": "서울수도권",
+ "slug": "서울수도권",
+ "firstSeen": 1795723800.0,
+ "lastSeen": 1795728409.6498497,
+ "peakRank": 1,
+ "peakTraffic": 200000,
+ "history": [
+  [
+   1795728410,
+   1,
+   200000
+  ]
+ ],
+ "news": [
+  {
+   "title": "낮 최고 21도 '포근'…중부 곳곳에 빗방울",
+   "url": "https://www.yna.co.kr/view/AKR20261127003900034",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "[날씨] 11월 말인데 20도 안팎 ’포근’…중부 곳곳 약한 비",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127053917ajC",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "12월 날씨였다 10월 날씨로…기온 ‘급반전’",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8722988",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "김장",
+  "화재",
+  "정찬성",
+  "크리스털-팰리스-대-레알-소시에다드",
+  "오현규",
+  "고양이",
+  "버스",
+  "전기자동차-배터리",
+  "가스-터빈"
+ ]
+}
