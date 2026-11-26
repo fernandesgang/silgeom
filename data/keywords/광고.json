@@ -1,0 +1,46 @@
+{
+ "keyword": "광고",
+ "slug": "광고",
+ "firstSeen": 1795660800.0,
+ "lastSeen": 1795664801.769182,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795664802,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "애플, ‘아이폰 AI 시리’ 기만광고 혐의…역대급 과징금 예고",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645649656",
+   "source": "마켓인"
+  },
+  {
+   "title": "\"시리 한국어 18개월 지연, 기만 광고\"…애플, 공정위 심판대에",
+   "url": "https://www.yna.co.kr/view/AKR20261126095300002",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "이정재",
+  "준법투쟁",
+  "학교-폭력",
+  "미스-유니버스",
+  "불꽃야구",
+  "렛츠런파크-부산경남",
+  "안민석",
+  "에어부산",
+  "문가영"
+ ]
+}

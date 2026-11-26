@@ -1,248 +1,264 @@
 {
- "generatedAt": 1795661168,
+ "generatedAt": 1795664802,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "수험",
-   "slug": "수험",
-   "traffic": 5000,
-   "startedAt": 1795655400.0,
+   "keyword": "이정재",
+   "slug": "이정재",
+   "traffic": 1000,
+   "startedAt": 1795660800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
-     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
-     "source": "주간한국"
+     "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607173970598",
+     "source": "머니투데이"
     },
     {
-     "title": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
-     "url": "https://www.hksisaeconomy.com/news/article.html?no=1304357",
-     "source": "한국시사경제"
+     "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 소감 [이런뉴스]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
-     "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516",
-     "source": "전국매일신문"
+     "title": "'청담부부' 결국 파국?…정우성, 아티스트컴퍼니 지분 매각 [엔터X스탁]",
+     "url": "https://www.hankyung.com/article/202611246138H",
+     "source": "한국경제"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "삼성",
-   "slug": "삼성",
-   "traffic": 2000,
-   "startedAt": 1795656600.0,
+   "keyword": "준법투쟁",
+   "slug": "준법투쟁",
+   "traffic": 500,
+   "startedAt": 1795660200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "삼성전자서비스, 서비스 기술경진대회 개최…AI 활용 역량 평가",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01820406645649656",
-     "source": "마켓인"
+     "title": "\"부장님, 열차가 안 와요\" 출근길 급하게 '반반차'...직장인 속탔다 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/26/2026112609563481950",
+     "source": "머니투데이"
     },
     {
-     "title": "삼성전자서비스, '서비스 기술경진 및 안전혁신대회' 개최",
-     "url": "https://www.etnews.com/20261126000204",
-     "source": "전자신문"
+     "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611260037578547",
+     "source": "YTN"
     },
     {
-     "title": "삼성전자서비스, 엔지니어 기술·안전 역량 겨룬다…31회 경진대회 개최",
-     "url": "https://www.viva100.com/article/20261126500181",
-     "source": "브릿지경제"
+     "title": "철도노조 준법투쟁 돌입…KTX 멈추고 전철 늦어지나",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882575",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "가수",
-   "slug": "가수",
-   "traffic": 2000,
-   "startedAt": 1795654800.0,
+   "keyword": "학교 폭력",
+   "slug": "학교-폭력",
+   "traffic": 500,
+   "startedAt": 1795659000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "음실련·대한가수협회, '힐링콘서트' 개최…박상철·신유·금잔디 등 총출동",
-     "url": "https://www.news1.kr/entertain/music/6366567",
-     "source": "뉴스1"
+     "title": "연제구, ‘건강한 학교 만들기’ 등굣길 캠페인 참여",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261125.99099008166",
+     "source": "국제신문"
     },
     {
-     "title": "한국음악실연자연합회·대한가수협회, 12월 1일 제2회 힐링콘서트",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762971",
-     "source": "국제뉴스"
+     "title": "인천동부교육지원청, 학생 주도 등굣길 캠페인…생명 존중·학교폭력 예방",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806049",
+     "source": "일간투데이"
     },
     {
-     "title": "음악 실연자에 무대 기회…음실련·대한가수협회, 힐링콘서트 개최",
-     "url": "https://www.sportsworldi.com/newsView/20261126505674",
-     "source": "스포츠월드"
+     "title": "아산 송곡초등학교, 민·관·학 합동 '학교폭력 예방 및 청소년 보호 캠페인' 전개 !",
+     "url": "http://m.ctnews.kr/article.php?aid=1795618956465357023",
+     "source": "충청탑뉴스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "기준금리",
-   "slug": "기준금리",
-   "traffic": 2000,
-   "startedAt": 1795654200.0,
+   "keyword": "미스 유니버스",
+   "slug": "미스-유니버스",
+   "traffic": 200,
+   "startedAt": 1795660200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
-     "url": "https://story.pay.naver.com/content/4050_24_C5",
-     "source": "네이버페이 머니스토리"
+     "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
+     "url": "https://www.yna.co.kr/view/AKR20261126001600087",
+     "source": "연합뉴스"
     },
     {
-     "title": "[속보] 한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
-     "url": "https://news.jtbc.co.kr/article/NB12329898",
+     "title": "엄마 ‘미스 유니버스’ 첫 우승…117명 경쟁 뚫고 왕관 [소셜픽]",
+     "url": "https://news.jtbc.co.kr/article/NB12329870",
      "source": "JTBC"
+    },
+    {
+     "title": "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
+     "url": "https://www.khan.co.kr/article/202611260714001",
+     "source": "경향신문"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "진우와 해티",
-   "slug": "진우와-해티",
-   "traffic": 2000,
-   "startedAt": 1795653600.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "불꽃야구",
+   "slug": "불꽃야구",
+   "traffic": 200,
+   "startedAt": 1795660200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "‘1010만 유튜버’ 진우와 해티, 결혼 5년 만에 이혼 발표…“부부 관계 마무리”",
-     "url": "https://www.mk.co.kr/news/hot-issues/12218897",
-     "source": "매일경제"
+     "title": "박용택 vs 이대호, 고척돔서 펼치는 ‘불꽃 파이터즈 시빌 워’ ('불꽃야구2')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MZRTGYRXMNRTSZDBGYYTEYZTGU/",
+     "source": "조선일보"
     },
     {
-     "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
-     "url": "https://www.newsis.com/view/NISX20261126_0003883842",
-     "source": "뉴시스"
+     "title": "'불꽃야구2' 박용택 vs 이대호 감독 맞대결…최지만·노시환 출격",
+     "url": "https://www.etoday.co.kr/news/view/2652825",
+     "source": "이투데이"
     },
     {
-     "title": "국제부부 유튜버 진우·해티 이혼 발표...갈등 빚었던 모습 '재조명'",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763583",
-     "source": "국제뉴스"
+     "title": "‘불꽃야구2’ 버전 시빌워…박용택·이대호, 12월 고척돔서 팀 맞대결",
+     "url": "https://www.sportsworldi.com/newsView/20261125515236",
+     "source": "스포츠월드"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "호랑이",
-   "slug": "호랑이",
-   "traffic": 1000,
-   "startedAt": 1795656000.0,
+   "keyword": "렛츠런파크 부산경남",
+   "slug": "렛츠런파크-부산경남",
+   "traffic": 200,
+   "startedAt": 1795659000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
-     "url": "https://www.hankookilbo.com/news/article/A2026112410080002933",
-     "source": "한국일보"
+     "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882828",
+     "source": "뉴시스"
     },
     {
-     "title": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722621",
-     "source": "KBS 뉴스"
+     "title": "렛츠런파크 부산경남, 27일 브리더스컵 퀸⋅KRA컵 스프린트 개최",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026112514342963064",
+     "source": "부산일보"
     },
     {
-     "title": "“한 마디로 도살장” 호랑이 농장의 참혹한 현실, 남아공 출신 기자의 ‘비통한 외침’ 뒤에는 ‘밀매 조직’이? ...",
-     "url": "https://sports.khan.co.kr/article/202611251814003",
-     "source": "스포츠경향"
+     "title": "렛츠런파크 부산경남 최강 퀸·스프린트 가린다 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/25/2026112515074884846",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "계엄",
-   "slug": "계엄",
-   "traffic": 1000,
-   "startedAt": 1795654200.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "안민석",
+   "slug": "안민석",
+   "traffic": 200,
+   "startedAt": 1795657800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "[속보] 대법원, '한덕수 재판 위증' 윤석열 무죄 확정‥상고 기각",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html",
-     "source": "MBC 뉴스"
+     "title": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
+     "url": "https://www.yna.co.kr/view/AKR20261125141000061",
+     "source": "연합뉴스"
     },
     {
-     "title": "[속보]대법, 윤석열 ‘한덕수 재판 위증’ 무죄 확정",
-     "url": "https://www.donga.com/news/Society/article/all/20261126/135094333/1",
-     "source": "동아일보"
+     "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
+     "source": "인천일보"
     },
     {
-     "title": "‘윤석열 계엄’ 사과 묻자…국힘 김민수 “민주당이 먼저 해야” 궤변",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1289178.html",
-     "source": "한겨레"
+     "title": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
+     "url": "https://www.kyeonggi.com/article/20261125580166",
+     "source": "경기일보"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "순댓국",
-   "slug": "순댓국",
-   "traffic": 500,
-   "startedAt": 1795655400.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 9,
-   "keyword": "전기자동차 배터리",
-   "slug": "전기자동차-배터리",
-   "traffic": 100,
-   "startedAt": 1795657200.0,
+   "keyword": "에어부산",
+   "slug": "에어부산",
+   "traffic": 200,
+   "startedAt": 1795657800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
-     "url": "https://www.hankyung.com/article/2026112502651",
-     "source": "한국경제"
+     "title": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
+     "url": "https://www.yna.co.kr/view/AKR20261125113300051",
+     "source": "연합뉴스"
     },
     {
-     "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
-     "source": "SBS 뉴스"
+     "title": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261125.99099007927",
+     "source": "국제신문"
     },
     {
-     "title": "\"중국차보다 더 싸다\" 아이오닉5, 내년부터 반값에 살 수 있는 '전기차 혜택' 전망",
-     "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53429",
-     "source": "나남뉴스"
+     "title": "트리니티항공, 국제선 탑승률 90%… SNS 팔로워 확대에 최대 10만 원 할인",
+     "url": "https://www.hankookilbo.com/news/article/A2026112516420004191",
+     "source": "한국일보"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "광고",
+   "slug": "광고",
+   "traffic": 100,
+   "startedAt": 1795660800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "애플, ‘아이폰 AI 시리’ 기만광고 혐의…역대급 과징금 예고",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645649656",
+     "source": "마켓인"
+    },
+    {
+     "title": "\"시리 한국어 18개월 지연, 기만 광고\"…애플, 공정위 심판대에",
+     "url": "https://www.yna.co.kr/view/AKR20261126095300002",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "초전마을",
-   "slug": "초전마을",
+   "keyword": "문가영",
+   "slug": "문가영",
    "traffic": 100,
-   "startedAt": 1795656000.0,
+   "startedAt": 1795659600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
-     "source": "MBC 뉴스"
+     "title": "[ET포토] 문가영, '새하얀 아름다움'",
+     "url": "https://www.etnews.com/20261126000038",
+     "source": "전자신문"
     },
     {
-     "title": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
-     "url": "https://www.yna.co.kr/view/AKR20261126082700052",
-     "source": "연합뉴스"
+     "title": "문가영, 긴 생머리 휘날리는 '국민 구여친'…과감해진 튜브톱 [포토]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/26/MUYTGZTFGZRDKOJZGRRDGNJXMI/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "수도권대기환경청, 재생에너지 확대·우수사례 공유 '민·관 성과보고회'",
-     "url": "https://www.news1.kr/local/gyeonggi/6365890",
-     "source": "뉴스1"
+     "title": "문가영, 베레모 쓰고 이국적 분위기…프랑스에서도 빛난 미모",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135085799/1",
+     "source": "동아일보"
     }
    ]
   }

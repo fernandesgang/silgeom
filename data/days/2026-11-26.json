@@ -609,6 +609,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795661168.2156305
+  },
+  "이정재": {
+   "slug": "이정재",
+   "firstSeen": 1795660800.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795664801.769182
+  },
+  "준법투쟁": {
+   "slug": "준법투쟁",
+   "firstSeen": 1795660200.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795664801.769182
+  },
+  "학교 폭력": {
+   "slug": "학교-폭력",
+   "firstSeen": 1795659000.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795664801.769182
+  },
+  "미스 유니버스": {
+   "slug": "미스-유니버스",
+   "firstSeen": 1795660200.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795664801.769182
+  },
+  "불꽃야구": {
+   "slug": "불꽃야구",
+   "firstSeen": 1795660200.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795664801.769182
+  },
+  "렛츠런파크 부산경남": {
+   "slug": "렛츠런파크-부산경남",
+   "firstSeen": 1795659000.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795664801.769182
+  },
+  "안민석": {
+   "slug": "안민석",
+   "firstSeen": 1795657800.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795664801.769182
+  },
+  "에어부산": {
+   "slug": "에어부산",
+   "firstSeen": 1795657800.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795664801.769182
+  },
+  "광고": {
+   "slug": "광고",
+   "firstSeen": 1795660800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795664801.769182
+  },
+  "문가영": {
+   "slug": "문가영",
+   "firstSeen": 1795659600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795664801.769182
   }
  }
 }
