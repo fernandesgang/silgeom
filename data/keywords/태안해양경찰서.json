@@ -1,0 +1,46 @@
+{
+ "keyword": "태안해양경찰서",
+ "slug": "태안해양경찰서",
+ "firstSeen": 1795671600.0,
+ "lastSeen": 1795676026.317492,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795676026,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "담보금 30억원 미납한 중국어선 선장 등 2명 구속",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8723367",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "경계선 2.8㎞ 안쪽서 까나리 8t···무허가 조업 중국어선 2척 나포",
+   "url": "https://www.khan.co.kr/article/202611261412001",
+   "source": "경향신문"
+  },
+  {
+   "title": "불법 中 어선 ‘소유권 포기’ 늘어… 담보금 3억→15억 급등 영향",
+   "url": "https://biz.chosun.com/topics/topics_social/2026/11/26/RFL56BCUIFGP5FGUC4PXEIPTR4/",
+   "source": "Chosunbiz"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "리트-냥이",
+  "종합-부동산-세",
+  "kbo-시상식",
+  "맥도날드",
+  "보험",
+  "2027학년도-대학수학능력시험",
+  "부산일보",
+  "남동공단-화재",
+  "신동엽"
+ ]
+}

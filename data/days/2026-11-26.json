@@ -741,7 +741,70 @@
    "firstSeen": 1795666800.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795672120.4703028
+   "lastSeen": 1795676026.317492
+  },
+  "리트 냥이": {
+   "slug": "리트-냥이",
+   "firstSeen": 1795672200.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795676026.317492
+  },
+  "종합 부동산 세": {
+   "slug": "종합-부동산-세",
+   "firstSeen": 1795670400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795676026.317492
+  },
+  "kbo 시상식": {
+   "slug": "kbo-시상식",
+   "firstSeen": 1795668600.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795676026.317492
+  },
+  "맥도날드": {
+   "slug": "맥도날드",
+   "firstSeen": 1795672200.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795676026.317492
+  },
+  "보험": {
+   "slug": "보험",
+   "firstSeen": 1795670400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795676026.317492
+  },
+  "2027학년도 대학수학능력시험": {
+   "slug": "2027학년도-대학수학능력시험",
+   "firstSeen": 1795669800.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795676026.317492
+  },
+  "부산일보": {
+   "slug": "부산일보",
+   "firstSeen": 1795668600.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795676026.317492
+  },
+  "남동공단 화재": {
+   "slug": "남동공단-화재",
+   "firstSeen": 1795672200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795676026.317492
+  },
+  "태안해양경찰서": {
+   "slug": "태안해양경찰서",
+   "firstSeen": 1795671600.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795676026.317492
   }
  }
 }

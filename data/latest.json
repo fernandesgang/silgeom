@@ -1,40 +1,14 @@
 {
- "generatedAt": 1795672120,
+ "generatedAt": 1795676026,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "연금",
-   "slug": "연금",
-   "traffic": 20000,
-   "startedAt": 1795664400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"천6백조 국민연금 곁으로\"...국내외 금융기관들 '전주 러시'",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611261301320715",
-     "source": "YTN"
-    },
-    {
-     "title": "'연금 자산 54%' KCGI운용, 전주에 둥지…국민연금과 밀착 소통",
-     "url": "https://v.daum.net/v/UhnoY23GSi",
-     "source": "Daum"
-    },
-    {
-     "title": "키움투자자산운용 전주사무소 개소…전북 금융생태계 역동성 더해",
-     "url": "https://www.etnews.com/20261125000248",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "경찰",
-   "slug": "경찰",
+   "keyword": "리트 냥이",
+   "slug": "리트-냥이",
    "traffic": 5000,
-   "startedAt": 1795665000.0,
-   "change": "same",
+   "startedAt": 1795672200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
@@ -43,181 +17,217 @@
      "source": "경향신문"
     },
     {
-     "title": "경찰, 고 이진우 자택·시험지 보관장소 압수수색",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126133720DEs",
+     "title": "[사건현장] 고 이진우 자취방 압수수색…핵심증거 확보할까?",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126151715igx",
      "source": "연합뉴스TV"
     },
     {
-     "title": "경찰, '리트 만점자' 故이진우 자취방 탐문 수사…생전 행적 조사",
-     "url": "https://www.newsis.com/view/NISX20261126_0003883841",
-     "source": "뉴시스"
+     "title": "경찰, '리트 만점자 부정 시험 의혹' 법전원협의회에 수사 협조 요청",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868769_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "종합 부동산 세",
+   "slug": "종합-부동산-세",
+   "traffic": 2000,
+   "startedAt": 1795670400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“아무것도 안 했는데 세금 5배 뛰었다”…종부세 고지서에 놀란 1주택자들",
+     "url": "https://www.mk.co.kr/news/realestate/12219159",
+     "source": "매일경제"
+    },
+    {
+     "title": "비거주 1주택 공동명의라면 주목... 종부세 공제 18억→12억",
+     "url": "https://www.fnnews.com/news/202611251437507088",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "\"집 한 채인데 고지서가..\" 60대 1주택자 종부세, 연령공제 조건 1위",
+     "url": "https://v.daum.net/v/qeiSpwnQqD",
+     "source": "Daum"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "윤석열 무죄",
-   "slug": "윤석열-무죄",
-   "traffic": 2000,
-   "startedAt": 1795662600.0,
+   "keyword": "kbo 시상식",
+   "slug": "kbo-시상식",
+   "traffic": 1000,
+   "startedAt": 1795668600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
-     "source": "KBS 뉴스"
+     "title": "[속보] '2026 KBO 시상식' 타자 부문 6명 수상⋯구자욱ㆍ김도영 2관왕",
+     "url": "https://www.etoday.co.kr/news/view/2653467",
+     "source": "이투데이"
     },
     {
-     "title": "김민수 \"尹 '대법원 무죄 선고' 가능‥계엄 사과는 민주당 몫\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6868710_36911.html",
-     "source": "MBC 뉴스"
+     "title": "'45홈런' 김도영 vs '197탈삼진' 곽빈…정규시즌 MVP는 누구",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883347",
+     "source": "뉴시스"
     },
     {
-     "title": "[속보]윤석열 ‘한덕수 재판 위증 혐의’ 대법서 무죄 확정",
-     "url": "https://www.khan.co.kr/article/202611261047011",
-     "source": "경향신문"
+     "title": "이승엽보다 19일 빨랐다! KIA 김도영, 역대 최연소 2회 MVP 새 역사... '20홈런 포수' 한화 허인서도 생애 한 번뿐인 신인왕 영예 [KBO 시상식 종합] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/26/2026112613173081676",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "이정재",
-   "slug": "이정재",
-   "traffic": 2000,
-   "startedAt": 1795660800.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607173970598",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 소감 [이런뉴스]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "'청담부부' 결국 파국?…정우성, 아티스트컴퍼니 지분 매각 [엔터X스탁]",
-     "url": "https://www.hankyung.com/article/202611246138H",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "k-라면",
-   "slug": "k-라면",
-   "traffic": 1000,
-   "startedAt": 1795662600.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "세계가 눈 뜬 K라면 맛…“공장 모자랄 판” 난리에 결국",
-     "url": "https://www.joongang.co.kr/article/25482068",
-     "source": "중앙일보"
-    },
-    {
-     "title": "수출 1조 달러의 빛나는 조연, K-소비재",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458781",
-     "source": "서울Pn"
-    },
-    {
-     "title": "글로벌 식품시장 10조 달러 시대.. K푸드, 현지화·유통망이 성장 열쇠",
-     "url": "https://www.fnnews.com/news/202611241440278751",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "조국",
-   "slug": "조국",
+   "keyword": "맥도날드",
+   "slug": "맥도날드",
    "traffic": 500,
-   "startedAt": 1795664400.0,
-   "change": "same",
+   "startedAt": 1795672200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
-     "url": "https://www.kyeonggi.com/article/20261126580059",
-     "source": "경기일보"
+     "title": "맥도날드, 크리스마스 시즌 한정 메뉴 4종 출시",
+     "url": "https://biz.chosun.com/distribution/food/2026/11/24/DNKTYRM46FC4DDAS7WCTNFPMZI/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "“공공기관 12곳 부지로 1만8000채 공급”",
-     "url": "https://www.khan.co.kr/article/202611252038005",
-     "source": "경향신문"
+     "title": "맥도날드, 크리스마스 앞두고 신메뉴 4종 출시…“치즈 풍미 강화”",
+     "url": "https://www.donga.com/news/Economy/article/all/20261124/135079422/1",
+     "source": "동아일보"
     },
     {
-     "title": "인사말하는 박능후 포럼 사의재 대표",
-     "url": "https://www.news1.kr/photos/8231682",
+     "title": "버거부터 라테·라면까지…식품업계 크리스마스 한정판 선봬",
+     "url": "https://www.news1.kr/industry/distribution/6363627",
      "source": "뉴스1"
     }
    ]
   },
   {
-   "rank": 7,
-   "keyword": "은평구",
-   "slug": "은평구",
+   "rank": 5,
+   "keyword": "보험",
+   "slug": "보험",
    "traffic": 500,
-   "startedAt": 1795661400.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795670400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "은평구, 지방자치 혁신대상 최우수상…전동보장구 이동안전 체계",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763604",
-     "source": "국제뉴스"
+     "title": "보험 판매수수료 과당경쟁 막는다…지급한도·공시 규제 강화",
+     "url": "https://www.yna.co.kr/view/AKR20261126093600002",
+     "source": "연합뉴스"
     },
     {
-     "title": "은평구, 보행환경 우선 점검할 후보 권역 16곳 선정",
-     "url": "https://www.fnnews.com/news/202611161514597849",
-     "source": "파이낸셜뉴스"
+     "title": "과도한 보험 판매수수료 제한…소비자 전가 막는다",
+     "url": "https://stock.mk.co.kr/news/view/1206629",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "전동휠체어 사고 ‘12초’ 만에 감지, 곧바로 119 신고…은평구, 혁신대상 최우수상",
-     "url": "https://www.munhwa.com/article/11634212",
-     "source": "문화일보"
+     "title": "[4년 분급 D-1개월] GA 수수료 배분 주의보… 계약체결비용 총액만 보면 초기 과다 배분 우려",
+     "url": "https://www.insjournal.co.kr/news/articleView.html?idxno=34073",
+     "source": "보험저널"
     }
    ]
   },
   {
-   "rank": 8,
-   "keyword": "김용빈",
-   "slug": "김용빈",
-   "traffic": 200,
-   "startedAt": 1795664400.0,
-   "change": "down",
-   "diff": 1,
+   "rank": 6,
+   "keyword": "2027학년도 대학수학능력시험",
+   "slug": "2027학년도-대학수학능력시험",
+   "traffic": 500,
+   "startedAt": 1795669800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
-     "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1",
-     "source": "스포츠동아"
+     "title": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+     "url": "https://www.joongang.co.kr/article/25482149",
+     "source": "중앙일보"
     },
     {
-     "title": "'미스터트롯4' 안정환 \"역대 최고 시청률\"…김호영·최유정 공약까지",
-     "url": "https://www.etoday.co.kr/news/view/2652371",
-     "source": "이투데이"
+     "title": "[자막뉴스] 해마다 자랑하던 수능 만점 소식…올해는 학생도 학부모도 '쉬쉬'",
+     "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008864968&oaid=N1008849840&plink=ISSUE&cooper=SBSNEWSMOBEND",
+     "source": "SBS 뉴스"
     },
     {
-     "title": "태평, 새 프로필 공개",
-     "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1072577",
-     "source": "내외뉴스통신"
+     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+     "url": "https://news.jtbc.co.kr/article/NB12329904",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "부산일보",
+   "slug": "부산일보",
+   "traffic": 200,
+   "startedAt": 1795668600.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
+  },
+  {
+   "rank": 8,
+   "keyword": "남동공단 화재",
+   "slug": "남동공단-화재",
+   "traffic": 100,
+   "startedAt": 1795672200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[속보] 인천 고잔동 남동산단서 큰 불…소방당국 진화 중",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611261333259pw",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "인천 남동공단 공장에 큰불...노동자 1명 연락 두절",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611261454405975_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "인천 남동공단 공장 화재 2시간만 초진··· 인명피해 확인 중",
+     "url": "https://www.incheontoday.com/news/articleView.html?idxno=326961",
+     "source": "인천투데이"
     }
    ]
   },
   {
    "rank": 9,
+   "keyword": "태안해양경찰서",
+   "slug": "태안해양경찰서",
+   "traffic": 100,
+   "startedAt": 1795671600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "담보금 30억원 미납한 중국어선 선장 등 2명 구속",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723367",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "경계선 2.8㎞ 안쪽서 까나리 8t···무허가 조업 중국어선 2척 나포",
+     "url": "https://www.khan.co.kr/article/202611261412001",
+     "source": "경향신문"
+    },
+    {
+     "title": "불법 中 어선 ‘소유권 포기’ 늘어… 담보금 3억→15억 급등 영향",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/26/RFL56BCUIFGP5FGUC4PXEIPTR4/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "신동엽",
    "slug": "신동엽",
    "traffic": 100,
    "startedAt": 1795666800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
@@ -230,35 +240,9 @@
      "source": "천지일보"
     },
     {
-     "title": "신동엽·성시경·나연, '2026 KBS 연예대상' MC…40주년 빛낸다",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6366026",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "김희영",
-   "slug": "김희영",
-   "traffic": 100,
-   "startedAt": 1795662000.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "충남도의회 김희영 의원, 청소년활동시설 활성화 간담회 참석...감사패 수여",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723456",
-     "source": "뉴스타운"
-    },
-    {
-     "title": "김희영 충남도의원, 청소년시설 관계자들과 현장 간담회",
-     "url": "https://www.megaccnews.com/news/articleView.html?idxno=19288",
-     "source": "메가충청뉴스"
-    },
-    {
-     "title": "김희영 충남도의원, 청소년 연계 교육 활성화 공로 '감사패'",
-     "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456620",
-     "source": "굿모닝충청"
+     "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+     "url": "https://www.munhwa.com/article/11634103",
+     "source": "문화일보"
     }
    ]
   }

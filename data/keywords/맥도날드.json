@@ -2,17 +2,37 @@
  "keyword": "맥도날드",
  "slug": "맥도날드",
  "firstSeen": 1795232400.0,
- "lastSeen": 1795239023.199839,
- "peakRank": 8,
- "peakTraffic": 200,
+ "lastSeen": 1795676026.317492,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795239023,
    8,
    200
+  ],
+  [
+   1795676026,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "맥도날드, 크리스마스 시즌 한정 메뉴 4종 출시",
+   "url": "https://biz.chosun.com/distribution/food/2026/11/24/DNKTYRM46FC4DDAS7WCTNFPMZI/",
+   "source": "Chosunbiz"
+  },
+  {
+   "title": "맥도날드, 크리스마스 앞두고 신메뉴 4종 출시…“치즈 풍미 강화”",
+   "url": "https://www.donga.com/news/Economy/article/all/20261124/135079422/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "버거부터 라테·라면까지…식품업계 크리스마스 한정판 선봬",
+   "url": "https://www.news1.kr/industry/distribution/6363627",
+   "source": "뉴스1"
+  },
   {
    "title": "존박이 랩으로 주문한 그 버거 어디 갔지?…맥도날드 ‘빅아치’ 사라진 이유",
    "url": "https://m.ddaily.co.kr/page/view/2026112015561438469",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-26"
  ],
  "related": [
+  "리트-냥이",
+  "종합-부동산-세",
+  "kbo-시상식",
+  "보험",
+  "2027학년도-대학수학능력시험",
+  "부산일보",
+  "남동공단-화재",
+  "태안해양경찰서",
+  "신동엽",
   "대통령",
   "빅터-레이예스",
   "퇴직금",

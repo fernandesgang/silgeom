@@ -1,0 +1,46 @@
+{
+ "keyword": "남동공단 화재",
+ "slug": "남동공단-화재",
+ "firstSeen": 1795672200.0,
+ "lastSeen": 1795676026.317492,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795676026,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "[속보] 인천 고잔동 남동산단서 큰 불…소방당국 진화 중",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH202611261333259pw",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "인천 남동공단 공장에 큰불...노동자 1명 연락 두절",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611261454405975_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "인천 남동공단 공장 화재 2시간만 초진··· 인명피해 확인 중",
+   "url": "https://www.incheontoday.com/news/articleView.html?idxno=326961",
+   "source": "인천투데이"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "리트-냥이",
+  "종합-부동산-세",
+  "kbo-시상식",
+  "맥도날드",
+  "보험",
+  "2027학년도-대학수학능력시험",
+  "부산일보",
+  "태안해양경찰서",
+  "신동엽"
+ ]
+}
