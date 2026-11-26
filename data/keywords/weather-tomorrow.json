@@ -1,0 +1,44 @@
+{
+ "keyword": "weather tomorrow",
+ "slug": "weather-tomorrow",
+ "firstSeen": 1795693800.0,
+ "lastSeen": 1795697753.2996814,
+ "peakRank": 2,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795697753,
+   2,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "Weather Tomorrow November 27, 2026: Rain in Tamil Nadu, dry and sunny conditions in Delhi, Bihar, Odisha;",
+   "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-27-2026-rain-in-tamil-nadu-dry-and-sunny-conditions-in-delhi-bihar-odisha-check-state-wise-forecast/articleshow/136190343.cms",
+   "source": "The Economic Times"
+  },
+  {
+   "title": "Weather Tomorrow, November 22, 2026: Showers in Bihar and West Bengal, sunny skies in Delhi and Tamil Nadu",
+   "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-22-2026-showers-in-bihar-and-west-bengal-sunny-skies-in-delhi-and-tamil-nadu-check-full-forecast/articleshow/136054580.cms",
+   "source": "The Economic Times"
+  },
+  {
+   "title": "Hyderabad Weather Today, November 26: IMD Forecasts Isolated Rain in Telangana",
+   "url": "https://hyderabadmail.com/hyderabad-weather-today-november-26-imd-forecasts-isolated-rain-in-telangana-temperatures-to-fall/",
+   "source": "Hyderabad Mail"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "내일-날씨",
+  "계약금",
+  "두산타워",
+  "박장범",
+  "근로장려금-신청",
+  "슈퍼문",
+  "스파이더맨-브랜드-뉴-데이"
+ ]
+}
