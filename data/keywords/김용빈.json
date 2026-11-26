@@ -2,7 +2,7 @@
  "keyword": "김용빈",
  "slug": "김용빈",
  "firstSeen": 1795664400.0,
- "lastSeen": 1795668881.1146946,
+ "lastSeen": 1795672120.4703028,
  "peakRank": 7,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,19 @@
    1795668881,
    7,
    200
+  ],
+  [
+   1795672120,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "태평, 새 프로필 공개",
+   "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1072577",
+   "source": "내외뉴스통신"
+  },
   {
    "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
    "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1",
@@ -33,6 +43,8 @@
   "2026-11-26"
  ],
  "related": [
+  "윤석열-무죄",
+  "신동엽",
   "연금",
   "경찰",
   "이정재",

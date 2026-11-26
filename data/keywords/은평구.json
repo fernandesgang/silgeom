@@ -2,7 +2,7 @@
  "keyword": "은평구",
  "slug": "은평구",
  "firstSeen": 1795661400.0,
- "lastSeen": 1795668881.1146946,
+ "lastSeen": 1795672120.4703028,
  "peakRank": 5,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795668881,
    5,
    500
+  ],
+  [
+   1795672120,
+   7,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "은평구, 지방자치 혁신대상 최우수상…전동보장구 이동안전 체계",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763604",
+   "source": "국제뉴스"
+  },
+  {
+   "title": "은평구, 보행환경 우선 점검할 후보 권역 16곳 선정",
+   "url": "https://www.fnnews.com/news/202611161514597849",
+   "source": "파이낸셜뉴스"
+  },
+  {
+   "title": "전동휠체어 사고 ‘12초’ 만에 감지, 곧바로 119 신고…은평구, 혁신대상 최우수상",
+   "url": "https://www.munhwa.com/article/11634212",
+   "source": "문화일보"
+  },
   {
    "title": "용산구, ‘적극행정’ 우수 공무원 6인 선정 [지금 구청은]",
    "url": "https://biz.heraldcorp.com/article/10950171",
@@ -33,6 +53,8 @@
   "2026-11-26"
  ],
  "related": [
+  "윤석열-무죄",
+  "신동엽",
   "연금",
   "경찰",
   "이정재",

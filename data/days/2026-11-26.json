@@ -615,7 +615,7 @@
    "firstSeen": 1795660800.0,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795668881.1146946
+   "lastSeen": 1795672120.4703028
   },
   "준법투쟁": {
    "slug": "준법투쟁",
@@ -685,49 +685,63 @@
    "firstSeen": 1795664400.0,
    "peakRank": 1,
    "peakTraffic": 20000,
-   "lastSeen": 1795668881.1146946
+   "lastSeen": 1795672120.4703028
   },
   "경찰": {
    "slug": "경찰",
    "firstSeen": 1795665000.0,
    "peakRank": 2,
-   "peakTraffic": 2000,
-   "lastSeen": 1795668881.1146946
+   "peakTraffic": 5000,
+   "lastSeen": 1795672120.4703028
   },
   "k-라면": {
    "slug": "k-라면",
    "firstSeen": 1795662600.0,
    "peakRank": 4,
-   "peakTraffic": 500,
-   "lastSeen": 1795668881.1146946
+   "peakTraffic": 1000,
+   "lastSeen": 1795672120.4703028
   },
   "은평구": {
    "slug": "은평구",
    "firstSeen": 1795661400.0,
    "peakRank": 5,
    "peakTraffic": 500,
-   "lastSeen": 1795668881.1146946
+   "lastSeen": 1795672120.4703028
   },
   "조국": {
    "slug": "조국",
    "firstSeen": 1795664400.0,
    "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795668881.1146946
+   "peakTraffic": 500,
+   "lastSeen": 1795672120.4703028
   },
   "김용빈": {
    "slug": "김용빈",
    "firstSeen": 1795664400.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795668881.1146946
+   "lastSeen": 1795672120.4703028
   },
   "김희영": {
    "slug": "김희영",
    "firstSeen": 1795662000.0,
    "peakRank": 10,
    "peakTraffic": 100,
-   "lastSeen": 1795668881.1146946
+   "lastSeen": 1795672120.4703028
+  },
+  "윤석열 무죄": {
+   "slug": "윤석열-무죄",
+   "firstSeen": 1795662600.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795672120.4703028
+  },
+  "신동엽": {
+   "slug": "신동엽",
+   "firstSeen": 1795666800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795672120.4703028
   }
  }
 }
