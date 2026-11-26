@@ -1,18 +1,174 @@
 {
- "generatedAt": 1795681272,
+ "generatedAt": 1795686232,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "이승우",
-   "slug": "이승우",
-   "traffic": 10000,
-   "startedAt": 1795677000.0,
+   "keyword": "이세영",
+   "slug": "이세영",
+   "traffic": 2000,
+   "startedAt": 1795680600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정 다섯 경기서 K리그 ‘대망신’",
+     "title": "종영 앞둔 ‘재혼황후’ 신민아·이봉련...황후와 시녀장의 깊은 신뢰",
+     "url": "https://www.ytn.co.kr/_sn/0117_202611241515092481",
+     "source": "YTN"
+    },
+    {
+     "title": "‘새종석’ 도쿄로 날아갔다",
+     "url": "https://sports.khan.co.kr/article/202611261612003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "[인터뷰] 이세영 \"'재혼황후' 라스타 만족도 90%, 시즌2에선 욕 먹고파\"(종합)",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/26/HEZTMYZUG4ZWEZDBG5RTKMJRGY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "2027 학년도 대학 수학 능력 시험",
+   "slug": "2027-학년도-대학-수학-능력-시험",
+   "traffic": 1000,
+   "startedAt": 1795678200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
+     "url": "https://www.hankyung.com/article/202611261522H",
+     "source": "한국경제"
+    },
+    {
+     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+     "url": "https://news.jtbc.co.kr/article/NB12329904",
+     "source": "JTBC"
+    },
+    {
+     "title": "수능 만점 받고도 '쉬쉬'…학생·부모 모두 신원 공개 꺼리는 이유",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01367766645649656&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "코레일",
+   "slug": "코레일",
+   "traffic": 1000,
+   "startedAt": 1795678200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "철도노조 준법 투쟁 여파로 일반 열차 3대 운행 중지",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723502",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"철도노조 안전운행 투쟁에 광역전철 235대 20분 이상 지연\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261126153051063",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "서울지하철 노사, 500명 충원 합의",
+     "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237926",
+     "source": "매일노동뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "디워",
+   "slug": "디워",
+   "traffic": 200,
+   "startedAt": 1795681800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "단독 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개",
+     "url": "https://www.ytn.co.kr/_sn/0117_202611231130018667",
+     "source": "YTN"
+    },
+    {
+     "title": "심형래, ‘힉스필드’와 협업해 ‘디워’ 새 버전 제작…30분 분량 AI 영상 추가한다",
+     "url": "https://www.sportsseoul.com/news/read/1651994",
+     "source": "스포츠서울"
+    },
+    {
+     "title": "19년 전 작품인데 갑자기 '역주행' 하더니… 급기야 재개봉 소식 뜬 한국 영화",
+     "url": "https://www.wikitree.co.kr/articles/1176829",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "손예진",
+   "slug": "손예진",
+   "traffic": 200,
+   "startedAt": 1795680000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "손예진, ♥정해인과 8년만 밀착 투샷…“너무 뭉클해 마음 뜨거워”",
+     "url": "https://sports.khan.co.kr/article/202611261300003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "손예진은 '밥누나' 정해인, 현빈은 '삼순이' 정려원과…청룡서 재회",
+     "url": "https://www.newsis.com/view/NISX20261126_0003884219",
+     "source": "뉴시스"
+    },
+    {
+     "title": "손예진, ♥현빈 아닌 정해인과 팔짱…'예쁜 누나' 8년만의 재회인데 비주얼 여전",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6367320",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "이집트",
+   "slug": "이집트",
+   "traffic": 200,
+   "startedAt": 1795678800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“탈출할 시간조차 없었다”…이집트 유조차 충돌 화재 최소 30명 사망 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723106",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[쇼츠] 치솟은 시뻘건 화염과 연기…유조차 폭발에 아비규환",
+     "url": "https://www.yna.co.kr/view/AKR20261126156100704",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "이집트 카이로 외곽도로서 충돌 사고로 30여 명 사망",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126083352Pjf",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "이승우",
+   "slug": "이승우",
+   "traffic": 200,
+   "startedAt": 1795677000.0,
+   "change": "down",
+   "diff": 6,
+   "news": [
+    {
+     "title": "격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정서 ‘벽 느꼈다’ 망신 당한 K리그",
      "url": "https://www.khan.co.kr/article/202611261438001",
      "source": "경향신문"
     },
@@ -29,188 +185,80 @@
    ]
   },
   {
-   "rank": 2,
-   "keyword": "마이클 버리",
-   "slug": "마이클-버리",
-   "traffic": 1000,
-   "startedAt": 1795675200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "마이클 버리, 나스닥 100 풋옵션 전량 매도…“포트폴리오는 롱 중심”",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2190694",
-     "source": "Investing.com 한국어"
-    },
-    {
-     "title": "‘빅쇼트’ 버리, 나스닥 하락 베팅 청산…엔비디아 재매도 예고",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112608153972229a1f309431_1",
-     "source": "글로벌이코노믹"
-    },
-    {
-     "title": "'빅쇼트' 버리 \"엔비디아, 200달러 근접하면 다시 공매도\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446580",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "김민식",
-   "slug": "김민식",
-   "traffic": 500,
-   "startedAt": 1795676400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "프로야구 LG, 2회 우승 포수 김민식 영입",
-     "url": "https://www.joongang.co.kr/article/25482153",
-     "source": "중앙일보"
-    },
-    {
-     "title": "프로야구 LG, SSG 떠난 베테랑 포수 김민식 영입",
-     "url": "https://www.yna.co.kr/view/AKR20261126062000007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "FA 박동원 놓칠 경우 대비일까...SSG 방출 김민식, LG 전격 계약 \"풍부한 경험으로 포수 뎁스 강화\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/26/202611261003774987O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "골든글러브",
-   "slug": "골든글러브",
-   "traffic": 500,
-   "startedAt": 1795675800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "김경문이 키운 '제2의 양의지' 허인서, 16년 만의 포수 신인왕",
-     "url": "https://www.yna.co.kr/view/AKR20261126141700007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "한화 허인서, 최고 신인 영예…16년 만에 '포수 신인왕'",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865183",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "[사진]허인서,'자랑스런 신인상' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/26/202611261526777497O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "kbo mvp",
-   "slug": "kbo-mvp",
+   "rank": 8,
+   "keyword": "우재준",
+   "slug": "우재준",
    "traffic": 200,
-   "startedAt": 1795675200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Kim Do-yeong wins second KBO MVP after leading league in home runs",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/26/EECVILMVRVDGPNOZBVJSAPCUIE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Eagles catcher Heo In-seo voted KBO's top rookie for 2026",
-     "url": "https://en.yna.co.kr/view/AEN20261126007800315",
-     "source": "Yonhap News Agency"
-    },
-    {
-     "title": "There was nothing unusual about it. Heo In-seo (Hanwha Eagles) was honored with the Rookie of the Ye..",
-     "url": "https://www.mk.co.kr/en/sports/12219431",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "김민석",
-   "slug": "김민석",
-   "traffic": 200,
-   "startedAt": 1795674000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "김민석, 오늘 충북 음성에서 ‘소방 현장 대응력 강화’ 간담회",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722794",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "신용한 충북지사, 김민석 대표에게 국립소방병원 육성 등 건의",
-     "url": "https://www.yna.co.kr/view/AKR20261126151800064",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "\"임신 24주 산모가 130㎞ 서울행이 현실\"… 신용한이 김민석에 건넨 소방병원 구상",
-     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/26/2026112650360.html",
-     "source": "뉴데일리 충청세종"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "36사단",
-   "slug": "36사단",
-   "traffic": 100,
    "startedAt": 1795677000.0,
    "change": "new",
    "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 8,
-   "keyword": "35사단",
-   "slug": "35사단",
-   "traffic": 100,
-   "startedAt": 1795676400.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "‘난장판’ 국힘, 공개 회의서 우재준·김민수 충돌…정점식, 자리 박차고 이탈",
+     "url": "https://news.jtbc.co.kr/article/NB12329971",
+     "source": "JTBC"
+    },
+    {
+     "title": "“당 꼬라지 하고는”…‘조작 징계 의혹’ 두고 두쪽 난 국힘 최고위",
+     "url": "https://www.hani.co.kr/arti/politics/assembly/1289183.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "“당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/26/UJ3U7E2OLFEIPCXQTFYQBUYSJU/",
+     "source": "조선일보"
+    }
+   ]
   },
   {
    "rank": 9,
-   "keyword": "음악회",
-   "slug": "음악회",
+   "keyword": "영업 비밀",
+   "slug": "영업-비밀",
    "traffic": 100,
-   "startedAt": 1795673400.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 10,
-   "keyword": "백철승",
-   "slug": "백철승",
-   "traffic": 100,
-   "startedAt": 1795672800.0,
+   "startedAt": 1795679400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "현대차그룹, 위기 속 안정 선택...계열사 4곳 수장 교체",
-     "url": "https://zdnet.co.kr/view/?no=20261126105023",
-     "source": "지디넷코리아"
+     "title": "“35년 근무한 기술부장이 반도체 핵심기술 중국에 넘겼다”... 日 아사히카세이 영업비밀 유출, 전 직원 기소",
+     "url": "http://www.e-patentnews.com/15988",
+     "source": "특허뉴스"
     },
     {
-     "title": "현대차·기아 사장 유임…현대모비스 신임 대표에 백철승",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446649",
-     "source": "연합인포맥스"
+     "title": "\"민주당 초광역특구법 저지 투쟁\"",
+     "url": "https://www.newsis.com/view/NISI20261125_0002301866",
+     "source": "뉴시스"
     },
     {
-     "title": "신임받은 현대차 무뇨스, 글로벌 불확실성 넘어 부진 탈출 과제",
-     "url": "https://www.yna.co.kr/view/AKR20261126084000003",
-     "source": "연합뉴스"
+     "title": "나쁜 일자리라도 줄 테니 시간과 삶 내놓으라? [왜냐면]",
+     "url": "https://www.hani.co.kr/arti/opinion/because/1289160.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "김시아",
+   "slug": "김시아",
+   "traffic": 100,
+   "startedAt": 1795677600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[ET포토] 김민, '인상파'",
+     "url": "https://www.etnews.com/20261126000018",
+     "source": "전자신문"
+    },
+    {
+     "title": "[포토] 배우 이우태, 청담동 나들이",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650229.html",
+     "source": "뉴데일리"
+    },
+    {
+     "title": "[사진]김민, 야생마 같은 매력",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GBQTMZJWGQYDONJZGI2GINTCME/",
+     "source": "조선일보"
     }
    ]
   }

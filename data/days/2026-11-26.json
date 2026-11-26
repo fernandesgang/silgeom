@@ -811,7 +811,7 @@
    "firstSeen": 1795677000.0,
    "peakRank": 1,
    "peakTraffic": 10000,
-   "lastSeen": 1795681271.9231207
+   "lastSeen": 1795686231.6134508
   },
   "마이클 버리": {
    "slug": "마이클-버리",
@@ -875,6 +875,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795681271.9231207
+  },
+  "이세영": {
+   "slug": "이세영",
+   "firstSeen": 1795680600.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795686231.6134508
+  },
+  "2027 학년도 대학 수학 능력 시험": {
+   "slug": "2027-학년도-대학-수학-능력-시험",
+   "firstSeen": 1795678200.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795686231.6134508
+  },
+  "코레일": {
+   "slug": "코레일",
+   "firstSeen": 1795678200.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795686231.6134508
+  },
+  "디워": {
+   "slug": "디워",
+   "firstSeen": 1795681800.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795686231.6134508
+  },
+  "손예진": {
+   "slug": "손예진",
+   "firstSeen": 1795680000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795686231.6134508
+  },
+  "이집트": {
+   "slug": "이집트",
+   "firstSeen": 1795678800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795686231.6134508
+  },
+  "우재준": {
+   "slug": "우재준",
+   "firstSeen": 1795677000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795686231.6134508
+  },
+  "영업 비밀": {
+   "slug": "영업-비밀",
+   "firstSeen": 1795679400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795686231.6134508
+  },
+  "김시아": {
+   "slug": "김시아",
+   "firstSeen": 1795677600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795686231.6134508
   }
  }
 }
