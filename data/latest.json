@@ -1,82 +1,82 @@
 {
- "generatedAt": 1795717332,
+ "generatedAt": 1795721960,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김계리",
-   "slug": "김계리",
-   "traffic": 5000,
-   "startedAt": 1795701600.0,
+   "keyword": "주거",
+   "slug": "주거",
+   "traffic": 500,
+   "startedAt": 1795714800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
-     "source": "KBS 뉴스"
+     "title": "경상남도 주거복지센터, 시·군 주거복지 담당자 실무교육 개최",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764257",
+     "source": "국제뉴스"
     },
     {
-     "title": "[속보]윤석열 ‘한덕수 재판 위증 혐의’ 대법서 무죄 확정",
-     "url": "https://www.khan.co.kr/article/202611261047011",
-     "source": "경향신문"
+     "title": "주거취약계층 맞춤 상담 역량 키운다…광명시 주거복지 교육",
+     "url": "https://www.dailian.co.kr/news/view/1720203/%EC%A3%BC%EA%B1%B0%EC%B7%A8%EC%95%BD%EA%B3%84%EC%B8%B5-%EB%A7%9E%EC%B6%A4-%EC%83%81%EB%8B%B4-%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9A%B4%EB%8B%A4%EA%B4%91-2026",
+     "source": "데일리안"
     },
     {
-     "title": "대법원, '한덕수 재판 위증' 윤석열 무죄 확정‥상고 기각",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html",
-     "source": "MBC 뉴스"
+     "title": "과천시 주거복지센터, ‘2026년 찾아가는 주거복지 교육’ 실시",
+     "url": "https://www.uiwangmedia.com/news/articleView.html?idxno=12480",
+     "source": "의왕미디어저널"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "김민",
-   "slug": "김민",
-   "traffic": 1000,
-   "startedAt": 1795703400.0,
-   "change": "same",
+   "keyword": "브라이턴 대 cs u 크라이오바",
+   "slug": "브라이턴-대-cs-u-크라이오바",
+   "traffic": 500,
+   "startedAt": 1795714200.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[ET포토] 김민, '인상파'",
-     "url": "https://www.etnews.com/20261126000018",
-     "source": "전자신문"
+     "title": "Brighton news: Jack Hinshelwood on using the Conference League to 'push on' this season",
+     "url": "https://www.bbc.com/sport/football/articles/cr15el38q3deo",
+     "source": "BBC"
     },
     {
-     "title": "[영상] 박하선, 꿀피부",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650158.html",
-     "source": "뉴데일리"
+     "title": "Licensable picture: UEFA Conference League - Brighton & Hove Albion v Universitatea Craiova",
+     "url": "https://www.reutersconnect.com/item/uefa-conference-league-brighton-hove-albion-v-universitatea-craiova/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExSEhOQkc",
+     "source": "Reuters Connect"
     },
     {
-     "title": "[사진]김민, 야생마 같은 매력",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GBQTMZJWGQYDONJZGI2GINTCME/",
-     "source": "조선일보"
+     "title": "Brighton v Universitatea Craiova Prediction: 11/10 Hadjam to help Seagulls succeed",
+     "url": "https://news.bet365.com/en-gb/article/football-brighton-universitatea-craiova-prediction-and-tips/2026112508292935980",
+     "source": "news.bet365.com"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "강소휘",
-   "slug": "강소휘",
-   "traffic": 1000,
-   "startedAt": 1795701600.0,
-   "change": "same",
+   "keyword": "우크라이나",
+   "slug": "우크라이나",
+   "traffic": 500,
+   "startedAt": 1795713600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723375",
-     "source": "KBS 뉴스"
+     "title": "EU 정상들, 우크라 지원안·7년 장기예산 놓고 격론 돌입",
+     "url": "https://www.yna.co.kr/view/AKR20261126193300098",
+     "source": "연합뉴스"
     },
     {
-     "title": "'모마·마미, 13점씩' 도로공사, 6연승 질주",
-     "url": "https://www.ytn.co.kr/_ln/0107_202611252322000702",
-     "source": "YTN"
+     "title": "\"프랑스 극우 집권 전에 꼭\"…EU, 연말까지 예산안 합의 분투",
+     "url": "https://www.news1.kr/world/europe/6367729",
+     "source": "뉴스1"
     },
     {
-     "title": "'女배구' 초보 감독 돌풍 무섭다! 우승후보 연속 격파 실화? 파죽의 승승승승승승→단독 1위 도약하다",
-     "url": "https://www.chosun.com/sports/volleyball/2026/11/26/MM2TGNRYMRQWMZLDGNRGCYJZHE/",
-     "source": "조선일보"
+     "title": "젤렌스키 \"내년엔 1150억 유로 재정 지원 필요\"…장기전 속 재정난 심화",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883111",
+     "source": "뉴시스"
     }
    ]
   },
@@ -84,88 +84,62 @@
    "rank": 4,
    "keyword": "베식타시 대 하포엘 베르셰바",
    "slug": "베식타시-대-하포엘-베르셰바",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795713000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "Bad news for Besiktas, Wenyen Gabriel has torn his ACL",
-     "url": "https://www.eurohoops.net/en/euroleague/2040653/bad-news-for-besiktas-wenyen-gabriel-has-torn-his-acl/",
-     "source": "Eurohoops"
+     "title": "Beşiktaş vs Hapoel Be'er Sheva: UEFA Europa League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cm4gn89709n7t",
+     "source": "BBC"
     },
     {
-     "title": "Intervention in the Palestinian flag! An incident occurred before the match Beşiktaş will play against the Israeli team",
-     "url": "https://en.haberler.com/intervention-in-the-palestinian-flag-an-incident-2345663/",
+     "title": "Match between Turkey’s Besiktas and Hapoel Beersheba halted amid clash in stands",
+     "url": "https://www.timesofisrael.com/liveblog_entry/match-between-turkeys-besiktas-and-hapoel-beersheba-halted-amid-clash-in-stands/",
+     "source": "The Times of Israel"
+    },
+    {
+     "title": "Support pours in for Beşiktaş from Turkish football! Successive reactions to UEFA",
+     "url": "https://en.haberler.com/support-from-trabzonspor-to-besiktas-reaction-to-2345699/",
      "source": "Haberler.com"
-    },
-    {
-     "title": "Beşiktaş-Hapoel Beer Sheva: Beşiktaş misses Akdag (red card)",
-     "url": "https://www.tufutbolero.com/en/news/besiktas-hapoel-beer-sheva-besiktas-misses-akdag-red-card-e4fe01",
-     "source": "Tu Futbolero"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "스파이",
-   "slug": "스파이",
+   "keyword": "kb국민은행",
+   "slug": "kb국민은행",
    "traffic": 200,
-   "startedAt": 1795702200.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795717200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-     "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-     "source": "The New York Times"
+     "title": "소프트제국, 2026 BCGW서 유공 표창 수상…디지털배지·AI 평가 솔루션 선봬",
+     "url": "https://www.etnews.com/20261126000264",
+     "source": "전자신문"
     },
     {
-     "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
-     "url": "https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7",
-     "source": "WSJ"
+     "title": "디지털 지갑 속 예금토큰으로 결제…국민銀, 체험 시연 - 머니투데이",
+     "url": "https://www.mt.co.kr/finance/2026/11/26/2026112616194992064",
+     "source": "머니투데이"
     },
     {
-     "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-     "url": "https://www.reuters.com/business/finance/alice-huang-linked-firms-listed-270-million-ai-servers-china-records-show-2026-11-25/",
-     "source": "Reuters"
+     "title": "iM뱅크, QR 결제로 선보이는 예금토큰 기반 금융 서비스",
+     "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650453.html",
+     "source": "뉴데일리 대구경북"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "크리스 리벤",
-   "slug": "크리스-리벤",
-   "traffic": 200,
-   "startedAt": 1795702200.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "“용돈 괜찮으니 아프지 마”…폭풍성장 사랑이 ‘은퇴’ 추성훈 응원",
-     "url": "https://www.joongang.co.kr/article/25481707",
-     "source": "중앙일보"
-    },
-    {
-     "title": "'15세' 추사랑, 벌써 키 172cm..유창한 영어로 국제학교 친구들 소개 ('편스토랑')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MVSTMOLGHE2TQMLGHFRTMNTCG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"추성훈, 사나이인 척\"…日 사쿠라바 아들의 맹비판",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882035",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 7,
    "keyword": "아마존",
    "slug": "아마존",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795710000.0,
-   "change": "same",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "I found the 84 best Amazon Black Friday deals on AirPods, Bissell vacuums and more",
@@ -173,92 +147,118 @@
      "source": "CNN"
     },
     {
-     "title": "The top Thanksgiving Black Friday deals: Save up to 70% at Walmart, Amazon, Kate Spade and more",
-     "url": "https://shopping.yahoo.com/deals/breaking-news/live/the-top-thanksgiving-black-friday-deals-save-up-to-70-at-walmart-amazon-kate-spade-and-more-113918155.html",
-     "source": "Yahoo"
-    },
-    {
      "title": "Amazon’s 85 Best Black Friday Deals to Shop on Thanksgiving Start at 27 Cents Apiece — Up to 75% Off",
      "url": "https://www.foodandwine.com/best-amazon-thanksgiving-black-friday-deals-2026-12217727",
      "source": "Food & Wine"
+    },
+    {
+     "title": "Amazon Black Friday deals: Live updates on the biggest sales from Apple, Yeti, Ninja, Ring, KitchenAid and more during Cyber Week 2026",
+     "url": "https://shopping.yahoo.com/deals/breaking-news/live/amazon-black-friday-deals-live-updates-on-the-biggest-sales-from-apple-yeti-ninja-ring-kitchenaid-and-more-during-cyber-week-2026-153217857.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "연합뉴스",
+   "slug": "연합뉴스",
+   "traffic": 100,
+   "startedAt": 1795717800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "사우디 정유시설 피격으로 1명 사망…가동 일시 중단",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724040",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "후티, 아덴 턱밑까지 진격‥예멘 정부 거점 함락 중대기로",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6868702_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261126008300072",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "유로파리그",
+   "slug": "유로파리그",
+   "traffic": 100,
+   "startedAt": 1795713600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "유로파 리그 크리스탈 팰리스 대 레알 소시에다드 경기 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-real-sociedad-tai-europa-league-1807071.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "크리스탈 팰리스 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "경기 프리뷰: 크리스탈 팰리스 vs 레알 소시에다드, 11월 27일 새벽 3시: 승리는 어디에서 나올까?",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-real-sociedad-3h00-ngay-27-11-chien-thang-noi-dau",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "hj중공업",
+   "slug": "hj중공업",
+   "traffic": 100,
+   "startedAt": 1795708200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "HJ중공업, 2499억원 규모 세종~청주 고속도로 4공구 수주",
+     "url": "https://www.viva100.com/article/20261126501496",
+     "source": "브릿지경제"
+    },
+    {
+     "title": "HJ중공업, 세종~청주 고속도로 4공구 시공권 확보…2499억원 규모",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195825",
+     "source": "주간한국"
+    },
+    {
+     "title": "HJ중공업 '세종~청주 고속도로 4공구' 수주…2499억 규모",
+     "url": "https://www.news1.kr/realestate/general/6366626",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "정연",
    "slug": "정연",
    "traffic": 100,
    "startedAt": 1795707600.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
+    {
+     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
+     "source": "연합뉴스"
+    },
     {
      "title": "이서진, 11살 어린 한지민에 \"갱년기 중년 女\"…막말 비하 논란 - 머니투데이",
      "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112618425270556",
      "source": "머니투데이"
     },
     {
-     "title": "‘80세’ 김용건, 허리 수술 받았는데 “하루에 만보 걸어..병원 부지런히 다닌다” (‘그사친’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MUZDCMDEMVQWGYZTG5STGZJQGQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "노동쟁의",
-   "slug": "노동쟁의",
-   "traffic": 100,
-   "startedAt": 1795702200.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "헌재 “다른 노조 파업 지원했다고 처벌한 옛 노동법은 위헌”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723445",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "신군부가 범죄로 규정한 노동자들의 ‘연대’…헌재, 36년 만에 위헌 결정",
-     "url": "https://www.khan.co.kr/article/202611261644001",
-     "source": "경향신문"
-    },
-    {
-     "title": "헌재 ‘노동쟁의 제3자 개입 금지’ 위헌 결정…36년만에 판단 뒤집어",
-     "url": "https://www.donga.com/news/Politics/article/all/20261126/135096108/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "정은경",
-   "slug": "정은경",
-   "traffic": 100,
-   "startedAt": 1795701000.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[동정] 복지장관, 동대문구-우체국 협업 '찾아가는 그냥드림' 점검",
-     "url": "https://www.yna.co.kr/view/AKR20261126150500530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "생계 막막할 때 받는 ‘그냥드림’ 아시나요",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20566",
-     "source": "이투데이"
-    },
-    {
-     "title": "정은경 장관, 그냥드림과 우체국 협업한 찾아가는 서비스 운영 점검",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=459183",
-     "source": "서울Pn"
+     "title": "몬스타엑스 주헌 \"트와이스 정연과 데뷔 동기, 강단있게 하는 모습 멋있었다\"",
+     "url": "https://biz.chosun.com/entertainment/tv/2026/11/26/GY2TONDEMNTGMMLEGQZGEOLDME/",
+     "source": "Chosunbiz"
     }
    ]
   }

@@ -2,9 +2,9 @@
  "keyword": "주거",
  "slug": "주거",
  "firstSeen": 1795240800.0,
- "lastSeen": 1795250375.5914772,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795721959.5058334,
+ "peakRank": 1,
+ "peakTraffic": 500,
  "history": [
   [
    1795247215,
@@ -15,9 +15,29 @@
    1795250376,
    8,
    200
+  ],
+  [
+   1795721960,
+   1,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "경상남도 주거복지센터, 시·군 주거복지 담당자 실무교육 개최",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764257",
+   "source": "국제뉴스"
+  },
+  {
+   "title": "주거취약계층 맞춤 상담 역량 키운다…광명시 주거복지 교육",
+   "url": "https://www.dailian.co.kr/news/view/1720203/%EC%A3%BC%EA%B1%B0%EC%B7%A8%EC%95%BD%EA%B3%84%EC%B8%B5-%EB%A7%9E%EC%B6%A4-%EC%83%81%EB%8B%B4-%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9A%B4%EB%8B%A4%EA%B4%91-2026",
+   "source": "데일리안"
+  },
+  {
+   "title": "과천시 주거복지센터, ‘2026년 찾아가는 주거복지 교육’ 실시",
+   "url": "https://www.uiwangmedia.com/news/articleView.html?idxno=12480",
+   "source": "의왕미디어저널"
+  },
   {
    "title": "“원룸에 밥상 펼 자리는 있어야”…‘최저주거기준’ 15년 만에 넓어질까?",
    "url": "https://www.khan.co.kr/article/202611210700011",
@@ -50,9 +70,19 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-27"
  ],
  "related": [
+  "브라이턴-대-cs-u-크라이오바",
+  "우크라이나",
+  "베식타시-대-하포엘-베르셰바",
+  "kb국민은행",
+  "아마존",
+  "연합뉴스",
+  "유로파리그",
+  "hj중공업",
+  "정연",
   "산불",
   "삼성전자-tsmc-중국-반도체-출하-중단-및-국내-증시-영향-최신-뉴스-알려줘",
   "손정의",

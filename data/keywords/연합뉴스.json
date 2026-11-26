@@ -1,0 +1,46 @@
+{
+ "keyword": "연합뉴스",
+ "slug": "연합뉴스",
+ "firstSeen": 1795717800.0,
+ "lastSeen": 1795721959.5058334,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795721960,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "사우디 정유시설 피격으로 1명 사망…가동 일시 중단",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724040",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "후티, 아덴 턱밑까지 진격‥예멘 정부 거점 함락 중대기로",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6868702_36925.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
+   "url": "https://www.yna.co.kr/view/AKR20261126008300072",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "주거",
+  "브라이턴-대-cs-u-크라이오바",
+  "우크라이나",
+  "베식타시-대-하포엘-베르셰바",
+  "kb국민은행",
+  "아마존",
+  "유로파리그",
+  "hj중공업",
+  "정연"
+ ]
+}

@@ -102,16 +102,16 @@
   "아마존": {
    "slug": "아마존",
    "firstSeen": 1795710000.0,
-   "peakRank": 7,
-   "peakTraffic": 100,
-   "lastSeen": 1795717331.8607593
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795721959.5058334
   },
   "정연": {
    "slug": "정연",
    "firstSeen": 1795707600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795717331.8607593
+   "lastSeen": 1795721959.5058334
   },
   "노동쟁의": {
    "slug": "노동쟁의",
@@ -131,8 +131,57 @@
    "slug": "베식타시-대-하포엘-베르셰바",
    "firstSeen": 1795713000.0,
    "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795721959.5058334
+  },
+  "주거": {
+   "slug": "주거",
+   "firstSeen": 1795714800.0,
+   "peakRank": 1,
+   "peakTraffic": 500,
+   "lastSeen": 1795721959.5058334
+  },
+  "브라이턴 대 cs u 크라이오바": {
+   "slug": "브라이턴-대-cs-u-크라이오바",
+   "firstSeen": 1795714200.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795721959.5058334
+  },
+  "우크라이나": {
+   "slug": "우크라이나",
+   "firstSeen": 1795713600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795721959.5058334
+  },
+  "kb국민은행": {
+   "slug": "kb국민은행",
+   "firstSeen": 1795717200.0,
+   "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795717331.8607593
+   "lastSeen": 1795721959.5058334
+  },
+  "연합뉴스": {
+   "slug": "연합뉴스",
+   "firstSeen": 1795717800.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795721959.5058334
+  },
+  "유로파리그": {
+   "slug": "유로파리그",
+   "firstSeen": 1795713600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795721959.5058334
+  },
+  "hj중공업": {
+   "slug": "hj중공업",
+   "firstSeen": 1795708200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795721959.5058334
   }
  }
 }
