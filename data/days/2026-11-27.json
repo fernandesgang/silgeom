@@ -34,7 +34,7 @@
    "firstSeen": 1795706281.5257342,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "올림픽선수기자촌": {
    "slug": "올림픽선수기자촌",
@@ -62,7 +62,7 @@
    "firstSeen": 1795706281.5257342,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "회계사": {
    "slug": "회계사",
@@ -76,14 +76,14 @@
    "firstSeen": 1795710252.0764704,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "정은경": {
    "slug": "정은경",
    "firstSeen": 1795710252.0764704,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "삼성반도체": {
    "slug": "삼성반도체",
@@ -97,28 +97,42 @@
    "firstSeen": 1795714203.323478,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "아마존": {
    "slug": "아마존",
    "firstSeen": 1795710000.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "정연": {
    "slug": "정연",
    "firstSeen": 1795707600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
   },
   "노동쟁의": {
    "slug": "노동쟁의",
    "firstSeen": 1795714203.323478,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795714203.323478
+   "lastSeen": 1795717331.8607593
+  },
+  "김계리": {
+   "slug": "김계리",
+   "firstSeen": 1795717331.8607593,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795717331.8607593
+  },
+  "베식타시 대 하포엘 베르셰바": {
+   "slug": "베식타시-대-하포엘-베르셰바",
+   "firstSeen": 1795713000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795717331.8607593
   }
  }
 }
