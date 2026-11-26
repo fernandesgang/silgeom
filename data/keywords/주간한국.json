@@ -2,17 +2,27 @@
  "keyword": "주간한국",
  "slug": "주간한국",
  "firstSeen": 1795586400.0,
- "lastSeen": 1795595003.9769359,
- "peakRank": 10,
- "peakTraffic": 100,
+ "lastSeen": 1795652759.4008384,
+ "peakRank": 6,
+ "peakTraffic": 200,
  "history": [
   [
    1795595004,
    10,
    100
+  ],
+  [
+   1795652759,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "'문무' 이현욱·김강우, 딸 죽음 앞에 폭발한 부자 갈등",
+   "url": "https://www.koreadaily.com/article/20261123232432899",
+   "source": "미주중앙일보"
+  },
   {
    "title": "폐격납고의 화려한 겨울 변신",
    "url": "https://www.koreatimes.net/weekly/180809",
@@ -30,9 +40,18 @@
   }
  ],
  "days": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "related": [
+  "롯데-자이언츠",
+  "sporting-cp-vs-manchester-united-f-c-standings",
+  "리플",
+  "심우정",
+  "철도-파업",
+  "이관희",
+  "대한민국-고용노동부",
+  "주한-중국-대사",
   "이혼",
   "sk하이닉스-채용",
   "엔비디아-ceo-미국-의회-조사-최신-뉴스-알려줘",

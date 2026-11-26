@@ -420,6 +420,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795649158.5221348
+  },
+  "롯데 자이언츠": {
+   "slug": "롯데-자이언츠",
+   "firstSeen": 1795647600.0,
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795652759.4008384
+  },
+  "sporting cp vs manchester united f.c. standings": {
+   "slug": "sporting-cp-vs-manchester-united-f-c-standings",
+   "firstSeen": 1795646400.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795652759.4008384
+  },
+  "리플": {
+   "slug": "리플",
+   "firstSeen": 1795647600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795652759.4008384
+  },
+  "심우정": {
+   "slug": "심우정",
+   "firstSeen": 1795647600.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795652759.4008384
+  },
+  "철도 파업": {
+   "slug": "철도-파업",
+   "firstSeen": 1795648800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795652759.4008384
+  },
+  "주간한국": {
+   "slug": "주간한국",
+   "firstSeen": 1795648800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795652759.4008384
+  },
+  "이관희": {
+   "slug": "이관희",
+   "firstSeen": 1795648200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795652759.4008384
+  },
+  "대한민국 고용노동부": {
+   "slug": "대한민국-고용노동부",
+   "firstSeen": 1795647000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795652759.4008384
+  },
+  "주한 중국 대사": {
+   "slug": "주한-중국-대사",
+   "firstSeen": 1795646400.0,
+   "peakRank": 9,
+   "peakTraffic": 200,
+   "lastSeen": 1795652759.4008384
   }
  }
 }

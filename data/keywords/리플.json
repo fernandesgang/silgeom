@@ -2,17 +2,37 @@
  "keyword": "리플",
  "slug": "리플",
  "firstSeen": 1795459800.0,
- "lastSeen": 1795466360.231098,
- "peakRank": 4,
- "peakTraffic": 200,
+ "lastSeen": 1795652759.4008384,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795466360,
    4,
    200
+  ],
+  [
+   1795652759,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "XRP 한 달 30% 추락…1달러 회복 vs 0.8달러 붕괴",
+   "url": "https://www.g-enews.com/article/Securities/2026/11/202611260335027192e7e8286d56_1",
+   "source": "글로벌이코노믹"
+  },
+  {
+   "title": "리플(XRP) 골든크로스의 함정? 비트코인 대비 강세에도 달러 기준 데드크로스 발생",
+   "url": "https://www.coinreaders.com/273127",
+   "source": "코인리더스"
+  },
+  {
+   "title": "XRP ETF 순자산 10억 달러 밑돌았지만 누적 순유입은 17억 8,000만 달러 유지",
+   "url": "https://www.wikitree.co.kr/articles/1176762",
+   "source": "위키트리"
+  },
   {
    "title": "기대감의 시대 끝...AI, '수익성'으로 증명하라",
    "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231102465190",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-26"
  ],
  "related": [
+  "롯데-자이언츠",
+  "sporting-cp-vs-manchester-united-f-c-standings",
+  "심우정",
+  "철도-파업",
+  "주간한국",
+  "이관희",
+  "대한민국-고용노동부",
+  "주한-중국-대사",
   "탁구",
   "노태문",
   "브뢴뷔-대-미트윌란",

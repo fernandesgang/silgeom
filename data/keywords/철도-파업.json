@@ -1,0 +1,45 @@
+{
+ "keyword": "철도 파업",
+ "slug": "철도-파업",
+ "firstSeen": 1795648800.0,
+ "lastSeen": 1795652759.4008384,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795652759,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
+   "url": "https://news.jtbc.co.kr/article/NB12329874",
+   "source": "JTBC"
+  },
+  {
+   "title": "1부 오늘의 주요뉴스",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868630_37012.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
+   "url": "https://www.khan.co.kr/article/202611252052025",
+   "source": "경향신문"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "롯데-자이언츠",
+  "sporting-cp-vs-manchester-united-f-c-standings",
+  "리플",
+  "심우정",
+  "주간한국",
+  "이관희",
+  "대한민국-고용노동부",
+  "주한-중국-대사"
+ ]
+}
