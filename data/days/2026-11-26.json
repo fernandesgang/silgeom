@@ -510,7 +510,7 @@
    "firstSeen": 1795653600.0,
    "peakRank": 4,
    "peakTraffic": 2000,
-   "lastSeen": 1795658162.965981
+   "lastSeen": 1795661168.2156305
   },
   "병무청": {
    "slug": "병무청",
@@ -523,8 +523,8 @@
    "slug": "계엄",
    "firstSeen": 1795654200.0,
    "peakRank": 6,
-   "peakTraffic": 500,
-   "lastSeen": 1795658162.965981
+   "peakTraffic": 1000,
+   "lastSeen": 1795661168.2156305
   },
   "금리": {
    "slug": "금리",
@@ -553,6 +553,62 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795658162.965981
+  },
+  "수험": {
+   "slug": "수험",
+   "firstSeen": 1795655400.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795661168.2156305
+  },
+  "삼성": {
+   "slug": "삼성",
+   "firstSeen": 1795656600.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795661168.2156305
+  },
+  "가수": {
+   "slug": "가수",
+   "firstSeen": 1795654800.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795661168.2156305
+  },
+  "기준금리": {
+   "slug": "기준금리",
+   "firstSeen": 1795654200.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795661168.2156305
+  },
+  "호랑이": {
+   "slug": "호랑이",
+   "firstSeen": 1795656000.0,
+   "peakRank": 6,
+   "peakTraffic": 1000,
+   "lastSeen": 1795661168.2156305
+  },
+  "순댓국": {
+   "slug": "순댓국",
+   "firstSeen": 1795655400.0,
+   "peakRank": 8,
+   "peakTraffic": 500,
+   "lastSeen": 1795661168.2156305
+  },
+  "전기자동차 배터리": {
+   "slug": "전기자동차-배터리",
+   "firstSeen": 1795657200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795661168.2156305
+  },
+  "초전마을": {
+   "slug": "초전마을",
+   "firstSeen": 1795656000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795661168.2156305
   }
  }
 }

@@ -1,93 +1,119 @@
 {
- "generatedAt": 1795658163,
+ "generatedAt": 1795661168,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "조별리그",
-   "slug": "조별리그",
-   "traffic": 10000,
-   "startedAt": 1795650000.0,
+   "keyword": "수험",
+   "slug": "수험",
+   "traffic": 5000,
+   "startedAt": 1795655400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "U-17 축구대표팀, 조별리그 전승으로 월드컵 32강행‥에콰도르 3-2 제압",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6868667_36946.html",
-     "source": "MBC 뉴스"
+     "title": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
+     "source": "주간한국"
     },
     {
-     "title": "FIFA 주관 대회 사상 첫 3전승+최다 득점+최다 골득실, U-17 대표팀의 미친 질주...'역대 최고' 8강 넘는다! 현지서는 우승후보 거론",
-     "url": "https://www.chosun.com/sports/football/2026/11/26/HA2GCNDBMM4TAY3BMRRWCMJXGM/",
-     "source": "조선일보"
+     "title": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
+     "url": "https://www.hksisaeconomy.com/news/article.html?no=1304357",
+     "source": "한국시사경제"
     },
     {
-     "title": "U17 월드컵 '3연승' 김현준 감독 \"누굴 만나도 주눅 들지 않는다\"",
-     "url": "https://www.news1.kr/sports/soccer/6366409",
-     "source": "뉴스1"
+     "title": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
+     "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516",
+     "source": "전국매일신문"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "빅터 레이예스",
-   "slug": "빅터-레이예스",
-   "traffic": 10000,
-   "startedAt": 1795650000.0,
+   "keyword": "삼성",
+   "slug": "삼성",
+   "traffic": 2000,
+   "startedAt": 1795656600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "일본 구단도 눈독 들였는데…3년 연속 안타왕 레이예스, 롯데와 재계약 합의 “조만간 공식 발표” - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/26/202611260826778420O",
-     "source": "머니투데이"
+     "title": "삼성전자서비스, 서비스 기술경진대회 개최…AI 활용 역량 평가",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01820406645649656",
+     "source": "마켓인"
     },
     {
-     "title": "타 구단 외인 퍼즐 맞추는데…거인은 신중 모드",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261126.22015008107",
-     "source": "국제신문"
+     "title": "삼성전자서비스, '서비스 기술경진 및 안전혁신대회' 개최",
+     "url": "https://www.etnews.com/20261126000204",
+     "source": "전자신문"
     },
     {
-     "title": "[프로야구] 롯데, '3년 연속 안타왕' 레이예스와 동행 이어가나…\"곧 단년 계약 발표\"",
-     "url": "https://www.newspim.com/news/view/20261125001340",
-     "source": "뉴스핌"
+     "title": "삼성전자서비스, 엔지니어 기술·안전 역량 겨룬다…31회 경진대회 개최",
+     "url": "https://www.viva100.com/article/20261126500181",
+     "source": "브릿지경제"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "시청률",
-   "slug": "시청률",
-   "traffic": 5000,
-   "startedAt": 1795651200.0,
+   "keyword": "가수",
+   "slug": "가수",
+   "traffic": 2000,
+   "startedAt": 1795654800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
-     "url": "https://www.joongang.co.kr/article/25481953",
-     "source": "중앙일보"
+     "title": "음실련·대한가수협회, '힐링콘서트' 개최…박상철·신유·금잔디 등 총출동",
+     "url": "https://www.news1.kr/entertain/music/6366567",
+     "source": "뉴스1"
     },
     {
-     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
-     "url": "https://www.fnnews.com/news/202611252205108656",
-     "source": "파이낸셜뉴스"
+     "title": "한국음악실연자연합회·대한가수협회, 12월 1일 제2회 힐링콘서트",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762971",
+     "source": "국제뉴스"
     },
     {
-     "title": "“아직 저 안 보셨잖아요” 육성재, 면접장에서 박민영 재회 후 다시 잡아보는 면접 기회!",
-     "url": "https://programs.sbs.co.kr/drama/ninetosix/clip/90025/OC484417737",
-     "source": "programs.sbs.co.kr"
+     "title": "음악 실연자에 무대 기회…음실련·대한가수협회, 힐링콘서트 개최",
+     "url": "https://www.sportsworldi.com/newsView/20261126505674",
+     "source": "스포츠월드"
     }
    ]
   },
   {
    "rank": 4,
+   "keyword": "기준금리",
+   "slug": "기준금리",
+   "traffic": 2000,
+   "startedAt": 1795654200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
+     "url": "https://story.pay.naver.com/content/4050_24_C5",
+     "source": "네이버페이 머니스토리"
+    },
+    {
+     "title": "[속보] 한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
+     "url": "https://news.jtbc.co.kr/article/NB12329898",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "rank": 5,
    "keyword": "진우와 해티",
    "slug": "진우와-해티",
    "traffic": 2000,
    "startedAt": 1795653600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "‘1010만 유튜버’ 진우와 해티, 결혼 5년 만에 이혼 발표…“부부 관계 마무리”",
@@ -107,158 +133,116 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "병무청",
-   "slug": "병무청",
-   "traffic": 1000,
-   "startedAt": 1795653600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "병무청-군인공제회C&C, 병역의무자 전자도서관 자료 1.1억 기부 약정",
-     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6364613",
-     "source": "뉴스1"
-    },
-    {
-     "title": "서울병무청장, 병역지정업체 방문 산업기능요원 격려",
-     "url": "https://www.ybstv.net/news/article.html?no=72313",
-     "source": "영등포신문"
-    },
-    {
-     "title": "충북병무청, 청주 산업현장 찾아 복무 관리 점검",
-     "url": "https://www.inews365.com/news/article.html?no=945052",
-     "source": "충북일보"
-    }
-   ]
-  },
-  {
    "rank": 6,
-   "keyword": "계엄",
-   "slug": "계엄",
-   "traffic": 500,
-   "startedAt": 1795654200.0,
+   "keyword": "호랑이",
+   "slug": "호랑이",
+   "traffic": 1000,
+   "startedAt": 1795656000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "‘한덕수 재판 위증 혐의’ 윤석열 오늘 대법원 선고…1·2심 무죄",
-     "url": "https://www.khan.co.kr/article/202611260819001",
-     "source": "경향신문"
+     "title": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
+     "url": "https://www.hankookilbo.com/news/article/A2026112410080002933",
+     "source": "한국일보"
     },
     {
-     "title": "[속보] 대법원, '계엄 국무회의 위증' 혐의 윤석열 무죄 확정‥상고 기각",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html",
-     "source": "MBC 뉴스"
+     "title": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722621",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "윤석열 '한덕수 재판 위증' 오늘 대법 선고...남은 재판은?",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611260031382170_005.html",
-     "source": "YTN"
+     "title": "“한 마디로 도살장” 호랑이 농장의 참혹한 현실, 남아공 출신 기자의 ‘비통한 외침’ 뒤에는 ‘밀매 조직’이? ...",
+     "url": "https://sports.khan.co.kr/article/202611251814003",
+     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "금리",
-   "slug": "금리",
-   "traffic": 500,
-   "startedAt": 1795651200.0,
-   "change": "new",
-   "diff": 0,
+   "keyword": "계엄",
+   "slug": "계엄",
+   "traffic": 1000,
+   "startedAt": 1795654200.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "[속보] 한은, 기준금리 3.25%로 0.25%p 인상",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
+     "title": "[속보] 대법원, '한덕수 재판 위증' 윤석열 무죄 확정‥상고 기각",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
-     "url": "https://news.jtbc.co.kr/article/NB12329898",
-     "source": "JTBC"
+     "title": "[속보]대법, 윤석열 ‘한덕수 재판 위증’ 무죄 확정",
+     "url": "https://www.donga.com/news/Society/article/all/20261126/135094333/1",
+     "source": "동아일보"
     },
     {
-     "title": "[속보] 반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상",
-     "url": "https://www.hankyung.com/article/202611261251i",
-     "source": "한국경제"
+     "title": "‘윤석열 계엄’ 사과 묻자…국힘 김민수 “민주당이 먼저 해야” 궤변",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1289178.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "양부남",
-   "slug": "양부남",
+   "keyword": "순댓국",
+   "slug": "순댓국",
    "traffic": 500,
-   "startedAt": 1795650000.0,
+   "startedAt": 1795655400.0,
    "change": "new",
    "diff": 0,
-   "news": [
-    {
-     "title": "정성호 \"조희대 탄핵, 후과에 대한 책임은 여당이 져야\"",
-     "url": "https://www.chosun.com/politics/politics_general/2026/11/26/EGWV5Q3VY5FKJGJ2LZLAUTP5AI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "한병도 “‘조희대 탄핵’ 함께하는 정당들과 사유 구체화…시민사회에도 문 열겠다”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723085",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "한변 \"정략적·당파적 이유로 대법원장 탄핵 추진, 국헌 문란\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126037900004",
-     "source": "연합뉴스"
-    }
-   ]
+   "news": []
   },
   {
    "rank": 9,
-   "keyword": "기장군",
-   "slug": "기장군",
-   "traffic": 200,
-   "startedAt": 1795653000.0,
+   "keyword": "전기자동차 배터리",
+   "slug": "전기자동차-배터리",
+   "traffic": 100,
+   "startedAt": 1795657200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "우성빈 기장군수 \"내년 1인당 30만원 지급…예산 534억원 편성\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125133900051",
-     "source": "연합뉴스"
+     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+     "url": "https://www.hankyung.com/article/2026112502651",
+     "source": "한국경제"
     },
     {
-     "title": "부산 기장군, 군의회에 내년도 본예산안 8459억원 제출",
-     "url": "https://busan.fnnews.com/news/202611251409091520",
-     "source": "부산파이낸셜뉴스"
+     "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
+     "source": "SBS 뉴스"
     },
     {
-     "title": "우성빈 기장군수, 민선 9기 첫 시정 연설…“2027년 군민이 체감하는 결실의 해 될 것”",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261125.99099008118",
-     "source": "국제신문"
+     "title": "\"중국차보다 더 싸다\" 아이오닉5, 내년부터 반값에 살 수 있는 '전기차 혜택' 전망",
+     "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53429",
+     "source": "나남뉴스"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "광주은행",
-   "slug": "광주은행",
+   "keyword": "초전마을",
+   "slug": "초전마을",
    "traffic": 100,
-   "startedAt": 1795651200.0,
+   "startedAt": 1795656000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "광주은행 대학생 홍보대사 해단…6개월 활동 마무리",
-     "url": "https://www.mhns.co.kr/news/articleView.html?idxno=770729",
-     "source": "더쎈뉴스"
+     "title": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "광산구·광주은행 노사, 청년이 머무는 지역 만들기에 뜻 모아",
-     "url": "https://www.welfarenews.net/news/articleView.html?idxno=213101",
-     "source": "웰페어뉴스"
+     "title": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
+     "url": "https://www.yna.co.kr/view/AKR20261126082700052",
+     "source": "연합뉴스"
     },
     {
-     "title": "박병규 광산구청장, “광산구가 청년 수도권 뺏기지 않게 할 정책 마련”",
-     "url": "http://www.ngtv.tv/news/articleView.html?idxno=126662",
-     "source": "NGTV"
+     "title": "수도권대기환경청, 재생에너지 확대·우수사례 공유 '민·관 성과보고회'",
+     "url": "https://www.news1.kr/local/gyeonggi/6365890",
+     "source": "뉴스1"
     }
    ]
   }

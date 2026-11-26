@@ -2,9 +2,9 @@
  "keyword": "수험",
  "slug": "수험",
  "firstSeen": 1795302600.0,
- "lastSeen": 1795312121.2383034,
+ "lastSeen": 1795661168.2156305,
  "peakRank": 1,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795307508,
@@ -15,9 +15,29 @@
    1795312121,
    2,
    2000
+  ],
+  [
+   1795661168,
+   1,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
+   "source": "주간한국"
+  },
+  {
+   "title": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
+   "url": "https://www.hksisaeconomy.com/news/article.html?no=1304357",
+   "source": "한국시사경제"
+  },
+  {
+   "title": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
+   "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516",
+   "source": "전국매일신문"
+  },
   {
    "title": "'리트 만점' 이진우 수사 계속...진실규명 쟁점은?",
    "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611220954387265_005.html",
@@ -45,9 +65,19 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-26"
  ],
  "related": [
+  "삼성",
+  "가수",
+  "기준금리",
+  "진우와-해티",
+  "호랑이",
+  "계엄",
+  "순댓국",
+  "전기자동차-배터리",
+  "초전마을",
   "도경완",
   "담보-대출",
   "마마-어워즈",
@@ -58,10 +88,6 @@
   "부동산",
   "수출규제",
   "알테오젠",
-  "인공지능",
-  "real-madrid-vs-rc-celta-de-vigo-standings",
-  "털",
-  "군인",
-  "화석연료"
+  "인공지능"
  ]
 }

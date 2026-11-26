@@ -2,17 +2,32 @@
  "keyword": "계엄",
  "slug": "계엄",
  "firstSeen": 1795654200.0,
- "lastSeen": 1795658162.965981,
+ "lastSeen": 1795661168.2156305,
  "peakRank": 6,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795658163,
    6,
    500
+  ],
+  [
+   1795661168,
+   7,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "[속보]대법, 윤석열 ‘한덕수 재판 위증’ 무죄 확정",
+   "url": "https://www.donga.com/news/Society/article/all/20261126/135094333/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "‘윤석열 계엄’ 사과 묻자…국힘 김민수 “민주당이 먼저 해야” 궤변",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1289178.html",
+   "source": "한겨레"
+  },
   {
    "title": "‘한덕수 재판 위증 혐의’ 윤석열 오늘 대법원 선고…1·2심 무죄",
    "url": "https://www.khan.co.kr/article/202611260819001",
@@ -33,6 +48,14 @@
   "2026-11-26"
  ],
  "related": [
+  "수험",
+  "삼성",
+  "가수",
+  "기준금리",
+  "호랑이",
+  "순댓국",
+  "전기자동차-배터리",
+  "초전마을",
   "조별리그",
   "빅터-레이예스",
   "시청률",
