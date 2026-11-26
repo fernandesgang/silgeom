@@ -614,8 +614,8 @@
    "slug": "이정재",
    "firstSeen": 1795660800.0,
    "peakRank": 1,
-   "peakTraffic": 1000,
-   "lastSeen": 1795664801.769182
+   "peakTraffic": 2000,
+   "lastSeen": 1795668881.1146946
   },
   "준법투쟁": {
    "slug": "준법투쟁",
@@ -636,7 +636,7 @@
    "firstSeen": 1795660200.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795664801.769182
+   "lastSeen": 1795668881.1146946
   },
   "불꽃야구": {
    "slug": "불꽃야구",
@@ -669,9 +669,9 @@
   "광고": {
    "slug": "광고",
    "firstSeen": 1795660800.0,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795664801.769182
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795668881.1146946
   },
   "문가영": {
    "slug": "문가영",
@@ -679,6 +679,55 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795664801.769182
+  },
+  "연금": {
+   "slug": "연금",
+   "firstSeen": 1795664400.0,
+   "peakRank": 1,
+   "peakTraffic": 20000,
+   "lastSeen": 1795668881.1146946
+  },
+  "경찰": {
+   "slug": "경찰",
+   "firstSeen": 1795665000.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795668881.1146946
+  },
+  "k-라면": {
+   "slug": "k-라면",
+   "firstSeen": 1795662600.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795668881.1146946
+  },
+  "은평구": {
+   "slug": "은평구",
+   "firstSeen": 1795661400.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795668881.1146946
+  },
+  "조국": {
+   "slug": "조국",
+   "firstSeen": 1795664400.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795668881.1146946
+  },
+  "김용빈": {
+   "slug": "김용빈",
+   "firstSeen": 1795664400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795668881.1146946
+  },
+  "김희영": {
+   "slug": "김희영",
+   "firstSeen": 1795662000.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795668881.1146946
   }
  }
 }

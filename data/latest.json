@@ -1,15 +1,67 @@
 {
- "generatedAt": 1795664802,
+ "generatedAt": 1795668881,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "이정재",
-   "slug": "이정재",
-   "traffic": 1000,
-   "startedAt": 1795660800.0,
+   "keyword": "연금",
+   "slug": "연금",
+   "traffic": 20000,
+   "startedAt": 1795664400.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "“국민연금 68세부터?” 정은경 장관, SNS서 ‘괴담’ 진화",
+     "url": "https://bravo.etoday.co.kr/view/atc_view/20605",
+     "source": "이투데이"
+    },
+    {
+     "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+     "url": "https://weekly.khan.co.kr/article/202611250802011",
+     "source": "주간경향"
+    },
+    {
+     "title": "국민연금 수급연령 68세 연장설에 ‘발칵’…정은경 “사실무근”",
+     "url": "https://www.kyeonggi.com/article/20261125580585",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "경찰",
+   "slug": "경찰",
+   "traffic": 2000,
+   "startedAt": 1795665000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+     "url": "https://www.khan.co.kr/article/202611261111001",
+     "source": "경향신문"
+    },
+    {
+     "title": "경찰, '리트 만점자 부정 시험 의혹' 법전원협의회에 수사 협조 요청",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868769_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "'리트 만점자' 고 이진우 생전 집·영훈고등학교 압수수색",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864708",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "이정재",
+   "slug": "이정재",
+   "traffic": 2000,
+   "startedAt": 1795660800.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
@@ -29,65 +81,143 @@
    ]
   },
   {
-   "rank": 2,
-   "keyword": "준법투쟁",
-   "slug": "준법투쟁",
-   "traffic": 500,
-   "startedAt": 1795660200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "\"부장님, 열차가 안 와요\" 출근길 급하게 '반반차'...직장인 속탔다 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112609563481950",
-     "source": "머니투데이"
-    },
-    {
-     "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611260037578547",
-     "source": "YTN"
-    },
-    {
-     "title": "철도노조 준법투쟁 돌입…KTX 멈추고 전철 늦어지나",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882575",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "학교 폭력",
-   "slug": "학교-폭력",
-   "traffic": 500,
-   "startedAt": 1795659000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "연제구, ‘건강한 학교 만들기’ 등굣길 캠페인 참여",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261125.99099008166",
-     "source": "국제신문"
-    },
-    {
-     "title": "인천동부교육지원청, 학생 주도 등굣길 캠페인…생명 존중·학교폭력 예방",
-     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806049",
-     "source": "일간투데이"
-    },
-    {
-     "title": "아산 송곡초등학교, 민·관·학 합동 '학교폭력 예방 및 청소년 보호 캠페인' 전개 !",
-     "url": "http://m.ctnews.kr/article.php?aid=1795618956465357023",
-     "source": "충청탑뉴스"
-    }
-   ]
-  },
-  {
    "rank": 4,
+   "keyword": "k-라면",
+   "slug": "k-라면",
+   "traffic": 500,
+   "startedAt": 1795662600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "세계가 눈 뜬 K라면 맛…“공장 모자랄 판” 난리에 결국",
+     "url": "https://www.joongang.co.kr/article/25482068",
+     "source": "중앙일보"
+    },
+    {
+     "title": "수출 1조 달러의 빛나는 조연, K-소비재",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458781",
+     "source": "서울Pn"
+    },
+    {
+     "title": "글로벌 식품시장 10조 달러 시대.. K푸드, 현지화·유통망이 성장 열쇠",
+     "url": "https://www.fnnews.com/news/202611241440278751",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "은평구",
+   "slug": "은평구",
+   "traffic": 500,
+   "startedAt": 1795661400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "용산구, ‘적극행정’ 우수 공무원 6인 선정 [지금 구청은]",
+     "url": "https://biz.heraldcorp.com/article/10950171",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "용산구, 적극행정 최우수는 AI로 만든 ‘주택가격 플랫폼’",
+     "url": "https://view.asiae.co.kr/article/2026112608475754094",
+     "source": "아시아경제"
+    },
+    {
+     "title": "은평구, 구민이 직접 뽑는 ‘2026년 은평구 10대 정책’ 투표 진행",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3221899&type=&mobile=",
+     "source": "아시아뉴스통신"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "조국",
+   "slug": "조국",
+   "traffic": 200,
+   "startedAt": 1795664400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
+     "url": "https://www.kyeonggi.com/article/20261126580059",
+     "source": "경기일보"
+    },
+    {
+     "title": "“공공기관 12곳 부지로 1만8000채 공급”",
+     "url": "https://www.khan.co.kr/article/202611252038005",
+     "source": "경향신문"
+    },
+    {
+     "title": "인사말하는 박능후 포럼 사의재 대표",
+     "url": "https://www.news1.kr/photos/8231682",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "김용빈",
+   "slug": "김용빈",
+   "traffic": 200,
+   "startedAt": 1795664400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "'미스터트롯4' 안정환 \"역대 최고 시청률\"…김호영·최유정 공약까지",
+     "url": "https://www.etoday.co.kr/news/view/2652371",
+     "source": "이투데이"
+    },
+    {
+     "title": "‘미스터트롯4’ 첫 녹화부터 눈물·환호 터졌다…황신혜 오열",
+     "url": "https://sports.khan.co.kr/article/202611261004003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "광고",
+   "slug": "광고",
+   "traffic": 200,
+   "startedAt": 1795660800.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "아이폰에 '애플 인텔리전스' 9개 기능 탑재 광고 해놓고 실제는 5개만...공정위, 애플 제재 절차 착수",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/26/E4EUWNTAPNDJXDEWDPYAQUFSE4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"시리 한국어 18개월 지연, 기만 광고\"…애플, 공정위 심판대에",
+     "url": "https://www.yna.co.kr/view/AKR20261126095300002",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "미스 유니버스",
    "slug": "미스-유니버스",
    "traffic": 200,
    "startedAt": 1795660200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 5,
    "news": [
     {
      "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
@@ -107,158 +237,28 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "불꽃야구",
-   "slug": "불꽃야구",
-   "traffic": 200,
-   "startedAt": 1795660200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "박용택 vs 이대호, 고척돔서 펼치는 ‘불꽃 파이터즈 시빌 워’ ('불꽃야구2')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MZRTGYRXMNRTSZDBGYYTEYZTGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'불꽃야구2' 박용택 vs 이대호 감독 맞대결…최지만·노시환 출격",
-     "url": "https://www.etoday.co.kr/news/view/2652825",
-     "source": "이투데이"
-    },
-    {
-     "title": "‘불꽃야구2’ 버전 시빌워…박용택·이대호, 12월 고척돔서 팀 맞대결",
-     "url": "https://www.sportsworldi.com/newsView/20261125515236",
-     "source": "스포츠월드"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "렛츠런파크 부산경남",
-   "slug": "렛츠런파크-부산경남",
-   "traffic": 200,
-   "startedAt": 1795659000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882828",
-     "source": "뉴시스"
-    },
-    {
-     "title": "렛츠런파크 부산경남, 27일 브리더스컵 퀸⋅KRA컵 스프린트 개최",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026112514342963064",
-     "source": "부산일보"
-    },
-    {
-     "title": "렛츠런파크 부산경남 최강 퀸·스프린트 가린다 - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/11/25/2026112515074884846",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "안민석",
-   "slug": "안민석",
-   "traffic": 200,
-   "startedAt": 1795657800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
-     "url": "https://www.yna.co.kr/view/AKR20261125141000061",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
-     "source": "인천일보"
-    },
-    {
-     "title": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
-     "url": "https://www.kyeonggi.com/article/20261125580166",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "에어부산",
-   "slug": "에어부산",
-   "traffic": 200,
-   "startedAt": 1795657800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
-     "url": "https://www.yna.co.kr/view/AKR20261125113300051",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261125.99099007927",
-     "source": "국제신문"
-    },
-    {
-     "title": "트리니티항공, 국제선 탑승률 90%… SNS 팔로워 확대에 최대 10만 원 할인",
-     "url": "https://www.hankookilbo.com/news/article/A2026112516420004191",
-     "source": "한국일보"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "광고",
-   "slug": "광고",
-   "traffic": 100,
-   "startedAt": 1795660800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "애플, ‘아이폰 AI 시리’ 기만광고 혐의…역대급 과징금 예고",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645649656",
-     "source": "마켓인"
-    },
-    {
-     "title": "\"시리 한국어 18개월 지연, 기만 광고\"…애플, 공정위 심판대에",
-     "url": "https://www.yna.co.kr/view/AKR20261126095300002",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
    "rank": 10,
-   "keyword": "문가영",
-   "slug": "문가영",
+   "keyword": "김희영",
+   "slug": "김희영",
    "traffic": 100,
-   "startedAt": 1795659600.0,
+   "startedAt": 1795662000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[ET포토] 문가영, '새하얀 아름다움'",
-     "url": "https://www.etnews.com/20261126000038",
-     "source": "전자신문"
+     "title": "김희영 의원, 충남청소년수련시설협회와 현장 간담회 개최 및 감사패 수상",
+     "url": "https://www.megaccnews.com/news/articleView.html?idxno=19246",
+     "source": "메가충청뉴스"
     },
     {
-     "title": "문가영, 긴 생머리 휘날리는 '국민 구여친'…과감해진 튜브톱 [포토]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/26/MUYTGZTFGZRDKOJZGRRDGNJXMI/",
-     "source": "Chosunbiz"
+     "title": "김희영 충남도의원, 청소년시설 현장 간담회 개최… 협회 감사패 받아",
+     "url": "https://asandaily.kr/View.aspx?No=4330848",
+     "source": "아산데일리"
     },
     {
-     "title": "문가영, 베레모 쓰고 이국적 분위기…프랑스에서도 빛난 미모",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135085799/1",
-     "source": "동아일보"
+     "title": "충남소방, AI 도입해 신고부터 출동명령까지 52초→48초",
+     "url": "https://www.yna.co.kr/view/AKR20261125142400063",
+     "source": "연합뉴스"
     }
    ]
   }

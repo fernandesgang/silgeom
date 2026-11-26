@@ -2,17 +2,27 @@
  "keyword": "광고",
  "slug": "광고",
  "firstSeen": 1795660800.0,
- "lastSeen": 1795664801.769182,
- "peakRank": 9,
- "peakTraffic": 100,
+ "lastSeen": 1795668881.1146946,
+ "peakRank": 8,
+ "peakTraffic": 200,
  "history": [
   [
    1795664802,
    9,
    100
+  ],
+  [
+   1795668881,
+   8,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "아이폰에 '애플 인텔리전스' 9개 기능 탑재 광고 해놓고 실제는 5개만...공정위, 애플 제재 절차 착수",
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/26/E4EUWNTAPNDJXDEWDPYAQUFSE4/",
+   "source": "조선일보"
+  },
   {
    "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
@@ -33,6 +43,13 @@
   "2026-11-26"
  ],
  "related": [
+  "연금",
+  "경찰",
+  "k-라면",
+  "은평구",
+  "조국",
+  "김용빈",
+  "김희영",
   "이정재",
   "준법투쟁",
   "학교-폭력",

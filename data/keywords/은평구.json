@@ -1,0 +1,46 @@
+{
+ "keyword": "은평구",
+ "slug": "은평구",
+ "firstSeen": 1795661400.0,
+ "lastSeen": 1795668881.1146946,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795668881,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "용산구, ‘적극행정’ 우수 공무원 6인 선정 [지금 구청은]",
+   "url": "https://biz.heraldcorp.com/article/10950171",
+   "source": "헤럴드경제"
+  },
+  {
+   "title": "용산구, 적극행정 최우수는 AI로 만든 ‘주택가격 플랫폼’",
+   "url": "https://view.asiae.co.kr/article/2026112608475754094",
+   "source": "아시아경제"
+  },
+  {
+   "title": "은평구, 구민이 직접 뽑는 ‘2026년 은평구 10대 정책’ 투표 진행",
+   "url": "https://m.anewsa.com/article_sub3.php?number=3221899&type=&mobile=",
+   "source": "아시아뉴스통신"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "연금",
+  "경찰",
+  "이정재",
+  "k-라면",
+  "조국",
+  "김용빈",
+  "광고",
+  "미스-유니버스",
+  "김희영"
+ ]
+}
