@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795697753,
+ "generatedAt": 1795702149,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "내일 날씨",
-   "slug": "내일-날씨",
-   "traffic": 100000,
-   "startedAt": 1795693800.0,
+   "keyword": "나인투식스",
+   "slug": "나인투식스",
+   "traffic": 5000,
+   "startedAt": 1795695000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "12월 날씨였다 10월 날씨로…기온 ‘급반전’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722988",
-     "source": "KBS 뉴스"
+     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
+     "url": "https://www.fnnews.com/news/202611252205108656",
+     "source": "파이낸셜뉴스"
     },
     {
-     "title": "[날씨] 내일도 한낮 포근 ’서울 16도’…중부 약한 비",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126212819Z4K",
-     "source": "연합뉴스TV"
+     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
+     "url": "https://www.joongang.co.kr/article/25481953",
+     "source": "중앙일보"
     },
     {
-     "title": "[주말날씨] 토요일 충청·호남 비·눈…일요일 아침 영하권 추위",
-     "url": "https://edata.ekn.kr/article/view/ekn202611260005",
-     "source": "기후에너지데이터뱅크"
+     "title": "'나인 투 식스' 박민영, 불륜남 화재 사기 사이다 응징...첫방 3.6% [종합] - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607547292245",
+     "source": "머니투데이"
     }
    ]
   },
@@ -32,72 +32,192 @@
    "rank": 2,
    "keyword": "weather tomorrow",
    "slug": "weather-tomorrow",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795693800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "Weather Tomorrow November 27, 2026: Rain in Tamil Nadu, dry and sunny conditions in Delhi, Bihar, Odisha;",
-     "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-27-2026-rain-in-tamil-nadu-dry-and-sunny-conditions-in-delhi-bihar-odisha-check-state-wise-forecast/articleshow/136190343.cms",
-     "source": "The Economic Times"
+     "title": "UAE weather: Red alert issued for fog; chance of rain in some areas",
+     "url": "https://www.khaleejtimes.com/uae/weather/november-26-2026",
+     "source": "Khaleej Times"
     },
     {
-     "title": "Weather Tomorrow, November 22, 2026: Showers in Bihar and West Bengal, sunny skies in Delhi and Tamil Nadu",
-     "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-22-2026-showers-in-bihar-and-west-bengal-sunny-skies-in-delhi-and-tamil-nadu-check-full-forecast/articleshow/136054580.cms",
-     "source": "The Economic Times"
+     "title": "UAE weather forecast: Scattered showers in some island, coastal and western areas, with fog expected overnight",
+     "url": "https://www.emirates247.com/uae/uae-weather-forecast-scattered-showers-in-some-island-coastal-and-western-areas-with-fog-expected-overnight/8128",
+     "source": "Emirates 24|7"
     },
     {
-     "title": "Hyderabad Weather Today, November 26: IMD Forecasts Isolated Rain in Telangana",
-     "url": "https://hyderabadmail.com/hyderabad-weather-today-november-26-imd-forecasts-isolated-rain-in-telangana-temperatures-to-fall/",
-     "source": "Hyderabad Mail"
+     "title": "NCM: Fair skies with a chance of light rain",
+     "url": "https://sharjah24.ae/en/Articles/2026/11/25/d66",
+     "source": "Sharjah24"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "계약금",
-   "slug": "계약금",
-   "traffic": 200,
-   "startedAt": 1795692000.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 4,
-   "keyword": "두산타워",
-   "slug": "두산타워",
-   "traffic": 200,
-   "startedAt": 1795690800.0,
+   "keyword": "이데일리",
+   "slug": "이데일리",
+   "traffic": 2000,
+   "startedAt": 1795696800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "사옥 팔던 두산, 8400억 신사옥 마련…다시 부동산에 뭉칫돈",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/26/2026112680192.html",
-     "source": "인베스트조선"
+     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
+     "url": "https://www.hankyung.com/article/202611261522H",
+     "source": "한국경제"
     },
     {
-     "title": "두산, IMF 때 떠난 을지로로 32년만에 다시 돌아간다",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/26/TCQFAVSANZEHXF4BTHLTJ6IPQQ/",
-     "source": "조선일보"
+     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+     "url": "https://news.jtbc.co.kr/article/NB12329904",
+     "source": "JTBC"
     },
     {
-     "title": "동대문 두산타워, 현대면세점 나간 자리 현대백화점 인재개발원·SK실트론이 채운다",
-     "url": "https://seoulpi.io/article/00622149544747753472",
-     "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스"
+     "title": "꽁꽁 숨은 '수능 만점자'들…가채점 만점 최소 3명 \"신원 공개 거부\" - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/26/2026112521562266508",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "삼성반도체",
+   "slug": "삼성반도체",
+   "traffic": 1000,
+   "startedAt": 1795698000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI 영업 강화",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723664",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "삼성전자, 올해 131명 임원 승진‥반도체 부문에서 70명 대거 발탁",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868861_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "삼성전자, M&A 조직 격상…미래 성장동력 확보에 힘 싣는다",
+     "url": "https://www.yna.co.kr/view/AKR20261126159700003",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 5,
+   "keyword": "김아현 주식 눈물",
+   "slug": "김아현-주식-눈물",
+   "traffic": 1000,
+   "startedAt": 1795695600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "삼성전자 레버리지 15% 폭락…생방송 중 눈물 보인 진행자",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03302966645649656&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "'명픽' 이광수도 정부 비판…\"증시 붕괴, 최소한 노력은 해야\" [지금이뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0545_202611261520019651",
+     "source": "YTN"
+    },
+    {
+     "title": "차트 보다가 울컥…\"주가 붕괴\" 주식 전문가들 줄줄이 눈물 - 머니투데이",
+     "url": "https://www.mt.co.kr/economy/2026/11/26/2026112616352496205",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "설인아",
+   "slug": "설인아",
+   "traffic": 500,
+   "startedAt": 1795694400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "설인아→연우 '무쇠소녀단3', 김동현도 기겁한 첫 훈련…\"이런 악마 같은 걸\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112617007254733",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'무쇠소녀단3', 아파트 100층 높이 극한 훈련…쇼트트랙 도전 시작",
+     "url": "https://www.newspim.com/news/view/20261126000413",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "설인아·금새록, 10kg 짊어지고 계단 3000개 뛴다 (무쇠소녀단3)",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135093930/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "올림픽선수기자촌",
+   "slug": "올림픽선수기자촌",
+   "traffic": 200,
+   "startedAt": 1795696800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
+     "url": "https://m.ekn.kr/view.php?key=20261126024275133",
+     "source": "에너지경제신문"
+    },
+    {
+     "title": "\"상가 쏙 빼고 짓자\" 올림픽선수촌 재건축에 송파구 제동, 내년 결판난다",
+     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/19/2026111902059.html",
+     "source": "땅집고"
+    },
+    {
+     "title": "올림픽선수기자촌 재건축 ‘현수막 맞불’…송파구 “상가 참여 의사 확인 후 절차 검토”",
+     "url": "https://m.ekn.kr/view.php?key=20261126029274906",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "수디르만컵",
+   "slug": "수디르만컵",
+   "traffic": 100,
+   "startedAt": 1795698000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'안세영 독주 견제하려는 것 아닌가' 15점제가 끝이 아니었다…BWF 대격변 공식발표! 세계선수권+국가대항전 싹 바뀐다→\"근거 없는 억측\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021959",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "[속보]'일장춘몽'해프닝으로 끝난 수디르만컵 한국 유치…BWF 공식발표에도, 전주시 \"체육관 건립 지연 등으로 개최 포기\"",
+     "url": "https://www.sportschosun.com/sports-news/2026-11-26/202611260100166490015388",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "박장범",
    "slug": "박장범",
    "traffic": 100,
    "startedAt": 1795693200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 4,
    "news": [
     {
      "title": "KBS ‘BBQ 정·관계 티켓 로비’ 보도 막혔다…“초청 명단에 박장범 사장도”",
@@ -113,84 +233,6 @@
      "title": "[사설] SNS로 해명했으니 취재 거부한다는 국회의원의 오만",
      "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240738",
      "source": "충청투데이"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "근로장려금 신청",
-   "slug": "근로장려금-신청",
-   "traffic": 100,
-   "startedAt": 1795690200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "5월에 놓친 근로·자녀장려금, 12월 1일까지 신청하세요!",
-     "url": "https://story.pay.naver.com/content/4040_24_C2",
-     "source": "네이버페이 머니스토리"
-    },
-    {
-     "title": "근로·자녀장려금 신청 12월 1일까지... 지급일은?",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195317",
-     "source": "금강일보"
-    },
-    {
-     "title": "2026 근로장려금 신청자격·지급액·지급일은? 기한후신청 12월 1일까지...자녀장려금까지 총정리",
-     "url": "https://www.christiantoday.co.kr/news/378877",
-     "source": "크리스천투데이"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "슈퍼문",
-   "slug": "슈퍼문",
-   "traffic": 100,
-   "startedAt": 1795689600.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
-     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611251603008783&s_hcd=",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
-     "source": "국제신문"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "스파이더맨 브랜드 뉴 데이",
-   "slug": "스파이더맨-브랜드-뉴-데이",
-   "traffic": 100,
-   "startedAt": 1795688400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "소니와 마블, '스파이더맨: 브랜드 뉴 데이' 확장판 극장 개봉 발표",
-     "url": "https://hypebeast.kr/2026/11/sony-pictures-marvel-announce-spider-man-brand-new-day-extended-cut-theatrical-release",
-     "source": "Hypebeast.KR"
-    },
-    {
-     "title": "뻔하지만 뻔하지 않은 영화, 스파이더맨",
-     "url": "https://brunch.co.kr/@heibrggar/94",
-     "source": "브런치"
-    },
-    {
-     "title": "스파이더맨: 브랜드 뉴 데이는 2027년 골든 글로브 코미디 부문 후보에 올랐습니다.",
-     "url": "https://www.vietnam.vn/ko/spider-man-brand-new-day-tranh-qua-cau-vang-2027-o-hang-muc-phim-hai",
-     "source": "Vietnam.vn"
     }
    ]
   }

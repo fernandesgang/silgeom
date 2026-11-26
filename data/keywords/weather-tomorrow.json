@@ -2,17 +2,37 @@
  "keyword": "weather tomorrow",
  "slug": "weather-tomorrow",
  "firstSeen": 1795693800.0,
- "lastSeen": 1795697753.2996814,
+ "lastSeen": 1795702148.6039014,
  "peakRank": 2,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795697753,
    2,
    2000
+  ],
+  [
+   1795702149,
+   2,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "UAE weather: Red alert issued for fog; chance of rain in some areas",
+   "url": "https://www.khaleejtimes.com/uae/weather/november-26-2026",
+   "source": "Khaleej Times"
+  },
+  {
+   "title": "UAE weather forecast: Scattered showers in some island, coastal and western areas, with fog expected overnight",
+   "url": "https://www.emirates247.com/uae/uae-weather-forecast-scattered-showers-in-some-island-coastal-and-western-areas-with-fog-expected-overnight/8128",
+   "source": "Emirates 24|7"
+  },
+  {
+   "title": "NCM: Fair skies with a chance of light rain",
+   "url": "https://sharjah24.ae/en/Articles/2026/11/25/d66",
+   "source": "Sharjah24"
+  },
   {
    "title": "Weather Tomorrow November 27, 2026: Rain in Tamil Nadu, dry and sunny conditions in Delhi, Bihar, Odisha;",
    "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-27-2026-rain-in-tamil-nadu-dry-and-sunny-conditions-in-delhi-bihar-odisha-check-state-wise-forecast/articleshow/136190343.cms",
@@ -33,6 +53,13 @@
   "2026-11-26"
  ],
  "related": [
+  "나인투식스",
+  "이데일리",
+  "삼성반도체",
+  "김아현-주식-눈물",
+  "설인아",
+  "올림픽선수기자촌",
+  "수디르만컵",
   "내일-날씨",
   "계약금",
   "두산타워",

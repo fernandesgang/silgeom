@@ -1,0 +1,45 @@
+{
+ "keyword": "이데일리",
+ "slug": "이데일리",
+ "firstSeen": 1795696800.0,
+ "lastSeen": 1795702148.6039014,
+ "peakRank": 3,
+ "peakTraffic": 2000,
+ "history": [
+  [
+   1795702149,
+   3,
+   2000
+  ]
+ ],
+ "news": [
+  {
+   "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
+   "url": "https://www.hankyung.com/article/202611261522H",
+   "source": "한국경제"
+  },
+  {
+   "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+   "url": "https://news.jtbc.co.kr/article/NB12329904",
+   "source": "JTBC"
+  },
+  {
+   "title": "꽁꽁 숨은 '수능 만점자'들…가채점 만점 최소 3명 \"신원 공개 거부\" - 머니투데이",
+   "url": "https://www.mt.co.kr/society/2026/11/26/2026112521562266508",
+   "source": "머니투데이"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "나인투식스",
+  "weather-tomorrow",
+  "삼성반도체",
+  "김아현-주식-눈물",
+  "설인아",
+  "올림픽선수기자촌",
+  "수디르만컵",
+  "박장범"
+ ]
+}

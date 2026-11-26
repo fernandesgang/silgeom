@@ -1,0 +1,45 @@
+{
+ "keyword": "삼성반도체",
+ "slug": "삼성반도체",
+ "firstSeen": 1795698000.0,
+ "lastSeen": 1795702148.6039014,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795702149,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI 영업 강화",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8723664",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "삼성전자, 올해 131명 임원 승진‥반도체 부문에서 70명 대거 발탁",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6868861_36932.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "삼성전자, M&A 조직 격상…미래 성장동력 확보에 힘 싣는다",
+   "url": "https://www.yna.co.kr/view/AKR20261126159700003",
+   "source": "연합뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-26"
+ ],
+ "related": [
+  "나인투식스",
+  "weather-tomorrow",
+  "이데일리",
+  "김아현-주식-눈물",
+  "설인아",
+  "올림픽선수기자촌",
+  "수디르만컵",
+  "박장범"
+ ]
+}
