@@ -139,21 +139,21 @@
    "firstSeen": 1795714800.0,
    "peakRank": 1,
    "peakTraffic": 500,
-   "lastSeen": 1795721959.5058334
+   "lastSeen": 1795725012.89208
   },
   "브라이턴 대 cs u 크라이오바": {
    "slug": "브라이턴-대-cs-u-크라이오바",
    "firstSeen": 1795714200.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795721959.5058334
+   "lastSeen": 1795725012.89208
   },
   "우크라이나": {
    "slug": "우크라이나",
    "firstSeen": 1795713600.0,
-   "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795721959.5058334
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795725012.89208
   },
   "kb국민은행": {
    "slug": "kb국민은행",
@@ -166,8 +166,8 @@
    "slug": "연합뉴스",
    "firstSeen": 1795717800.0,
    "peakRank": 7,
-   "peakTraffic": 100,
-   "lastSeen": 1795721959.5058334
+   "peakTraffic": 200,
+   "lastSeen": 1795725012.89208
   },
   "유로파리그": {
    "slug": "유로파리그",
@@ -182,6 +182,48 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795721959.5058334
+  },
+  "올림피아코스 대 밀란": {
+   "slug": "올림피아코스-대-밀란",
+   "firstSeen": 1795718400.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795725012.89208
+  },
+  "파포스 대 미트윌란": {
+   "slug": "파포스-대-미트윌란",
+   "firstSeen": 1795718400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795725012.89208
+  },
+  "렛츠런파크 부산경남": {
+   "slug": "렛츠런파크-부산경남",
+   "firstSeen": 1795718400.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795725012.89208
+  },
+  "기상": {
+   "slug": "기상",
+   "firstSeen": 1795719600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795725012.89208
+  },
+  "가스 터빈": {
+   "slug": "가스-터빈",
+   "firstSeen": 1795719000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795725012.89208
+  },
+  "경기도": {
+   "slug": "경기도",
+   "firstSeen": 1795717800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795725012.89208
   }
  }
 }

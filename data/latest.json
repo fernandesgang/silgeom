@@ -1,71 +1,19 @@
 {
- "generatedAt": 1795721960,
+ "generatedAt": 1795725013,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "주거",
-   "slug": "주거",
-   "traffic": 500,
-   "startedAt": 1795714800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "경상남도 주거복지센터, 시·군 주거복지 담당자 실무교육 개최",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764257",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "주거취약계층 맞춤 상담 역량 키운다…광명시 주거복지 교육",
-     "url": "https://www.dailian.co.kr/news/view/1720203/%EC%A3%BC%EA%B1%B0%EC%B7%A8%EC%95%BD%EA%B3%84%EC%B8%B5-%EB%A7%9E%EC%B6%A4-%EC%83%81%EB%8B%B4-%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9A%B4%EB%8B%A4%EA%B4%91-2026",
-     "source": "데일리안"
-    },
-    {
-     "title": "과천시 주거복지센터, ‘2026년 찾아가는 주거복지 교육’ 실시",
-     "url": "https://www.uiwangmedia.com/news/articleView.html?idxno=12480",
-     "source": "의왕미디어저널"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "브라이턴 대 cs u 크라이오바",
-   "slug": "브라이턴-대-cs-u-크라이오바",
-   "traffic": 500,
-   "startedAt": 1795714200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Brighton news: Jack Hinshelwood on using the Conference League to 'push on' this season",
-     "url": "https://www.bbc.com/sport/football/articles/cr15el38q3deo",
-     "source": "BBC"
-    },
-    {
-     "title": "Licensable picture: UEFA Conference League - Brighton & Hove Albion v Universitatea Craiova",
-     "url": "https://www.reutersconnect.com/item/uefa-conference-league-brighton-hove-albion-v-universitatea-craiova/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExSEhOQkc",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Brighton v Universitatea Craiova Prediction: 11/10 Hadjam to help Seagulls succeed",
-     "url": "https://news.bet365.com/en-gb/article/football-brighton-universitatea-craiova-prediction-and-tips/2026112508292935980",
-     "source": "news.bet365.com"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "우크라이나",
    "slug": "우크라이나",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795713600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
-     "title": "EU 정상들, 우크라 지원안·7년 장기예산 놓고 격론 돌입",
-     "url": "https://www.yna.co.kr/view/AKR20261126193300098",
+     "title": "르펜에 발목 잡힐라…EU, 우크라 지원안·7년 예산 놓고 격론(종합2보)",
+     "url": "https://www.yna.co.kr/view/AKR20261126193352098",
      "source": "연합뉴스"
     },
     {
@@ -81,80 +29,127 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "베식타시 대 하포엘 베르셰바",
-   "slug": "베식타시-대-하포엘-베르셰바",
+   "rank": 2,
+   "keyword": "주거",
+   "slug": "주거",
    "traffic": 500,
-   "startedAt": 1795713000.0,
-   "change": "same",
-   "diff": 0,
+   "startedAt": 1795714800.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "Beşiktaş vs Hapoel Be'er Sheva: UEFA Europa League stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cm4gn89709n7t",
+     "title": "영상으로 만나는 대통령",
+     "url": "https://www.president.go.kr/videos/wdzxcXDE",
+     "source": "대한민국 청와대"
+    },
+    {
+     "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261125168651001",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "이 대통령 \"공적주택, 주거사다리·주거안전매트…공급 최대한 확대\"",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976503",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "브라이턴 대 cs u 크라이오바",
+   "slug": "브라이턴-대-cs-u-크라이오바",
+   "traffic": 500,
+   "startedAt": 1795714200.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "Brighton 4-0 Universitatea Craiova: Seagulls claim dominant Conference League win",
+     "url": "https://www.bbc.com/sport/football/live/c6y80ej72k2gt",
      "source": "BBC"
     },
     {
-     "title": "Match between Turkey’s Besiktas and Hapoel Beersheba halted amid clash in stands",
-     "url": "https://www.timesofisrael.com/liveblog_entry/match-between-turkeys-besiktas-and-hapoel-beersheba-halted-amid-clash-in-stands/",
-     "source": "The Times of Israel"
+     "title": "Brighton 4-0 CSU Craiova (Nov 26, 2026) Game Analysis",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401915814",
+     "source": "ESPN"
     },
     {
-     "title": "Support pours in for Beşiktaş from Turkish football! Successive reactions to UEFA",
-     "url": "https://en.haberler.com/support-from-trabzonspor-to-besiktas-reaction-to-2345699/",
-     "source": "Haberler.com"
+     "title": "Brighton & Hove Albion x Universitatea Craiova - Highlights, Summary and Match Report",
+     "url": "https://sports.yahoo.com/soccer/articles/brighton-hove-albion-x-universitatea-175700622.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "올림피아코스 대 밀란",
+   "slug": "올림피아코스-대-밀란",
+   "traffic": 200,
+   "startedAt": 1795718400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "유로파 리그 올림피아코스 대 AC 밀란 경기 전망",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-olympiacos-vs-ac-milan-tai-europa-league-1806690.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "인자기 아테네 원정 앞둔 밀란에 용기 주문 : 해외축구",
+     "url": "https://news.jkn.co.kr/post/1125827",
+     "source": "재경일보"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "kb국민은행",
-   "slug": "kb국민은행",
+   "keyword": "파포스 대 미트윌란",
+   "slug": "파포스-대-미트윌란",
    "traffic": 200,
-   "startedAt": 1795717200.0,
+   "startedAt": 1795718400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "소프트제국, 2026 BCGW서 유공 표창 수상…디지털배지·AI 평가 솔루션 선봬",
-     "url": "https://www.etnews.com/20261126000264",
-     "source": "전자신문"
+     "title": "PREVIEW | Pafos FC vs Midtjylland: team news, lineups, predictions (Europa Conference League 26/11)",
+     "url": "https://onefootball.com/en/news/preview-pafos-fc-vs-midtjylland-team-news-lineups-predictions-europa-conference-league-2611-43832827",
+     "source": "OneFootball"
     },
     {
-     "title": "디지털 지갑 속 예금토큰으로 결제…국민銀, 체험 시연 - 머니투데이",
-     "url": "https://www.mt.co.kr/finance/2026/11/26/2026112616194992064",
-     "source": "머니투데이"
+     "title": "Pafos vs Midtjylland Preview & Prediction | 2026-27 UEFA Conference League | League Phase",
+     "url": "https://www.thestatszone.com/pafos-vs-midtjylland-preview-prediction-2026-27-uefa-conference-league-league-phase-241217",
+     "source": "The Stats Zone"
     },
     {
-     "title": "iM뱅크, QR 결제로 선보이는 예금토큰 기반 금융 서비스",
-     "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650453.html",
-     "source": "뉴데일리 대구경북"
+     "title": "Where to Watch Pafos FC vs FC Midtjylland: TV Channel, Live Stream and Kick-off Time",
+     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-pafos-fc-v-fc-midtjylland/blt01aa331e2f2e77b9",
+     "source": "Goal.com"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "아마존",
-   "slug": "아마존",
+   "keyword": "렛츠런파크 부산경남",
+   "slug": "렛츠런파크-부산경남",
    "traffic": 200,
-   "startedAt": 1795710000.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795718400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "I found the 84 best Amazon Black Friday deals on AirPods, Bissell vacuums and more",
-     "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-26",
-     "source": "CNN"
+     "title": "“최강 암말·단거리마 가린다”…27일 부산경남서 빅매치",
+     "url": "https://sports.donga.com/sports/article/all/20261126/135095034/1",
+     "source": "스포츠동아"
     },
     {
-     "title": "Amazon’s 85 Best Black Friday Deals to Shop on Thanksgiving Start at 27 Cents Apiece — Up to 75% Off",
-     "url": "https://www.foodandwine.com/best-amazon-thanksgiving-black-friday-deals-2026-12217727",
-     "source": "Food & Wine"
+     "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882828",
+     "source": "뉴시스"
     },
     {
-     "title": "Amazon Black Friday deals: Live updates on the biggest sales from Apple, Yeti, Ninja, Ring, KitchenAid and more during Cyber Week 2026",
-     "url": "https://shopping.yahoo.com/deals/breaking-news/live/amazon-black-friday-deals-live-updates-on-the-biggest-sales-from-apple-yeti-ninja-ring-kitchenaid-and-more-during-cyber-week-2026-153217857.html",
-     "source": "Yahoo"
+     "title": "렛츠런파크 부산경남 최강 퀸·스프린트 가린다 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/25/2026112515074884846",
+     "source": "머니투데이"
     }
    ]
   },
@@ -162,9 +157,9 @@
    "rank": 7,
    "keyword": "연합뉴스",
    "slug": "연합뉴스",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795717800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -173,92 +168,92 @@
      "source": "KBS 뉴스"
     },
     {
+     "title": "후티, 사우디 정유시설 이틀 연속 공격…네팔인 근로자 1명 사망",
+     "url": "https://www.news1.kr/world/middleeast-africa/6367767",
+     "source": "뉴스1"
+    },
+    {
      "title": "후티, 아덴 턱밑까지 진격‥예멘 정부 거점 함락 중대기로",
      "url": "https://imnews.imbc.com/news/2026/world/article/6868702_36925.html",
      "source": "MBC 뉴스"
-    },
-    {
-     "title": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
-     "url": "https://www.yna.co.kr/view/AKR20261126008300072",
-     "source": "연합뉴스"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "유로파리그",
-   "slug": "유로파리그",
+   "keyword": "기상",
+   "slug": "기상",
    "traffic": 100,
-   "startedAt": 1795713600.0,
+   "startedAt": 1795719600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "유로파 리그 크리스탈 팰리스 대 레알 소시에다드 경기 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-real-sociedad-tai-europa-league-1807071.ldo",
-     "source": "Laodong.vn"
+     "title": "이정현도 울고 갈 세기말 감성! 완전히 새로워진 기상청 예보 서비스 - 영상 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976414",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "크리스탈 팰리스 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
-     "source": "Vietnam.vn"
+     "title": "대설 재난문자 전국으로 확대‥기상청, 올겨울 방재기상대책 발표",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868748_36918.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "경기 프리뷰: 크리스탈 팰리스 vs 레알 소시에다드, 11월 27일 새벽 3시: 승리는 어디에서 나올까?",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-real-sociedad-3h00-ngay-27-11-chien-thang-noi-dau",
-     "source": "Vietnam.vn"
+     "title": "역대 최강 엘니뇨…내년 1월 폭설 가능성 주목",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=848576",
+     "source": "제민일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "hj중공업",
-   "slug": "hj중공업",
+   "keyword": "가스 터빈",
+   "slug": "가스-터빈",
    "traffic": 100,
-   "startedAt": 1795708200.0,
+   "startedAt": 1795719000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "HJ중공업, 2499억원 규모 세종~청주 고속도로 4공구 수주",
-     "url": "https://www.viva100.com/article/20261126501496",
-     "source": "브릿지경제"
+     "title": "(설명) 정부는 미래 전력수급에 대해 국민들의 다양한 의견을 충분히 듣기 위해 공론화를 추진 중입니다.",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976478",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "HJ중공업, 세종~청주 고속도로 4공구 시공권 확보…2499억원 규모",
-     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195825",
-     "source": "주간한국"
+     "title": "[사설] 원전 공론화 시작부터 파행, 이럴 줄 알고 공론에 부친 건가",
+     "url": "https://www.chosun.com/opinion/editorial/2026/11/26/3TGV34XNIRF7XKDX6UM7YZG26A/",
+     "source": "조선일보"
     },
     {
-     "title": "HJ중공업 '세종~청주 고속도로 4공구' 수주…2499억 규모",
-     "url": "https://www.news1.kr/realestate/general/6366626",
-     "source": "뉴스1"
+     "title": "두산에너빌리티, 가스터빈 성장궤도 진입…美 법인 재편",
+     "url": "https://v.daum.net/v/x7u9dPNdW4",
+     "source": "Daum"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "정연",
-   "slug": "정연",
+   "keyword": "경기도",
+   "slug": "경기도",
    "traffic": 100,
-   "startedAt": 1795707600.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795717800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
-     "source": "연합뉴스"
+     "title": "이채명 경기도의회 도교육청 예산결산특별위원장 “내년도 본예산안 심사, 숫자 보다 실효 최우선 원칙”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337862",
+     "source": "인천일보"
     },
     {
-     "title": "이서진, 11살 어린 한지민에 \"갱년기 중년 女\"…막말 비하 논란 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112618425270556",
-     "source": "머니투데이"
+     "title": "이채명 의원 \"재정난이 교육의 질 떨어뜨려선 안 돼\"[인터뷰]",
+     "url": "https://www.newsis.com/view/NISX20261126_0003883589",
+     "source": "뉴시스"
     },
     {
-     "title": "몬스타엑스 주헌 \"트와이스 정연과 데뷔 동기, 강단있게 하는 모습 멋있었다\"",
-     "url": "https://biz.chosun.com/entertainment/tv/2026/11/26/GY2TONDEMNTGMMLEGQZGEOLDME/",
-     "source": "Chosunbiz"
+     "title": "경기도의회 도교육청예산결산특위 이채명 위원장 인터뷰",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042161",
+     "source": "기호일보"
     }
    ]
   }

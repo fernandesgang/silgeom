@@ -1,0 +1,46 @@
+{
+ "keyword": "가스 터빈",
+ "slug": "가스-터빈",
+ "firstSeen": 1795719000.0,
+ "lastSeen": 1795725012.89208,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795725013,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "(설명) 정부는 미래 전력수급에 대해 국민들의 다양한 의견을 충분히 듣기 위해 공론화를 추진 중입니다.",
+   "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976478",
+   "source": "대한민국 정책브리핑"
+  },
+  {
+   "title": "[사설] 원전 공론화 시작부터 파행, 이럴 줄 알고 공론에 부친 건가",
+   "url": "https://www.chosun.com/opinion/editorial/2026/11/26/3TGV34XNIRF7XKDX6UM7YZG26A/",
+   "source": "조선일보"
+  },
+  {
+   "title": "두산에너빌리티, 가스터빈 성장궤도 진입…美 법인 재편",
+   "url": "https://v.daum.net/v/x7u9dPNdW4",
+   "source": "Daum"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "우크라이나",
+  "주거",
+  "브라이턴-대-cs-u-크라이오바",
+  "올림피아코스-대-밀란",
+  "파포스-대-미트윌란",
+  "렛츠런파크-부산경남",
+  "연합뉴스",
+  "기상",
+  "경기도"
+ ]
+}
