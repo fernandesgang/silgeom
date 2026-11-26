@@ -1,0 +1,45 @@
+{
+ "keyword": "송파구",
+ "slug": "송파구",
+ "firstSeen": 1795700400.0,
+ "lastSeen": 1795706281.5257342,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795706282,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
+   "url": "https://www.mk.co.kr/news/realestate/12219258",
+   "source": "매일경제"
+  },
+  {
+   "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
+   "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
+   "source": "한겨레"
+  },
+  {
+   "title": "[그래픽] 서울 집값 상승률 0.01%…광진·영등포까지 9개구 하락",
+   "url": "https://www.newsis.com/view/NISI20261126_0002303077",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "나인투식스",
+  "김아현-주식-눈물",
+  "반도체-메모리",
+  "이데일리",
+  "강소휘",
+  "올림픽선수기자촌",
+  "수디르만컵",
+  "스파이"
+ ]
+}

@@ -2,17 +2,37 @@
  "keyword": "김아현 주식 눈물",
  "slug": "김아현-주식-눈물",
  "firstSeen": 1795695600.0,
- "lastSeen": 1795702148.6039014,
- "peakRank": 5,
- "peakTraffic": 1000,
+ "lastSeen": 1795706281.5257342,
+ "peakRank": 2,
+ "peakTraffic": 2000,
  "history": [
   [
    1795702149,
    5,
    1000
+  ],
+  [
+   1795706282,
+   2,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+   "url": "https://www.etnews.com/20261126000530",
+   "source": "전자신문"
+  },
+  {
+   "title": "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02440326645649656",
+   "source": "마켓인"
+  },
+  {
+   "title": "\"힘든 시장, 잘 이겨나가야\"…생방송 중 눈물 보인 주식 전문가",
+   "url": "https://www.kyeonggi.com/article/20261126580524",
+   "source": "경기일보"
+  },
   {
    "title": "삼성전자 레버리지 15% 폭락…생방송 중 눈물 보인 진행자",
    "url": "https://www.edaily.co.kr/News/Read?newsId=03302966645649656&mediaCodeNo=257",
@@ -30,9 +50,14 @@
   }
  ],
  "days": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "related": [
+  "반도체-메모리",
+  "강소휘",
+  "송파구",
+  "스파이",
   "나인투식스",
   "weather-tomorrow",
   "이데일리",

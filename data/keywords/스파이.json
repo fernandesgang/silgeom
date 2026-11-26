@@ -1,0 +1,45 @@
+{
+ "keyword": "스파이",
+ "slug": "스파이",
+ "firstSeen": 1795702200.0,
+ "lastSeen": 1795706281.5257342,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795706282,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+   "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+   "source": "The New York Times"
+  },
+  {
+   "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
+   "url": "https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7",
+   "source": "WSJ"
+  },
+  {
+   "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+   "url": "https://www.reuters.com/business/finance/alice-huang-linked-firms-listed-270-million-ai-servers-china-records-show-2026-11-25/",
+   "source": "Reuters"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "나인투식스",
+  "김아현-주식-눈물",
+  "반도체-메모리",
+  "이데일리",
+  "강소휘",
+  "올림픽선수기자촌",
+  "송파구",
+  "수디르만컵"
+ ]
+}

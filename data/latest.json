@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795702149,
+ "generatedAt": 1795706282,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "나인투식스",
    "traffic": 5000,
    "startedAt": 1795695000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -17,155 +17,113 @@
      "source": "파이낸셜뉴스"
     },
     {
+     "title": "나인 투 식스 : 육성재×박민영, 매콤한 불짬뽕 회식으로 회사에서 쌓인 스트레스 화끈하게 해소",
+     "url": "https://programs.sbs.co.kr/drama/ninetosix/clip/90025/OC484431497?div=live_end",
+     "source": "programs.sbs.co.kr"
+    },
+    {
      "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
      "url": "https://www.joongang.co.kr/article/25481953",
      "source": "중앙일보"
-    },
-    {
-     "title": "'나인 투 식스' 박민영, 불륜남 화재 사기 사이다 응징...첫방 3.6% [종합] - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607547292245",
-     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "weather tomorrow",
-   "slug": "weather-tomorrow",
-   "traffic": 5000,
-   "startedAt": 1795693800.0,
-   "change": "same",
-   "diff": 0,
+   "keyword": "김아현 주식 눈물",
+   "slug": "김아현-주식-눈물",
+   "traffic": 2000,
+   "startedAt": 1795695600.0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
-     "title": "UAE weather: Red alert issued for fog; chance of rain in some areas",
-     "url": "https://www.khaleejtimes.com/uae/weather/november-26-2026",
-     "source": "Khaleej Times"
+     "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+     "url": "https://www.etnews.com/20261126000530",
+     "source": "전자신문"
     },
     {
-     "title": "UAE weather forecast: Scattered showers in some island, coastal and western areas, with fog expected overnight",
-     "url": "https://www.emirates247.com/uae/uae-weather-forecast-scattered-showers-in-some-island-coastal-and-western-areas-with-fog-expected-overnight/8128",
-     "source": "Emirates 24|7"
+     "title": "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02440326645649656",
+     "source": "마켓인"
     },
     {
-     "title": "NCM: Fair skies with a chance of light rain",
-     "url": "https://sharjah24.ae/en/Articles/2026/11/25/d66",
-     "source": "Sharjah24"
+     "title": "\"힘든 시장, 잘 이겨나가야\"…생방송 중 눈물 보인 주식 전문가",
+     "url": "https://www.kyeonggi.com/article/20261126580524",
+     "source": "경기일보"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "이데일리",
-   "slug": "이데일리",
-   "traffic": 2000,
-   "startedAt": 1795696800.0,
+   "keyword": "반도체 메모리",
+   "slug": "반도체-메모리",
+   "traffic": 1000,
+   "startedAt": 1795700400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
-     "url": "https://www.hankyung.com/article/202611261522H",
-     "source": "한국경제"
+     "title": "머스크도 퇴짜 맞은 메모리… 이재용 \"뭘 더 해줄 건데?\"",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/26/3UELRQCP2RGPFJQN2TKPBFHSIU/",
+     "source": "조선일보"
     },
     {
-     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
-     "url": "https://news.jtbc.co.kr/article/NB12329904",
-     "source": "JTBC"
+     "title": "“장기 구매할게” 머스크에 이재용 “뭘 더 해줄 건데”⋯메모리 쟁탈전",
+     "url": "https://www.viva100.com/article/20261126501737",
+     "source": "브릿지경제"
     },
     {
-     "title": "꽁꽁 숨은 '수능 만점자'들…가채점 만점 최소 3명 \"신원 공개 거부\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112521562266508",
-     "source": "머니투데이"
+     "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
+     "source": "연합인포맥스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "삼성반도체",
-   "slug": "삼성반도체",
+   "keyword": "이데일리",
+   "slug": "이데일리",
    "traffic": 1000,
-   "startedAt": 1795698000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI 영업 강화",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723664",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "삼성전자, 올해 131명 임원 승진‥반도체 부문에서 70명 대거 발탁",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6868861_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "삼성전자, M&A 조직 격상…미래 성장동력 확보에 힘 싣는다",
-     "url": "https://www.yna.co.kr/view/AKR20261126159700003",
-     "source": "연합뉴스"
-    }
-   ]
+   "startedAt": 1795696800.0,
+   "change": "down",
+   "diff": 1,
+   "news": []
   },
   {
    "rank": 5,
-   "keyword": "김아현 주식 눈물",
-   "slug": "김아현-주식-눈물",
-   "traffic": 1000,
-   "startedAt": 1795695600.0,
+   "keyword": "강소휘",
+   "slug": "강소휘",
+   "traffic": 500,
+   "startedAt": 1795701600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "삼성전자 레버리지 15% 폭락…생방송 중 눈물 보인 진행자",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03302966645649656&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723375",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "'명픽' 이광수도 정부 비판…\"증시 붕괴, 최소한 노력은 해야\" [지금이뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0545_202611261520019651",
+     "title": "마나베 IBK 감독 \"적이 우리 코트에 있다…자멸한 경기\"",
+     "url": "https://www.yna.co.kr/view/AKR20261125179400007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'모마·마미, 13점씩' 도로공사, 6연승 질주",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611252322000702",
      "source": "YTN"
-    },
-    {
-     "title": "차트 보다가 울컥…\"주가 붕괴\" 주식 전문가들 줄줄이 눈물 - 머니투데이",
-     "url": "https://www.mt.co.kr/economy/2026/11/26/2026112616352496205",
-     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "설인아",
-   "slug": "설인아",
-   "traffic": 500,
-   "startedAt": 1795694400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "설인아→연우 '무쇠소녀단3', 김동현도 기겁한 첫 훈련…\"이런 악마 같은 걸\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112617007254733",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'무쇠소녀단3', 아파트 100층 높이 극한 훈련…쇼트트랙 도전 시작",
-     "url": "https://www.newspim.com/news/view/20261126000413",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "설인아·금새록, 10kg 짊어지고 계단 3000개 뛴다 (무쇠소녀단3)",
-     "url": "https://sports.donga.com/ent/article/all/20261126/135093930/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "rank": 7,
    "keyword": "올림픽선수기자촌",
    "slug": "올림픽선수기자촌",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795696800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
@@ -185,12 +143,38 @@
    ]
   },
   {
+   "rank": 7,
+   "keyword": "송파구",
+   "slug": "송파구",
+   "traffic": 200,
+   "startedAt": 1795700400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
+     "url": "https://www.mk.co.kr/news/realestate/12219258",
+     "source": "매일경제"
+    },
+    {
+     "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
+     "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "[그래픽] 서울 집값 상승률 0.01%…광진·영등포까지 9개구 하락",
+     "url": "https://www.newsis.com/view/NISI20261126_0002303077",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
    "rank": 8,
    "keyword": "수디르만컵",
    "slug": "수디르만컵",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795698000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -212,27 +196,27 @@
   },
   {
    "rank": 9,
-   "keyword": "박장범",
-   "slug": "박장범",
+   "keyword": "스파이",
+   "slug": "스파이",
    "traffic": 100,
-   "startedAt": 1795693200.0,
-   "change": "down",
-   "diff": 4,
+   "startedAt": 1795702200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "KBS ‘BBQ 정·관계 티켓 로비’ 보도 막혔다…“초청 명단에 박장범 사장도”",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338727",
-     "source": "미디어오늘"
+     "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+     "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+     "source": "The New York Times"
     },
     {
-     "title": "국힘 충북도당 \"축구경기 공짜 관람 이강일, 명확히 해명하라\"",
-     "url": "https://www.fnnews.com/news/202611191444474509",
-     "source": "파이낸셜뉴스"
+     "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
+     "url": "https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7",
+     "source": "WSJ"
     },
     {
-     "title": "[사설] SNS로 해명했으니 취재 거부한다는 국회의원의 오만",
-     "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240738",
-     "source": "충청투데이"
+     "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+     "url": "https://www.reuters.com/business/finance/alice-huang-linked-firms-listed-270-million-ai-servers-china-records-show-2026-11-25/",
+     "source": "Reuters"
     }
    ]
   }
