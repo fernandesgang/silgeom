@@ -1,0 +1,44 @@
+{
+ "keyword": "열차",
+ "slug": "열차",
+ "firstSeen": 1795731000.0,
+ "lastSeen": 1795735846.0868037,
+ "peakRank": 4,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795735846,
+   4,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611270503025651_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "1부 오늘의 주요뉴스",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868949_37012.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "[지지대] 태업의 역설",
+   "url": "https://www.kyeonggi.com/article/20261126580087",
+   "source": "경기일보"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "세무-냥이",
+  "부부",
+  "블루-아카이브",
+  "청소",
+  "배구",
+  "배당",
+  "nfl"
+ ]
+}

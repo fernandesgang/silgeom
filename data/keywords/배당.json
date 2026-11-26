@@ -2,7 +2,7 @@
  "keyword": "배당",
  "slug": "배당",
  "firstSeen": 1795551600.0,
- "lastSeen": 1795556659.6226797,
+ "lastSeen": 1795735846.0868037,
  "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795556660,
    1,
    1000
+  ],
+  [
+   1795735846,
+   7,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "아벨 체제서도 빛나는 버크셔의 '배당 마법'…빅5 종목서 4조원 수령 전망",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446865",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "[단독 인터뷰] 제이 우즈 “그렉 아벨의 버크셔 경영 긍정적···알파벳 투자 큰 결실 맺을 것”",
+   "url": "https://kr.benzinga.com/news/usa/analystratings/%EB%8B%A8%EB%8F%85-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%9C%EC%9D%B4-%EC%9A%B0%EC%A6%88-%EA%B7%B8%EB%A0%89-%EC%95%84%EB%B2%A8%EC%9D%98-%EB%B2%84%ED%81%AC%EC%85%94-%EA%B2%BD%EC%98%81-%EA%B8%8D/",
+   "source": "Benzinga"
+  },
+  {
+   "title": "\"'AI 피난처'로 뜬 버크셔 해서웨이, 밸류에이션 부담 직면\"",
+   "url": "https://kbthink.com/news-list/view.html?newsId=20261123074649405",
+   "source": "KB Think"
+  },
   {
    "title": "한국투자저축, 지주에 1800억 배당…투자 위축에 '자생력' 흔들리나",
    "url": "https://v.daum.net/v/8ynXX4UZsc",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-27"
  ],
  "related": [
+  "세무-냥이",
+  "부부",
+  "블루-아카이브",
+  "열차",
+  "청소",
+  "배구",
+  "nfl",
   "로스앤젤레스-다저스",
   "arsenal-vs-dortmund",
   "정철원",

@@ -1,0 +1,44 @@
+{
+ "keyword": "세무 냥이",
+ "slug": "세무-냥이",
+ "firstSeen": 1795728600.0,
+ "lastSeen": 1795735846.0868037,
+ "peakRank": 1,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795735846,
+   1,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "[속보]경찰, ‘AI 부정행위 자수’ 세무사시험 수석에 구속영장 신청",
+   "url": "https://www.khan.co.kr/article/202611261903001",
+   "source": "경향신문"
+  },
+  {
+   "title": "AI 부정행위 난리 나더니 금속탐지기 대란…문의량 100배 늘어",
+   "url": "https://stock.mk.co.kr/news/view/1206884",
+   "source": "매일경제 마켓"
+  },
+  {
+   "title": "‘AI 커닝’ 세무사 수석 구속영장…“범대 중대성 고려”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8723970",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "부부",
+  "블루-아카이브",
+  "열차",
+  "청소",
+  "배구",
+  "배당",
+  "nfl"
+ ]
+}

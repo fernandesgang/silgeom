@@ -2,7 +2,7 @@
  "keyword": "배구",
  "slug": "배구",
  "firstSeen": 1795144800.0,
- "lastSeen": 1795150091.3838983,
+ "lastSeen": 1795735846.0868037,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,29 @@
    1795150091,
    2,
    1000
+  ],
+  [
+   1795735846,
+   6,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "온힘을 다해",
+   "url": "https://www.newsis.com/view/NISI20261126_0021546927",
+   "source": "뉴시스"
+  },
+  {
+   "title": "남자배구 삼성화재, 1천114일 만에 순위표 맨 꼭대기로(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261126192351007",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "'현역 최고령' 유광우의 다짐‥\"이게 삼성화재였지!\"",
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868583_37004.html",
+   "source": "MBC 뉴스"
+  },
   {
    "title": "여자배구 경기중 관중석서 쓰러진 남성, 끝내 숨져",
    "url": "https://www.donga.com/news/Society/article/all/20261120/135058979/2",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-27"
  ],
  "related": [
+  "세무-냥이",
+  "부부",
+  "블루-아카이브",
+  "열차",
+  "청소",
+  "배당",
+  "nfl",
   "로베르트-모레노",
   "김아림",
   "시진핑",
