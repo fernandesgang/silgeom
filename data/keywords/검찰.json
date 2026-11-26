@@ -2,7 +2,7 @@
  "keyword": "검찰",
  "slug": "검찰",
  "firstSeen": 1795137600.0,
- "lastSeen": 1795690088.0132499,
+ "lastSeen": 1795693646.9837818,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,24 @@
    1795690088,
    5,
    200
+  ],
+  [
+   1795693647,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "검찰총장 후보 초유의 ‘추가 천거’…기존 3인 외 새 인물 지명 수순?",
+   "url": "https://www.donga.com/news/Politics/article/all/20261126/135095804/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "검찰총장 후보 천거기간 연장…’사상 초유’",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126200913Uh8",
+   "source": "연합뉴스TV"
+  },
   {
    "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
    "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/",
@@ -64,6 +79,10 @@
   "2026-11-26"
  ],
  "related": [
+  "한국보건의료인국가시험원",
+  "india-a-vs-sri-lanka-a",
+  "슈퍼문",
+  "이지훈",
   "이세영",
   "2027-학년도-대학-수학-능력-시험",
   "디워",
@@ -79,10 +98,6 @@
   "키오스크",
   "굿파트너",
   "제네시스-g80",
-  "영장",
-  "논현동",
-  "물수리",
-  "경기도교육청",
-  "이의리"
+  "영장"
  ]
 }

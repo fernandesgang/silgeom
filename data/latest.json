@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795690088,
+ "generatedAt": 1795693647,
  "geo": "KR",
  "items": [
   {
@@ -30,35 +30,9 @@
   },
   {
    "rank": 2,
-   "keyword": "2027 학년도 대학 수학 능력 시험",
-   "slug": "2027-학년도-대학-수학-능력-시험",
-   "traffic": 1000,
-   "startedAt": 1795678200.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
-     "url": "https://news.jtbc.co.kr/article/NB12329904",
-     "source": "JTBC"
-    },
-    {
-     "title": "수능 만점 받고도 '쉬쉬'…학생·부모 모두 신원 공개 꺼리는 이유",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01367766645649656&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "꽁꽁 숨은 '수능 만점자'들…가채점 만점 최소 3명 \"신원 공개 거부\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112521562266508",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "디워",
    "slug": "디워",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795681800.0,
    "change": "up",
    "diff": 1,
@@ -81,143 +55,65 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "손예진",
-   "slug": "손예진",
+   "rank": 3,
+   "keyword": "한국보건의료인국가시험원",
+   "slug": "한국보건의료인국가시험원",
    "traffic": 500,
-   "startedAt": 1795680000.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795687800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "현빈♥손예진, 첫사랑 정려원 vs 연하남 정해인 각각 만났다('청룡영화상')",
-     "url": "https://biz.chosun.com/entertainment/movie/2026/11/26/G4ZTOMDEMQ3WIMZVGRQWEMRTME/",
-     "source": "Chosunbiz"
+     "title": "의사·간호사 국시 일부 과목 만점자 급증···복지부 “AI 부정행위 단정 어려워”",
+     "url": "https://www.khan.co.kr/article/202611261620001",
+     "source": "경향신문"
     },
     {
-     "title": "손예진은 '밥누나' 정해인, 현빈은 '삼순이' 정려원과…청룡서 재회",
-     "url": "https://www.newsis.com/view/NISX20261126_0003884219",
-     "source": "뉴시스"
+     "title": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "손예진, ♥현빈 아닌 정해인과 팔짱…'예쁜 누나' 8년만의 재회인데 비주얼 여전",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6367320",
-     "source": "뉴스1"
+     "title": "의사-치과의사 국시 만점자도 최대 15배 늘었다",
+     "url": "https://www.donga.com/news/Society/article/all/20261126/135095267/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "india a vs sri lanka a",
+   "slug": "india-a-vs-sri-lanka-a",
+   "traffic": 500,
+   "startedAt": 1795686600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "India A vs Sri Lanka A Live Score: IND-A (159/2 in 21.5 ov), Abhishek departs for 78, Tilak Varma steady",
+     "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-rising-stars-asia-cup-2026-semi-final-ind-a-vs-sl-a-match-3047337-2026-11-26",
+     "source": "India Today"
+    },
+    {
+     "title": "Abhishek Sharma scores 37-ball fifty against Sri Lanka A in Asia Cup Rising Stars 2026 semifinal",
+     "url": "https://sportstar.thehindu.com/cricket/abhishek-sharma-fifty-vs-sri-lanka-a-asia-cup-rising-stars-2026-semifinal/article71746203.ece",
+     "source": "Sportstar"
+    },
+    {
+     "title": "Sony Sports Network, Sony LIV to air India A vs Sri Lanka A semi-final",
+     "url": "https://mediabrief.com/sony-sports-network-sony-liv-to-air-india-a-vs-sri-lanka-a-semi-final/",
+     "source": "MediaBrief"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "검찰",
-   "slug": "검찰",
-   "traffic": 200,
-   "startedAt": 1795686000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
-     "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "검찰총장 후보 초유의 ‘추가 천거’⋯ “靑 새 인물 염두” 분분",
-     "url": "https://www.kmib.co.kr/article/20261126501680",
-     "source": "국민일보"
-    },
-    {
-     "title": "'1년4개월째 공석' 검찰총장…법무부, 후보자 추가 국민천거 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112613494028764",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "김희애",
-   "slug": "김희애",
-   "traffic": 200,
-   "startedAt": 1795680600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "김희애, 생애 첫 하프 마라톤 완주 \"한 번도 걷지 않아\"",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882325",
-     "source": "뉴시스"
-    },
-    {
-     "title": "김희애가 서는 곳은 어디든 그의 자리가 된다",
-     "url": "https://www.wkorea.com/2026/11/23/%EA%B9%80%ED%9D%AC%EC%95%A0-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84/",
-     "source": "W Korea"
-    },
-    {
-     "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
-     "url": "https://www.koreadaily.com/article/20261124001135923",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "rank": 7,
-   "keyword": "영업 비밀",
-   "slug": "영업-비밀",
-   "traffic": 200,
-   "startedAt": 1795679400.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "“35년 근무한 기술부장이 반도체 핵심기술 중국에 넘겼다”... 日 아사히카세이 영업비밀 유출, 전 직원 기소",
-     "url": "http://www.e-patentnews.com/15988",
-     "source": "특허뉴스"
-    },
-    {
-     "title": "나쁜 일자리라도 줄 테니 시간과 삶 내놓으라? [왜냐면]",
-     "url": "https://www.hani.co.kr/arti/opinion/because/1289160.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "\"민주당 초광역특구법 저지 투쟁\"",
-     "url": "https://www.newsis.com/view/NISI20261125_0002301866",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "이집트",
-   "slug": "이집트",
-   "traffic": 200,
-   "startedAt": 1795678800.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "“탈출할 시간조차 없었다”…이집트 유조차 충돌 화재 최소 30명 사망 [현장영상]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723106",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[쇼츠] 치솟은 시뻘건 화염과 연기…유조차 폭발에 아비규환",
-     "url": "https://www.yna.co.kr/view/AKR20261126156100704",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "이집트 카이로 외곽도로서 충돌 사고로 30여 명 사망",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126083352Pjf",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "rank": 9,
    "keyword": "구미역",
    "slug": "구미역",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795686000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 4,
    "news": [
     {
      "title": "동구미역 밑그림 나왔다…구미역과 연결은 어떻게",
@@ -237,12 +133,116 @@
    ]
   },
   {
+   "rank": 6,
+   "keyword": "검찰",
+   "slug": "검찰",
+   "traffic": 200,
+   "startedAt": 1795686000.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "검찰총장 후보 초유의 ‘추가 천거’…기존 3인 외 새 인물 지명 수순?",
+     "url": "https://www.donga.com/news/Politics/article/all/20261126/135095804/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "검찰총장 후보 천거기간 연장…’사상 초유’",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126200913Uh8",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
+     "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "김희애",
+   "slug": "김희애",
+   "traffic": 200,
+   "startedAt": 1795680600.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "김희애, 생애 첫 하프 마라톤 완주 \"한 번도 걷지 않아\"",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882325",
+     "source": "뉴시스"
+    },
+    {
+     "title": "김희애가 서는 곳은 어디든 그의 자리가 된다",
+     "url": "https://www.wkorea.com/2026/11/23/%EA%B9%80%ED%9D%AC%EC%95%A0-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84/",
+     "source": "W Korea"
+    },
+    {
+     "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
+     "url": "https://www.koreadaily.com/article/20261124001135923",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "슈퍼문",
+   "slug": "슈퍼문",
+   "traffic": 100,
+   "startedAt": 1795689600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251603008783",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
+     "source": "국제신문"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "이지훈",
+   "slug": "이지훈",
+   "traffic": 100,
+   "startedAt": 1795687800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "이지훈·아야네 부부 득녀…두 아이 부모 됐다",
+     "url": "https://www.donga.com/news/Society/article/all/20261126/135094851/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "이지훈 아내 아야네, 둘째 득녀...2주 1500만원 산후조리원 입소",
+     "url": "https://biz.heraldcorp.com/article/10949941",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "이지훈·아야네 부부, 일산차병원서 둘째딸 출산…3.03㎏ 건강해",
+     "url": "https://www.news1.kr/bio/welfare-medical/6367022",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
    "rank": 10,
    "keyword": "미국 휴장",
    "slug": "미국-휴장",
    "traffic": 100,
    "startedAt": 1795684800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
