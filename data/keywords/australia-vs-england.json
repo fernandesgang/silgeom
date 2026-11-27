@@ -2,7 +2,7 @@
  "keyword": "australia vs england",
  "slug": "australia-vs-england",
  "firstSeen": 1795510800.0,
- "lastSeen": 1795519690.7736554,
+ "lastSeen": 1795776236.6717312,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -15,9 +15,29 @@
    1795519691,
    9,
    200
+  ],
+  [
+   1795776237,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Australia vs England, third T20 international, The Gabba",
+   "url": "https://www.skysports.com/cricket/live-blog/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
+   "source": "Sky Sports"
+  },
+  {
+   "title": "England bowl, Owen and Stanlake come in for Australia",
+   "url": "https://www.cricinfo.com/story/aus-vs-eng-3rd-t20i-2026-27-england-bowl-owen-and-stanlake-come-in-for-australia-1564420",
+   "source": "Cricinfo"
+  },
+  {
+   "title": "Australia v England: third men’s Twenty20 international – live",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/27/australia-v-england-third-mens-twenty20-international-live?page=with:block-6b0956778f08a80e1782094e",
+   "source": "The Guardian"
+  },
   {
    "title": "England in Australia: Nikhil Chaudhary stars as hosts win T20 series opener",
    "url": "https://www.bbc.com/sport/cricket/articles/cme39qlevnrqo",
@@ -40,9 +60,18 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-27"
  ],
  "related": [
+  "최민희",
+  "서울교통공사-채용",
+  "홍민기",
+  "오세훈",
+  "북한이탈주민",
+  "한국노인인력개발원",
+  "허은아",
+  "임찬규",
   "프로포폴",
   "배용준",
   "pakistan-a-vs-nepal",
@@ -54,10 +83,6 @@
   "데블스플랜3-우승자",
   "스테이블코인",
   "차은우",
-  "카카오모빌리티",
-  "슈퍼문",
-  "달",
-  "지폐",
-  "박수진"
+  "카카오모빌리티"
  ]
 }
