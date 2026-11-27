@@ -2,7 +2,7 @@
  "keyword": "엘니뇨",
  "slug": "엘니뇨",
  "firstSeen": 1795321200.0,
- "lastSeen": 1795472834.8679013,
+ "lastSeen": 1795755268.8639348,
  "peakRank": 2,
  "peakTraffic": 2000,
  "history": [
@@ -20,9 +20,29 @@
    1795472835,
    10,
    100
+  ],
+  [
+   1795755269,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "‘슈퍼엘니뇨’에 폭설?…시간당 5cm 눈 오면 문자 온다",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724042",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "따뜻한 겨울? 하지만 대설 주의!",
+   "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976635&pWise=sub&pWiseSub=C3",
+   "source": "대한민국 정책브리핑"
+  },
+  {
+   "title": "기상청 \"눈비 내리기 전, 예보 변화 가능성도 발표\"",
+   "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261602382478",
+   "source": "YTN 사이언스"
+  },
   {
    "title": "기상청, 이번 겨울 “예년보다 따뜻하고 강수량 많을 것”",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8719943",
@@ -56,9 +76,19 @@
  ],
  "days": [
   "2026-11-22",
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-27"
  ],
  "related": [
+  "강시-후",
+  "남경필",
+  "jyp-엔터테인먼트",
+  "수학자",
+  "맨체스터-시티-fc",
+  "낸시랭",
+  "최성민",
+  "pet-the-horse",
+  "상선",
   "김혜수",
   "전원주",
   "로스앤젤레스-fc",
@@ -69,15 +99,6 @@
   "비트코인-시세",
   "스페이스x",
   "투자",
-  "외교",
-  "f1",
-  "애플",
-  "오픈ai",
-  "대구fc",
-  "로또",
-  "휴머노이드",
-  "최민정",
-  "제네시스-g80",
-  "최예나"
+  "외교"
  ]
 }

@@ -1,0 +1,46 @@
+{
+ "keyword": "수학자",
+ "slug": "수학자",
+ "firstSeen": 1795750200.0,
+ "lastSeen": 1795755268.8639348,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795755269,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "AI에 무너지는 난제들…“수학 계속 해도 될까” 수학자들도 계산이 안 선다",
+   "url": "https://www.hani.co.kr/arti/science/science_general/1289376.html",
+   "source": "한겨레"
+  },
+  {
+   "title": "수학 연구단체, '클로드 리만가설 증명' 검증 완료…\"코드 옳다\"",
+   "url": "https://www.dongascience.com/ko/news/81042",
+   "source": "DongA Science"
+  },
+  {
+   "title": "나는 요즘 부엌에서 와인을 마시고 있다",
+   "url": "https://news.hada.io/topic?id=37826",
+   "source": "GeekNews"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "강시-후",
+  "남경필",
+  "엘니뇨",
+  "jyp-엔터테인먼트",
+  "맨체스터-시티-fc",
+  "낸시랭",
+  "최성민",
+  "pet-the-horse",
+  "상선"
+ ]
+}
