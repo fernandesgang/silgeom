@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795800393,
+ "generatedAt": 1795803763,
  "geo": "KR",
  "items": [
   {
@@ -8,7 +8,7 @@
    "slug": "파기환송",
    "traffic": 2000,
    "startedAt": 1795792800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -30,38 +30,12 @@
   },
   {
    "rank": 2,
-   "keyword": "교사",
-   "slug": "교사",
-   "traffic": 1000,
-   "startedAt": 1795794000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
-     "url": "https://www.kyeonggi.com/article/20261127580141",
-     "source": "경기일보"
-    },
-    {
-     "title": "경찰 “교사폭행 초등생 영상 유포, 공익적 제보로 봐야” 내사 종결",
-     "url": "https://www.donga.com/news/Society/article/all/20261127/135104682/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "rank": 3,
    "keyword": "박서진",
    "slug": "박서진",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795788000.0,
-   "change": "down",
-   "diff": 2,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "'장구의 신' 박서진, 하다하다 5억짜리 장구까지 연주 '초긴장'(살림남)",
@@ -74,9 +48,35 @@
      "source": "뉴시스"
     },
     {
-     "title": "박서진, 국가대표 됐다더니…5억 원대 장구 연주 (살림남)",
-     "url": "https://sports.donga.com/ent/article/all/20261127/135101628/1",
-     "source": "스포츠동아"
+     "title": "박서진, 트로트 국가대표 됐다…5억원 고려청자 장구 연주 (살림남)",
+     "url": "https://sports.khan.co.kr/article/202611270812003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "교사",
+   "slug": "교사",
+   "traffic": 1000,
+   "startedAt": 1795794000.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "'초등생이 교사 머리채 폭행' 영상 유출…학부모 진정 내사 종결",
+     "url": "https://www.yna.co.kr/view/AKR20261127073400064",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "교사 폭행한 자녀 영상 퍼지자...‘명예훼손’ 진정 낸 학부모",
+     "url": "https://news.jtbc.co.kr/article/NB12330181",
+     "source": "JTBC"
+    },
+    {
+     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
+     "url": "https://www.kyeonggi.com/article/20261127580141",
+     "source": "경기일보"
     }
    ]
   },
@@ -86,23 +86,23 @@
    "slug": "온두라스-u-17-대-일본-u-17",
    "traffic": 1000,
    "startedAt": 1795783200.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "Licensable picture: Japan v Serbia : Group Stage - FIFA U-17 World Cup Qatar 2026",
-     "url": "https://www.reutersconnect.com/item/japan-v-serbia-group-stage-fifa-u-17-world-cup-qatar-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwME85REs5Tw",
-     "source": "Reuters Connect"
+     "title": "FIFA U-17 World Cup - Japan beat Honduras to advance",
+     "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/japan-beat-honduras-to-advance",
+     "source": "The AFC"
     },
     {
-     "title": "Japan U-17's Must-Win World Cup Group Final",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/27/RZT5R34ZCRFF7ABWCBZBJI6TCU/",
-     "source": "조선일보"
+     "title": "U-17 World Cup: Japan and China both face elimination crisis = Chinese netizens: 'China is probably okay, but Japan...'",
+     "url": "https://www.recordchina.co.jp/en/b999179-s25-c50-d0192.html",
+     "source": "Record China"
     },
     {
-     "title": "Japan U-17 on Brink of Elimination After Two Losses",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/25/AFCXYL6IUJCCJOBNVWTQNB5UZE/",
-     "source": "조선일보"
+     "title": "Japan U17 vs Serbia U17: FIFA U17 World Cup stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cr2klg1vg594t",
+     "source": "BBC"
     }
    ]
   },
@@ -112,7 +112,7 @@
    "slug": "도산소옥",
    "traffic": 500,
    "startedAt": 1795796400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -138,8 +138,8 @@
    "slug": "굿파트너2",
    "traffic": 500,
    "startedAt": 1795783200.0,
-   "change": "down",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "“또 따라 하기는” 장나라, 괜히 시비 거는 박해진에게 날린 뼈 때리는 팩폭 한 방♨",
@@ -164,8 +164,8 @@
    "slug": "강지영",
    "traffic": 200,
    "startedAt": 1795783200.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "[방송소식] MBC라디오, 다음 달 1일 'FM4U 패밀리데이'",
@@ -216,8 +216,8 @@
    "slug": "신지아",
    "traffic": 100,
    "startedAt": 1795788600.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
@@ -242,8 +242,8 @@
    "slug": "금새록",
    "traffic": 100,
    "startedAt": 1795788600.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",

@@ -2,7 +2,7 @@
  "keyword": "교사",
  "slug": "교사",
  "firstSeen": 1795794000.0,
- "lastSeen": 1795800392.951915,
+ "lastSeen": 1795803762.84293,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -10,9 +10,24 @@
    1795800393,
    2,
    1000
+  ],
+  [
+   1795803763,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "'초등생이 교사 머리채 폭행' 영상 유출…학부모 진정 내사 종결",
+   "url": "https://www.yna.co.kr/view/AKR20261127073400064",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "교사 폭행한 자녀 영상 퍼지자...‘명예훼손’ 진정 낸 학부모",
+   "url": "https://news.jtbc.co.kr/article/NB12330181",
+   "source": "JTBC"
+  },
   {
    "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
