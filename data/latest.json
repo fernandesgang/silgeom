@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795808125,
+ "generatedAt": 1795811327,
  "geo": "KR",
  "items": [
   {
@@ -34,8 +34,8 @@
    "slug": "교사",
    "traffic": 2000,
    "startedAt": 1795794000.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
@@ -56,126 +56,178 @@
   },
   {
    "rank": 3,
-   "keyword": "박서진",
-   "slug": "박서진",
-   "traffic": 2000,
-   "startedAt": 1795788000.0,
-   "change": "down",
-   "diff": 1,
+   "keyword": "노팅엄 포레스트 대 첼시",
+   "slug": "노팅엄-포레스트-대-첼시",
+   "traffic": 1000,
+   "startedAt": 1795806600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "'장구의 신' 박서진, 하다하다 5억짜리 장구까지 연주 '초긴장'(살림남)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/MM3TONLEMMYWMNLDGM3GMYZYHA/",
-     "source": "조선일보"
+     "title": "[if.preview] ‘11경기 9골 빈공’ 노팅엄 vs ‘20실점 수비 붕괴’ 첼시, 부진 탈출에 성공할 팀은?",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101394",
+     "source": "포포투"
     },
     {
-     "title": "박서진, 트로트가수 최초 국제 페스티벌…동방신기 섰던 자리",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885977",
-     "source": "뉴시스"
+     "title": "프리미어 리그 12라운드: 첼시와 맨체스터 유나이티드는 위기에서 벗어날 방법을 모색한다.",
+     "url": "https://www.vietnam.vn/ko/vong-12-premier-league-chelsea-man-united-tim-duong-thoat",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "박서진, 트로트 국가대표 됐다…5억원 고려청자 장구 연주 (살림남)",
-     "url": "https://sports.khan.co.kr/article/202611270812003",
-     "source": "스포츠경향"
+     "title": "리즈전 1-4 참패 쇼크, 그런데 부상자 복귀도 없다… 위기의 첼시, 주앙 페드루 등 5명 노팅엄전 출전 불발",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314377",
+     "source": "베스트일레븐"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "온두라스 u-17 대 일본 u-17",
-   "slug": "온두라스-u-17-대-일본-u-17",
+   "keyword": "로스앤젤레스 fc",
+   "slug": "로스앤젤레스-fc",
    "traffic": 1000,
-   "startedAt": 1795783200.0,
-   "change": "same",
+   "startedAt": 1795804800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "FIFA U-17 World Cup - Japan beat Honduras to advance",
-     "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/japan-beat-honduras-to-advance",
-     "source": "The AFC"
+     "title": "'벼랑 끝' LAFC 공식 인정! 손흥민이 못 해주면 탈락이다...\"슈퍼스타 SON이 계속 위협적인 모습 보여줘야 해\"",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/26/MM4DIMBTGY4GGYLEMY2DCZJYGQ/",
+     "source": "조선일보"
     },
     {
-     "title": "U-17 World Cup: Japan and China both face elimination crisis = Chinese netizens: 'China is probably okay, but Japan...'",
-     "url": "https://www.recordchina.co.jp/en/b999179-s25-c50-d0192.html",
-     "source": "Record China"
+     "title": "“손흥민은 찾아볼 수 없었다” MLS 사무국 ‘공식 지적’···“LAFC, 부앙가·SON 활약 없으면 PO 2연...",
+     "url": "https://sports.khan.co.kr/article/202611272008003",
+     "source": "스포츠경향"
     },
     {
-     "title": "Japan U17 vs Serbia U17: FIFA U17 World Cup stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cr2klg1vg594t",
-     "source": "BBC"
+     "title": "'충격' 손흥민도 메시도 벼랑 끝! '8.3%' 못 뒤집으면 1R 탈락 확정...\"스타들 향한 압박 커지고 있다\" MLS도 조명 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/27/202611262325776966O",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "굿파트너2",
-   "slug": "굿파트너2",
-   "traffic": 500,
-   "startedAt": 1795783200.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "‘굿파트너2’ 장나라·박해진, 수임 경쟁 불붙었다…김혜윤의 위기 돌파는?",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848665",
-     "source": "제민일보"
-    },
-    {
-     "title": "“또 따라 하기는” 장나라, 괜히 시비 거는 박해진에게 날린 뼈 때리는 팩폭 한 방♨",
-     "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484449324?div=live_end",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "스튜디오앤뉴표 이혼쇼 '굿파트너2'…2회 순간 최고 10% 돌파",
-     "url": "https://www.fnnews.com/news/202611271045327409",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "국군간호사관학교",
    "slug": "국군간호사관학교",
    "traffic": 200,
    "startedAt": 1795802400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": []
   },
   {
-   "rank": 7,
-   "keyword": "강지영",
-   "slug": "강지영",
+   "rank": 6,
+   "keyword": "김승원",
+   "slug": "김승원",
    "traffic": 200,
-   "startedAt": 1795783200.0,
-   "change": "same",
+   "startedAt": 1795802400.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[방송소식] MBC라디오, 다음 달 1일 'FM4U 패밀리데이'",
-     "url": "https://www.yna.co.kr/view/AKR20261127082100005",
+     "title": "[단독] '한동훈 자료유출 의혹'‥법무부·공소청 압수수색",
+     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6869062_36967.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\"",
+     "url": "https://news.jtbc.co.kr/article/NB12330134",
+     "source": "JTBC"
+    },
+    {
+     "title": "한동훈 \"경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127096700001",
      "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "홍익표",
+   "slug": "홍익표",
+   "traffic": 100,
+   "startedAt": 1795806600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "홍익표 통일장관 후보자, 재산 64억 원 신고‥배우자 주식 33억",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869156_36911.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "이문세·배철수·안영미, 하루 동안 자리 교체…'MBC FM4U 패밀리데이'",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886153",
-     "source": "뉴시스"
+     "title": "개각 5명 검증 정국 돌입…재산·논문·경력 도마 위",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128004918u6m",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "배철수 '별밤'→이상순 '안녕하세요' 듣는다…MBC FM4U '패밀리데이' 진행",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526241",
-     "source": "iMBC 연예"
+     "title": "홍익표 ‘비거주 1주택’···행당동 아파트 보유·방배동 전세 거주",
+     "url": "https://weekly.khan.co.kr/article/202611271845001",
+     "source": "주간경향"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "한화그룹",
+   "slug": "한화그룹",
+   "traffic": 100,
+   "startedAt": 1795804800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "한화클래식 2026 막 내려…\"문화예술 향유 기회 확장\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127027200003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "창원·거제서 첫 공연…‘한화클래식 2026’ 성료",
+     "url": "https://biz.heraldcorp.com/article/10951172",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "[비즈&] 한화클래식 2026 막 내려…\"예술 가치 확장\" 外",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611271729158TZ",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "대한축구협회",
+   "slug": "대한축구협회",
+   "traffic": 100,
+   "startedAt": 1795800600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "FIFA-AFC, 공동 대표단 파견…회장 선거 다시 탄력받나?",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724848",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "FIFA·AFC 대표단 내달 방한…한국 축구 수장 선출 해법 모색",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=848673",
+     "source": "제민일보"
+    },
+    {
+     "title": "FIFA·AFC, 대한축구협회장 선거 논의차 방한",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127232919otJ",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "연애남매2",
    "slug": "연애남매2",
    "traffic": 100,
    "startedAt": 1795791000.0,
-   "change": "same",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "만난 지 24시간도 안 됐는데 스킨십…‘연애남매2’ 오늘 첫 공개",
@@ -191,58 +243,6 @@
      "title": "마라 맛으로 돌아온 '연애남매2', 감정 폭풍 예고 \"초반부터 휘몰아쳐\"",
      "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526019",
      "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "신지아",
-   "slug": "신지아",
-   "traffic": 100,
-   "startedAt": 1795788600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
-     "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
-     "source": "Olympic Channel"
-    },
-    {
-     "title": "2026-27 ISU 국제빙상대회 : 개인 최고점! 첫 시니어 메달에 다가선 신지아 [피겨 그랑프리 6차]",
-     "url": "https://programs.sbs.co.kr/sports/isu2026/clip/90136/22000640511",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "금새록",
-   "slug": "금새록",
-   "traffic": 100,
-   "startedAt": 1795788600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "연우 \"급격한 다이어트 면역력 떨어져…많이 울었다\"",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885403",
-     "source": "뉴시스"
-    },
-    {
-     "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
-     "url": "https://www.viva100.com/article/20261127500209",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
-     "source": "머니투데이"
     }
    ]
   }

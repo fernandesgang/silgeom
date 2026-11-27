@@ -2,7 +2,7 @@
  "keyword": "홍익표",
  "slug": "홍익표",
  "firstSeen": 1795576200.0,
- "lastSeen": 1795582550.2957742,
+ "lastSeen": 1795811327.2441666,
  "peakRank": 7,
  "peakTraffic": 500,
  "history": [
@@ -10,9 +10,29 @@
    1795582550,
    7,
    500
+  ],
+  [
+   1795811327,
+   7,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "홍익표 통일장관 후보자, 재산 64억 원 신고‥배우자 주식 33억",
+   "url": "https://imnews.imbc.com/news/2026/politics/article/6869156_36911.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "개각 5명 검증 정국 돌입…재산·논문·경력 도마 위",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128004918u6m",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "홍익표 ‘비거주 1주택’···행당동 아파트 보유·방배동 전세 거주",
+   "url": "https://weekly.khan.co.kr/article/202611271845001",
+   "source": "주간경향"
+  },
   {
    "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
    "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-28"
  ],
  "related": [
+  "파기환송",
+  "교사",
+  "노팅엄-포레스트-대-첼시",
+  "로스앤젤레스-fc",
+  "국군간호사관학교",
+  "김승원",
+  "한화그룹",
+  "대한축구협회",
+  "연애남매2",
   "반도체",
   "공휴일",
   "술",
