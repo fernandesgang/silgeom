@@ -1,91 +1,39 @@
 {
- "generatedAt": 1795735846,
+ "generatedAt": 1795739407,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "세무 냥이",
-   "slug": "세무-냥이",
+   "keyword": "김사윤",
+   "slug": "김사윤",
    "traffic": 5000,
-   "startedAt": 1795728600.0,
+   "startedAt": 1795734000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[속보]경찰, ‘AI 부정행위 자수’ 세무사시험 수석에 구속영장 신청",
-     "url": "https://www.khan.co.kr/article/202611261903001",
-     "source": "경향신문"
+     "title": "KIA가 '우승포수' 내주며 트레이드로 영입했는데…끝내 은퇴선언 \"개명까지 했는데 수술만 2번, 정말 힘든 싸움이었다\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022182",
+     "source": "SPOTV NEWS"
     },
     {
-     "title": "AI 부정행위 난리 나더니 금속탐지기 대란…문의량 100배 늘어",
-     "url": "https://stock.mk.co.kr/news/view/1206884",
-     "source": "매일경제 마켓"
+     "title": "KIA 김사윤, SNS로 은퇴 발표…\"제2의 인생 시작\"",
+     "url": "https://www.ajunews.com/view/20261127064839240",
+     "source": "아주경제"
     },
     {
-     "title": "‘AI 커닝’ 세무사 수석 구속영장…“범대 중대성 고려”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723970",
-     "source": "KBS 뉴스"
+     "title": "'끝내 은퇴' KIA서 방출된 좌완의 마지막 인사…\"정말 힘든 싸움이었습니다\"",
+     "url": "https://www.xportsnews.com/article/2223623",
+     "source": "www.xportsnews.com"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "부부",
-   "slug": "부부",
-   "traffic": 2000,
-   "startedAt": 1795729200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "아내 친구에 고백→뽀뽀한 남편...아내는 딴 남자와 동거 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112609443254780",
-     "source": "머니투데이"
-    },
-    {
-     "title": "혼인신고 3개월 만에 다른 男과 동거…서장훈 격노 (이혼숙려캠프)",
-     "url": "https://sports.donga.com/ent/article/all/20261126/135093645/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'미성숙 부부' 아내, 충격적인 배설물 청소…\"미쳤나 봐\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6367721",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "블루 아카이브",
-   "slug": "블루-아카이브",
+   "keyword": "준법투쟁",
+   "slug": "준법투쟁",
    "traffic": 1000,
-   "startedAt": 1795731000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
-     "url": "https://www.yna.co.kr/view/AKR20261126085400017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001896",
-     "source": "IT조선"
-    },
-    {
-     "title": "반올림피자, ‘아주르 프로밀리아’와 협업 메뉴•굿즈 선봬",
-     "url": "https://www.viva100.com/article/20261126501228",
-     "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "열차",
-   "slug": "열차",
-   "traffic": 1000,
-   "startedAt": 1795731000.0,
+   "startedAt": 1795735200.0,
    "change": "new",
    "diff": 0,
    "news": [
@@ -107,108 +55,196 @@
    ]
   },
   {
-   "rank": 5,
-   "keyword": "청소",
-   "slug": "청소",
+   "rank": 3,
+   "keyword": "소득세",
+   "slug": "소득세",
    "traffic": 1000,
-   "startedAt": 1795730400.0,
+   "startedAt": 1795734000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"양파망 버리지 말고 진작 이렇게 쓸걸\"... 청소부터 수납까지 이렇게 유용할 줄 몰랐습니다",
-     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=22064",
-     "source": "아던트뉴스"
+     "title": "가계 사업체의 연 매출이 30억 VND를 초과하는 경우, 언제 세금 계산 방식을 변경해야 합니까?",
+     "url": "https://www.vietnam.vn/ko/doanh-thu-vuot-3-ty-khi-nao-ho-kinh-doanh-phai-doi-cach-tinh-thue",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "[와글와글] 도 넘은 화장실 장난‥\"가정교육 잘 시켜야\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868961_37012.html",
-     "source": "MBC 뉴스"
+     "title": "베트남 정부, 면세 매출 기준 20억 동 상향 불가 입장",
+     "url": "https://chaovietnam.co.kr/195031/",
+     "source": "씬짜오베트남"
     },
     {
-     "title": "물에 젖은 휴지 던져 공중화장실 엉망…\"청소하시는 분은 무슨 죄\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/27/2026112705541527127",
-     "source": "머니투데이"
+     "title": "정책이 길을 열어준다면, 기업들은 진정한 역량을 통해 \"성장\"해야 합니다.",
+     "url": "https://www.vietnam.vn/ko/chinh-sach-mo-duong-doanh-nghiep-phai-lon-len-bang-nang-luc-thuc-chat",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "최정민",
+   "slug": "최정민",
+   "traffic": 500,
+   "startedAt": 1795734000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "남자배구 삼성화재, 3년 18일 만에 V리그 선두",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611262212386872",
+     "source": "YTN"
+    },
+    {
+     "title": "'돌아온 명가' 삼성화재…1,114일 만에 리그 1위",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865993",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "온힘을 다해",
+     "url": "https://www.newsis.com/view/NISI20261126_0021546927",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "보그",
+   "slug": "보그",
+   "traffic": 200,
+   "startedAt": 1795735200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "짙푸르고도 강렬한 여운, 정국",
+     "url": "https://www.vogue.co.kr/2026/11/26/%EC%A7%99%ED%91%B8%EB%A5%B4%EA%B3%A0%EB%8F%84-%EA%B0%95%EB%A0%AC%ED%95%9C-%EC%97%AC%EC%9A%B4-%EC%A0%95%EA%B5%AD/",
+     "source": "Vogue korea"
+    },
+    {
+     "title": "\"청춘 그 자체\" BTS 정국, 보그 화보 뜨자 팬들 열광…\"분위기 미쳤네\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/GAZGMZBSGIYGGY3GMEZDCNDGGY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "BTS 정국, 선물 상자보다 설레는 아우라…캘빈클라인 '2026 홀리데이 언박싱' 영상 공개",
+     "url": "https://www.k-trendynews.com/news/articleView.html?idxno=207247",
+     "source": "케이트렌디뉴스"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "배구",
-   "slug": "배구",
-   "traffic": 1000,
-   "startedAt": 1795729200.0,
+   "keyword": "장한별",
+   "slug": "장한별",
+   "traffic": 200,
+   "startedAt": 1795734600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "온힘을 다해",
-     "url": "https://www.newsis.com/view/NISI20261126_0021546927",
-     "source": "뉴시스"
+     "title": "장한별, 명품 몸매 인증 …벌크업無 이두근·삼두근 윤곽 명확",
+     "url": "https://mydaily.co.kr/page/view/2026112617115595952",
+     "source": "마이데일리"
     },
     {
-     "title": "남자배구 삼성화재, 1천114일 만에 순위표 맨 꼭대기로(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261126192351007",
-     "source": "연합뉴스"
+     "title": "장한별, '무대 밖에서도 빛나는 남자'…헬스장 거울 셀카에 드러난 근육질 몸매·남다른 자기관리",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16279849",
+     "source": "톱스타뉴스"
     },
     {
-     "title": "'현역 최고령' 유광우의 다짐‥\"이게 삼성화재였지!\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868583_37004.html",
-     "source": "MBC 뉴스"
+     "title": "장한별이 받은 1650만원짜리 특별한 선물",
+     "url": "https://www.ajunews.com/view/20261125134658324",
+     "source": "아주경제"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "배당",
-   "slug": "배당",
-   "traffic": 1000,
-   "startedAt": 1795728600.0,
+   "keyword": "김용범",
+   "slug": "김용범",
+   "traffic": 200,
+   "startedAt": 1795734600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "아벨 체제서도 빛나는 버크셔의 '배당 마법'…빅5 종목서 4조원 수령 전망",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446865",
+     "title": "‘李대통령 주문’ 자본시장 개혁기구 수장에 메리츠 김용범 부회장",
+     "url": "https://www.khan.co.kr/article/202611261926001",
+     "source": "경향신문"
+    },
+    {
+     "title": "'메리츠 뜯어고친' 김용범…韓 자본시장 바꿀까",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446863",
      "source": "연합인포맥스"
     },
     {
-     "title": "[단독 인터뷰] 제이 우즈 “그렉 아벨의 버크셔 경영 긍정적···알파벳 투자 큰 결실 맺을 것”",
-     "url": "https://kr.benzinga.com/news/usa/analystratings/%EB%8B%A8%EB%8F%85-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%9C%EC%9D%B4-%EC%9A%B0%EC%A6%88-%EA%B7%B8%EB%A0%89-%EC%95%84%EB%B2%A8%EC%9D%98-%EB%B2%84%ED%81%AC%EC%85%94-%EA%B2%BD%EC%98%81-%EA%B8%8D/",
-     "source": "Benzinga"
-    },
-    {
-     "title": "\"'AI 피난처'로 뜬 버크셔 해서웨이, 밸류에이션 부담 직면\"",
-     "url": "https://kbthink.com/news-list/view.html?newsId=20261123074649405",
-     "source": "KB Think"
+     "title": "현재 자본시장 개혁 전담기구 구성을 검토하고 있으나, 회의일정 및 내용 등은 결정된 바 없습니다.",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976489",
+     "source": "대한민국 정책브리핑"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "nfl",
-   "slug": "nfl",
+   "keyword": "빅뱅",
+   "slug": "빅뱅",
    "traffic": 100,
-   "startedAt": 1795729800.0,
+   "startedAt": 1795735200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "NFL Week 12: Highlights of Thanksgiving games",
-     "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-     "source": "ESPN"
+     "title": "빅뱅, 신곡 '기립' 깜짝 발매…3개월 만의 컴백",
+     "url": "https://www.ytn.co.kr/_sn/0117_202611201430274514",
+     "source": "YTN"
     },
     {
-     "title": "Where to Stream Thanksgiving NFL Games for Free Online",
-     "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-thanksgiving-nfl-football-games-online-free-2026-1235664090/",
-     "source": "Rolling Stone"
+     "title": "빅뱅, 박수를 구걸하지 않아도 터지는 '기립' [뉴트랙 쿨리뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112707007267618",
+     "source": "머니투데이"
     },
     {
-     "title": "NFL Thanksgiving LIVE!",
-     "url": "https://www.skysports.com/nfl/live-blog/13616869/nfl-thanksgiving-2026-live-bears-vs-lions-cowboys-vs-eagles-updates-results-highlights-and-how-to-watch-live-on-sky-sports",
-     "source": "Sky Sports"
+     "title": "빅뱅 신곡에 검색 급증…유튜브 타고 세계로 퍼진 MAMA 열기",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01682646645649656&mediaCodeNo=257",
+     "source": "이데일리"
     }
    ]
+  },
+  {
+   "rank": 9,
+   "keyword": "급식 파업",
+   "slug": "급식-파업",
+   "traffic": 100,
+   "startedAt": 1795734600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "전국 학교 ‘빵·우유’로 점심 때우나…비정규직 4만명 오늘 총파업",
+     "url": "https://news.jtbc.co.kr/article/NB12330102",
+     "source": "JTBC"
+    },
+    {
+     "title": "오늘 전국 2만명 ‘급식·돌봄 총파업’",
+     "url": "https://www.chosun.com/national/transport-environment/2026/11/26/I34KNZ5XNJHPRGQQYV7FTIFEFQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "울산 유치원·학교 116곳, 학교비정규직 파업에 급식 차질 예상",
+     "url": "https://www.yna.co.kr/view/AKR20261126170500057",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "북한 새 우라늄 농축 시설 공개 및 선전포고 위협 관련 최신 뉴스 알려줘",
+   "slug": "북한-새-우라늄-농축-시설-공개-및-선전포고-위협-관련-최신-뉴스-알려줘",
+   "traffic": 100,
+   "startedAt": 1795733400.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
   }
  ]
 }
