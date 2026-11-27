@@ -483,6 +483,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795739407.1601667
+  },
+  "김아현의 금빛 스탁": {
+   "slug": "김아현의-금빛-스탁",
+   "firstSeen": 1795739400.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795744595.9360929
+  },
+  "포수": {
+   "slug": "포수",
+   "firstSeen": 1795737600.0,
+   "peakRank": 2,
+   "peakTraffic": 5000,
+   "lastSeen": 1795744595.9360929
+  },
+  "연비": {
+   "slug": "연비",
+   "firstSeen": 1795738200.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795744595.9360929
+  },
+  "과학기술인공제회": {
+   "slug": "과학기술인공제회",
+   "firstSeen": 1795737600.0,
+   "peakRank": 4,
+   "peakTraffic": 2000,
+   "lastSeen": 1795744595.9360929
+  },
+  "lg에너지솔루션": {
+   "slug": "lg에너지솔루션",
+   "firstSeen": 1795740600.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795744595.9360929
+  },
+  "병무청": {
+   "slug": "병무청",
+   "firstSeen": 1795740600.0,
+   "peakRank": 6,
+   "peakTraffic": 500,
+   "lastSeen": 1795744595.9360929
+  },
+  "주주": {
+   "slug": "주주",
+   "firstSeen": 1795738800.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795744595.9360929
+  },
+  "국가보훈부": {
+   "slug": "국가보훈부",
+   "firstSeen": 1795737000.0,
+   "peakRank": 8,
+   "peakTraffic": 200,
+   "lastSeen": 1795744595.9360929
+  },
+  "h&m": {
+   "slug": "h-m",
+   "firstSeen": 1795740000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795744595.9360929
+  },
+  "신창재": {
+   "slug": "신창재",
+   "firstSeen": 1795737600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795744595.9360929
   }
  }
 }

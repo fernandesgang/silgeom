@@ -2,17 +2,37 @@
  "keyword": "lg에너지솔루션",
  "slug": "lg에너지솔루션",
  "firstSeen": 1795603800.0,
- "lastSeen": 1795611403.4937336,
- "peakRank": 9,
- "peakTraffic": 200,
+ "lastSeen": 1795744595.9360929,
+ "peakRank": 5,
+ "peakTraffic": 500,
  "history": [
   [
    1795611403,
    9,
    200
+  ],
+  [
+   1795744596,
+   5,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "[단독] LG에너지솔루션 빠진 3차 ESS 중앙계약시장, 삼성SDI가 웃었다.",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=375356",
+   "source": "전기신문"
+  },
+  {
+   "title": "역대 최대 3차 ESS 정부 입찰서 삼성SDI 63%·SK온 37% 수주",
+   "url": "https://www.yna.co.kr/view/AKR20261127043500003",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "ESS 3차 중앙계약시장 1194MW 낙찰…2차 대비 두 배 늘어",
+   "url": "https://edata.ekn.kr/article/view/ekn202611260017",
+   "source": "기후에너지데이터뱅크"
+  },
   {
    "title": "[CEO 리더십] 김동명의 LG엔솔 ’체질 개선’…폴란드 공장, ESS 전진기지로 By FinancialPost",
    "url": "https://kr.investing.com/news/stock-market-news/article-2189741",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-27"
  ],
  "related": [
+  "김아현의-금빛-스탁",
+  "포수",
+  "연비",
+  "과학기술인공제회",
+  "병무청",
+  "주주",
+  "국가보훈부",
+  "h-m",
+  "신창재",
   "은퇴-요원-관리팀",
   "난방",
   "재혼황후",
