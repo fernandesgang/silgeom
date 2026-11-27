@@ -1,0 +1,46 @@
+{
+ "keyword": "미세먼지",
+ "slug": "미세먼지",
+ "firstSeen": 1795755600.0,
+ "lastSeen": 1795762536.095134,
+ "peakRank": 7,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795762536,
+   7,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "제8차 미세먼지 계절관리제 석탄발전 최대 18기 가동 중단",
+   "url": "https://gonggam.korea.kr/newsContentView.es?content=NC002&news_id=95ba8803-3aa3-4f24-84ff-2f32300ef06e&section_id=NCCD_POLICY&mid=a10201000000&code_cd=0101000000",
+   "source": "K-공감"
+  },
+  {
+   "title": "대구시, 12월부터 배출가스 5등급 차량 평일 운행 제한",
+   "url": "https://www.yna.co.kr/view/AKR20261127103200053",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "‘배출가스 5등급’ 차량 운행제한···대구, 12월부터 4개월간 단속",
+   "url": "https://www.khan.co.kr/article/202611271425001",
+   "source": "경향신문"
+  }
+ ],
+ "days": [
+  "2026-11-27"
+ ],
+ "related": [
+  "손원일-급-잠수함",
+  "전두환",
+  "이재명-정부",
+  "신태일",
+  "롯데그룹",
+  "고우석",
+  "교통",
+  "모두의카드",
+  "신상출시-편스토랑"
+ ]
+}
