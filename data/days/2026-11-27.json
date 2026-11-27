@@ -998,23 +998,23 @@
   "농협은행": {
    "slug": "농협은행",
    "firstSeen": 1795777800.0,
-   "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795783945.460594
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795788624.9712486
   },
   "황교안": {
    "slug": "황교안",
    "firstSeen": 1795776600.0,
    "peakRank": 7,
    "peakTraffic": 200,
-   "lastSeen": 1795783945.460594
+   "lastSeen": 1795788624.9712486
   },
   "박훈정": {
    "slug": "박훈정",
    "firstSeen": 1795777200.0,
-   "peakRank": 9,
-   "peakTraffic": 100,
-   "lastSeen": 1795783945.460594
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795788624.9712486
   },
   "블랙 프라이데이": {
    "slug": "블랙-프라이데이",
@@ -1022,6 +1022,55 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795783945.460594
+  },
+  "파기 환송": {
+   "slug": "파기-환송",
+   "firstSeen": 1795776600.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795788624.9712486
+  },
+  "굿파트너2": {
+   "slug": "굿파트너2",
+   "firstSeen": 1795783200.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795788624.9712486
+  },
+  "박정수": {
+   "slug": "박정수",
+   "firstSeen": 1795782000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795788624.9712486
+  },
+  "멸망전": {
+   "slug": "멸망전",
+   "firstSeen": 1795780800.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795788624.9712486
+  },
+  "강지영": {
+   "slug": "강지영",
+   "firstSeen": 1795783200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795788624.9712486
+  },
+  "명서현": {
+   "slug": "명서현",
+   "firstSeen": 1795782600.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795788624.9712486
+  },
+  "두바이": {
+   "slug": "두바이",
+   "firstSeen": 1795776600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795788624.9712486
   }
  }
 }

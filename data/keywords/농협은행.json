@@ -2,17 +2,37 @@
  "keyword": "농협은행",
  "slug": "농협은행",
  "firstSeen": 1795777800.0,
- "lastSeen": 1795783945.460594,
- "peakRank": 2,
- "peakTraffic": 1000,
+ "lastSeen": 1795788624.9712486,
+ "peakRank": 1,
+ "peakTraffic": 2000,
  "history": [
   [
    1795783945,
    2,
    1000
+  ],
+  [
+   1795788625,
+   1,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "씨지인사이드, NH농협은행 오픈이노베이션 최우수상 수상…금융상품 광고 Compliance AI 선보여",
+   "url": "https://www.etnews.com/20261127000225",
+   "source": "전자신문"
+  },
+  {
+   "title": "NH농협은행, 비정형데이터 품질 최고 등급…AI 경쟁력 강화",
+   "url": "https://m.ekn.kr/view.php?key=20261127023445945",
+   "source": "에너지경제신문"
+  },
+  {
+   "title": "NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 획득",
+   "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806852",
+   "source": "일간투데이"
+  },
   {
    "title": "‘지역사회에 돈 얼마나 풀었는지’ 은행 평가에 더 반영한다",
    "url": "https://www.khan.co.kr/article/202611271430011",
@@ -33,6 +53,13 @@
   "2026-11-27"
  ],
  "related": [
+  "파기-환송",
+  "굿파트너2",
+  "박정수",
+  "멸망전",
+  "강지영",
+  "명서현",
+  "두바이",
   "jyp엔터테인먼트",
   "서울교통공사-채용",
   "agf",
