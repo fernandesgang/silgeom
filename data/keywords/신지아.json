@@ -2,17 +2,32 @@
  "keyword": "신지아",
  "slug": "신지아",
  "firstSeen": 1795788600.0,
- "lastSeen": 1795796380.0109608,
- "peakRank": 10,
+ "lastSeen": 1795800392.951915,
+ "peakRank": 9,
  "peakTraffic": 100,
  "history": [
   [
    1795796380,
    10,
    100
+  ],
+  [
+   1795800393,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724677",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
+   "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
+   "source": "Olympic Channel"
+  },
   {
    "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
    "url": "https://www.yna.co.kr/view/AKR20261127161800007",
@@ -33,6 +48,9 @@
   "2026-11-28"
  ],
  "related": [
+  "파기환송",
+  "교사",
+  "도산소옥",
   "박서진",
   "온두라스-u-17-대-일본-u-17",
   "그냥사람친구",
