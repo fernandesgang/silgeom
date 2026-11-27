@@ -2,7 +2,7 @@
  "keyword": "내란죄",
  "slug": "내란죄",
  "firstSeen": 1795061400.0,
- "lastSeen": 1795067421.70955,
+ "lastSeen": 1795758730.5220659,
  "peakRank": 8,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795067422,
    8,
    200
+  ],
+  [
+   1795758731,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "전두환 단죄를 \"정치 재판\"‥김태규 영상 틀며 \"재심 추진\"",
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868892_37004.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "[쏙쏙뉴스] 12·12 주역들이 모인 전두환 추모행사… '재평가'와 '재심 청구'?",
+   "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116787",
+   "source": "OhmyNews"
+  },
+  {
+   "title": "대법원 ‘전두환 단죄’ 재심 청구? 민주당 “조희대 사법부, 잘못된 신호 줬다”",
+   "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338752",
+   "source": "미디어오늘"
+  },
   {
    "title": "한덕수 선고 정치권 전운…與 \"즉응 결정\" 野 \"재판개입\"",
    "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133438aSq",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-27"
  ],
  "related": [
+  "투자",
+  "기부",
+  "손원일급-잠수함",
+  "경기남부",
+  "이재명-정부",
+  "항소",
+  "현대모비스",
+  "배정남",
+  "상선",
   "이진우-심정지",
   "박찬종",
   "kbs",
