@@ -1,0 +1,45 @@
+{
+ "keyword": "시장",
+ "slug": "시장",
+ "firstSeen": 1795813800.0,
+ "lastSeen": 1795818619.9876983,
+ "peakRank": 4,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795818620,
+   4,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "서울 아파트 언제쯤 하락 전환할까?",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "\"주식 팔아 집 사려던 수요 사라져\"…서울 부동산 시장이 멈춘 이유 - 머니투데이",
+   "url": "https://www.mt.co.kr/index.php/society/2026/11/28/2026112723341520109",
+   "source": "머니투데이"
+  },
+  {
+   "title": "강북도 심상찮다…‘24평 12억 육박’ 길음동, 매수 문의 뚝",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02801126645649984",
+   "source": "마켓인"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "연금",
+  "부동산",
+  "한지민",
+  "nottm-forest-vs-chelsea",
+  "정의선",
+  "국제-축구-연맹",
+  "베르더-대-묀헨글라트바흐",
+  "한국은행-기준금리"
+ ]
+}

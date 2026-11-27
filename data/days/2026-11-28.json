@@ -238,6 +238,69 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795815005.437535
+  },
+  "연금": {
+   "slug": "연금",
+   "firstSeen": 1795812600.0,
+   "peakRank": 1,
+   "peakTraffic": 10000,
+   "lastSeen": 1795818619.9876983
+  },
+  "부동산": {
+   "slug": "부동산",
+   "firstSeen": 1795813200.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795818619.9876983
+  },
+  "한지민": {
+   "slug": "한지민",
+   "firstSeen": 1795814400.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795818619.9876983
+  },
+  "시장": {
+   "slug": "시장",
+   "firstSeen": 1795813800.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795818619.9876983
+  },
+  "nottm forest vs chelsea": {
+   "slug": "nottm-forest-vs-chelsea",
+   "firstSeen": 1795812600.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795818619.9876983
+  },
+  "정의선": {
+   "slug": "정의선",
+   "firstSeen": 1795813800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795818619.9876983
+  },
+  "국제 축구 연맹": {
+   "slug": "국제-축구-연맹",
+   "firstSeen": 1795813800.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795818619.9876983
+  },
+  "베르더 대 묀헨글라트바흐": {
+   "slug": "베르더-대-묀헨글라트바흐",
+   "firstSeen": 1795813200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795818619.9876983
+  },
+  "한국은행 기준금리": {
+   "slug": "한국은행-기준금리",
+   "firstSeen": 1795813200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795818619.9876983
   }
  }
 }
