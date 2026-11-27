@@ -137,9 +137,9 @@
   "노팅엄 포레스트 대 첼시": {
    "slug": "노팅엄-포레스트-대-첼시",
    "firstSeen": 1795806600.0,
-   "peakRank": 3,
-   "peakTraffic": 1000,
-   "lastSeen": 1795811327.2441666
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795815005.437535
   },
   "로스앤젤레스 fc": {
    "slug": "로스앤젤레스-fc",
@@ -175,6 +175,69 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795811327.2441666
+  },
+  "복싱": {
+   "slug": "복싱",
+   "firstSeen": 1795809600.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795815005.437535
+  },
+  "준법투쟁": {
+   "slug": "준법투쟁",
+   "firstSeen": 1795807800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795815005.437535
+  },
+  "이효리": {
+   "slug": "이효리",
+   "firstSeen": 1795806600.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795815005.437535
+  },
+  "주주": {
+   "slug": "주주",
+   "firstSeen": 1795809000.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795815005.437535
+  },
+  "김가영": {
+   "slug": "김가영",
+   "firstSeen": 1795809600.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795815005.437535
+  },
+  "최민정": {
+   "slug": "최민정",
+   "firstSeen": 1795808400.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795815005.437535
+  },
+  "중대범죄수사청": {
+   "slug": "중대범죄수사청",
+   "firstSeen": 1795809600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795815005.437535
+  },
+  "google": {
+   "slug": "google",
+   "firstSeen": 1795808400.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795815005.437535
+  },
+  "죽음": {
+   "slug": "죽음",
+   "firstSeen": 1795807800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795815005.437535
   }
  }
 }

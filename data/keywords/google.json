@@ -1,0 +1,46 @@
+{
+ "keyword": "google",
+ "slug": "google",
+ "firstSeen": 1795808400.0,
+ "lastSeen": 1795815005.437535,
+ "peakRank": 9,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795815005,
+   9,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "Los Angeles schools block Google’s AI features, consider dropping tech giant’s products",
+   "url": "https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1",
+   "source": "AP News"
+  },
+  {
+   "title": "LAUSD blocks Google AI, despite tech giant’s move to pressure schools to go all in",
+   "url": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
+   "source": "Los Angeles Times"
+  },
+  {
+   "title": "U.S. School Districts Weigh Breaking Up With Google Search Over A.I.",
+   "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+   "source": "The New York Times"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "노팅엄-포레스트-대-첼시",
+  "복싱",
+  "준법투쟁",
+  "이효리",
+  "주주",
+  "김가영",
+  "최민정",
+  "중대범죄수사청",
+  "죽음"
+ ]
+}
