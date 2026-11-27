@@ -1,14 +1,14 @@
 {
- "generatedAt": 1795744596,
+ "generatedAt": 1795747676,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "김아현의 금빛 스탁",
    "slug": "김아현의-금빛-스탁",
-   "traffic": 5000,
+   "traffic": 2000,
    "startedAt": 1795739400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -17,8 +17,8 @@
      "source": "YTN"
     },
     {
-     "title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
-     "url": "https://www.munhwa.com/article/11634496",
+     "title": "“굉장히 힘든 상황…” 주식생방 중 눈물 흘린 전문가",
+     "url": "https://www.munhwa.com/article/11634422",
      "source": "문화일보"
     },
     {
@@ -30,126 +30,168 @@
   },
   {
    "rank": 2,
-   "keyword": "포수",
-   "slug": "포수",
-   "traffic": 5000,
-   "startedAt": 1795737600.0,
+   "keyword": "한동훈",
+   "slug": "한동훈",
+   "traffic": 1000,
+   "startedAt": 1795743000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "한화 허인서, 최고 신인 영예…16년 만에 탄생한 포수 신인왕",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723404",
-     "source": "KBS 뉴스"
+     "title": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6869010_36918.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "김경문이 키운 '제2의 양의지' 허인서, 16년 만의 포수 신인왕",
-     "url": "https://www.yna.co.kr/view/AKR20261126141700007",
-     "source": "연합뉴스"
+     "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611271132582125",
+     "source": "YTN"
     },
     {
-     "title": "양의지 이후 16년 만에… ‘20홈런 포수’ 허인서, 신인왕 품었다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/26/4OQBTY2ZYVEKRAYTJV4I6KUX24/",
-     "source": "조선일보"
+     "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색",
+     "url": "https://news.jtbc.co.kr/article/NB12330116",
+     "source": "JTBC"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "연비",
-   "slug": "연비",
-   "traffic": 2000,
-   "startedAt": 1795738200.0,
+   "keyword": "ai 에이전트",
+   "slug": "ai-에이전트",
+   "traffic": 1000,
+   "startedAt": 1795741200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "겨울비 내리는 날, 자동차 연비는 왜 떨어질까??",
-     "url": "https://www.youthassembly.kr/news/1051915",
-     "source": "유스연합"
+     "title": "'피클'이 촉발한 AI 비서 규율 논의…정부, 법 개정 만지작",
+     "url": "https://zdnet.co.kr/view/?no=20261125140053",
+     "source": "지디넷코리아"
     },
     {
-     "title": "겨울비 내리는 날, 자동차 연비는 왜 떨어질까??",
-     "url": "https://www.newsyonhap.com/news/140294",
-     "source": "뉴스N연합"
+     "title": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446918",
+     "source": "연합인포맥스"
     },
     {
-     "title": "“진동·소음 잡았다”… 승차감 높인 르노 ‘필랑트’",
-     "url": "https://www.segye.com/newsView/20261126518910",
-     "source": "세계일보"
+     "title": "나 대신 쇼핑·상담하는 AI '피클'이 던진 숙제…\"AI가 한 일, 누구 책임?\"",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883342",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "과학기술인공제회",
-   "slug": "과학기술인공제회",
-   "traffic": 2000,
-   "startedAt": 1795737600.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 5,
    "keyword": "lg에너지솔루션",
    "slug": "lg에너지솔루션",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795740600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "[단독] LG에너지솔루션 빠진 3차 ESS 중앙계약시장, 삼성SDI가 웃었다.",
+     "title": "[단독] 3차 ESS 중앙계약시장, 삼성SDI가 웃었다",
      "url": "https://www.electimes.com/news/articleView.html?idxno=375356",
      "source": "전기신문"
     },
     {
-     "title": "역대 최대 3차 ESS 정부 입찰서 삼성SDI 63%·SK온 37% 수주",
-     "url": "https://www.yna.co.kr/view/AKR20261127043500003",
+     "title": "‘2조원’ 역대 최대 ESS 입찰…삼성SDI 63%·SK온 37% 수주",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01872886645649984",
+     "source": "마켓인"
+    },
+    {
+     "title": "LG에너지솔루션, 북미 ESS 시장 공략…AI 에너지 플랫폼 기업 도약",
+     "url": "https://www.etnews.com/20261126000087",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "병무청",
+   "slug": "병무청",
+   "traffic": 500,
+   "startedAt": 1795740600.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "병무청, '병역면탈 의심' 질병 조기전역자 자료확보 근거 마련",
+     "url": "https://www.yna.co.kr/view/AKR20261127068900504",
      "source": "연합뉴스"
     },
     {
-     "title": "ESS 3차 중앙계약시장 1194MW 낙찰…2차 대비 두 배 늘어",
-     "url": "https://edata.ekn.kr/article/view/ekn202611260017",
-     "source": "기후에너지데이터뱅크"
+     "title": "병무청, '허위 질병 조기 전역' 사후 검증 강화…다음 달 10일 시행",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121371",
+     "source": "BBS불교방송"
+    },
+    {
+     "title": "병무청, 한국생명존중희망재단과 협력 청년 병역의무자 정신건강 지원",
+     "url": "https://www.munhwa.com/article/11634572",
+     "source": "문화일보"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "병무청",
-   "slug": "병무청",
-   "traffic": 500,
-   "startedAt": 1795740600.0,
+   "keyword": "sema",
+   "slug": "sema",
+   "traffic": 200,
+   "startedAt": 1795742400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "경인지방병무청, 2027년 현역병입영일자 본인선택 접수",
-     "url": "https://sports.donga.com/region/article/all/20261124/135080630/1",
-     "source": "스포츠동아"
+     "title": "SEMA’s wildest builds show where car customization is heading",
+     "url": "https://www.wsav.com/news/semas-wildest-builds-show-where-car-customization-is-heading/",
+     "source": "WSAV-TV"
     },
     {
-     "title": "부울병무청, 내년 3월 입영하는 각 軍 현역병 모집",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762745",
-     "source": "국제뉴스"
+     "title": "Editorial: Notes From the SEMA Show",
+     "url": "https://www.moderntiredealer.com/suppliers/news/55421356/editorial-notes-from-the-sema-show",
+     "source": "Modern Tire Dealer"
     },
     {
-     "title": "인천병무지청, 25일 ‘2027년도 현역병 입영일자 본인선택’ 3차 접수",
-     "url": "https://www.mediaic.co.kr/news/articleView.html?idxno=85902",
-     "source": "미디어인천신문"
+     "title": "Beyond the Show Cars: 10 New SEMA Products That Stood Out",
+     "url": "https://www.hotrod.com/events/hot-rod-top-new-products-2026-sema-show",
+     "source": "HOT ROD Network"
     }
    ]
   },
   {
    "rank": 7,
+   "keyword": "유한양행",
+   "slug": "유한양행",
+   "traffic": 200,
+   "startedAt": 1795741200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "유한양행 '버들장터', 건기식·생활용품 할인…최대 10만원 쿠폰 지급",
+     "url": "https://www.etnews.com/20261127000053",
+     "source": "전자신문"
+    },
+    {
+     "title": "유한양행, ‘버들장터’서 30일까지 블랙프라이데이 행사 진행",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7196061",
+     "source": "주간한국"
+    },
+    {
+     "title": "천호엔케어, 블랙프라이데이 맞이 건강식품 26종 행사 운영",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202611252334571574204ead0791_12",
+     "source": "로이슈"
+    }
+   ]
+  },
+  {
+   "rank": 8,
    "keyword": "주주",
    "slug": "주주",
    "traffic": 200,
    "startedAt": 1795738800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "\"어디서나 참여할 수 있는 전자주주총회\" 법무부, 기업이 어떻게 준비해야 할지 기준 제시",
@@ -169,39 +211,39 @@
    ]
   },
   {
-   "rank": 8,
-   "keyword": "국가보훈부",
-   "slug": "국가보훈부",
-   "traffic": 200,
-   "startedAt": 1795737000.0,
+   "rank": 9,
+   "keyword": "코스닥",
+   "slug": "코스닥",
+   "traffic": 100,
+   "startedAt": 1795743000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "보훈증명서 10종, 30일부터 무인민원발급기서 '무료' 발급",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976609",
-     "source": "대한민국 정책브리핑"
+     "title": "코스닥 장중 5% 급등‥'매수 사이드카' 발동",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6869030_36932.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "전국 무인민원발급기에서 보훈증명서 10종 무료 발급 시작",
-     "url": "https://www.bseconomy.com/m/view.php?idx=58378",
-     "source": "부산경제"
+     "title": "코스닥 5% 급등에 ‘매수 사이드카’...코스피도 1.7% 상승세",
+     "url": "https://www.chosun.com/economy/money/2026/11/27/ZRXWI6FSPFCXBPIF4THL4E5KKU/",
+     "source": "조선일보"
     },
     {
-     "title": "보훈증명서 10종, 30일부터 전국 무인민원발급기서 무료 발급",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723029",
-     "source": "KBS 뉴스"
+     "title": "속보 코스닥 5%대 급등세에 매수 사이드카 발동",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611271027436693",
+     "source": "YTN"
     }
    ]
   },
   {
-   "rank": 9,
+   "rank": 10,
    "keyword": "h&m",
    "slug": "h-m",
    "traffic": 100,
    "startedAt": 1795740000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "Optimistic ahead of its annual results, Jefferies raises TP for H&M",
@@ -217,32 +259,6 @@
      "title": "Jefferies raises price target for H&M to SEK 165 (160), reiterates hold",
      "url": "https://www.marketscreener.com/news/jefferies-raises-price-target-for-h-m-to-sek-165-160-reiterates-hold-ce7851d8dc81ff2d",
      "source": "www.marketscreener.com"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "신창재",
-   "slug": "신창재",
-   "traffic": 100,
-   "startedAt": 1795737600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "호텔롯데, 지속가능성보고서 국제 평가서 '플래티넘'…세계 25위",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885501",
-     "source": "뉴시스"
-    },
-    {
-     "title": "KCC, 지속가능성보고서상 12년 연속 영예…ESG 통합등급도 ‘A’로 껑충",
-     "url": "https://edata.ekn.kr/article/view/ekn202611250009",
-     "source": "기후에너지데이터뱅크"
-    },
-    {
-     "title": "유한킴벌리, 지속가능성지수 생활용품 부문 16회째 1위",
-     "url": "https://www.sedaily.com/article/20119034",
-     "source": "서울경제"
     }
    ]
   }

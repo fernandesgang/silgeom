@@ -2,17 +2,37 @@
  "keyword": "ai 에이전트",
  "slug": "ai-에이전트",
  "firstSeen": 1795467600.0,
- "lastSeen": 1795472834.8679013,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795747675.8977065,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795472835,
    6,
    200
+  ],
+  [
+   1795747676,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "'피클'이 촉발한 AI 비서 규율 논의…정부, 법 개정 만지작",
+   "url": "https://zdnet.co.kr/view/?no=20261125140053",
+   "source": "지디넷코리아"
+  },
+  {
+   "title": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446918",
+   "source": "연합인포맥스"
+  },
+  {
+   "title": "나 대신 쇼핑·상담하는 AI '피클'이 던진 숙제…\"AI가 한 일, 누구 책임?\"",
+   "url": "https://www.newsis.com/view/NISX20261125_0003883342",
+   "source": "뉴시스"
+  },
   {
    "title": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로",
    "url": "https://www.chosun.com/economy/tech_it/2026/11/23/56I3GEDHFVA5FACSFRL62BZIUQ/",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-27"
  ],
  "related": [
+  "김아현의-금빛-스탁",
+  "한동훈",
+  "lg에너지솔루션",
+  "병무청",
+  "sema",
+  "유한양행",
+  "주주",
+  "코스닥",
+  "h-m",
   "김혜수",
   "전원주",
   "로스앤젤레스-fc",

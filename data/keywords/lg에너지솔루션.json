@@ -2,9 +2,9 @@
  "keyword": "lg에너지솔루션",
  "slug": "lg에너지솔루션",
  "firstSeen": 1795603800.0,
- "lastSeen": 1795744595.9360929,
- "peakRank": 5,
- "peakTraffic": 500,
+ "lastSeen": 1795747675.8977065,
+ "peakRank": 4,
+ "peakTraffic": 1000,
  "history": [
   [
    1795611403,
@@ -15,9 +15,24 @@
    1795744596,
    5,
    500
+  ],
+  [
+   1795747676,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "‘2조원’ 역대 최대 ESS 입찰…삼성SDI 63%·SK온 37% 수주",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01872886645649984",
+   "source": "마켓인"
+  },
+  {
+   "title": "LG에너지솔루션, 북미 ESS 시장 공략…AI 에너지 플랫폼 기업 도약",
+   "url": "https://www.etnews.com/20261126000087",
+   "source": "전자신문"
+  },
   {
    "title": "[단독] LG에너지솔루션 빠진 3차 ESS 중앙계약시장, 삼성SDI가 웃었다.",
    "url": "https://www.electimes.com/news/articleView.html?idxno=375356",
@@ -54,6 +69,11 @@
   "2026-11-27"
  ],
  "related": [
+  "한동훈",
+  "ai-에이전트",
+  "sema",
+  "유한양행",
+  "코스닥",
   "김아현의-금빛-스탁",
   "포수",
   "연비",
@@ -68,9 +88,6 @@
   "재혼황후",
   "백화점",
   "해군",
-  "강남",
-  "마이크론-테크놀로지",
-  "persib-bandung-vs-fc-seoul",
-  "조이현"
+  "강남"
  ]
 }

@@ -2,17 +2,37 @@
  "keyword": "한동훈",
  "slug": "한동훈",
  "firstSeen": 1795551600.0,
- "lastSeen": 1795556659.6226797,
- "peakRank": 7,
- "peakTraffic": 200,
+ "lastSeen": 1795747675.8977065,
+ "peakRank": 2,
+ "peakTraffic": 1000,
  "history": [
   [
    1795556660,
    7,
    200
+  ],
+  [
+   1795747676,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6869010_36918.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611271132582125",
+   "source": "YTN"
+  },
+  {
+   "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색",
+   "url": "https://news.jtbc.co.kr/article/NB12330116",
+   "source": "JTBC"
+  },
   {
    "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
    "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-27"
  ],
  "related": [
+  "김아현의-금빛-스탁",
+  "ai-에이전트",
+  "lg에너지솔루션",
+  "병무청",
+  "sema",
+  "유한양행",
+  "주주",
+  "코스닥",
+  "h-m",
   "배당",
   "로스앤젤레스-다저스",
   "arsenal-vs-dortmund",
