@@ -1,12 +1,12 @@
 {
- "generatedAt": 1795803763,
+ "generatedAt": 1795808125,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "파기환송",
    "slug": "파기환송",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795792800.0,
    "change": "same",
    "diff": 0,
@@ -22,19 +22,45 @@
      "source": "JTBC"
     },
     {
-     "title": "윤석열 '한덕수 재판서 위증' 혐의 무죄 확정",
-     "url": "https://www.yna.co.kr/view/MYH20261126009000038",
-     "source": "연합뉴스"
+     "title": "윤석열 '한덕수 내란 재판 위증', 대법서 무죄 확정",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611262211160584_005.html",
+     "source": "YTN"
     }
    ]
   },
   {
    "rank": 2,
+   "keyword": "교사",
+   "slug": "교사",
+   "traffic": 2000,
+   "startedAt": 1795794000.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
+     "url": "https://www.kyeonggi.com/article/20261127580141",
+     "source": "경기일보"
+    },
+    {
+     "title": "경찰 “교사폭행 초등생 영상 유포, 공익적 제보로 봐야” 내사 종결",
+     "url": "https://www.donga.com/news/Society/article/all/20261127/135104682/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "rank": 3,
    "keyword": "박서진",
    "slug": "박서진",
    "traffic": 2000,
    "startedAt": 1795788000.0,
-   "change": "up",
+   "change": "down",
    "diff": 1,
    "news": [
     {
@@ -51,32 +77,6 @@
      "title": "박서진, 트로트 국가대표 됐다…5억원 고려청자 장구 연주 (살림남)",
      "url": "https://sports.khan.co.kr/article/202611270812003",
      "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "교사",
-   "slug": "교사",
-   "traffic": 1000,
-   "startedAt": 1795794000.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "'초등생이 교사 머리채 폭행' 영상 유출…학부모 진정 내사 종결",
-     "url": "https://www.yna.co.kr/view/AKR20261127073400064",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "교사 폭행한 자녀 영상 퍼지자...‘명예훼손’ 진정 낸 학부모",
-     "url": "https://news.jtbc.co.kr/article/NB12330181",
-     "source": "JTBC"
-    },
-    {
-     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
-     "url": "https://www.kyeonggi.com/article/20261127580141",
-     "source": "경기일보"
     }
    ]
   },
@@ -108,55 +108,39 @@
   },
   {
    "rank": 5,
-   "keyword": "도산소옥",
-   "slug": "도산소옥",
-   "traffic": 500,
-   "startedAt": 1795796400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "아이템매니아, '템빨: 오버기어드' 출시 기념 릴레이 혜택 이벤트 실시",
-     "url": "https://zdnet.co.kr/view/?no=20261127092612",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
-     "url": "https://www.yna.co.kr/view/AKR20261126085400017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001896",
-     "source": "IT조선"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "굿파트너2",
    "slug": "굿파트너2",
    "traffic": 500,
    "startedAt": 1795783200.0,
-   "change": "same",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
+    {
+     "title": "‘굿파트너2’ 장나라·박해진, 수임 경쟁 불붙었다…김혜윤의 위기 돌파는?",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=848665",
+     "source": "제민일보"
+    },
     {
      "title": "“또 따라 하기는” 장나라, 괜히 시비 거는 박해진에게 날린 뼈 때리는 팩폭 한 방♨",
      "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484449324?div=live_end",
      "source": "programs.sbs.co.kr"
     },
     {
-     "title": "‘굿파트너2’ 김혜윤, 시행착오 딛고 첫 사건 완벽 승소… ‘이혼 전문 변호사’ 첫걸음",
-     "url": "https://sports.khan.co.kr/article/202611280035003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "‘굿파트너2’ ‘라이어’, 금토극 경쟁 2라운드",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010736",
-     "source": "아시아투데이"
+     "title": "스튜디오앤뉴표 이혼쇼 '굿파트너2'…2회 순간 최고 10% 돌파",
+     "url": "https://www.fnnews.com/news/202611271045327409",
+     "source": "파이낸셜뉴스"
     }
    ]
+  },
+  {
+   "rank": 6,
+   "keyword": "국군간호사관학교",
+   "slug": "국군간호사관학교",
+   "traffic": 200,
+   "startedAt": 1795802400.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
   },
   {
    "rank": 7,
@@ -220,11 +204,6 @@
    "diff": 0,
    "news": [
     {
-     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724677",
-     "source": "KBS 뉴스"
-    },
-    {
      "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
      "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
      "source": "MBC 뉴스"
@@ -233,6 +212,11 @@
      "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
      "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
      "source": "Olympic Channel"
+    },
+    {
+     "title": "2026-27 ISU 국제빙상대회 : 개인 최고점! 첫 시니어 메달에 다가선 신지아 [피겨 그랑프리 6차]",
+     "url": "https://programs.sbs.co.kr/sports/isu2026/clip/90136/22000640511",
+     "source": "programs.sbs.co.kr"
     }
    ]
   },
@@ -246,9 +230,9 @@
    "diff": 0,
    "news": [
     {
-     "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
-     "source": "머니투데이"
+     "title": "연우 \"급격한 다이어트 면역력 떨어져…많이 울었다\"",
+     "url": "https://www.newsis.com/view/NISX20261127_0003885403",
+     "source": "뉴시스"
     },
     {
      "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
@@ -256,9 +240,9 @@
      "source": "브릿지경제"
     },
     {
-     "title": "연우 \"급격한 다이어트 면역력 떨어져…많이 울었다\"",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885403",
-     "source": "뉴시스"
+     "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
+     "source": "머니투데이"
     }
    ]
   }

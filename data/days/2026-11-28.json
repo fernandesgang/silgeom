@@ -20,14 +20,14 @@
    "firstSeen": 1795792342.3407276,
    "peakRank": 1,
    "peakTraffic": 2000,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "굿파트너2": {
    "slug": "굿파트너2",
    "firstSeen": 1795792342.3407276,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "박정수": {
    "slug": "박정수",
@@ -41,7 +41,7 @@
    "firstSeen": 1795792342.3407276,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "명서현": {
    "slug": "명서현",
@@ -76,7 +76,7 @@
    "firstSeen": 1795796380.0109608,
    "peakRank": 2,
    "peakTraffic": 1000,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "그냥사람친구": {
    "slug": "그냥사람친구",
@@ -90,35 +90,35 @@
    "firstSeen": 1795796380.0109608,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "금새록": {
    "slug": "금새록",
    "firstSeen": 1795796380.0109608,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "신지아": {
    "slug": "신지아",
    "firstSeen": 1795796380.0109608,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795803762.84293
+   "lastSeen": 1795808125.1064348
   },
   "파기환송": {
    "slug": "파기환송",
    "firstSeen": 1795792800.0,
    "peakRank": 1,
-   "peakTraffic": 2000,
-   "lastSeen": 1795803762.84293
+   "peakTraffic": 5000,
+   "lastSeen": 1795808125.1064348
   },
   "교사": {
    "slug": "교사",
    "firstSeen": 1795794000.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795803762.84293
+   "peakTraffic": 2000,
+   "lastSeen": 1795808125.1064348
   },
   "도산소옥": {
    "slug": "도산소옥",
@@ -126,6 +126,13 @@
    "peakRank": 5,
    "peakTraffic": 500,
    "lastSeen": 1795803762.84293
+  },
+  "국군간호사관학교": {
+   "slug": "국군간호사관학교",
+   "firstSeen": 1795802400.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795808125.1064348
   }
  }
 }
