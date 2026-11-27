@@ -2,9 +2,9 @@
  "keyword": "오세훈",
  "slug": "오세훈",
  "firstSeen": 1795768800.0,
- "lastSeen": 1795776236.6717312,
- "peakRank": 4,
- "peakTraffic": 500,
+ "lastSeen": 1795779818.6598318,
+ "peakRank": 3,
+ "peakTraffic": 1000,
  "history": [
   [
    1795772611,
@@ -15,9 +15,19 @@
    1795776237,
    4,
    500
+  ],
+  [
+   1795779819,
+   3,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "국힘 행안위원 \"與, '오세훈 죽이기' 억지 고발·하명 수사 규탄\"",
+   "url": "https://www.newsis.com/view/NISX20261127_0003886828",
+   "source": "뉴시스"
+  },
   {
    "title": "오세훈, ‘한강버스 허위사실 공표’ 혐의로 경찰 조사받아",
    "url": "https://www.hani.co.kr/arti/society/society_general/1289452.html",
@@ -43,6 +53,9 @@
   "2026-11-27"
  ],
  "related": [
+  "김이현",
+  "bangladesh-a-vs-pakistan-a",
+  "agf",
   "서울교통공사-채용",
   "australia-vs-england",
   "임찬규",

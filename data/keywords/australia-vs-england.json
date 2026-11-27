@@ -2,7 +2,7 @@
  "keyword": "australia vs england",
  "slug": "australia-vs-england",
  "firstSeen": 1795510800.0,
- "lastSeen": 1795776236.6717312,
+ "lastSeen": 1795779818.6598318,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -20,9 +20,19 @@
    1795776237,
    7,
    200
+  ],
+  [
+   1795779819,
+   9,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Billy Stanlake: Aneurin Donald and Phil Salt make history as first Wales-born England opening pair",
+   "url": "https://twaslnews1.twaslnews.com/8385320/",
+   "source": "شبكة تواصل الإخبارية"
+  },
   {
    "title": "Australia vs England, third T20 international, The Gabba",
    "url": "https://www.skysports.com/cricket/live-blog/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
@@ -64,6 +74,9 @@
   "2026-11-27"
  ],
  "related": [
+  "김이현",
+  "bangladesh-a-vs-pakistan-a",
+  "agf",
   "최민희",
   "서울교통공사-채용",
   "홍민기",
@@ -80,9 +93,6 @@
   "캐니언",
   "다리오-아모데이",
   "서경석",
-  "데블스플랜3-우승자",
-  "스테이블코인",
-  "차은우",
-  "카카오모빌리티"
+  "데블스플랜3-우승자"
  ]
 }

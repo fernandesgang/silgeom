@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795776237,
+ "generatedAt": 1795779819,
  "geo": "KR",
  "items": [
   {
@@ -17,14 +17,14 @@
      "source": "경향신문"
     },
     {
-     "title": "[단독] 민주 윤리심판원, 최민희 중징계 의결 '당원권 2년 정지'",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869160_36911.html",
-     "source": "MBC 뉴스"
+     "title": "민주, 최민희에 '당원자격정지 2년' 중징계...\"수용 못 해\"",
+     "url": "https://www.ytn.co.kr/_ln/0101_202611272013313950",
+     "source": "YTN"
     },
     {
-     "title": "與, 최민희 중징계... \"발언 당 품위 훼손\"",
-     "url": "https://www.chosun.com/politics/politics_general/2026/11/27/KS2IEBK2DNHLPHZKWE46DRMPRY/",
-     "source": "조선일보"
+     "title": "민주당 윤리심판원, 최민희 중징계 의결…최소 당직 자격 정지",
+     "url": "https://news.jtbc.co.kr/article/NB12330238",
+     "source": "JTBC"
     }
    ]
   },
@@ -34,7 +34,7 @@
    "slug": "서울교통공사-채용",
    "traffic": 1000,
    "startedAt": 1795771800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -48,14 +48,40 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "[지지대] 태업의 역설",
-     "url": "https://www.kyeonggi.com/article/20261126580087",
-     "source": "경기일보"
+     "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
+     "url": "https://www.newsis.com/view/NISI20261127_0021547366",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 3,
+   "keyword": "오세훈",
+   "slug": "오세훈",
+   "traffic": 1000,
+   "startedAt": 1795768800.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "경찰, '한강버스 의혹' 오세훈 주말 소환조사‥고발 3주만",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6869118_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "국힘 행안위원 \"與, '오세훈 죽이기' 억지 고발·하명 수사 규탄\"",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886828",
+     "source": "뉴시스"
+    },
+    {
+     "title": "오세훈, ‘한강버스 허위사실 공표’ 혐의로 경찰 조사받아",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289452.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "rank": 4,
    "keyword": "홍민기",
    "slug": "홍민기",
    "traffic": 1000,
@@ -65,49 +91,49 @@
    "news": []
   },
   {
-   "rank": 4,
-   "keyword": "오세훈",
-   "slug": "오세훈",
+   "rank": 5,
+   "keyword": "김이현",
+   "slug": "김이현",
    "traffic": 500,
-   "startedAt": 1795768800.0,
-   "change": "up",
-   "diff": 3,
+   "startedAt": 1795772400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "오세훈, ‘한강버스 허위사실 공표’ 혐의로 경찰 조사받아",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1289452.html",
-     "source": "한겨레"
+     "title": "스무살 복싱 유망주 김이현, 뺑소니 교통사고로 세상 떠나",
+     "url": "https://www.donga.com/news/Sports/article/all/20261127/135105773/1",
+     "source": "동아일보"
     },
     {
-     "title": "경찰, '한강버스 의혹' 오세훈 주말 소환조사‥고발 3주만",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6869118_36918.html",
-     "source": "MBC 뉴스"
+     "title": "뺑소니 사고로 숨 거둔 복싱 유망주…스무 살 생일 11일 앞두고 비보",
+     "url": "https://www.imaeil.com/page/view/2026112716522769424",
+     "source": "매일신문"
     },
     {
-     "title": "국힘 행안위 \"민주당, 오세훈 송치 종용 멈추라…노골적 수사 개입\" - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/politics/2026/11/27/2026112717174621527",
-     "source": "머니투데이"
+     "title": "'복싱 유망주' 김이현, 뺑소니 사고로 사망..스무살 생일 11일 앞두고 비보",
+     "url": "https://www.starnewskorea.com/star/2026/11/27/2026112621124969201",
+     "source": "스타뉴스"
     }
    ]
   },
   {
-   "rank": 5,
+   "rank": 6,
    "keyword": "북한이탈주민",
    "slug": "북한이탈주민",
    "traffic": 500,
    "startedAt": 1795768200.0,
-   "change": "up",
-   "diff": 3,
+   "change": "down",
+   "diff": 1,
    "news": [
-    {
-     "title": "술과 과자 든 가방들고···철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 적발 신병 확보",
-     "url": "https://www.khan.co.kr/article/202611271445001",
-     "source": "경향신문"
-    },
     {
      "title": "강원 철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 붙잡혀",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6869052_36911.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "술과 과자 든 가방들고···철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 적발 신병 확보",
+     "url": "https://www.khan.co.kr/article/202611271445001",
+     "source": "경향신문"
     },
     {
      "title": "[속보]‘술, 간식 들고’ GOP철책 200m 앞까지…30대 女탈북민 적발",
@@ -117,23 +143,65 @@
    ]
   },
   {
-   "rank": 6,
-   "keyword": "한국노인인력개발원",
-   "slug": "한국노인인력개발원",
-   "traffic": 500,
-   "startedAt": 1795767000.0,
-   "change": "down",
-   "diff": 3,
-   "news": []
+   "rank": 7,
+   "keyword": "bangladesh a vs pakistan a",
+   "slug": "bangladesh-a-vs-pakistan-a",
+   "traffic": 200,
+   "startedAt": 1795775400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Bangladesh A Elect To Bat First Against Pakistan Shaheens In Rising Stars Semi-Final",
+     "url": "https://wenewsenglish.com/pakistan-bangladesh-rising-stars-semi-final/",
+     "source": "WE News English"
+    },
+    {
+     "title": "Bangladesh A vs Pakistan A, free match prediction 27 November 2026",
+     "url": "https://www.thetopbookies.com/betting-tips/cricket/bana-vs-pak-a-27-Nov-2026",
+     "source": "TheTopBookies"
+    },
+    {
+     "title": "SHA vs BAN-A 2nd Semi-Final: Pitch Report, Player Stats & Form",
+     "url": "https://www.ai11.in/cricket/series/asia-cup-rising-stars-2026-27/match/bangladesh-a-vs-pakistan-shaheen-2nd-semi-final-2026",
+     "source": "AI11"
+    }
+   ]
   },
   {
-   "rank": 7,
+   "rank": 8,
+   "keyword": "agf",
+   "slug": "agf",
+   "traffic": 200,
+   "startedAt": 1795774800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Brann vs AGF: UEFA Conference League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cm0evldn2xvlt",
+     "source": "BBC"
+    },
+    {
+     "title": "Aarhus thrash Brann to secure first Conference League win of term",
+     "url": "https://www.tribalfootball.com/article/aarhus-thrash-brann-to-secure-first-conference-league-win-of-term-65915a83-00c0-41ed-b481-4c727db56277",
+     "source": "TribalFootball"
+    },
+    {
+     "title": "Brann vs AGF: Where to Watch, Live Stream, TV Channel and Kick-off Time",
+     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-brann-v-agf/blt634afba619910fdc",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "australia vs england",
    "slug": "australia-vs-england",
    "traffic": 200,
    "startedAt": 1795770000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "Australia vs England, third T20 international, The Gabba",
@@ -141,66 +209,14 @@
      "source": "Sky Sports"
     },
     {
+     "title": "Billy Stanlake: Aneurin Donald and Phil Salt make history as first Wales-born England opening pair",
+     "url": "https://twaslnews1.twaslnews.com/8385320/",
+     "source": "شبكة تواصل الإخبارية"
+    },
+    {
      "title": "England bowl, Owen and Stanlake come in for Australia",
      "url": "https://www.cricinfo.com/story/aus-vs-eng-3rd-t20i-2026-27-england-bowl-owen-and-stanlake-come-in-for-australia-1564420",
      "source": "Cricinfo"
-    },
-    {
-     "title": "Australia v England: third men’s Twenty20 international – live",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/27/australia-v-england-third-mens-twenty20-international-live?page=with:block-6b0956778f08a80e1782094e",
-     "source": "The Guardian"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "허은아",
-   "slug": "허은아",
-   "traffic": 200,
-   "startedAt": 1795765800.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "보수정당 출신 허은아 비서관, 청와대 사직…이 대통령, 아쉬움 표해",
-     "url": "https://www.khan.co.kr/article/202611271607001",
-     "source": "경향신문"
-    },
-    {
-     "title": "허은아 청와대 국민통합비서관 사표 수리…1년1개월 만에 퇴임",
-     "url": "https://www.joongang.co.kr/article/25482584",
-     "source": "중앙일보"
-    },
-    {
-     "title": "'보수 출신' 허은아 청와대 국민통합비서관 사직‥1년1개월 만에 퇴임",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869136_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "임찬규",
-   "slug": "임찬규",
-   "traffic": 100,
-   "startedAt": 1795767000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'손나은 여동생' 손새은, 결혼설 부인하더니…♥임찬규와 12월 19일 결혼",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022288",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "'손나은 친동생' 손새은, ♥임찬규와 결혼한다..공개열애 4년 끝 12월 19일 웨딩마치",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-27/202611270100172630016069",
-     "source": "스포츠조선"
-    },
-    {
-     "title": "\"결혼설 부인하더니 결국\"…임찬규♥손새은, 5년 열애 끝 결혼→손나은 처형 된다",
-     "url": "https://m.news.nate.com/view/20261127n25322",
-     "source": "네이트"
     }
    ]
   }
