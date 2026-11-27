@@ -2,7 +2,7 @@
  "keyword": "skhy",
  "slug": "skhy",
  "firstSeen": 1795471200.0,
- "lastSeen": 1795563510.499137,
+ "lastSeen": 1795822023.232512,
  "peakRank": 1,
  "peakTraffic": 1000,
  "history": [
@@ -15,9 +15,29 @@
    1795563510,
    4,
    1000
+  ],
+  [
+   1795822023,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "Micron and SK Hynix's US stock deposit certificates (ADR) jumped more than 7% side by side on the Ne..",
+   "url": "https://www.mk.co.kr/en/stock/12220603",
+   "source": "매일경제"
+  },
+  {
+   "title": "SK hynix Doubles Daily Share Buy Orders to Boost Shareholder Value",
+   "url": "https://www.asiae.co.kr/en/article/2026112720411413850",
+   "source": "아시아경제"
+  },
+  {
+   "title": "SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In",
+   "url": "https://www.tradingview.com/news/gurufocus:149d3af67094b:0-sk-hynix-stocks-jump-5-41-as-100-trillion-won-payout-plan-sinks-in/",
+   "source": "TradingView"
+  },
   {
    "title": "Federal Judge Rejects Memory Makers’ Defense To Advance Class-Action Antitrust Lawsuit; Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage",
    "url": "https://wccftech.com/federal-judge-rejects-memory-makers-defense-samsung-micron-sk-hynix-dram-shortage-lawsuit/",
@@ -51,9 +71,19 @@
  ],
  "days": [
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-28"
  ],
  "related": [
+  "이승엽",
+  "김정화",
+  "s-p-500",
+  "포포투",
+  "대한간호협회",
+  "서울경제",
+  "보편적-기본소득",
+  "위암",
+  "이상민",
   "real-madrid-vs-psv-eindhoven-standings",
   "채무",
   "박윤영",
@@ -64,12 +94,6 @@
   "김포시",
   "개인정보",
   "투수",
-  "로스앤젤레스-fc",
-  "나스닥-100",
-  "박정환",
-  "국방백서",
-  "brentford-vs-everton",
-  "해고",
-  "비트코인-시세"
+  "로스앤젤레스-fc"
  ]
 }
