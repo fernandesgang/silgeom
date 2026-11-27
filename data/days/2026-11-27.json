@@ -557,9 +557,9 @@
   "한동훈": {
    "slug": "한동훈",
    "firstSeen": 1795743000.0,
-   "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795747675.8977065
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795751349.6831164
   },
   "ai 에이전트": {
    "slug": "ai-에이전트",
@@ -587,7 +587,63 @@
    "firstSeen": 1795743000.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795747675.8977065
+   "lastSeen": 1795751349.6831164
+  },
+  "대만": {
+   "slug": "대만",
+   "firstSeen": 1795746600.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795751349.6831164
+  },
+  "별자리": {
+   "slug": "별자리",
+   "firstSeen": 1795746600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795751349.6831164
+  },
+  "죽도시장": {
+   "slug": "죽도시장",
+   "firstSeen": 1795746000.0,
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795751349.6831164
+  },
+  "모리야스 하지메": {
+   "slug": "모리야스-하지메",
+   "firstSeen": 1795746000.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795751349.6831164
+  },
+  "이동욱": {
+   "slug": "이동욱",
+   "firstSeen": 1795744200.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795751349.6831164
+  },
+  "대한민국의 중앙행정기관": {
+   "slug": "대한민국의-중앙행정기관",
+   "firstSeen": 1795744200.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795751349.6831164
+  },
+  "더바이오": {
+   "slug": "더바이오",
+   "firstSeen": 1795746600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795751349.6831164
+  },
+  "2026": {
+   "slug": "2026",
+   "firstSeen": 1795746000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795751349.6831164
   }
  }
 }
