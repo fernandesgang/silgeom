@@ -796,15 +796,15 @@
    "slug": "신태일",
    "firstSeen": 1795758600.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795762536.095134
+   "peakTraffic": 500,
+   "lastSeen": 1795767634.147313
   },
   "롯데그룹": {
    "slug": "롯데그룹",
    "firstSeen": 1795758600.0,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795762536.095134
+   "peakRank": 1,
+   "peakTraffic": 1000,
+   "lastSeen": 1795767634.147313
   },
   "고우석": {
    "slug": "고우석",
@@ -840,6 +840,62 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795762536.095134
+  },
+  "최휘영": {
+   "slug": "최휘영",
+   "firstSeen": 1795761600.0,
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795767634.147313
+  },
+  "박홍근": {
+   "slug": "박홍근",
+   "firstSeen": 1795761600.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795767634.147313
+  },
+  "히샬리송": {
+   "slug": "히샬리송",
+   "firstSeen": 1795760400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795767634.147313
+  },
+  "최민희 징계": {
+   "slug": "최민희-징계",
+   "firstSeen": 1795759200.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795767634.147313
+  },
+  "디에이치 반포124": {
+   "slug": "디에이치-반포124",
+   "firstSeen": 1795761600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795767634.147313
+  },
+  "조승우": {
+   "slug": "조승우",
+   "firstSeen": 1795760400.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795767634.147313
+  },
+  "경남 fc": {
+   "slug": "경남-fc",
+   "firstSeen": 1795759200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795767634.147313
+  },
+  "신달자": {
+   "slug": "신달자",
+   "firstSeen": 1795758600.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795767634.147313
   }
  }
 }

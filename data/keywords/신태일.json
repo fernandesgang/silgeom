@@ -2,17 +2,27 @@
  "keyword": "신태일",
  "slug": "신태일",
  "firstSeen": 1795758600.0,
- "lastSeen": 1795762536.095134,
+ "lastSeen": 1795767634.147313,
  "peakRank": 4,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795762536,
    4,
    200
+  ],
+  [
+   1795767634,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "‘미성년자 성착취 생방송’ BJ 신태일, 2심도 징역 6년",
+   "url": "https://biz.chosun.com/topics/topics_social/2026/11/27/RCRF4JL5MJD7VATLW3WSRJFSQ4/",
+   "source": "Chosunbiz"
+  },
   {
    "title": "미성년자들 성착취 라이브 방송한 BJ, 항소심도 징역 6년",
    "url": "https://www.yna.co.kr/view/AKR20261127107500065",
@@ -33,6 +43,14 @@
   "2026-11-27"
  ],
  "related": [
+  "최휘영",
+  "박홍근",
+  "히샬리송",
+  "최민희-징계",
+  "디에이치-반포124",
+  "조승우",
+  "경남-fc",
+  "신달자",
   "손원일-급-잠수함",
   "전두환",
   "이재명-정부",

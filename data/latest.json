@@ -1,119 +1,15 @@
 {
- "generatedAt": 1795762536,
+ "generatedAt": 1795767634,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "손원일 급 잠수함",
-   "slug": "손원일-급-잠수함",
-   "traffic": 2000,
-   "startedAt": 1795756200.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[영상] 손원일급 잠수함 2척 잇단 사고…해군 \"대비 태세 유지\"",
-     "url": "https://www.yna.co.kr/view/AKR20261127112800704",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "어망에 걸리고 화재도…손원일급 잠수함 2척 파손돼 수리 중",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611270941575Yh",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "폐어망에 걸리고 화재 피해 발생…손원일급 잠수함 2척 수리 중",
-     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6367902",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "전두환",
-   "slug": "전두환",
-   "traffic": 500,
-   "startedAt": 1795755600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "전두환 단죄를 \"정치 재판\"‥김태규 영상 틀며 \"재심 추진\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868892_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[쏙쏙뉴스] 12·12 주역들이 모인 전두환 추모행사… '재평가'와 '재심 청구'?",
-     "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116787",
-     "source": "OhmyNews"
-    },
-    {
-     "title": "대법원 ‘전두환 단죄’ 재심 청구? 민주당 “조희대 사법부, 잘못된 신호 줬다”",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338752",
-     "source": "미디어오늘"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "이재명 정부",
-   "slug": "이재명-정부",
-   "traffic": 500,
-   "startedAt": 1795754400.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "李대통령 “왜 ‘가난하다’는 서류 떼야 하나…복지 ‘자동주의’ 돼야”",
-     "url": "https://www.kyeonggi.com/article/20261126580566",
-     "source": "경기일보"
-    },
-    {
-     "title": "신청서 찾고 있었는데, 복지급여가 먼저 찾아왔다 - 영상 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976487",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "李 “가난을 왜 증명해야 하나”…송파 세모녀 사건 꺼낸 이유",
-     "url": "https://www.joongang.co.kr/article/25482353",
-     "source": "중앙일보"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "신태일",
-   "slug": "신태일",
-   "traffic": 200,
-   "startedAt": 1795758600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "미성년자들 성착취 라이브 방송한 BJ, 항소심도 징역 6년",
-     "url": "https://www.yna.co.kr/view/AKR20261127107500065",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'미성년자 성착취물 생중계' BJ 신태일, 2심도 징역 6년",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886409",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[TOP이슈] ‘미성년자 성착취 방송’ 신태일, 구치소서 처방약 보관 징벌",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16285992",
-     "source": "톱스타뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 5,
    "keyword": "롯데그룹",
    "slug": "롯데그룹",
-   "traffic": 200,
+   "traffic": 1000,
    "startedAt": 1795758600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 4,
    "news": [
     {
      "title": "신유열 ‘바이오’ 구본규 ‘전력 인프라’…",
@@ -133,132 +29,236 @@
    ]
   },
   {
-   "rank": 6,
-   "keyword": "고우석",
-   "slug": "고우석",
-   "traffic": 200,
-   "startedAt": 1795756800.0,
+   "rank": 2,
+   "keyword": "최휘영",
+   "slug": "최휘영",
+   "traffic": 500,
+   "startedAt": 1795761600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "'살다 살다 이런 적은 처음' 고우석의 기막힌 MLB 도전기…\"김현수는 꽃길을 걷다 온 거더라\" 에이전트 대표도 혀 내두른 사연은?",
-     "url": "https://m.news.nate.com/view/20261127n00234",
-     "source": "네이트"
+     "title": "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869093_36911.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "고우석, '마이너 3년·트레이드·방출' 다 겪고도…\"아깝다는 생각 전혀 안 들어\" 오승환에게 털어놓은 미국 생활",
-     "url": "https://mhnse.com/news/articleView.html?idxno=1713702",
-     "source": "MHN스포츠"
+     "title": "‘최휘영 교체 기습 통보’ TV조선 보도에···이 대통령 “명예 훼손 중대문제, 정정해달라”",
+     "url": "https://www.khan.co.kr/article/202611271430021",
+     "source": "경향신문"
     },
     {
-     "title": "몸값 4분의1로 낮춘 김하성… ‘빅리그 야구’는 계속된다",
-     "url": "https://www.donga.com/news/Sports/article/all/20261126/135091820/2",
-     "source": "동아일보"
+     "title": "李대통령, '문체장관에 교체 기습통보' 언론 보도에 \"정정해야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127097000001",
+     "source": "연합뉴스"
     }
    ]
   },
   {
-   "rank": 7,
-   "keyword": "미세먼지",
-   "slug": "미세먼지",
-   "traffic": 200,
-   "startedAt": 1795755600.0,
+   "rank": 3,
+   "keyword": "박홍근",
+   "slug": "박홍근",
+   "traffic": 500,
+   "startedAt": 1795761600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "제8차 미세먼지 계절관리제 석탄발전 최대 18기 가동 중단",
-     "url": "https://gonggam.korea.kr/newsContentView.es?content=NC002&news_id=95ba8803-3aa3-4f24-84ff-2f32300ef06e&section_id=NCCD_POLICY&mid=a10201000000&code_cd=0101000000",
-     "source": "K-공감"
+     "title": "서영교·박홍근 뜻밖의 충돌‥\"답변 태도에 문제\" \"여기가 상원인가\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869115_36911.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "대구시, 12월부터 배출가스 5등급 차량 평일 운행 제한",
-     "url": "https://www.yna.co.kr/view/AKR20261127103200053",
+     "title": "서영교에 목청 높인 박홍근 “법사위 그동안 제대로 작동 안돼”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261127/135103674/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "의원 질의에 답변하는 형일 부총리 겸 재정경제부 장관",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765399",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "신태일",
+   "slug": "신태일",
+   "traffic": 500,
+   "startedAt": 1795758600.0,
+   "change": "same",
+   "diff": 0,
+   "news": [
+    {
+     "title": "미성년자들 성착취 라이브 방송한 BJ, 항소심도 징역 6년",
+     "url": "https://www.yna.co.kr/view/AKR20261127107500065",
      "source": "연합뉴스"
     },
     {
-     "title": "‘배출가스 5등급’ 차량 운행제한···대구, 12월부터 4개월간 단속",
-     "url": "https://www.khan.co.kr/article/202611271425001",
+     "title": "'미성년자 성착취물 생중계' BJ 신태일, 2심도 징역 6년",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886409",
+     "source": "뉴시스"
+    },
+    {
+     "title": "‘미성년자 성착취 생방송’ BJ 신태일, 2심도 징역 6년",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/27/RCRF4JL5MJD7VATLW3WSRJFSQ4/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "히샬리송",
+   "slug": "히샬리송",
+   "traffic": 200,
+   "startedAt": 1795760400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘토트넘 금쪽이’ 히샬리송·‘맨유 87경기 11골’ 지르크제이 에버턴 영입망… 포체티노 구상이 변수",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314393",
+     "source": "베스트일레븐"
+    },
+    {
+     "title": "손흥민 옆에서 뛰다 한순간 4부 추락하더니…“히샬리송, 끝내 토트넘 떠나 에버턴 복귀 고려”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101374",
+     "source": "포포투"
+    },
+    {
+     "title": "토트넘 홈런 제대로 쳤다, '최악의 말썽쟁이' 히샬리송 드디어 매각 기회...튀르키예 구단 협상 진행 '150억이면 판다'",
+     "url": "https://www.sportschosun.com/football/2026-11-21/202611210100133000012552",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "최민희 징계",
+   "slug": "최민희-징계",
+   "traffic": 200,
+   "startedAt": 1795759200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "최민희, 징계심의 전 김민석 조준 \"마타도어 방지책 마련해야\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869054_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[여의도1번지] 징계 심판대 오른 최민희…민주당 계파갈등 분수령",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127161611T87",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "최민희 ‘운명의 날’…윤리심판원 중징계 전망 속 ‘전운’ 감도는 민주당",
+     "url": "https://www.khan.co.kr/article/202611271602001",
      "source": "경향신문"
     }
    ]
   },
   {
-   "rank": 8,
-   "keyword": "교통",
-   "slug": "교통",
-   "traffic": 200,
-   "startedAt": 1795754400.0,
+   "rank": 7,
+   "keyword": "디에이치 반포124",
+   "slug": "디에이치-반포124",
+   "traffic": 100,
+   "startedAt": 1795761600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“현장에서 듣고 혁신으로 답했다”···남양주시, 지방정부 혁신 공모전 최우수상",
-     "url": "https://www.kyeonggi.com/article/20261127580032",
-     "source": "경기일보"
+     "title": "12월 서울 일반분양 2725가구…'최대어' 디에이치 반포124 주목 - 머니투데이",
+     "url": "https://www.mt.co.kr/estate/2026/11/27/2026112711184216078",
+     "source": "머니투데이"
     },
     {
-     "title": "농어촌공사, 지방정부·공공기관 혁신 우수사례 ‘대상’",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=355775",
-     "source": "녹색경제신문"
+     "title": "연말 분양시장 -최초·최고·최대- 단지 잇따라 공급",
+     "url": "https://re.mk.co.kr/news/news_detail.php?no=12220203",
+     "source": "매일경제"
     },
     {
-     "title": "'폐기물 年134t 감축 기대'…보훈공단, ESG혁신 대상",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885040",
+     "title": "연말 분양 3만가구 쏟아진다… ‘청약 대어’ 디에이치 반포124도 출격",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/27/SGRA23VJERE6XA5ZK7JVJ5H364/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "조승우",
+   "slug": "조승우",
+   "traffic": 100,
+   "startedAt": 1795760400.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "46세 조승우 \"엄마 때문 결혼 못해…다 부질없고 우울\"",
+     "url": "https://www.newsis.com/view/NISX20261127_0003885401",
      "source": "뉴시스"
+    },
+    {
+     "title": "조승우 “엄마 말 때문에 장가 못 가”…46세 미혼, ‘좁쌀영감’ 한마디",
+     "url": "https://www.donga.com/news/Culture/article/all/20261127/135101583/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "'46세' 조승우가 임플란트라니..\"남성호르몬 수치도 떨어졌다\" 깜짝",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MRSGGOLEGFTGCZRUMEZWINDEMQ/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "모두의카드",
-   "slug": "모두의카드",
+   "keyword": "경남 fc",
+   "slug": "경남-fc",
    "traffic": 100,
-   "startedAt": 1795758000.0,
+   "startedAt": 1795759200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "이제 청소년도 교통비 환급 - 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976628&pWise=sub&pWiseSub=R4",
-     "source": "대한민국 정책브리핑"
+     "title": "'필사즉생' 서울 이랜드, 경남 잡고 3위로 PO 간다!",
+     "url": "https://www.chosun.com/sports/football/2026/11/27/HBSGKN3GMQ2WCMRWHA3DGZLBHA/",
+     "source": "조선일보"
     },
     {
-     "title": "'모두의카드' 13세도 이용 가능…12월부터 확대",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863856",
-     "source": "SBS 뉴스"
+     "title": "경남FC, 홈 폐막전 승리로 시즌 마무리 노린다",
+     "url": "https://www.gnmaeil.com/news/articleView.html?idxno=599636",
+     "source": "경남매일"
     },
     {
-     "title": "국토교통부, 청소년도 다음 달부터 '모두의카드' 교통비 환급 가능",
-     "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868473_36974.html",
-     "source": "MBC 뉴스"
+     "title": "'반드시 승격한다!' 서울 이랜드 FC, 경남과 최종전서 승리 다짐 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/27/202611271124777248O",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "신상출시 편스토랑",
-   "slug": "신상출시-편스토랑",
+   "keyword": "신달자",
+   "slug": "신달자",
    "traffic": 100,
-   "startedAt": 1795755000.0,
+   "startedAt": 1795758600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[선공개] 찬원 VS 아버지(윤성 아빠)의 숨막히는 칼질 대결! 고수들의 격돌, 그승자는? (황윤성 1열 관전) | KBS 방송",
-     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20191010142020-01-000_20261125_TECH001&program_code=T2019-0286&program_id=LS-20191010142020-01-000&section_code=04&broadcast_complete_yn=N&section_id=10742",
-     "source": "대한민국 대표 공영미디어 KBS"
+     "title": "신달자 \"'니는 될 끼다'…빌딩보다 값진 어머니의 유언이었죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126192400005",
+     "source": "연합뉴스"
     },
     {
-     "title": "황윤성, 알고보니 도련님? 절친 이찬원도 놀랐다 (편스토랑)",
-     "url": "https://sports.donga.com/ent/article/all/20261127/135101062/1",
-     "source": "스포츠동아"
+     "title": "어머니가 남긴 사랑, 딸이 써 내려간 답장 [신간 소개]",
+     "url": "https://www.kyeonggi.com/article/20261125580086",
+     "source": "경기일보"
     },
     {
-     "title": "황윤성, 할아버지께 물려받은 '금' 있다?…창고 공개",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6367715",
-     "source": "뉴스1"
+     "title": "\"딸에게 편지 쓰려 글씨 배운 엄마\"…신달자, 여든에 돌아보다[신간]",
+     "url": "https://www.newsis.com/view/NISX20261124_0003881689",
+     "source": "뉴시스"
     }
    ]
   }
