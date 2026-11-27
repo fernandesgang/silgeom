@@ -2,9 +2,9 @@
  "keyword": "australia vs england",
  "slug": "australia-vs-england",
  "firstSeen": 1795510800.0,
- "lastSeen": 1795779818.6598318,
+ "lastSeen": 1795783945.460594,
  "peakRank": 5,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795516258,
@@ -25,9 +25,29 @@
    1795779819,
    9,
    200
+  ],
+  [
+   1795783945,
+   6,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "England in Australia: Jamie Overton claims five as tourists take series lead in Brisbane",
+   "url": "https://www.bbc.com/sport/cricket/articles/cm9d704g26z4o",
+   "source": "BBC"
+  },
+  {
+   "title": "England go 2-1 up after Jamie Overton's five-fer dismantles Australia",
+   "url": "https://www.cricbuzz.com/cricket-news/141085/england-go-2-1-up-after-jamie-overtons-five-fer-dismantles-australia",
+   "source": "Cricbuzz"
+  },
+  {
+   "title": "Relive England thrashing Australia by seven wickets at The Gabba to take a 2-1 T20 series lead",
+   "url": "https://www.bbc.co.uk/sport/cricket/live/cwylrwj2zd9t",
+   "source": "BBC"
+  },
   {
    "title": "Billy Stanlake: Aneurin Donald and Phil Salt make history as first Wales-born England opening pair",
    "url": "https://twaslnews1.twaslnews.com/8385320/",
@@ -74,6 +94,11 @@
   "2026-11-27"
  ],
  "related": [
+  "jyp엔터테인먼트",
+  "농협은행",
+  "황교안",
+  "박훈정",
+  "블랙-프라이데이",
   "김이현",
   "bangladesh-a-vs-pakistan-a",
   "agf",
@@ -88,11 +113,6 @@
   "프로포폴",
   "배용준",
   "pakistan-a-vs-nepal",
-  "히잡",
-  "한석준",
-  "캐니언",
-  "다리오-아모데이",
-  "서경석",
-  "데블스플랜3-우승자"
+  "히잡"
  ]
 }
