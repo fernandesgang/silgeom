@@ -2,7 +2,7 @@
  "keyword": "서울역",
  "slug": "서울역",
  "firstSeen": 1795482600.0,
- "lastSeen": 1795867159.6000051,
+ "lastSeen": 1795870274.1832242,
  "peakRank": 3,
  "peakTraffic": 1000,
  "history": [
@@ -23,6 +23,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "한국 여행 첫발 떼자마자 패닉에 빠졌다… 서울역, 외국인에겐 '거대한 미로' [최주연의 스포 주의]",
+   "url": "https://www.hankookilbo.com/news/article/A2026112613420001746",
+   "source": "한국일보"
+  },
+  {
+   "title": "[속보] 철도노조 준법투쟁 첫 주말…\"전철 105대 20분 이상 지연\"",
+   "url": "https://www.yna.co.kr/view/AKR20261128046800063",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "철도노조 준법투쟁 사흘째…주말 수도권 전철 105대 20분 이상 지연",
+   "url": "https://www.kyeonggi.com/article/20261128580142",
+   "source": "경기일보"
+  },
   {
    "title": "[썰물밀물] 경인 철도 지하화와 인천 발전의 새로운 전환점",
    "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337925",

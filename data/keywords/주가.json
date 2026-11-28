@@ -2,17 +2,37 @@
  "keyword": "주가",
  "slug": "주가",
  "firstSeen": 1795861200.0,
- "lastSeen": 1795867159.6000051,
+ "lastSeen": 1795870274.1832242,
  "peakRank": 1,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795867160,
    1,
    2000
+  ],
+  [
+   1795870274,
+   1,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "‘7만전자’ 전망했던 이주완, 이번엔 ‘4만전자’? 반도체 폭락론의 근거는",
+   "url": "https://weekly.khan.co.kr/article/202611281549001",
+   "source": "주간경향"
+  },
+  {
+   "title": "\"삼성전자 주가 4만원대까지 갈 수 있어\"…전문가 경고",
+   "url": "https://www.newsis.com/view/NISX20261128_0003887218",
+   "source": "뉴시스"
+  },
+  {
+   "title": "7만 아닌 4만전자?…전문가의 메모리 업황 경고",
+   "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03588326645649984",
+   "source": "마켓인"
+  },
   {
    "title": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고",
    "url": "https://www.yna.co.kr/view/AKR20261127165200003",
@@ -33,6 +53,7 @@
   "2026-11-28"
  ],
  "related": [
+  "부천-fc-1995-대-김천상무-순위",
   "김용건",
   "서울역",
   "욕망의-덫",

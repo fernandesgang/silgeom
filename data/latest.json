@@ -1,56 +1,56 @@
 {
- "generatedAt": 1795867160,
+ "generatedAt": 1795870274,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "주가",
    "slug": "주가",
-   "traffic": 2000,
+   "traffic": 5000,
    "startedAt": 1795861200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고",
-     "url": "https://www.yna.co.kr/view/AKR20261127165200003",
-     "source": "연합뉴스"
+     "title": "‘7만전자’ 전망했던 이주완, 이번엔 ‘4만전자’? 반도체 폭락론의 근거는",
+     "url": "https://weekly.khan.co.kr/article/202611281549001",
+     "source": "주간경향"
     },
     {
-     "title": "SK하닉 주주환원도 '역대급'…엔비디아보다 '45조' 더 쏜다",
-     "url": "https://www.hankyung.com/article/202611262967g",
-     "source": "한국경제"
+     "title": "\"삼성전자 주가 4만원대까지 갈 수 있어\"…전문가 경고",
+     "url": "https://www.newsis.com/view/NISX20261128_0003887218",
+     "source": "뉴시스"
     },
     {
-     "title": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
-     "url": "https://stock.mk.co.kr/news/view/1207519",
-     "source": "매일경제 마켓"
+     "title": "7만 아닌 4만전자?…전문가의 메모리 업황 경고",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03588326645649984",
+     "source": "마켓인"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "김용건",
-   "slug": "김용건",
+   "keyword": "부천 fc 1995 대 김천상무 순위",
+   "slug": "부천-fc-1995-대-김천상무-순위",
    "traffic": 2000,
-   "startedAt": 1795856400.0,
+   "startedAt": 1795859400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "농담이라지만…이서진 “한지민 갱년기 앓는 듯” 발언 시끌",
-     "url": "https://www.donga.com/news/Culture/article/all/20261127/135106157/2",
-     "source": "동아일보"
+     "title": "[프로축구 부천전적] 김천 2-1 부천",
+     "url": "https://www.yna.co.kr/view/AKR20261128047200007",
+     "source": "연합뉴스"
     },
     {
-     "title": "몬엑 주헌, 내돈내산 ‘운동화 6켤레’ 플렉스..박정수 “너무 좋아” (‘그사친’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/MIZTQZRVG43GKNZTHBSTIZJUG4/",
+     "title": "'수술 딛고 시즌 첫 골' 강주혁 향한 주승진 감독의 축하...\"시련 겪고 성숙해졌다, 앞으로 더 잘할 것\"[현장 인터뷰]",
+     "url": "https://www.chosun.com/sports/football/2026/11/28/GIYDKYLGMQ2TSNTFMQZWINRWHA/",
      "source": "조선일보"
     },
     {
-     "title": "이서진·한지민 티격태격 케미…‘그냥사람친구’, 5% 시청률로 출발",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12220642",
-     "source": "매일경제"
+     "title": "'카즈 퇴장·바사니 부상' 부천, 한지호 은퇴 경기 아쉬운 패배...홈 최종전서 '강주혁 1골 1도움' 김천에 1-2 덜미[오!쎈 부천] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281627779969O",
+     "source": "머니투데이"
     }
    ]
   },
@@ -64,19 +64,19 @@
    "diff": 0,
    "news": [
     {
-     "title": "[썰물밀물] 경인 철도 지하화와 인천 발전의 새로운 전환점",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337925",
-     "source": "인천일보"
+     "title": "한국 여행 첫발 떼자마자 패닉에 빠졌다… 서울역, 외국인에겐 '거대한 미로' [최주연의 스포 주의]",
+     "url": "https://www.hankookilbo.com/news/article/A2026112613420001746",
+     "source": "한국일보"
     },
     {
-     "title": "서울역 뒤편 -낡은 동네-의 반전…아파트 1만7천가구에 철길도 지하로 [부동산 심머니]",
-     "url": "https://re.mk.co.kr/news/news_detail.php?no=12218619",
-     "source": "매일경제"
+     "title": "[속보] 철도노조 준법투쟁 첫 주말…\"전철 105대 20분 이상 지연\"",
+     "url": "https://www.yna.co.kr/view/AKR20261128046800063",
+     "source": "연합뉴스"
     },
     {
-     "title": "박희정 서울시의원, 시민 숙원사업 철도지하화… 서울시 적극 대응 촉구",
-     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261126500247",
-     "source": "서울Pn"
+     "title": "철도노조 준법투쟁 사흘째…주말 수도권 전철 105대 20분 이상 지연",
+     "url": "https://www.kyeonggi.com/article/20261128580142",
+     "source": "경기일보"
     }
    ]
   },
@@ -86,8 +86,8 @@
    "slug": "욕망의-덫",
    "traffic": 500,
    "startedAt": 1795857600.0,
-   "change": "up",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "'욕망의 덫' 전혜원, 희귀 혈액형 Rh-A형으로 출생의 비밀 알았다",
@@ -108,42 +108,38 @@
   },
   {
    "rank": 5,
-   "keyword": "베스킨라빈스",
-   "slug": "베스킨라빈스",
-   "traffic": 200,
-   "startedAt": 1795860600.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 6,
    "keyword": "울산광역시",
    "slug": "울산광역시",
    "traffic": 200,
    "startedAt": 1795858800.0,
-   "change": "down",
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "영광군노인복지관 어르신 동아리, \"방한용품 등 560여 점\" 기탁",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817658",
+     "source": "전라일보"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "근로장려금 신청",
+   "slug": "근로장려금-신청",
+   "traffic": 100,
+   "startedAt": 1795863000.0,
+   "change": "up",
    "diff": 1,
    "news": []
   },
   {
    "rank": 7,
-   "keyword": "근로장려금 신청",
-   "slug": "근로장려금-신청",
-   "traffic": 100,
-   "startedAt": 1795863000.0,
-   "change": "new",
-   "diff": 0,
-   "news": []
-  },
-  {
-   "rank": 8,
    "keyword": "브래디",
    "slug": "브래디",
    "traffic": 100,
    "startedAt": 1795861800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
@@ -156,20 +152,20 @@
      "source": "CBS Sports"
     },
     {
-     "title": "Terrell Owens brings race into Aaron Rodgers conversation after QB torched Steelers coach before release",
-     "url": "https://www.foxnews.com/outkick-sports/terrell-owens-brings-race-aaron-rodgers-conversation-after-qb-torched-steelers-coach-before-release",
-     "source": "Fox News"
+     "title": "Tom Brady doesn't approve of Aaron Rodgers' comments on Mike McCarthy: 'Nobody wins when the family feuds'",
+     "url": "https://sports.yahoo.com/nfl/article/tom-brady-doesnt-approve-of-aaron-rodgers-comments-on-mike-mccarthy-nobody-wins-when-the-family-feuds-033241771.html",
+     "source": "Yahoo Sports"
     }
    ]
   },
   {
-   "rank": 9,
+   "rank": 8,
    "keyword": "최가온",
    "slug": "최가온",
    "traffic": 100,
    "startedAt": 1795861200.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "135m 번지점프도 훌쩍, 스노보드 천재 최가온의 다음 도전은?",
@@ -189,13 +185,23 @@
    ]
   },
   {
+   "rank": 9,
+   "keyword": "베스킨라빈스",
+   "slug": "베스킨라빈스",
+   "traffic": 100,
+   "startedAt": 1795860600.0,
+   "change": "down",
+   "diff": 4,
+   "news": []
+  },
+  {
    "rank": 10,
    "keyword": "제주공항",
    "slug": "제주공항",
    "traffic": 100,
    "startedAt": 1795857000.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "제주 강풍에 피해 잇따라…하늘길·뱃길도 차질",
