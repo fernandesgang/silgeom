@@ -1,50 +1,66 @@
 {
- "generatedAt": 1795863699,
+ "generatedAt": 1795867160,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "부천 fc 1995 대 김천상무 순위",
-   "slug": "부천-fc-1995-대-김천상무-순위",
+   "keyword": "주가",
+   "slug": "주가",
    "traffic": 2000,
-   "startedAt": 1795859400.0,
+   "startedAt": 1795861200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"반성도 많이 하게 되는 시즌\" 이영민 부천 감독이 돌아본 2026년...\"나부터 발전할 부분 찾아야\"[현장 인터뷰] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281836772253O",
-     "source": "머니투데이"
+     "title": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고",
+     "url": "https://www.yna.co.kr/view/AKR20261127165200003",
+     "source": "연합뉴스"
     },
     {
-     "title": "'수술 딛고 시즌 첫 골' 강주혁 향한 주승진 감독의 축하...\"시련 겪고 성숙해졌다, 앞으로 더 잘할 것\"[현장 인터뷰]",
-     "url": "https://www.chosun.com/sports/football/2026/11/28/GIYDKYLGMQ2TSNTFMQZWINRWHA/",
-     "source": "조선일보"
+     "title": "SK하닉 주주환원도 '역대급'…엔비디아보다 '45조' 더 쏜다",
+     "url": "https://www.hankyung.com/article/202611262967g",
+     "source": "한국경제"
     },
     {
-     "title": "\"올해까지만 내 역할\" 작별 앞둔 주승진 김천 감독...\"K리그에서 더 많은 경험 쌓고, 연속성 가져가고 싶다\"[현장 인터뷰]",
-     "url": "https://www.koreadaily.com/article/20261127232806219",
-     "source": "미주중앙일보"
+     "title": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
+     "url": "https://stock.mk.co.kr/news/view/1207519",
+     "source": "매일경제 마켓"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "fc 서울 대 대전 하나 시티즌 순위",
-   "slug": "fc-서울-대-대전-하나-시티즌-순위",
+   "keyword": "김용건",
+   "slug": "김용건",
    "traffic": 2000,
-   "startedAt": 1795849800.0,
-   "change": "same",
+   "startedAt": 1795856400.0,
+   "change": "new",
    "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "농담이라지만…이서진 “한지민 갱년기 앓는 듯” 발언 시끌",
+     "url": "https://www.donga.com/news/Culture/article/all/20261127/135106157/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "몬엑 주헌, 내돈내산 ‘운동화 6켤레’ 플렉스..박정수 “너무 좋아” (‘그사친’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/MIZTQZRVG43GKNZTHBSTIZJUG4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이서진·한지민 티격태격 케미…‘그냥사람친구’, 5% 시청률로 출발",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12220642",
+     "source": "매일경제"
+    }
+   ]
   },
   {
    "rank": 3,
    "keyword": "서울역",
    "slug": "서울역",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795857000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -53,72 +69,25 @@
      "source": "인천일보"
     },
     {
-     "title": "박희정 서울시의원, 시민 숙원사업 철도지하화… 서울시 적극 대응 촉구",
-     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261126500247",
-     "source": "서울Pn"
-    },
-    {
      "title": "서울역 뒤편 -낡은 동네-의 반전…아파트 1만7천가구에 철길도 지하로 [부동산 심머니]",
      "url": "https://re.mk.co.kr/news/news_detail.php?no=12218619",
      "source": "매일경제"
+    },
+    {
+     "title": "박희정 서울시의원, 시민 숙원사업 철도지하화… 서울시 적극 대응 촉구",
+     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261126500247",
+     "source": "서울Pn"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "북항친수공원",
-   "slug": "북항친수공원",
-   "traffic": 500,
-   "startedAt": 1795854600.0,
-   "change": "up",
-   "diff": 3,
-   "news": [
-    {
-     "title": "‘부캉이’ 재진입 차단시설 12월1일 철거…“따뜻한 남쪽 바다서 잘 지내니”",
-     "url": "https://www.khan.co.kr/article/202611281006001",
-     "source": "경향신문"
-    },
-    {
-     "title": "부산 북항 친수공원 상어 '부캉이' 차단막 내달 1일 철거",
-     "url": "https://www.yna.co.kr/view/AKR20261127075100051",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "’부캉이’ 떠나자 부산 북항 방문객 예전 수준으로 ’뚝’",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127052832PdA",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "울산광역시",
-   "slug": "울산광역시",
-   "traffic": 200,
-   "startedAt": 1795858800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "영광군노인복지관 어르신 동아리, \"방한용품 등 560여 점\" 기탁",
-     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817658",
-     "source": "전라일보"
-    },
-    {
-     "title": "배움에서 나눔으로 이어진 손뜨개 사랑, 종합사회복지관에 따뜻한 온기 전해",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261120010007261",
-     "source": "중도일보"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "욕망의 덫",
    "slug": "욕망의-덫",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795857600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
      "title": "'욕망의 덫' 전혜원, 희귀 혈액형 Rh-A형으로 출생의 비밀 알았다",
@@ -138,65 +107,95 @@
    ]
   },
   {
-   "rank": 7,
-   "keyword": "국가유공자",
-   "slug": "국가유공자",
+   "rank": 5,
+   "keyword": "베스킨라빈스",
+   "slug": "베스킨라빈스",
    "traffic": 200,
-   "startedAt": 1795855800.0,
-   "change": "up",
-   "diff": 3,
-   "news": [
-    {
-     "title": "부산보훈청·한전 부울본부, 국가유공자 제146·147호 '보비하우스' 오픈",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765998",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "참전유공자 유족 주택 새 단장…HF `아너하우스` 헌정",
-     "url": "https://www.imaeil.com/page/view/2026112523472006495",
-     "source": "매일신문"
-    },
-    {
-     "title": "국가유공자 주거환경 개선 ‘아너하우스’ 헌정식 경북 김천서 개최",
-     "url": "http://seonamtoday.com/news/view.php?idx=56389",
-     "source": "서남투데이"
-    }
-   ]
+   "startedAt": 1795860600.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
+  },
+  {
+   "rank": 6,
+   "keyword": "울산광역시",
+   "slug": "울산광역시",
+   "traffic": 200,
+   "startedAt": 1795858800.0,
+   "change": "down",
+   "diff": 1,
+   "news": []
+  },
+  {
+   "rank": 7,
+   "keyword": "근로장려금 신청",
+   "slug": "근로장려금-신청",
+   "traffic": 100,
+   "startedAt": 1795863000.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
   },
   {
    "rank": 8,
-   "keyword": "박정우",
-   "slug": "박정우",
-   "traffic": 200,
-   "startedAt": 1795854000.0,
-   "change": "same",
+   "keyword": "브래디",
+   "slug": "브래디",
+   "traffic": 100,
+   "startedAt": 1795861800.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "KIA 내부 FA 초대형 변수 등장! 'MVP' 韓슈퍼스타 간절히 외쳤다 \"김태군-김호령 꼭 필요한 선배들, 계약해주세요\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/27/GQYDOMZTMQ4WEMRVHA4GCYLDMI/",
-     "source": "조선일보"
+     "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
+     "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
+     "source": "ESPN"
     },
     {
-     "title": "이범호 계약 기간 마지막 해, FA 선물은 있을까… 이범호가 아닌 KIA를 위해 필요하다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022306",
-     "source": "SPOTV NEWS"
+     "title": "Tom Brady torches Aaron Rodgers for 'private things becoming public' after Steelers' release",
+     "url": "https://www.cbssports.com/nfl/news/tom-brady-torches-aaron-rodgers-after-steelers-release-mike-mccarthy/",
+     "source": "CBS Sports"
     },
     {
-     "title": "외야 FA 풍년에도 구자욱에만 쏠린 시선…더 아쉬운 김호령의 '가을 침묵'",
-     "url": "https://www.newsis.com/view/NISX20261126_0003884011",
-     "source": "뉴시스"
+     "title": "Terrell Owens brings race into Aaron Rodgers conversation after QB torched Steelers coach before release",
+     "url": "https://www.foxnews.com/outkick-sports/terrell-owens-brings-race-aaron-rodgers-conversation-after-qb-torched-steelers-coach-before-release",
+     "source": "Fox News"
     }
    ]
   },
   {
    "rank": 9,
+   "keyword": "최가온",
+   "slug": "최가온",
+   "traffic": 100,
+   "startedAt": 1795861200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "135m 번지점프도 훌쩍, 스노보드 천재 최가온의 다음 도전은?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725037",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "최가온 \"올림픽 때보다 반 바퀴 더 돈다\"",
+     "url": "https://www.chosun.com/international/international_general/2026/11/28/EPZD66XHXVHRJKFVBNVZIS6NMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "스케이트보드 강준이 등 꿈나무들, 태인 체육장학금 받아",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723890",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "제주공항",
    "slug": "제주공항",
    "traffic": 100,
    "startedAt": 1795857000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "제주 강풍에 피해 잇따라…하늘길·뱃길도 차질",
@@ -204,14 +203,14 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "\"제주 하늘길 어쩌나\"…강풍에 항공기 104편 결항·지연 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/28/2026112819132732688",
-     "source": "머니투데이"
-    },
-    {
      "title": "제주시북부에 강풍경보…제주도산지에 대설주의보 유지",
      "url": "https://www.yna.co.kr/view/AKR20261128045400527",
      "source": "연합뉴스"
+    },
+    {
+     "title": "\"제주 하늘길 어쩌나\"…강풍에 항공기 104편 결항·지연 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/28/2026112819132732688",
+     "source": "머니투데이"
     }
    ]
   }

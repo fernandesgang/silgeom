@@ -859,29 +859,71 @@
    "slug": "서울역",
    "firstSeen": 1795857000.0,
    "peakRank": 3,
-   "peakTraffic": 500,
-   "lastSeen": 1795863699.1849372
+   "peakTraffic": 1000,
+   "lastSeen": 1795867159.6000051
   },
   "울산광역시": {
    "slug": "울산광역시",
    "firstSeen": 1795858800.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795863699.1849372
+   "lastSeen": 1795867159.6000051
   },
   "욕망의 덫": {
    "slug": "욕망의-덫",
    "firstSeen": 1795857600.0,
-   "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795863699.1849372
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795867159.6000051
   },
   "제주공항": {
    "slug": "제주공항",
    "firstSeen": 1795857000.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795863699.1849372
+   "lastSeen": 1795867159.6000051
+  },
+  "주가": {
+   "slug": "주가",
+   "firstSeen": 1795861200.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795867159.6000051
+  },
+  "김용건": {
+   "slug": "김용건",
+   "firstSeen": 1795856400.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795867159.6000051
+  },
+  "베스킨라빈스": {
+   "slug": "베스킨라빈스",
+   "firstSeen": 1795860600.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795867159.6000051
+  },
+  "근로장려금 신청": {
+   "slug": "근로장려금-신청",
+   "firstSeen": 1795863000.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795867159.6000051
+  },
+  "브래디": {
+   "slug": "브래디",
+   "firstSeen": 1795861800.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795867159.6000051
+  },
+  "최가온": {
+   "slug": "최가온",
+   "firstSeen": 1795861200.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795867159.6000051
   }
  }
 }
