@@ -1,0 +1,46 @@
+{
+ "keyword": "지하철",
+ "slug": "지하철",
+ "firstSeen": 1795837800.0,
+ "lastSeen": 1795844784.07212,
+ "peakRank": 3,
+ "peakTraffic": 1000,
+ "history": [
+  [
+   1795844784,
+   3,
+   1000
+  ]
+ ],
+ "news": [
+  {
+   "title": "철도노조 준법투쟁으로 광역전철 445대 지연",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724799",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "철도노조 준법투쟁 첫 주말…전라선 최대 20분 지연·큰 불편은 없어",
+   "url": "https://www.donga.com/news/Society/article/all/20261128/135107389/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "1부 오늘의 주요뉴스",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6869234_37012.html",
+   "source": "MBC 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "fc-서울-대-대전",
+  "래미안첼리투스아파트",
+  "이정효",
+  "이현중",
+  "군함",
+  "주유소",
+  "성시경-쌈디",
+  "조세호",
+  "해커"
+ ]
+}

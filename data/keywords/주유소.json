@@ -1,0 +1,46 @@
+{
+ "keyword": "주유소",
+ "slug": "주유소",
+ "firstSeen": 1795840800.0,
+ "lastSeen": 1795844784.07212,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795844784,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725108",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "기름값 28주째↓…서울 휘발유 1,800원대 유지",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128133954rb9",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "주유소 기름값 28주 연속 하락⋯휘발유·경유 동반 내림세",
+   "url": "https://www.viva100.com/article/20261128500042",
+   "source": "브릿지경제"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "fc-서울-대-대전",
+  "래미안첼리투스아파트",
+  "지하철",
+  "이정효",
+  "이현중",
+  "군함",
+  "성시경-쌈디",
+  "조세호",
+  "해커"
+ ]
+}

@@ -594,7 +594,7 @@
    "firstSeen": 1795836600.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795841355.492648
+   "lastSeen": 1795844784.07212
   },
   "남대문시장": {
    "slug": "남대문시장",
@@ -607,8 +607,8 @@
    "slug": "이정효",
    "firstSeen": 1795837200.0,
    "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795841355.492648
+   "peakTraffic": 500,
+   "lastSeen": 1795844784.07212
   },
   "한능검 81회 정답": {
    "slug": "한능검-81회-정답",
@@ -637,6 +637,62 @@
    "peakRank": 9,
    "peakTraffic": 100,
    "lastSeen": 1795841355.492648
+  },
+  "fc 서울 대 대전": {
+   "slug": "fc-서울-대-대전",
+   "firstSeen": 1795839000.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795844784.07212
+  },
+  "래미안첼리투스아파트": {
+   "slug": "래미안첼리투스아파트",
+   "firstSeen": 1795837800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795844784.07212
+  },
+  "지하철": {
+   "slug": "지하철",
+   "firstSeen": 1795837800.0,
+   "peakRank": 3,
+   "peakTraffic": 1000,
+   "lastSeen": 1795844784.07212
+  },
+  "군함": {
+   "slug": "군함",
+   "firstSeen": 1795840800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795844784.07212
+  },
+  "주유소": {
+   "slug": "주유소",
+   "firstSeen": 1795840800.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795844784.07212
+  },
+  "성시경 쌈디": {
+   "slug": "성시경-쌈디",
+   "firstSeen": 1795840200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795844784.07212
+  },
+  "조세호": {
+   "slug": "조세호",
+   "firstSeen": 1795839000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795844784.07212
+  },
+  "해커": {
+   "slug": "해커",
+   "firstSeen": 1795837800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795844784.07212
   }
  }
 }

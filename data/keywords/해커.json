@@ -1,0 +1,46 @@
+{
+ "keyword": "해커",
+ "slug": "해커",
+ "firstSeen": 1795837800.0,
+ "lastSeen": 1795844784.07212,
+ "peakRank": 10,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795844784,
+   10,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "'방공레이더 지휘통제' 미 공군 핵심 시스템까지 해킹에 뚫렸다",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6869229_36925.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "영국 노동연금부, 사이버 공격 감지…서비스 일부 중단",
+   "url": "https://zdnet.co.kr/view/?no=20261127223323",
+   "source": "지디넷코리아"
+  },
+  {
+   "title": "미 공군 클라우드까지 해킹…“피해 규모 파악 중”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724982",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "fc-서울-대-대전",
+  "래미안첼리투스아파트",
+  "지하철",
+  "이정효",
+  "이현중",
+  "군함",
+  "주유소",
+  "성시경-쌈디",
+  "조세호"
+ ]
+}

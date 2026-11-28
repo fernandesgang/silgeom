@@ -1,82 +1,82 @@
 {
- "generatedAt": 1795841355,
+ "generatedAt": 1795844784,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "샌안토니오 대 la 레이커스",
-   "slug": "샌안토니오-대-la-레이커스",
-   "traffic": 2000,
-   "startedAt": 1795833000.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "fc 서울 대 대전",
+   "slug": "fc-서울-대-대전",
+   "traffic": 5000,
+   "startedAt": 1795839000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "It’s time for Basketball: San Antonio Spurs vs Los Angeles Lakers",
-     "url": "https://sports.yahoo.com/nba/articles/time-basketball-san-antonio-spurs-023000839.html",
-     "source": "Yahoo Sports"
+     "title": "10년 기다린 우승 대관식, 마냥 웃을 수 없는 김기동...선수들 부상 걱정에도 \"오늘은 팬들과 함께하는 특별한 날\" [현장 인터뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281238770584O",
+     "source": "머니투데이"
     },
     {
-     "title": "Los Angeles Lakers @ San Antonio Spurs Odds",
-     "url": "https://sportsbook.fanduel.com/basketball/nba/los-angeles-lakers-@-san-antonio-spurs-36358261",
-     "source": "FanDuel Sportsbook"
+     "title": "\"이런 경기 즐기고 이겨낼 줄 알아야\" 황선홍 대전 감독, '대관식' FC서울 상대 필승 다짐 [현장 인터뷰]",
+     "url": "https://www.chosun.com/sports/football/2026/11/28/HA4DINBXG5RDKNTCGU4TKNBSGU/",
+     "source": "조선일보"
     },
     {
-     "title": "How Wemby vs. Luka became NBA’s Black Friday main event with a lot on the line",
-     "url": "https://www.expressnews.com/sports/spurs/article/spurs-lakers-wemby-luka-doncic-nba-cup-22551594.php",
-     "source": "San Antonio Express-News"
+     "title": "[현장·라인업] ‘챔피언’ FC 서울의 마지막 홈경기 vs 2위 도약 꿈꾸는 대전의 맞대결, 양 팀 ‘베스트 1...",
+     "url": "https://sports.khan.co.kr/article/202611281305003",
+     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "이현중",
-   "slug": "이현중",
-   "traffic": 500,
-   "startedAt": 1795836600.0,
+   "keyword": "래미안첼리투스아파트",
+   "slug": "래미안첼리투스아파트",
+   "traffic": 1000,
+   "startedAt": 1795837800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "2m 장신 슈터 강점 돋보였다… NBA 투웨이 계약 도전하는 이현중",
-     "url": "https://www.joongang.co.kr/article/25482757",
-     "source": "중앙일보"
+     "title": "\"100억 찍으면 팔겠다\"던 95년생 …SK하닉 팔아 용산 아파트 샀다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
+     "source": "이데일리"
     },
     {
-     "title": "이현중, G리그 산타크루즈전 4점 5리바운드…팀도 완패",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719334",
-     "source": "KBS 뉴스"
+     "title": "SK하이닉스 고점에 팔아 100억…95년생이 산 용산 아파트는",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886422",
+     "source": "뉴시스"
     },
     {
-     "title": "이현중, 3점슛 성공률 ‘50% 육박’…NBA 꿈 향해 성큼",
-     "url": "https://news.jtbc.co.kr/article/NB12329452",
-     "source": "JTBC"
+     "title": "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
+     "url": "https://www.etnews.com/20261127000350",
+     "source": "전자신문"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "남대문시장",
-   "slug": "남대문시장",
-   "traffic": 500,
-   "startedAt": 1795835400.0,
+   "keyword": "지하철",
+   "slug": "지하철",
+   "traffic": 1000,
+   "startedAt": 1795837800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "남대문 커뮤니티",
-     "url": "http://topclass.chosun.com/news/articleView.html?idxno=37132",
-     "source": "톱클래스"
+     "title": "철도노조 준법투쟁으로 광역전철 445대 지연",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724799",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "“사지 마”… ‘스카프 아저씨’ 돌풍에 세대 불문 발길 이어지는 남대문시장",
-     "url": "https://www.donga.com/news/Society/article/all/20261128/135106803/1",
+     "title": "철도노조 준법투쟁 첫 주말…전라선 최대 20분 지연·큰 불편은 없어",
+     "url": "https://www.donga.com/news/Society/article/all/20261128/135107389/1",
      "source": "동아일보"
     },
     {
-     "title": "[혜윰노트] 돈 쓰지 말고 기운만 받고 가!",
-     "url": "https://www.kmib.co.kr/article/20261126501751",
-     "source": "국민일보"
+     "title": "1부 오늘의 주요뉴스",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6869234_37012.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
@@ -84,9 +84,9 @@
    "rank": 4,
    "keyword": "이정효",
    "slug": "이정효",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795837200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -108,157 +108,157 @@
   },
   {
    "rank": 5,
-   "keyword": "한능검 81회 정답",
-   "slug": "한능검-81회-정답",
-   "traffic": 200,
-   "startedAt": 1795835400.0,
-   "change": "new",
-   "diff": 0,
+   "keyword": "이현중",
+   "slug": "이현중",
+   "traffic": 500,
+   "startedAt": 1795836600.0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
-     "title": "[속보] 81회 한능검 가답안 정답·답지 공개",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765984",
-     "source": "국제뉴스"
+     "title": "2m 장신 슈터 강점 돋보였다… NBA 투웨이 계약 도전하는 이현중",
+     "url": "https://www.joongang.co.kr/article/25482757",
+     "source": "중앙일보"
     },
     {
-     "title": "“컴싸로만 풀라고요?”… 시험 코앞 규정 바뀌자 수험생들 ‘부글부글’",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/25/NQVLYNMOU5DQ3EDNOBGUURYB6U/",
-     "source": "Chosunbiz"
+     "title": "이현중, G리그 산타크루즈전 4점 5리바운드…팀도 완패",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719334",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "\"연필까지 동났다\"…수능 앞두고 다이소 '연필·연필깎이' 품절 사태",
-     "url": "https://www.fnnews.com/news/202611190948296650",
-     "source": "파이낸셜뉴스"
+     "title": "불붙은 이현중의 질주…‘집중 견제’ 뚫고 첫 더블더블",
+     "url": "https://news.jtbc.co.kr/article/NB12329209",
+     "source": "JTBC"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "tear gas",
-   "slug": "tear-gas",
+   "keyword": "군함",
+   "slug": "군함",
    "traffic": 200,
-   "startedAt": 1795831200.0,
-   "change": "up",
-   "diff": 1,
+   "startedAt": 1795840800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
-     "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
-     "source": "The Guardian"
+     "title": "해광호 선원 수색...'풍랑주의보'에 수중 수색 차질",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611281305326555",
+     "source": "YTN"
     },
     {
-     "title": "French activists demand a tear gas suspension over reported menstrual changes",
-     "url": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
-     "source": "ABC News - Breaking News, Latest News and Videos"
+     "title": "침몰 ‘해광호’ 수중 수색 또 불발…바닷속 위치만 재확인",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724647",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "France Tear Gas What to Know",
-     "url": "https://www.bdtonline.com/sports/college_sports/france-tear-gas-what-to-know/image_ad783734-80e9-58c8-ac90-201817dbb70c.html",
-     "source": "Bluefield Daily Telegraph"
+     "title": "수중무인장비로 해광호 선체 확인…잠수사 투입은 불발",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127202153CkN",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "미국 시민권",
-   "slug": "미국-시민권",
+   "keyword": "주유소",
+   "slug": "주유소",
    "traffic": 100,
-   "startedAt": 1795836000.0,
+   "startedAt": 1795840800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "中 단체관광객에 무비자 1년 더 허용…정작 중국은 '검토 중'",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60112",
-     "source": "주간조선"
+     "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725108",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "중국 단체관광객 무비자 1년 연장…한국인 방중 무비자는 '오리무중'",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01872886645649656&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "기름값 28주째↓…서울 휘발유 1,800원대 유지",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128133954rb9",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "\"한국인 '중국 무비자' 이대로 끝?\"...여행 앞두고 발동동 - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/25/2026112510213548178",
-     "source": "머니투데이"
+     "title": "주유소 기름값 28주 연속 하락⋯휘발유·경유 동반 내림세",
+     "url": "https://www.viva100.com/article/20261128500042",
+     "source": "브릿지경제"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "이찬원",
-   "slug": "이찬원",
+   "keyword": "성시경 쌈디",
+   "slug": "성시경-쌈디",
    "traffic": 100,
-   "startedAt": 1795835400.0,
+   "startedAt": 1795840200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "황윤성, 알고보니 도련님? 절친 이찬원도 놀랐다 (편스토랑)",
-     "url": "https://sports.donga.com/ent/article/all/20261127/135101062/1",
-     "source": "스포츠동아"
+     "title": "연예계 음주운전 파문 속.. \"쌈디, 술자리 후 얌전하게 택시 타고 가\" 눈길 ('고막남친')",
+     "url": "https://www.chosun.com/entertainments/music/2026/11/27/MU4DCZJTGY4TANTCMIYDIZDCGI/",
+     "source": "조선일보"
     },
     {
-     "title": "황윤성, 압도적 규모 시골집…\"마을 구경 같아\" [RE:TV]",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6367714",
+     "title": "‘18개월 子 아빠’ 신용재 근황 “앨범 준비 전까진 육아 전념” (고막남친)",
+     "url": "https://sports.khan.co.kr/article/202611281207003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "쌈디, 술자리 부상 후 성시경에게 손절당한 사연 \"최근 재회\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6369127",
      "source": "뉴스1"
-    },
-    {
-     "title": "이찬원, 일상 벗어나 자연 속으로…‘편스토랑’ 복귀에 기대감",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=848618",
-     "source": "제민일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "닥터 둠",
-   "slug": "닥터-둠",
+   "keyword": "조세호",
+   "slug": "조세호",
    "traffic": 100,
-   "startedAt": 1795833600.0,
+   "startedAt": 1795839000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "대작영화 맞붙는 '듄스데이'…빌뇌브 감독의 한마디",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867724",
-     "source": "SBS 뉴스"
+     "title": "조세호, 초등학생에 수입 질문 받고 당황 \"최근 일 없어\"",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885332",
+     "source": "뉴시스"
     },
     {
-     "title": "로버트 다우니 주니어, 아이언맨→닥터 둠 “토니 스타크와 정반대 인물”(‘어벤져스’)",
-     "url": "https://www.chosun.com/entertainments/movie/2026/11/27/GNSTSOJWGIYDMZLFGQ2WMZLDMI/",
+     "title": "\"돈 많아요?\" 초2가 묻자 '조폭 연루설' 조세호 \"적진 않은데 최근에 일이 좀 없었어\" [핫피플]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RTIMJRMI3DAMBZME3WMN3EHE/",
      "source": "조선일보"
     },
     {
-     "title": "'둠스데이' 로다주 \"아이언맨과 닥터 둠, 천재지만 정반대\"",
-     "url": "https://www.news1.kr/entertain/movie/6368322",
-     "source": "뉴스1"
+     "title": "“돈 많아요?”…명동 간 조세호, 초등학생 질문에 한 말",
+     "url": "https://www.mk.co.kr/news/culture/12220079",
+     "source": "매일경제"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "실업급여",
-   "slug": "실업급여",
+   "keyword": "해커",
+   "slug": "해커",
    "traffic": 100,
-   "startedAt": 1795831200.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795837800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "“월급보다 많으면 누가 일하겠나”…실업급여, 결국 손 본다 [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721737",
+     "title": "'방공레이더 지휘통제' 미 공군 핵심 시스템까지 해킹에 뚫렸다",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6869229_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "영국 노동연금부, 사이버 공격 감지…서비스 일부 중단",
+     "url": "https://zdnet.co.kr/view/?no=20261127223323",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "미 공군 클라우드까지 해킹…“피해 규모 파악 중”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724982",
      "source": "KBS 뉴스"
-    },
-    {
-     "title": "조기재취업수당 월 300만원 이상이면 지급 제외",
-     "url": "https://www.jejutwn.com/news/article.html?no=464889",
-     "source": "제주교통복지신문"
-    },
-    {
-     "title": "[영상] 월급보다 많은 실업급여 없앤다…지급방식 '주 6일'로 변경",
-     "url": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=47431",
-     "source": "nbn 시사경제"
     }
    ]
   }
