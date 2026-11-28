@@ -2,17 +2,37 @@
  "keyword": "신상출시 편스토랑",
  "slug": "신상출시-편스토랑",
  "firstSeen": 1795755000.0,
- "lastSeen": 1795762536.095134,
- "peakRank": 10,
- "peakTraffic": 100,
+ "lastSeen": 1795830846.1516507,
+ "peakRank": 6,
+ "peakTraffic": 200,
  "history": [
   [
    1795762536,
    10,
    100
+  ],
+  [
+   1795830846,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "야노시호, 50억 도쿄 자택 공개 \"남편 추성훈과 각방살이\"",
+   "url": "https://www.newsis.com/view/NISX20261126_0003885358",
+   "source": "뉴시스"
+  },
+  {
+   "title": "야노 시호, 침대 옆엔 850만 원 수소 호흡기…베개 밑엔 17만 원짜리 운석 가루 ('편스토랑')",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RGIYRXMU3TEMLCGRRWMMZSGY/",
+   "source": "조선일보"
+  },
+  {
+   "title": "야노시호, 도쿄 50억 자택 공개…운석 가루에 수소 호흡기까지",
+   "url": "https://biz.heraldcorp.com/article/10951681",
+   "source": "헤럴드경제"
+  },
   {
    "title": "[선공개] 찬원 VS 아버지(윤성 아빠)의 숨막히는 칼질 대결! 고수들의 격돌, 그승자는? (황윤성 1열 관전) | KBS 방송",
    "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20191010142020-01-000_20261125_TECH001&program_code=T2019-0286&program_id=LS-20191010142020-01-000&section_code=04&broadcast_complete_yn=N&section_id=10742",
@@ -30,9 +50,19 @@
   }
  ],
  "days": [
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "related": [
+  "르윈-디아즈",
+  "콜럼버스-크루-대-인터-마이애미",
+  "이해욱",
+  "대한민국-u-17-축구-국가대표팀",
+  "nh농협은행",
+  "소방관",
+  "경상수지",
+  "삼성-엑시노스",
+  "화웨이",
   "손원일-급-잠수함",
   "전두환",
   "이재명-정부",

@@ -2,7 +2,7 @@
  "keyword": "삼성 엑시노스",
  "slug": "삼성-엑시노스",
  "firstSeen": 1795252200.0,
- "lastSeen": 1795260165.7029977,
+ "lastSeen": 1795830846.1516507,
  "peakRank": 7,
  "peakTraffic": 100,
  "history": [
@@ -15,9 +15,29 @@
    1795260166,
    10,
    100
+  ],
+  [
+   1795830846,
+   9,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "갤럭시S27 울트라·프로 모형 나란히 포착…후면 디자인 보니",
+   "url": "https://zdnet.co.kr/view/?no=20261127084258",
+   "source": "지디넷코리아"
+  },
+  {
+   "title": "엑시노스, S27 실리나… 퀄컴 최신 칩과 성능 격차 좁혀",
+   "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61462",
+   "source": "디지털포스트"
+  },
+  {
+   "title": "Galaxy SGalaxy S27 Ultra의 유선 충전은 60W로 인증서에 기재됐다.",
+   "url": "https://mezha.net/ko/news/mezha-6d7f87614cab0e962fe970cf_cb-certificate-lists-60w-wired-charging/",
+   "source": "Mezha.net"
+  },
   {
    "title": "GameNative's new update brings reliable PC gaming to Pixels and Samsung Exynos",
    "url": "https://tech.yahoo.com/gaming/articles/gamenatives-brings-reliable-pc-gaming-124728335.html",
@@ -35,9 +55,19 @@
   }
  ],
  "days": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-28"
  ],
  "related": [
+  "르윈-디아즈",
+  "콜럼버스-크루-대-인터-마이애미",
+  "이해욱",
+  "대한민국-u-17-축구-국가대표팀",
+  "nh농협은행",
+  "신상출시-편스토랑",
+  "소방관",
+  "경상수지",
+  "화웨이",
   "강원-fc-대-대전-하나-시티즌-순위",
   "최백호",
   "김종국",
@@ -48,10 +78,6 @@
   "굴",
   "중일-관계",
   "성리",
-  "류효영",
-  "k리그1",
-  "광주공항",
-  "멜라니아-트럼프",
-  "sri-lanka-a-vs-hong-kong"
+  "류효영"
  ]
 }
