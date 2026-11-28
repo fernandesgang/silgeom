@@ -2,21 +2,50 @@
  "keyword": "비정규직",
  "slug": "비정규직",
  "firstSeen": 1795178400.0,
- "lastSeen": 1795185818.3979259,
- "peakRank": 9,
+ "lastSeen": 1795886647.2537105,
+ "peakRank": 7,
  "peakTraffic": 100,
  "history": [
   [
    1795185818,
    9,
    100
+  ],
+  [
+   1795886647,
+   7,
+   100
   ]
  ],
- "news": [],
+ "news": [
+  {
+   "title": "또 급식 대신 빵‥10년째 파업에 학교 3곳 중 1곳 점심 멈췄다",
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6869197_37004.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "\"급식 멈췄다\" 학교비정규직 하루 총파업...교육부, 비상 대응",
+   "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611272217501967_005.html",
+   "source": "YTN"
+  },
+  {
+   "title": "밥 대신 빵과 우유…일부 학교 급식·돌봄 차질",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724772",
+   "source": "KBS 뉴스"
+  }
+ ],
  "days": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-29"
  ],
  "related": [
+  "바이에른-뮌헨",
+  "black-tv",
+  "웨스트-햄-대-스토크-시티",
+  "파이낸셜뉴스",
+  "맨유-경기",
+  "쾰른-대-엘버스베르크",
+  "hamburg-vs-bayern",
   "엔비디아",
   "컴포즈",
   "펍지",

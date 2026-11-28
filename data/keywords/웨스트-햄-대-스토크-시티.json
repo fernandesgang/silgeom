@@ -2,7 +2,7 @@
  "keyword": "웨스트 햄 대 스토크 시티",
  "slug": "웨스트-햄-대-스토크-시티",
  "firstSeen": 1795875600.0,
- "lastSeen": 1795883148.9790497,
+ "lastSeen": 1795886647.2537105,
  "peakRank": 3,
  "peakTraffic": 500,
  "history": [
@@ -18,6 +18,21 @@
   ]
  ],
  "news": [
+  {
+   "title": "Championship: Build-up to 11 games starting with Blackburn v Charlton, Lincoln v Wolves & Preston v Norwich",
+   "url": "https://www.bbc.com/sport/football/live/cmwydqw5vl0gt",
+   "source": "BBC"
+  },
+  {
+   "title": "Championship: Build-up to 11 games starting with Blackburn v Charlton, Lincoln v Wolves & Preston v Norwich",
+   "url": "https://www.bbc.co.uk/sport/football/live/cmwydqw5vl0gt",
+   "source": "BBC"
+  },
+  {
+   "title": "'Serious' Jarrod Bowen injury update in West Ham vs Stoke: 'Massive blow'",
+   "url": "https://sports.yahoo.com/articles/serious-jarrod-bowen-injury-west-154500554.html",
+   "source": "Yahoo Sports"
+  },
   {
    "title": "West Ham: Why Scott Parker is struggling to halt the slide after inheriting a host of problems",
    "url": "https://www.skysports.com/football/news/13616425/why-scott-parker-has-been-unable-to-halt-west-ham-s-slide-in-the-early-weeks-of-his-tenure-after-inheriting-significant-problems",
@@ -53,6 +68,8 @@
   "2026-11-29"
  ],
  "related": [
+  "비정규직",
+  "hamburg-vs-bayern",
   "맨유",
   "리즈-유나이티드-대-코번트리",
   "black-tv",

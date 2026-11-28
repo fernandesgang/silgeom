@@ -2,14 +2,19 @@
  "keyword": "black tv",
  "slug": "black-tv",
  "firstSeen": 1795878000.0,
- "lastSeen": 1795883148.9790497,
- "peakRank": 4,
- "peakTraffic": 200,
+ "lastSeen": 1795886647.2537105,
+ "peakRank": 2,
+ "peakTraffic": 500,
  "history": [
   [
    1795883149,
    4,
    200
+  ],
+  [
+   1795886647,
+   2,
+   500
   ]
  ],
  "news": [
@@ -33,6 +38,8 @@
   "2026-11-29"
  ],
  "related": [
+  "비정규직",
+  "hamburg-vs-bayern",
   "맨유",
   "리즈-유나이티드-대-코번트리",
   "웨스트-햄-대-스토크-시티",

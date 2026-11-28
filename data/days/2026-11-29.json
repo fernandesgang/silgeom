@@ -41,14 +41,14 @@
    "firstSeen": 1795879421.9189003,
    "peakRank": 3,
    "peakTraffic": 500,
-   "lastSeen": 1795883148.9790497
+   "lastSeen": 1795886647.2537105
   },
   "파이낸셜뉴스": {
    "slug": "파이낸셜뉴스",
    "firstSeen": 1795879421.9189003,
-   "peakRank": 7,
-   "peakTraffic": 200,
-   "lastSeen": 1795883148.9790497
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795886647.2537105
   },
   "sbs": {
    "slug": "sbs",
@@ -74,30 +74,44 @@
   "black tv": {
    "slug": "black-tv",
    "firstSeen": 1795878000.0,
-   "peakRank": 4,
-   "peakTraffic": 200,
-   "lastSeen": 1795883148.9790497
+   "peakRank": 2,
+   "peakTraffic": 500,
+   "lastSeen": 1795886647.2537105
   },
   "바이에른 뮌헨": {
    "slug": "바이에른-뮌헨",
    "firstSeen": 1795878000.0,
-   "peakRank": 5,
-   "peakTraffic": 200,
-   "lastSeen": 1795883148.9790497
+   "peakRank": 1,
+   "peakTraffic": 500,
+   "lastSeen": 1795886647.2537105
   },
   "쾰른 대 엘버스베르크": {
    "slug": "쾰른-대-엘버스베르크",
    "firstSeen": 1795883148.9790497,
    "peakRank": 6,
    "peakTraffic": 200,
-   "lastSeen": 1795883148.9790497
+   "lastSeen": 1795886647.2537105
   },
   "맨유 경기": {
    "slug": "맨유-경기",
    "firstSeen": 1795879200.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795886647.2537105
+  },
+  "비정규직": {
+   "slug": "비정규직",
+   "firstSeen": 1795880400.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795886647.2537105
+  },
+  "hamburg vs bayern": {
+   "slug": "hamburg-vs-bayern",
+   "firstSeen": 1795879800.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795883148.9790497
+   "lastSeen": 1795886647.2537105
   }
  }
 }

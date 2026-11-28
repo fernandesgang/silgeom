@@ -1,56 +1,56 @@
 {
- "generatedAt": 1795883149,
+ "generatedAt": 1795886647,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "맨유",
-   "slug": "맨유",
-   "traffic": 2000,
+   "keyword": "바이에른 뮌헨",
+   "slug": "바이에른-뮌헨",
+   "traffic": 500,
    "startedAt": 1795878000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 4,
    "news": [
     {
-     "title": "맨유 1-4 대파했던 이탈리아 코모, 겨울에 지르크지 영입에 관심…“나폴리도 영입 추진”",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021769",
-     "source": "SPOTV NEWS"
+     "title": "'키미히, 상대 머리채 콱' 충격 퇴장 바이에른, 함부르크 원정서 0-0 무승부...김민재 풀탕임에도 선두 탈환 실패 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/29/202611290124774747O",
+     "source": "머니투데이"
     },
     {
-     "title": "맨유도 이제는 포기하나! 어느덧 29세…'주급 6억' 래시포드 \"매각 가능성 열어둬\"",
-     "url": "https://yourfield.nexon.com/today/view/2025052909553738459?type=all",
-     "source": "Your Field"
+     "title": "Nhận định trận đấu Hamburger vs Bayern Munich, 21h30 ngày 28.11: Lết qua bão chấn thương",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-hamburger-vs-bayern-munich-21h30-ngay-28-11-let-qua-bao-chan-thuong",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "'드디어 선발 기회 잡았는데' 맨체스터 유나이티드 640억 공격수 끝내 방출 고려!…\"대체자 구하면 떠날 가능성 있다\"",
-     "url": "https://www.mydaily.co.kr/page/view/2026112817124678631",
-     "source": "마이데일리"
+     "title": "[공식발표] '韓 국가대표' 김민재의 어깨가 무거워졌다!…주축 선수들 줄줄이 이탈한 뮌헨, 함부르크전 선발 명단 공개",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101462",
+     "source": "포포투"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "리즈 유나이티드 대 코번트리",
-   "slug": "리즈-유나이티드-대-코번트리",
-   "traffic": 2000,
-   "startedAt": 1795875000.0,
-   "change": "new",
-   "diff": 0,
+   "keyword": "black tv",
+   "slug": "black-tv",
+   "traffic": 500,
+   "startedAt": 1795878000.0,
+   "change": "up",
+   "diff": 2,
    "news": [
     {
-     "title": "Pochettino faces injury concerns ahead of Manchester United home debut",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/28/5WCMDMNS5JAVHBCUH5XCCKTU7A/",
-     "source": "Chosunbiz"
+     "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
+     "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-tv-deals-2026-11-27",
+     "source": "CNN"
     },
     {
-     "title": "Premier League: Brentford two up at Man Utd, Leeds lead Coventry",
-     "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet",
-     "source": "BBC"
+     "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+     "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+     "source": "The Verge"
     },
     {
-     "title": "Why Bryan Mbeumo and Matheus Cunha have been dropped for Man Utd vs Brentford",
-     "url": "https://metro.co.uk/2026/11/28/bryan-mbeumo-matheus-cunha-dropped-man-utd-vs-brentford-29826250/",
-     "source": "Metro.co.uk"
+     "title": "Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500",
+     "url": "https://www.cleveland.com/shopping/2026/11/walmart-shoppers-are-rushing-to-get-massive-85-inch-qled-tv-under-500-for-black-friday.html",
+     "source": "Cleveland.com"
     }
    ]
   },
@@ -60,77 +60,45 @@
    "slug": "웨스트-햄-대-스토크-시티",
    "traffic": 500,
    "startedAt": 1795875600.0,
-   "change": "up",
-   "diff": 3,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "West Ham: Why Scott Parker is struggling to halt the slide after inheriting a host of problems",
-     "url": "https://www.skysports.com/football/news/13616425/why-scott-parker-has-been-unable-to-halt-west-ham-s-slide-in-the-early-weeks-of-his-tenure-after-inheriting-significant-problems",
-     "source": "Sky Sports"
-    },
-    {
-     "title": "West Ham fan's view: Hammers must undo mistakes to be successful",
-     "url": "https://www.bbc.com/sport/football/articles/c6zxvy970eq5o",
+     "title": "Championship: Build-up to 11 games starting with Blackburn v Charlton, Lincoln v Wolves & Preston v Norwich",
+     "url": "https://www.bbc.com/sport/football/live/cmwydqw5vl0gt",
      "source": "BBC"
     },
     {
-     "title": "West Ham are in danger of becoming the next Leicester",
-     "url": "https://sports.yahoo.com/articles/west-ham-danger-becoming-next-070000362.html",
+     "title": "Championship: Build-up to 11 games starting with Blackburn v Charlton, Lincoln v Wolves & Preston v Norwich",
+     "url": "https://www.bbc.co.uk/sport/football/live/cmwydqw5vl0gt",
+     "source": "BBC"
+    },
+    {
+     "title": "'Serious' Jarrod Bowen injury update in West Ham vs Stoke: 'Massive blow'",
+     "url": "https://sports.yahoo.com/articles/serious-jarrod-bowen-injury-west-154500554.html",
      "source": "Yahoo Sports"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "black tv",
-   "slug": "black-tv",
-   "traffic": 200,
-   "startedAt": 1795878000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
-     "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-tv-deals-2026-11-27",
-     "source": "CNN"
-    },
-    {
-     "title": "Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500",
-     "url": "https://www.cleveland.com/shopping/2026/11/walmart-shoppers-are-rushing-to-get-massive-85-inch-qled-tv-under-500-for-black-friday.html",
-     "source": "Cleveland.com"
-    },
-    {
-     "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
-     "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
-     "source": "The Verge"
-    }
-   ]
+   "keyword": "파이낸셜뉴스",
+   "slug": "파이낸셜뉴스",
+   "traffic": 500,
+   "startedAt": 1795875600.0,
+   "change": "up",
+   "diff": 3,
+   "news": []
   },
   {
    "rank": 5,
-   "keyword": "바이에른 뮌헨",
-   "slug": "바이에른-뮌헨",
+   "keyword": "맨유 경기",
+   "slug": "맨유-경기",
    "traffic": 200,
-   "startedAt": 1795878000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "바르셀로나가 흔들리는 가운데, 바이에른 뮌헨이 니콜로 트레솔디 영입 경쟁에서 앞서나가고 있다.",
-     "url": "https://www.vietnam.vn/ko/barcelona-hut-hoi-bayern-munich-dan-dau-vu-nicolo-tresoldi",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "'1위 BVB와 승점 2점 차' 자존심 상한 바이에른, 함부르크전 김민재 선발 출전...황희찬·이재성은 벤치 대기 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611282207774710O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "Nhận định trận đấu Hamburger vs Bayern Munich, 21h30 ngày 28.11: Lết qua bão chấn thương",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-hamburger-vs-bayern-munich-21h30-ngay-28-11-let-qua-bao-chan-thuong",
-     "source": "Vietnam.vn"
-    }
-   ]
+   "startedAt": 1795879200.0,
+   "change": "up",
+   "diff": 3,
+   "news": []
   },
   {
    "rank": 6,
@@ -138,45 +106,77 @@
    "slug": "쾰른-대-엘버스베르크",
    "traffic": 200,
    "startedAt": 1795876800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "🤯 El Moorla picks up steam! Köln overrun Elversberg from the off",
-     "url": "https://sports.yahoo.com/soccer/articles/el-moorla-gathers-pace-k-150100343.html",
-     "source": "Yahoo Sports"
+     "title": "Marius Bülter hat-trick caps five-star Cologne performance against Elversberg",
+     "url": "https://www.bundesliga.com/en/bundesliga/news/cologne-elversberg-match-report-highlights-matchday-11-marius-bulter-40187",
+     "source": "Bundesliga | official website"
     },
     {
-     "title": "FC Koln vs Elversberg Confirmed Lineups",
-     "url": "https://www.whoscored.com/news/3-f1gCLGUEqBzQAnxCBsrA/show/cng112-20261128-fc-koln-vs-elversberg-confirmed-lineup-1795873448",
-     "source": "WhoScored.com"
+     "title": "Koln vs Elversberg predictions and betting tips: Koln will edge a lively one",
+     "url": "https://www.squawka.com/en/news/previews/koln-vs-elversberg-predictions-betting-tips-28-11-26/",
+     "source": "Squawka"
     },
     {
-     "title": "Köln vs Elversberg: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/crwy47jywz75t",
-     "source": "BBC"
+     "title": "🤯 El Moorla gathers pace! Köln steamroll Elversberg from the off",
+     "url": "https://onefootball.com/en/news/el-moorla-gathers-pace-koeln-steamroll-elversberg-from-the-off-43857990",
+     "source": "OneFootball"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "파이낸셜뉴스",
-   "slug": "파이낸셜뉴스",
-   "traffic": 200,
-   "startedAt": 1795875600.0,
-   "change": "same",
+   "keyword": "비정규직",
+   "slug": "비정규직",
+   "traffic": 100,
+   "startedAt": 1795880400.0,
+   "change": "new",
    "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "또 급식 대신 빵‥10년째 파업에 학교 3곳 중 1곳 점심 멈췄다",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6869197_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"급식 멈췄다\" 학교비정규직 하루 총파업...교육부, 비상 대응",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611272217501967_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "밥 대신 빵과 우유…일부 학교 급식·돌봄 차질",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724772",
+     "source": "KBS 뉴스"
+    }
+   ]
   },
   {
    "rank": 8,
-   "keyword": "맨유 경기",
-   "slug": "맨유-경기",
+   "keyword": "hamburg vs bayern",
+   "slug": "hamburg-vs-bayern",
    "traffic": 100,
-   "startedAt": 1795879200.0,
+   "startedAt": 1795879800.0,
    "change": "new",
    "diff": 0,
-   "news": []
+   "news": [
+    {
+     "title": "Kim Min-jae starts as Bayern seek Bundesliga top spot; Lee and Hwang benched",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/28/W5OIVHUFUBAT7MKPZ33MNWJ5CI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "Kim Min-jae Starts as Bayern Munich Chases Top Spot",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/28/WXFK5GUSE5FS7DB7UKYDLJTPDE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "Hamburger SV vs Bayern Munich Confirmed Lineups",
+     "url": "https://www.whoscored.com/news/TQvTtT-Pb02n58SktDztKA/show/cng112-20261128-hamburger-sv-vs-bayern-munich-confirmed-lineup-1795873787",
+     "source": "WhoScored.com"
+    }
+   ]
   }
  ]
 }

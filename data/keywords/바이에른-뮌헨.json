@@ -2,17 +2,32 @@
  "keyword": "바이에른 뮌헨",
  "slug": "바이에른-뮌헨",
  "firstSeen": 1795878000.0,
- "lastSeen": 1795883148.9790497,
- "peakRank": 5,
- "peakTraffic": 200,
+ "lastSeen": 1795886647.2537105,
+ "peakRank": 1,
+ "peakTraffic": 500,
  "history": [
   [
    1795883149,
    5,
    200
+  ],
+  [
+   1795886647,
+   1,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "'키미히, 상대 머리채 콱' 충격 퇴장 바이에른, 함부르크 원정서 0-0 무승부...김민재 풀탕임에도 선두 탈환 실패 - 머니투데이",
+   "url": "https://www.mt.co.kr/sports/2026/11/29/202611290124774747O",
+   "source": "머니투데이"
+  },
+  {
+   "title": "[공식발표] '韓 국가대표' 김민재의 어깨가 무거워졌다!…주축 선수들 줄줄이 이탈한 뮌헨, 함부르크전 선발 명단 공개",
+   "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101462",
+   "source": "포포투"
+  },
   {
    "title": "바르셀로나가 흔들리는 가운데, 바이에른 뮌헨이 니콜로 트레솔디 영입 경쟁에서 앞서나가고 있다.",
    "url": "https://www.vietnam.vn/ko/barcelona-hut-hoi-bayern-munich-dan-dau-vu-nicolo-tresoldi",
@@ -33,6 +48,8 @@
   "2026-11-29"
  ],
  "related": [
+  "비정규직",
+  "hamburg-vs-bayern",
   "맨유",
   "리즈-유나이티드-대-코번트리",
   "웨스트-햄-대-스토크-시티",
