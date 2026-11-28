@@ -2,9 +2,9 @@
  "keyword": "플레이스테이션",
  "slug": "플레이스테이션",
  "firstSeen": 1795888200.0,
- "lastSeen": 1795896596.9958766,
+ "lastSeen": 1795899591.219387,
  "peakRank": 3,
- "peakTraffic": 200,
+ "peakTraffic": 1000,
  "history": [
   [
    1795893524,
@@ -15,6 +15,11 @@
    1795896597,
    3,
    200
+  ],
+  [
+   1795899591,
+   3,
+   1000
   ]
  ],
  "news": [
@@ -38,6 +43,9 @@
   "2026-11-29"
  ],
  "related": [
+  "레알-마드리드-대-알라베스",
+  "무인-항공기",
+  "기상",
   "elche-vs-atlético",
   "manchester-united",
   "hamburg-vs-bayern",

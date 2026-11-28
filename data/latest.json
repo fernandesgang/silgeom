@@ -1,5 +1,5 @@
 {
- "generatedAt": 1795896597,
+ "generatedAt": 1795899591,
  "geo": "KR",
  "items": [
   {
@@ -22,35 +22,35 @@
      "source": "조선일보"
     },
     {
-     "title": "'이강인 선발 출격' 아틀레티코, 레알 마드리드 제치고 2위 오를 기회...'16위' 엘체 잡고 바르셀로나와 승점 2점 차 만들까",
-     "url": "https://www.koreadaily.com/article/20261128093238003",
-     "source": "미주중앙일보"
+     "title": "\"바르셀로나전? 승리하도록 준비하겠다\" 리그 3호골→엘체전 3-2 승리 폭발...이강인, 자신감 불 붙었다",
+     "url": "https://www.osen.co.kr/article/G1112916468",
+     "source": "OSEN"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "입스위치 대 애스턴 빌라",
-   "slug": "입스위치-대-애스턴-빌라",
-   "traffic": 1000,
-   "startedAt": 1795884600.0,
-   "change": "same",
+   "keyword": "레알 마드리드 대 알라베스",
+   "slug": "레알-마드리드-대-알라베스",
+   "traffic": 2000,
+   "startedAt": 1795893600.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Match Summary",
-     "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet",
+     "title": "Real Madrid vs Alavés: Spanish La Liga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cwdd12qdyrpmt",
      "source": "BBC"
     },
     {
-     "title": "Ipswich 2-2 Aston Villa (Nov 28, 2026) Game Analysis",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401878752",
-     "source": "ESPN"
+     "title": "Real Madrid vs. Deportivo Alaves Predictions: Los Blancos Out to Extend Superb Winning Run",
+     "url": "https://www.si.com/soccer/real-madrid-vs-deportivo-alaves-predictions-11-28-26",
+     "source": "Sports Illustrated"
     },
     {
-     "title": "Premier League predictions & Jones Knows' best bets: Arsenal vs Manchester City and more!",
-     "url": "https://www.skysports.com/football/news/13616076/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
-     "source": "Sky Sports"
+     "title": "Real Madrid vs Alavés 2026 live stream: Time, TV channels and how to watch La Liga online",
+     "url": "https://www.managingmadrid.com/115939/real-madrid-alaves-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online",
+     "source": "Managing Madrid"
     }
    ]
   },
@@ -58,10 +58,10 @@
    "rank": 3,
    "keyword": "플레이스테이션",
    "slug": "플레이스테이션",
-   "traffic": 200,
+   "traffic": 1000,
    "startedAt": 1795888200.0,
-   "change": "up",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "“진짜같은 가상세계”… 출시 첫날 매출 5조원, 직장선 ‘GTA 휴가’",
@@ -82,63 +82,79 @@
   },
   {
    "rank": 4,
-   "keyword": "맨유 경기",
-   "slug": "맨유-경기",
-   "traffic": 200,
-   "startedAt": 1795879200.0,
-   "change": "up",
+   "keyword": "입스위치 대 애스턴 빌라",
+   "slug": "입스위치-대-애스턴-빌라",
+   "traffic": 1000,
+   "startedAt": 1795884600.0,
+   "change": "down",
    "diff": 2,
-   "news": []
+   "news": [
+    {
+     "title": "Ipswich 2-2 Aston Villa (Nov 28, 2026) Game Analysis",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401878752",
+     "source": "ESPN"
+    },
+    {
+     "title": "Ipswich 2-2 Aston Villa: Leif Davis grabs equaliser as Town show powers of recovery",
+     "url": "https://www.skysports.com/football/news/13613218/ipswich-2-2-aston-villa-leif-davis-grabs-equaliser-as-town-show-powers-of-recovery",
+     "source": "Sky Sports"
+    },
+    {
+     "title": "Ipswich 2-2 Aston Villa: What Gary O'Neil said",
+     "url": "https://www.bbc.com/sport/football/articles/c962plnr375xo",
+     "source": "BBC"
+    }
+   ]
   },
   {
    "rank": 5,
-   "keyword": "elche vs atlético",
-   "slug": "elche-vs-atlético",
-   "traffic": 100,
-   "startedAt": 1795891200.0,
+   "keyword": "무인 항공기",
+   "slug": "무인-항공기",
+   "traffic": 500,
+   "startedAt": 1795894800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Lee Kang-in scores as Atlético Madrid leads Elche 3-1 at halftime",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/29/YB4THIZZGZCOFMKOMLM66JMGOQ/",
-     "source": "Chosunbiz"
+     "title": "이란이 공중전 능력을 강화하기 위해 새로운 무인항공기(UAV) 3종을 공개했습니다.",
+     "url": "https://www.vietnam.vn/ko/iran-ra-mat-3-mau-uav-moi-mo-rong-nang-luc-tac-chien-tren-khong",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "Atletico can move into second and close gap on Barcelona with win over Elche",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/29/SMOSHQY72NCSFIZVBFF6FEVWVY/",
-     "source": "Chosunbiz"
+     "title": "함께 나는 드론에서 함께 일하는 드론으로… “드론처럼 민첩해야 세계시장 이끌죠”",
+     "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12501000000&section_id=NCCD_POLICY_TOTAL&news_id=1d90b889-3436-4c95-bb20-dd03e4d36f75&pWise=main&pWiseMain=I1",
+     "source": "K-공감"
     },
     {
-     "title": "Atletico Madrid player ratings vs Elche: Julian Alvarez and Alejandro Grimaldo inspire narrow victory",
-     "url": "https://www.goal.com/en-us/news/atletico-madrid-player-ratings-vs-elche-julian-alvarez-alejandro-grimaldo/bltabfe95c5603d01bb",
-     "source": "Goal.com"
+     "title": "\"100㎞ 밖도 훤히 본다\"…대한항공이 개발한 국내 첫 전략급 중고도 무인기 'MUAV' [K방산 오디세이]",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886622",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "맨체스터 유나이티드 fc",
-   "slug": "맨체스터-유나이티드-fc",
-   "traffic": 100,
-   "startedAt": 1795884600.0,
-   "change": "up",
-   "diff": 2,
+   "keyword": "기상",
+   "slug": "기상",
+   "traffic": 200,
+   "startedAt": 1795895400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "'드디어 선발 기회 잡았는데' 맨체스터 유나이티드 640억 공격수 끝내 방출 고려!…\"대체자 구하면 떠날 가능성 있다\"",
-     "url": "https://www.mydaily.co.kr/page/view/2026112817124678631",
-     "source": "마이데일리"
+     "title": "사천 강풍주의보…경남 추운 날씨 이어져",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725239",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "\"시메오네가 원한다\", 맨유 떠나 이강인과 뛸 가능성 제기...포체티노도 신뢰 안 해→계약 만료 앞두고 이적 유력",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699128",
-     "source": "인터풋볼"
+     "title": "부산·울산·경남 가끔 구름 많고 내륙 비·눈…낮 기온 9∼14도",
+     "url": "https://www.yna.co.kr/view/AKR20261128007600052",
+     "source": "연합뉴스"
     },
     {
-     "title": "맨유 1-4 대파했던 이탈리아 코모, 겨울에 지르크지 영입에 관심…“나폴리도 영입 추진”",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021769",
-     "source": "SPOTV NEWS"
+     "title": "울산 주말 대체로 맑음…토요일 한때 비",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886900",
+     "source": "뉴시스"
     }
    ]
   },
@@ -148,8 +164,8 @@
    "slug": "프리미어리그-경기",
    "traffic": 100,
    "startedAt": 1795884600.0,
-   "change": "up",
-   "diff": 2,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "세메뇨, 복귀 임박",
@@ -170,79 +186,27 @@
   },
   {
    "rank": 8,
-   "keyword": "manchester united",
-   "slug": "manchester-united",
+   "keyword": "맨체스터 유나이티드 fc",
+   "slug": "맨체스터-유나이티드-fc",
    "traffic": 100,
-   "startedAt": 1795882800.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795884600.0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
-     "title": "Man Utd being relegated would be the biggest shock in history, but it won't happen, says Paul Merson",
-     "url": "https://www.skysports.com/football/news/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson",
-     "source": "Sky Sports"
+     "title": "'드디어 선발 기회 잡았는데' 맨체스터 유나이티드 640억 공격수 끝내 방출 고려!…\"대체자 구하면 떠날 가능성 있다\"",
+     "url": "https://www.mydaily.co.kr/page/view/2026112817124678631",
+     "source": "마이데일리"
     },
     {
-     "title": "The dangerous gamble Man United face in bid to escape a brutal reality",
-     "url": "https://www.independent.co.uk/sport/football/man-united-mauricio-pochettino-transfers-january-window-b3089843.html",
-     "source": "The Independent"
+     "title": "\"시메오네가 원한다\", 맨유 떠나 이강인과 뛸 가능성 제기...포체티노도 신뢰 안 해→계약 만료 앞두고 이적 유력",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699128",
+     "source": "인터풋볼"
     },
     {
-     "title": "Merson Rules Out Manchester United Relegation",
-     "url": "https://cwibc.co.id/en/merson-rules-out-united-relegation",
-     "source": "cwibc.co.id"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "비정규직",
-   "slug": "비정규직",
-   "traffic": 100,
-   "startedAt": 1795880400.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "또 급식 대신 빵‥10년째 파업에 학교 3곳 중 1곳 점심 멈췄다",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6869197_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"급식 멈췄다\" 학교비정규직 하루 총파업...교육부, 비상 대응",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611272217501967_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "밥 대신 빵과 우유…일부 학교 급식·돌봄 차질",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724772",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "hamburg vs bayern",
-   "slug": "hamburg-vs-bayern",
-   "traffic": 100,
-   "startedAt": 1795879800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Bayern draw with Hamburg and miss chance to reclaim Bundesliga lead",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/29/TMKWT2M3FJGP5O2RYMHULTPRDQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Licensable picture: Hamburger SV V FC Bayern Munich: Matchday 11 - Bundesliga",
-     "url": "https://www.reutersconnect.com/item/hamburger-sv-v-fc-bayern-munich-matchday-11-bundesliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBDWTdOWDI",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "\"It doesn't look good\" – Kompany delivers worrying update on Laimer injury",
-     "url": "https://bulinews.com/laimerinjuryupdate",
-     "source": "Bulinews"
+     "title": "맨유 1-4 대파했던 이탈리아 코모, 겨울에 지르크지 영입에 관심…“나폴리도 영입 추진”",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021769",
+     "source": "SPOTV NEWS"
     }
    ]
   }

@@ -2,7 +2,7 @@
  "keyword": "입스위치 대 애스턴 빌라",
  "slug": "입스위치-대-애스턴-빌라",
  "firstSeen": 1795884600.0,
- "lastSeen": 1795896596.9958766,
+ "lastSeen": 1795899591.219387,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -15,9 +15,24 @@
    1795893524,
    2,
    1000
+  ],
+  [
+   1795899591,
+   4,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Ipswich 2-2 Aston Villa: Leif Davis grabs equaliser as Town show powers of recovery",
+   "url": "https://www.skysports.com/football/news/13613218/ipswich-2-2-aston-villa-leif-davis-grabs-equaliser-as-town-show-powers-of-recovery",
+   "source": "Sky Sports"
+  },
+  {
+   "title": "Ipswich 2-2 Aston Villa: What Gary O'Neil said",
+   "url": "https://www.bbc.com/sport/football/articles/c962plnr375xo",
+   "source": "BBC"
+  },
   {
    "title": "Match Summary",
    "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet",
@@ -53,6 +68,9 @@
   "2026-11-29"
  ],
  "related": [
+  "레알-마드리드-대-알라베스",
+  "무인-항공기",
+  "기상",
   "elche-vs-atlético",
   "manchester-united",
   "플레이스테이션",

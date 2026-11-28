@@ -1,0 +1,44 @@
+{
+ "keyword": "무인 항공기",
+ "slug": "무인-항공기",
+ "firstSeen": 1795894800.0,
+ "lastSeen": 1795899591.219387,
+ "peakRank": 5,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795899591,
+   5,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "이란이 공중전 능력을 강화하기 위해 새로운 무인항공기(UAV) 3종을 공개했습니다.",
+   "url": "https://www.vietnam.vn/ko/iran-ra-mat-3-mau-uav-moi-mo-rong-nang-luc-tac-chien-tren-khong",
+   "source": "Vietnam.vn"
+  },
+  {
+   "title": "함께 나는 드론에서 함께 일하는 드론으로… “드론처럼 민첩해야 세계시장 이끌죠”",
+   "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12501000000&section_id=NCCD_POLICY_TOTAL&news_id=1d90b889-3436-4c95-bb20-dd03e4d36f75&pWise=main&pWiseMain=I1",
+   "source": "K-공감"
+  },
+  {
+   "title": "\"100㎞ 밖도 훤히 본다\"…대한항공이 개발한 국내 첫 전략급 중고도 무인기 'MUAV' [K방산 오디세이]",
+   "url": "https://www.newsis.com/view/NISX20261127_0003886622",
+   "source": "뉴시스"
+  }
+ ],
+ "days": [
+  "2026-11-29"
+ ],
+ "related": [
+  "엘체-대-아틀레티코",
+  "레알-마드리드-대-알라베스",
+  "플레이스테이션",
+  "입스위치-대-애스턴-빌라",
+  "기상",
+  "프리미어리그-경기",
+  "맨체스터-유나이티드-fc"
+ ]
+}
