@@ -1,0 +1,46 @@
+{
+ "keyword": "플레이스테이션",
+ "slug": "플레이스테이션",
+ "firstSeen": 1795888200.0,
+ "lastSeen": 1795893524.29645,
+ "peakRank": 5,
+ "peakTraffic": 200,
+ "history": [
+  [
+   1795893524,
+   5,
+   200
+  ]
+ ],
+ "news": [
+  {
+   "title": "“진짜같은 가상세계”… 출시 첫날 매출 5조원, 직장선 ‘GTA 휴가’",
+   "url": "https://www.donga.com/news/Economy/article/all/20261127/135105301/2",
+   "source": "동아일보"
+  },
+  {
+   "title": "[게임위드인] 'GTA 6'가 몰입의 경험을 만들어낸 비법은",
+   "url": "https://www.yna.co.kr/view/AKR20261127158200017",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "[보안으로 본 게임] GTA 6, 범죄 활극에서 포착된 물리보안 요소는?",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147587",
+   "source": "보안뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-29"
+ ],
+ "related": [
+  "엘체-대-아틀레티코",
+  "입스위치-대-애스턴-빌라",
+  "black-tv",
+  "쾰른-대-엘버스베르크",
+  "맨유-경기",
+  "바이에른-뮌헨",
+  "맨체스터-유나이티드-fc",
+  "프리미어리그-경기",
+  "비정규직"
+ ]
+}

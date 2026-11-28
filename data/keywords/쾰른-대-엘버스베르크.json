@@ -2,17 +2,37 @@
  "keyword": "쾰른 대 엘버스베르크",
  "slug": "쾰른-대-엘버스베르크",
  "firstSeen": 1795876800.0,
- "lastSeen": 1795889974.1747499,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795893524.29645,
+ "peakRank": 4,
+ "peakTraffic": 500,
  "history": [
   [
    1795883149,
    6,
    200
+  ],
+  [
+   1795893524,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "Licensable picture: VfB Stuttgart vs. Eintracht Frankfurt",
+   "url": "https://www.reutersconnect.com/item/vfb-stuttgart-vs-eintracht-frankfurt/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMjhYOTlYNDE5NTI5",
+   "source": "Reuters Connect"
+  },
+  {
+   "title": "German President Steinmeier arrives in Kenya for talks with Ruto",
+   "url": "https://nation.africa/kenya/news/german-president-steinmeier-arrives-in-kenya-for-talks-with-ruto-5683630",
+   "source": "Daily Nation"
+  },
+  {
+   "title": "Kenyans working in Germany increase by 2,500 in two years, Ruto says",
+   "url": "https://www.standardmedia.co.ke/article/2001563010/kenyans-working-in-germany-increase-by-2-500-in-two-years-ruto-says",
+   "source": "The Standard"
+  },
   {
    "title": "Marius Bülter hat-trick caps five-star Cologne performance against Elversberg",
    "url": "https://www.bundesliga.com/en/bundesliga/news/cologne-elversberg-match-report-highlights-matchday-11-marius-bulter-40187",
@@ -48,6 +68,7 @@
   "2026-11-29"
  ],
  "related": [
+  "플레이스테이션",
   "엘체-대-아틀레티코",
   "입스위치-대-애스턴-빌라",
   "맨체스터-유나이티드-fc",

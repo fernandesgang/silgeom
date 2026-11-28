@@ -2,17 +2,27 @@
  "keyword": "입스위치 대 애스턴 빌라",
  "slug": "입스위치-대-애스턴-빌라",
  "firstSeen": 1795884600.0,
- "lastSeen": 1795889974.1747499,
+ "lastSeen": 1795893524.29645,
  "peakRank": 2,
- "peakTraffic": 500,
+ "peakTraffic": 1000,
  "history": [
   [
    1795889974,
    2,
    500
+  ],
+  [
+   1795893524,
+   2,
+   1000
   ]
  ],
  "news": [
+  {
+   "title": "Match Summary",
+   "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet?page=4",
+   "source": "BBC"
+  },
   {
    "title": "Ipswich Town v Aston Villa: Premier League – live",
    "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
@@ -33,6 +43,7 @@
   "2026-11-29"
  ],
  "related": [
+  "플레이스테이션",
   "엘체-대-아틀레티코",
   "black-tv",
   "맨유-경기",

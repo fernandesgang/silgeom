@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795889974,
+ "generatedAt": 1795893524,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
    "keyword": "엘체 대 아틀레티코",
    "slug": "엘체-대-아틀레티코",
-   "traffic": 5000,
+   "traffic": 10000,
    "startedAt": 1795884000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
+     "title": "'이강인 리그 3호골 대폭발' ATM, 엘체 상대 전반전 3-1 리드 마무리...그리말도 알바레스도 '골맛' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/29/202611290316774902O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'이강인 리그 3호골 대폭발' ATM, 엘체 상대 전반전 3-1 리드 마무리...그리말도+알바레스도 '골맛'",
+     "url": "https://biz.chosun.com/sports/football/2026/11/29/MYZGKNDFMI3TAOJXHBRTCZBTHA/",
+     "source": "Chosunbiz"
+    },
+    {
      "title": "'이강인 선발 출격' 아틀레티코, 레알 마드리드 제치고 2위 오를 기회...'16위' 엘체 잡고 바르셀로나와 승점 2점 차 만들까",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/29/GIYDGNZRGY3TOMLBGA4DGNJTGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'이강인 왼발 폭발!' ATM, 7분 만에 엘체 상대 2-0 리드...이강인 리그 3호골",
-     "url": "https://www.osen.co.kr/article/G1112916457",
-     "source": "OSEN"
-    },
-    {
-     "title": "이러니 시메오네 감독이 애지중지할 수밖에…이강인, 실력뿐 아니라 인성까지 극찬받았다 “라커룸에서 가장 사랑받고 존중받는 선수 중 한 명”",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699261",
-     "source": "인터풋볼"
+     "url": "https://www.koreadaily.com/article/20261128093238003",
+     "source": "미주중앙일보"
     }
    ]
   },
@@ -32,9 +32,9 @@
    "rank": 2,
    "keyword": "입스위치 대 애스턴 빌라",
    "slug": "입스위치-대-애스턴-빌라",
-   "traffic": 500,
+   "traffic": 1000,
    "startedAt": 1795884600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -43,14 +43,14 @@
      "source": "The Guardian"
     },
     {
+     "title": "Match Summary",
+     "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet?page=4",
+     "source": "BBC"
+    },
+    {
      "title": "Premier League predictions & Jones Knows' best bets: Arsenal vs Manchester City and more!",
      "url": "https://www.skysports.com/football/news/13616076/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
      "source": "Sky Sports"
-    },
-    {
-     "title": "Ipswich Town vs Aston Villa: Premier League preview, team news, stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cmy49k14lne9t",
-     "source": "BBC"
     }
    ]
   },
@@ -60,8 +60,8 @@
    "slug": "black-tv",
    "traffic": 500,
    "startedAt": 1795878000.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
@@ -82,22 +82,74 @@
   },
   {
    "rank": 4,
+   "keyword": "쾰른 대 엘버스베르크",
+   "slug": "쾰른-대-엘버스베르크",
+   "traffic": 500,
+   "startedAt": 1795876800.0,
+   "change": "up",
+   "diff": 2,
+   "news": [
+    {
+     "title": "Licensable picture: VfB Stuttgart vs. Eintracht Frankfurt",
+     "url": "https://www.reutersconnect.com/item/vfb-stuttgart-vs-eintracht-frankfurt/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMjhYOTlYNDE5NTI5",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "German President Steinmeier arrives in Kenya for talks with Ruto",
+     "url": "https://nation.africa/kenya/news/german-president-steinmeier-arrives-in-kenya-for-talks-with-ruto-5683630",
+     "source": "Daily Nation"
+    },
+    {
+     "title": "Kenyans working in Germany increase by 2,500 in two years, Ruto says",
+     "url": "https://www.standardmedia.co.ke/article/2001563010/kenyans-working-in-germany-increase-by-2-500-in-two-years-ruto-says",
+     "source": "The Standard"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "플레이스테이션",
+   "slug": "플레이스테이션",
+   "traffic": 200,
+   "startedAt": 1795888200.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "“진짜같은 가상세계”… 출시 첫날 매출 5조원, 직장선 ‘GTA 휴가’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261127/135105301/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "[게임위드인] 'GTA 6'가 몰입의 경험을 만들어낸 비법은",
+     "url": "https://www.yna.co.kr/view/AKR20261127158200017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[보안으로 본 게임] GTA 6, 범죄 활극에서 포착된 물리보안 요소는?",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147587",
+     "source": "보안뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 6,
    "keyword": "맨유 경기",
    "slug": "맨유-경기",
    "traffic": 200,
    "startedAt": 1795879200.0,
-   "change": "up",
-   "diff": 1,
+   "change": "down",
+   "diff": 2,
    "news": []
   },
   {
-   "rank": 5,
+   "rank": 7,
    "keyword": "바이에른 뮌헨",
    "slug": "바이에른-뮌헨",
    "traffic": 200,
    "startedAt": 1795878000.0,
    "change": "down",
-   "diff": 4,
+   "diff": 2,
    "news": [
     {
      "title": "'키미히, 상대 머리채 콱' 충격 퇴장 바이에른, 함부르크 원정서 0-0 무승부...김민재 풀탕임에도 선두 탈환 실패 - 머니투데이",
@@ -117,39 +169,13 @@
    ]
   },
   {
-   "rank": 6,
-   "keyword": "쾰른 대 엘버스베르크",
-   "slug": "쾰른-대-엘버스베르크",
-   "traffic": 200,
-   "startedAt": 1795876800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Köln vs Elversberg: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/crwy47jywz75t",
-     "source": "BBC"
-    },
-    {
-     "title": "Koln vs Elversberg predictions and betting tips: Koln will edge a lively one",
-     "url": "https://www.squawka.com/en/news/previews/koln-vs-elversberg-predictions-betting-tips-28-11-26/",
-     "source": "Squawka"
-    },
-    {
-     "title": "🤯 El Moorla gathers pace! Köln steamroll Elversberg from the off",
-     "url": "https://onefootball.com/en/news/el-moorla-gathers-pace-koeln-steamroll-elversberg-from-the-off-43857990",
-     "source": "OneFootball"
-    }
-   ]
-  },
-  {
-   "rank": 7,
+   "rank": 8,
    "keyword": "맨체스터 유나이티드 fc",
    "slug": "맨체스터-유나이티드-fc",
    "traffic": 100,
    "startedAt": 1795884600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "‘독점·1급 공신력’ 맨유 결국 발동했다! ‘캡틴’ 브루노 페르난데스 끝없는 이적설 속 ‘1년 계약 연장 옵션’...",
@@ -169,13 +195,13 @@
    ]
   },
   {
-   "rank": 8,
+   "rank": 9,
    "keyword": "프리미어리그 경기",
    "slug": "프리미어리그-경기",
    "traffic": 100,
    "startedAt": 1795884600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
      "title": "세메뇨, 복귀 임박",
@@ -195,13 +221,13 @@
    ]
   },
   {
-   "rank": 9,
+   "rank": 10,
    "keyword": "비정규직",
    "slug": "비정규직",
    "traffic": 100,
    "startedAt": 1795880400.0,
    "change": "down",
-   "diff": 2,
+   "diff": 1,
    "news": [
     {
      "title": "또 급식 대신 빵‥10년째 파업에 학교 3곳 중 1곳 점심 멈췄다",
@@ -217,32 +243,6 @@
      "title": "밥 대신 빵과 우유…일부 학교 급식·돌봄 차질",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8724772",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "hamburg vs bayern",
-   "slug": "hamburg-vs-bayern",
-   "traffic": 100,
-   "startedAt": 1795879800.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "Kim Min-jae starts as Bayern seek Bundesliga top spot; Lee and Hwang benched",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/28/W5OIVHUFUBAT7MKPZ33MNWJ5CI/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Bayern Draws 0-0 With Hamburg, Kimmich Red-Carded",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/29/JUKD5NGWWRBTLO7IQQWTY4ITZU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Hamburger SV vs Bayern Munich Confirmed Lineups",
-     "url": "https://www.whoscored.com/news/TQvTtT-Pb02n58SktDztKA/show/cng112-20261128-hamburger-sv-vs-bayern-munich-confirmed-lineup-1795873787",
-     "source": "WhoScored.com"
     }
    ]
   }

@@ -76,35 +76,35 @@
    "firstSeen": 1795878000.0,
    "peakRank": 2,
    "peakTraffic": 500,
-   "lastSeen": 1795889974.1747499
+   "lastSeen": 1795893524.29645
   },
   "바이에른 뮌헨": {
    "slug": "바이에른-뮌헨",
    "firstSeen": 1795878000.0,
    "peakRank": 1,
    "peakTraffic": 500,
-   "lastSeen": 1795889974.1747499
+   "lastSeen": 1795893524.29645
   },
   "쾰른 대 엘버스베르크": {
    "slug": "쾰른-대-엘버스베르크",
    "firstSeen": 1795883148.9790497,
-   "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795889974.1747499
+   "peakRank": 4,
+   "peakTraffic": 500,
+   "lastSeen": 1795893524.29645
   },
   "맨유 경기": {
    "slug": "맨유-경기",
    "firstSeen": 1795879200.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795889974.1747499
+   "lastSeen": 1795893524.29645
   },
   "비정규직": {
    "slug": "비정규직",
    "firstSeen": 1795880400.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795889974.1747499
+   "lastSeen": 1795893524.29645
   },
   "hamburg vs bayern": {
    "slug": "hamburg-vs-bayern",
@@ -117,29 +117,36 @@
    "slug": "엘체-대-아틀레티코",
    "firstSeen": 1795884000.0,
    "peakRank": 1,
-   "peakTraffic": 5000,
-   "lastSeen": 1795889974.1747499
+   "peakTraffic": 10000,
+   "lastSeen": 1795893524.29645
   },
   "입스위치 대 애스턴 빌라": {
    "slug": "입스위치-대-애스턴-빌라",
    "firstSeen": 1795884600.0,
    "peakRank": 2,
-   "peakTraffic": 500,
-   "lastSeen": 1795889974.1747499
+   "peakTraffic": 1000,
+   "lastSeen": 1795893524.29645
   },
   "맨체스터 유나이티드 fc": {
    "slug": "맨체스터-유나이티드-fc",
    "firstSeen": 1795884600.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795889974.1747499
+   "lastSeen": 1795893524.29645
   },
   "프리미어리그 경기": {
    "slug": "프리미어리그-경기",
    "firstSeen": 1795884600.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795889974.1747499
+   "lastSeen": 1795893524.29645
+  },
+  "플레이스테이션": {
+   "slug": "플레이스테이션",
+   "firstSeen": 1795888200.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795893524.29645
   }
  }
 }

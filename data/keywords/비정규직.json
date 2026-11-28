@@ -2,7 +2,7 @@
  "keyword": "비정규직",
  "slug": "비정규직",
  "firstSeen": 1795178400.0,
- "lastSeen": 1795889974.1747499,
+ "lastSeen": 1795893524.29645,
  "peakRank": 7,
  "peakTraffic": 100,
  "history": [
@@ -19,6 +19,11 @@
   [
    1795889974,
    9,
+   100
+  ],
+  [
+   1795893524,
+   10,
    100
   ]
  ],
@@ -44,6 +49,7 @@
   "2026-11-29"
  ],
  "related": [
+  "플레이스테이션",
   "엘체-대-아틀레티코",
   "입스위치-대-애스턴-빌라",
   "맨체스터-유나이티드-fc",
@@ -62,7 +68,6 @@
   "농구",
   "kumar-kushagra",
   "india-a-cricket-team-vs-nepal-national-cricket-team-match-sc",
-  "김대두",
-  "대구-fc"
+  "김대두"
  ]
 }
