@@ -39,16 +39,16 @@
   "웨스트 햄 대 스토크 시티": {
    "slug": "웨스트-햄-대-스토크-시티",
    "firstSeen": 1795879421.9189003,
-   "peakRank": 6,
-   "peakTraffic": 200,
-   "lastSeen": 1795879421.9189003
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795883148.9790497
   },
   "파이낸셜뉴스": {
    "slug": "파이낸셜뉴스",
    "firstSeen": 1795879421.9189003,
    "peakRank": 7,
-   "peakTraffic": 100,
-   "lastSeen": 1795879421.9189003
+   "peakTraffic": 200,
+   "lastSeen": 1795883148.9790497
   },
   "sbs": {
    "slug": "sbs",
@@ -56,6 +56,48 @@
    "peakRank": 8,
    "peakTraffic": 100,
    "lastSeen": 1795879421.9189003
+  },
+  "맨유": {
+   "slug": "맨유",
+   "firstSeen": 1795878000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795883148.9790497
+  },
+  "리즈 유나이티드 대 코번트리": {
+   "slug": "리즈-유나이티드-대-코번트리",
+   "firstSeen": 1795883148.9790497,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795883148.9790497
+  },
+  "black tv": {
+   "slug": "black-tv",
+   "firstSeen": 1795878000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795883148.9790497
+  },
+  "바이에른 뮌헨": {
+   "slug": "바이에른-뮌헨",
+   "firstSeen": 1795878000.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795883148.9790497
+  },
+  "쾰른 대 엘버스베르크": {
+   "slug": "쾰른-대-엘버스베르크",
+   "firstSeen": 1795883148.9790497,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795883148.9790497
+  },
+  "맨유 경기": {
+   "slug": "맨유-경기",
+   "firstSeen": 1795879200.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795883148.9790497
   }
  }
 }

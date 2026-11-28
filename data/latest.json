@@ -1,64 +1,38 @@
 {
- "generatedAt": 1795879422,
+ "generatedAt": 1795883149,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "맨유 대 브렌트퍼드",
-   "slug": "맨유-대-브렌트퍼드",
-   "traffic": 10000,
-   "startedAt": 1795874400.0,
+   "keyword": "맨유",
+   "slug": "맨유",
+   "traffic": 2000,
+   "startedAt": 1795878000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[공식발표] 포체티노, 하늘이 밉다...'19위 추락' 맨유 홈 데뷔전 앞두고 4명 이탈→브루노도 훈련 불참 \"브렌트포드전 불투명\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281007778010O",
-     "source": "머니투데이"
+     "title": "맨유 1-4 대파했던 이탈리아 코모, 겨울에 지르크지 영입에 관심…“나폴리도 영입 추진”",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021769",
+     "source": "SPOTV NEWS"
     },
     {
-     "title": "‘대위기’ 설마 천하의 맨유가 꼴찌 추락?→‘29일 운명의 브렌트퍼드전’",
-     "url": "https://sports.donga.com/sports/article/all/20261127/135100828/1",
-     "source": "스포츠동아"
+     "title": "맨유도 이제는 포기하나! 어느덧 29세…'주급 6억' 래시포드 \"매각 가능성 열어둬\"",
+     "url": "https://yourfield.nexon.com/today/view/2025052909553738459?type=all",
+     "source": "Your Field"
     },
     {
-     "title": "프리미어리그: ‘11경기 1승’ 맨유, 안방서 브렌트퍼드 상대 시즌 2승도전",
-     "url": "https://sbotopkr.tistory.com/2711",
-     "source": "티스토리"
+     "title": "'드디어 선발 기회 잡았는데' 맨체스터 유나이티드 640억 공격수 끝내 방출 고려!…\"대체자 구하면 떠날 가능성 있다\"",
+     "url": "https://www.mydaily.co.kr/page/view/2026112817124678631",
+     "source": "마이데일리"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "증여",
-   "slug": "증여",
+   "keyword": "리즈 유나이티드 대 코번트리",
+   "slug": "리즈-유나이티드-대-코번트리",
    "traffic": 2000,
-   "startedAt": 1795870800.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "“집 줬더니 연락 끊겨”…증여한 집 다시 돌려받을 수 있나 [상속리포트]",
-     "url": "https://www.donga.com/news/Economy/article/all/20261127/135103376/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "어머니 사망 후 예금 인출, 장례비로 썼어도 유죄",
-     "url": "https://www.lawtalk.co.kr/case-lenses/103833",
-     "source": "로톡"
-    },
-    {
-     "title": "상속재산 20억 놓고 형제끼리 원수 됐다면? 누가 얼마나 가져갈까? [오경석 변호사의 법률노트]",
-     "url": "http://knpp.co.kr/news/603361",
-     "source": "한국공공정책신문"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "man utd vs brentford",
-   "slug": "man-utd-vs-brentford",
-   "traffic": 1000,
    "startedAt": 1795875000.0,
    "change": "new",
    "diff": 0,
@@ -69,8 +43,8 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "Premier League LIVE news conferences & team news - Maresca, Iraola, Arteta, De Zerbi and more",
-     "url": "https://www.bbc.com/sport/football/live/cq9vwdym2wk2t",
+     "title": "Premier League: Brentford two up at Man Utd, Leeds lead Coventry",
+     "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet",
      "source": "BBC"
     },
     {
@@ -81,80 +55,106 @@
    ]
   },
   {
+   "rank": 3,
+   "keyword": "웨스트 햄 대 스토크 시티",
+   "slug": "웨스트-햄-대-스토크-시티",
+   "traffic": 500,
+   "startedAt": 1795875600.0,
+   "change": "up",
+   "diff": 3,
+   "news": [
+    {
+     "title": "West Ham: Why Scott Parker is struggling to halt the slide after inheriting a host of problems",
+     "url": "https://www.skysports.com/football/news/13616425/why-scott-parker-has-been-unable-to-halt-west-ham-s-slide-in-the-early-weeks-of-his-tenure-after-inheriting-significant-problems",
+     "source": "Sky Sports"
+    },
+    {
+     "title": "West Ham fan's view: Hammers must undo mistakes to be successful",
+     "url": "https://www.bbc.com/sport/football/articles/c6zxvy970eq5o",
+     "source": "BBC"
+    },
+    {
+     "title": "West Ham are in danger of becoming the next Leicester",
+     "url": "https://sports.yahoo.com/articles/west-ham-danger-becoming-next-070000362.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
    "rank": 4,
-   "keyword": "마인츠 05 대 우니온 베를린",
-   "slug": "마인츠-05-대-우니온-베를린",
-   "traffic": 1000,
-   "startedAt": 1795873200.0,
+   "keyword": "black tv",
+   "slug": "black-tv",
+   "traffic": 200,
+   "startedAt": 1795878000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "Mainz 05 vs Union Berlin: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cjn50y357vgkt",
-     "source": "BBC"
+     "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
+     "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-tv-deals-2026-11-27",
+     "source": "CNN"
     },
     {
-     "title": "Mainz-Union Berlin: Mainz arrive with four defeats in five",
-     "url": "https://www.tufutbolero.com/en/news/mainz-union-berlin-mainz-arrive-with-four-defeats-in-five-fcccf1",
-     "source": "Tu Futbolero"
+     "title": "Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500",
+     "url": "https://www.cleveland.com/shopping/2026/11/walmart-shoppers-are-rushing-to-get-massive-85-inch-qled-tv-under-500-for-black-friday.html",
+     "source": "Cleveland.com"
     },
     {
-     "title": "\"Earning your own luck on the pitch\"",
-     "url": "https://www.mainz05.de/en/news-en/earning-your-own-luck-on-the-pitch",
-     "source": "1. FSV Mainz 05"
+     "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+     "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+     "source": "The Verge"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "굿파트너2",
-   "slug": "굿파트너2",
-   "traffic": 500,
-   "startedAt": 1795870800.0,
-   "change": "same",
+   "keyword": "바이에른 뮌헨",
+   "slug": "바이에른-뮌헨",
+   "traffic": 200,
+   "startedAt": 1795878000.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "‘굿파트너2’ 차은경·박태수, 법정서 격돌…재산 노린 결혼에 분노 폭발",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848745",
-     "source": "제민일보"
+     "title": "바르셀로나가 흔들리는 가운데, 바이에른 뮌헨이 니콜로 트레솔디 영입 경쟁에서 앞서나가고 있다.",
+     "url": "https://www.vietnam.vn/ko/barcelona-hut-hoi-bayern-munich-dan-dau-vu-nicolo-tresoldi",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "굿파트너2 : [고통 엔딩] 장나라, 지승현 때문에 눈물 흘리는 유나 목격",
-     "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484456781",
-     "source": "programs.sbs.co.kr"
+     "title": "'1위 BVB와 승점 2점 차' 자존심 상한 바이에른, 함부르크전 김민재 선발 출전...황희찬·이재성은 벤치 대기 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611282207774710O",
+     "source": "머니투데이"
     },
     {
-     "title": "\"이혼은 정답 없는 길\"…'굿파트너2' 김혜윤, 장나라의 노하우 배웠다",
-     "url": "https://www.etnews.com/20261128000010",
-     "source": "전자신문"
+     "title": "Nhận định trận đấu Hamburger vs Bayern Munich, 21h30 ngày 28.11: Lết qua bão chấn thương",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-hamburger-vs-bayern-munich-21h30-ngay-28-11-let-qua-bao-chan-thuong",
+     "source": "Vietnam.vn"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "웨스트 햄 대 스토크 시티",
-   "slug": "웨스트-햄-대-스토크-시티",
+   "keyword": "쾰른 대 엘버스베르크",
+   "slug": "쾰른-대-엘버스베르크",
    "traffic": 200,
-   "startedAt": 1795875600.0,
+   "startedAt": 1795876800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "LIVESTREAMS·FREE!TVs] Wrexham vs Portsmouth Live Free Soccer football updates In 28 November 2026",
-     "url": "https://www.tallahatchienews.ms/node/480598",
-     "source": "tallahatchienews.ms"
+     "title": "🤯 El Moorla picks up steam! Köln overrun Elversberg from the off",
+     "url": "https://sports.yahoo.com/soccer/articles/el-moorla-gathers-pace-k-150100343.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "West Ham United v Stoke City: Championship stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cj20qn30ke1nt",
+     "title": "FC Koln vs Elversberg Confirmed Lineups",
+     "url": "https://www.whoscored.com/news/3-f1gCLGUEqBzQAnxCBsrA/show/cng112-20261128-fc-koln-vs-elversberg-confirmed-lineup-1795873448",
+     "source": "WhoScored.com"
+    },
+    {
+     "title": "Köln vs Elversberg: German Bundesliga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/crwy47jywz75t",
      "source": "BBC"
-    },
-    {
-     "title": "Starting XI | Seven changes for Hammers to face Potters",
-     "url": "https://www.whufc.com/en/news/starting-xi-or-seven-changes-for-hammers-to-face-potters",
-     "source": "West Ham United"
     }
    ]
   },
@@ -162,37 +162,21 @@
    "rank": 7,
    "keyword": "파이낸셜뉴스",
    "slug": "파이낸셜뉴스",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795875600.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": []
   },
   {
    "rank": 8,
-   "keyword": "sbs",
-   "slug": "sbs",
+   "keyword": "맨유 경기",
+   "slug": "맨유-경기",
    "traffic": 100,
-   "startedAt": 1795870200.0,
-   "change": "same",
+   "startedAt": 1795879200.0,
+   "change": "new",
    "diff": 0,
-   "news": [
-    {
-     "title": "Sushijaro Teams Flood Tsushima Over Drug Costs",
-     "url": "https://www.chosun.com/english/national-en/2026/11/28/5UY2FOMOW5G43AETA2UD7ARPZ4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Long Lines at 'Mecca of Mounjaro': Koreans Flock to Tsushima for Weight Loss Drug",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008868089",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "After the Korean government allowed the introduction of the diabetes and obesity treatment \"Munzaro\"..",
-     "url": "https://www.mk.co.kr/en/world/12220709",
-     "source": "매일경제"
-    }
-   ]
+   "news": []
   }
  ]
 }

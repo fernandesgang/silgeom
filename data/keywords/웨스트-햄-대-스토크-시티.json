@@ -2,17 +2,37 @@
  "keyword": "웨스트 햄 대 스토크 시티",
  "slug": "웨스트-햄-대-스토크-시티",
  "firstSeen": 1795875600.0,
- "lastSeen": 1795879421.9189003,
- "peakRank": 6,
- "peakTraffic": 200,
+ "lastSeen": 1795883148.9790497,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795879422,
    6,
    200
+  ],
+  [
+   1795883149,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "West Ham: Why Scott Parker is struggling to halt the slide after inheriting a host of problems",
+   "url": "https://www.skysports.com/football/news/13616425/why-scott-parker-has-been-unable-to-halt-west-ham-s-slide-in-the-early-weeks-of-his-tenure-after-inheriting-significant-problems",
+   "source": "Sky Sports"
+  },
+  {
+   "title": "West Ham fan's view: Hammers must undo mistakes to be successful",
+   "url": "https://www.bbc.com/sport/football/articles/c6zxvy970eq5o",
+   "source": "BBC"
+  },
+  {
+   "title": "West Ham are in danger of becoming the next Leicester",
+   "url": "https://sports.yahoo.com/articles/west-ham-danger-becoming-next-070000362.html",
+   "source": "Yahoo Sports"
+  },
   {
    "title": "LIVESTREAMS·FREE!TVs] Wrexham vs Portsmouth Live Free Soccer football updates In 28 November 2026",
    "url": "https://www.tallahatchienews.ms/node/480598",
@@ -33,6 +53,12 @@
   "2026-11-29"
  ],
  "related": [
+  "맨유",
+  "리즈-유나이티드-대-코번트리",
+  "black-tv",
+  "바이에른-뮌헨",
+  "쾰른-대-엘버스베르크",
+  "맨유-경기",
   "맨유-대-브렌트퍼드",
   "증여",
   "man-utd-vs-brentford",
