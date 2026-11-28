@@ -1,0 +1,46 @@
+{
+ "keyword": "매매",
+ "slug": "매매",
+ "firstSeen": 1795847400.0,
+ "lastSeen": 1795853122.8943014,
+ "peakRank": 1,
+ "peakTraffic": 5000,
+ "history": [
+  [
+   1795853123,
+   1,
+   5000
+  ]
+ ],
+ "news": [
+  {
+   "title": "서울 아파트 언제쯤 하락 전환할까?",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "아파트 매매 계약 칼같이 딱 14.9억 맞췄는데…“주담대는 왜 4억만?”",
+   "url": "https://www.mk.co.kr/news/realestate/12220683",
+   "source": "매일경제"
+  },
+  {
+   "title": "금리 인상까지…서울 집값 ’최장기간 상승’ 꺾일까",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128085124rMN",
+   "source": "연합뉴스TV"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "이자",
+  "최형우",
+  "전현무",
+  "사고",
+  "목동",
+  "한남동",
+  "신민아",
+  "남승민",
+  "루친스키"
+ ]
+}

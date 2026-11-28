@@ -1,67 +1,145 @@
 {
- "generatedAt": 1795848658,
+ "generatedAt": 1795853123,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "김도영",
-   "slug": "김도영",
-   "traffic": 2000,
-   "startedAt": 1795842600.0,
+   "keyword": "매매",
+   "slug": "매매",
+   "traffic": 5000,
+   "startedAt": 1795847400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "KIA서 빅리거 배출하나 했더니, 'MVP' 김도영 왜 이런 충격 선언을 \"해외 진출? 아예 생각조차 안 한다\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/28/GIYTMZDGME2TOYJUG4ZDEYTFGI/",
-     "source": "조선일보"
+     "title": "서울 아파트 언제쯤 하락 전환할까?",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "2026 베이스볼S : 아픔 딛고 다시 최고의 별, 완벽 부활 알린 'MVP' 김도영 [2026 KBO 시상식]",
-     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000640467",
-     "source": "programs.sbs.co.kr"
+     "title": "아파트 매매 계약 칼같이 딱 14.9억 맞췄는데…“주담대는 왜 4억만?”",
+     "url": "https://www.mk.co.kr/news/realestate/12220683",
+     "source": "매일경제"
     },
     {
-     "title": "23세 1개월에 두번째 수상… 이승엽보다 빠른 김도영 ‘MVP 시계’",
-     "url": "https://www.donga.com/news/Sports/article/all/20261127/135099422/2",
-     "source": "동아일보"
+     "title": "금리 인상까지…서울 집값 ’최장기간 상승’ 꺾일까",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128085124rMN",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "기사",
-   "slug": "기사",
-   "traffic": 500,
-   "startedAt": 1795842000.0,
+   "keyword": "이자",
+   "slug": "이자",
+   "traffic": 2000,
+   "startedAt": 1795848600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "SDLG 그룹, 상하이에서 글로벌 브랜드 출범 행사 개최",
-     "url": "http://www.surprisenews.kr/news/articleView.html?idxno=733105",
-     "source": "서프라이즈뉴스"
+     "title": "주담대 5% - 마통 7%… 가계 덮친 ‘눈덩이 금리’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
+     "source": "동아일보"
     },
     {
-     "title": "[남원소식]산불발생 원인제공 처벌강화…각별히 주의 등",
-     "url": "https://www.newsis.com/view/NISX20261125_0003883431",
-     "source": "뉴시스"
+     "title": "금리 인상에 서민 부담 가중...은행만 배불렀다 [앵커리포트]",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611272046405915",
+     "source": "YTN"
     },
     {
-     "title": "재선충에 병드는 전북 소나무숲… 감염목 4년 새 8배",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3452122",
-     "source": "천지일보"
+     "title": "5% 안팎 대출금리 더 뛴다…올 3번째 기준금리 인상에 가계·기업 ‘비상’",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1289287.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "목동",
-   "slug": "목동",
-   "traffic": 200,
-   "startedAt": 1795843200.0,
+   "keyword": "최형우",
+   "slug": "최형우",
+   "traffic": 2000,
+   "startedAt": 1795848000.0,
    "change": "new",
    "diff": 0,
+   "news": [
+    {
+     "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866557",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611272348779689O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "삼성 잔류도, 수도권 이적도 아닐 수 있다… 구자욱의 ML 도전 \"12월초 뭔가 결정되지 않을까요\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/27/GA4DCMRZMFSGINDEMY2DQYRYG4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "전현무",
+   "slug": "전현무",
+   "traffic": 1000,
+   "startedAt": 1795848600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "나윤권, 두 돌 아들 육아 얼마나 힘들길래…“테이보다 간절하게 먹어”",
+     "url": "https://sports.donga.com/ent/article/all/20261128/135106768/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "나윤권, 결혼 비하인드 공개 “아내가 좋아서 적극 대시했다” (전현무계획4)",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526286",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "사고",
+   "slug": "사고",
+   "traffic": 500,
+   "startedAt": 1795846800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "전북 김제서 역주행 승용차·음주 승합차 충돌‥1명 사망",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6869245_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "김제 승용차 충돌 60대 운전자 숨져...'역주행' 추정",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611281035167398",
+     "source": "YTN"
+    },
+    {
+     "title": "만취 음주운전 중 역주행 승용차 들이받아 1명 사망…40대 남성 입건",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867824",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "목동",
+   "slug": "목동",
+   "traffic": 500,
+   "startedAt": 1795843200.0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "같은 집인데 1.8억 vs 8.2억…반포 덮친 ‘고무줄 재초환’ [안장원의 부동산노트]",
@@ -81,106 +159,28 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "설인아",
-   "slug": "설인아",
-   "traffic": 200,
-   "startedAt": 1795841400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "연우 “2달만에 10kg 감량…온몸 두드러기, 많이 울어” (무쇠소녀단3)",
-     "url": "https://sports.donga.com/ent/article/all/20261127/135101202/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
-     "url": "https://www.viva100.com/article/20261127500209",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "살 빼려고 하루 밥 ＇두 숟갈＇…여배우의 위험천만한 체중 감량",
-     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270102",
-     "source": "한국경제TV"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "군함",
-   "slug": "군함",
-   "traffic": 200,
-   "startedAt": 1795840800.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "해광호 선원 수색...'풍랑주의보'에 수중 수색 차질",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611281305326555",
-     "source": "YTN"
-    },
-    {
-     "title": "해광호 실종 선원 수색...강풍에 수색 활동 지장",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611281500484851",
-     "source": "YTN"
-    },
-    {
-     "title": "침몰 ‘해광호’ 수중 수색 또 불발…바닷속 위치만 재확인",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724647",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "주유소",
-   "slug": "주유소",
-   "traffic": 200,
-   "startedAt": 1795840800.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725108",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "기름값 28주째↓…서울 휘발유 1,800원대 유지",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128133954rb9",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "인천 주유소 휘발유 평균가 ℓ당 1843.8원… 전주보다 0.4원 ↓",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042396",
-     "source": "기호일보"
-    }
-   ]
-  },
-  {
    "rank": 7,
-   "keyword": "임용고시",
-   "slug": "임용고시",
+   "keyword": "한남동",
+   "slug": "한남동",
    "traffic": 200,
-   "startedAt": 1795840200.0,
+   "startedAt": 1795846800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "충북교육청, 2027학년도 공·사립 중등교사 제1차 임용시험 실시 : 네이버 블로그",
-     "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224494475522&redirect=Dlog",
-     "source": "Naver Blog"
-    },
-    {
-     "title": "서울 중·고등교사 임용시험 6천여 명 응시...감독 강화",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611281207351630_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "전파 탐지로 못 잡는 온디바이스 AI…수능 부정행위 새 변수",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886568",
+     "title": "\"잘 샀다\" 했던 한남동 건물, 새 주인은 '빌보드 1위 가수'",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882856",
      "source": "뉴시스"
+    },
+    {
+     "title": "BTS 진, 한남동 꼬마빌딩 96억 원에 전액 현금 매입",
+     "url": "https://www.christiandaily.co.kr/news/168186",
+     "source": "기독일보"
+    },
+    {
+     "title": "BTS 진, 96억원대 한남동 빌딩 매입…'지니빌딩' 이름 붙여",
+     "url": "https://newsroom.stockplus.com/news/16573477?news_id=16573477",
+     "source": "증권플러스"
     }
    ]
   },
@@ -188,9 +188,9 @@
    "rank": 8,
    "keyword": "신민아",
    "slug": "신민아",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795844400.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -212,53 +212,53 @@
   },
   {
    "rank": 9,
+   "keyword": "남승민",
+   "slug": "남승민",
+   "traffic": 100,
+   "startedAt": 1795848000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "남승민, 암투병 母와 함께한 무대…결국 오열 (금타는 금요일)",
+     "url": "https://sports.donga.com/ent/article/all/20261128/135106792/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "'금타는 금요일' 손빈아, 주병선 '칠갑산' 열창 후 \"토할 것 같았다\"",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765521",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "‘금타는 금요일’ 양지은, 훌쩍 큰 유지우 무대에 눈물 펑펑 “아들과 동갑”",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526291",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "루친스키",
    "slug": "루친스키",
    "traffic": 100,
    "startedAt": 1795844400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
+    {
+     "title": "\"적성 맞으면 저도 이도류를\"…농군패션에 캡틴 마크까지 가내수공업, '엔구행' 중견수? 하고 싶은 거 다 해 [오!쎈 창원] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281456774105O",
+     "source": "머니투데이"
+    },
     {
      "title": "[사진] 임지민, 건강한 모습으로",
      "url": "https://www.chosun.com/sports/sports_photo/2026/11/28/GQ4TIOBTGBRTCMRRGUZGKZTCME/",
      "source": "조선일보"
     },
     {
-     "title": "'와' 1만4000명 운집! NC 15주년 ROY 대전 개봉박두, \"단순 이벤트 매치 이상\"...'53승 에이스' 루친스키 선발-구창모 깜짝 중견수 [오!쎈 창원] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281241776950O",
-     "source": "머니투데이"
-    },
-    {
      "title": "[이슈대담] NC와 함께한 15년…이재학 선수가 돌아본 영광의 순간들",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8722557",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "성시경 쌈디",
-   "slug": "성시경-쌈디",
-   "traffic": 100,
-   "startedAt": 1795840200.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "연예계 음주운전 파문 속.. \"쌈디, 술자리 후 얌전하게 택시 타고 가\" 눈길 ('고막남친')",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/27/MU4DCZJTGY4TANTCMIYDIZDCGI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "쌈디, 술자리 부상 후 성시경에게 손절당한 사연 \"최근 재회\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6369127",
-     "source": "뉴스1"
-    },
-    {
-     "title": "‘18개월 子 아빠’ 신용재 근황 “앨범 준비 전까진 육아 전념” (고막남친)",
-     "url": "https://sports.khan.co.kr/article/202611281207003",
-     "source": "스포츠경향"
     }
    ]
   }

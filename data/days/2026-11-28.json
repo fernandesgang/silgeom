@@ -712,8 +712,8 @@
    "slug": "목동",
    "firstSeen": 1795843200.0,
    "peakRank": 3,
-   "peakTraffic": 200,
-   "lastSeen": 1795848658.42524
+   "peakTraffic": 500,
+   "lastSeen": 1795853122.8943014
   },
   "설인아": {
    "slug": "설인아",
@@ -733,15 +733,64 @@
    "slug": "신민아",
    "firstSeen": 1795844400.0,
    "peakRank": 8,
-   "peakTraffic": 100,
-   "lastSeen": 1795848658.42524
+   "peakTraffic": 200,
+   "lastSeen": 1795853122.8943014
   },
   "루친스키": {
    "slug": "루친스키",
    "firstSeen": 1795844400.0,
    "peakRank": 9,
    "peakTraffic": 100,
-   "lastSeen": 1795848658.42524
+   "lastSeen": 1795853122.8943014
+  },
+  "매매": {
+   "slug": "매매",
+   "firstSeen": 1795847400.0,
+   "peakRank": 1,
+   "peakTraffic": 5000,
+   "lastSeen": 1795853122.8943014
+  },
+  "이자": {
+   "slug": "이자",
+   "firstSeen": 1795848600.0,
+   "peakRank": 2,
+   "peakTraffic": 2000,
+   "lastSeen": 1795853122.8943014
+  },
+  "최형우": {
+   "slug": "최형우",
+   "firstSeen": 1795848000.0,
+   "peakRank": 3,
+   "peakTraffic": 2000,
+   "lastSeen": 1795853122.8943014
+  },
+  "전현무": {
+   "slug": "전현무",
+   "firstSeen": 1795848600.0,
+   "peakRank": 4,
+   "peakTraffic": 1000,
+   "lastSeen": 1795853122.8943014
+  },
+  "사고": {
+   "slug": "사고",
+   "firstSeen": 1795846800.0,
+   "peakRank": 5,
+   "peakTraffic": 500,
+   "lastSeen": 1795853122.8943014
+  },
+  "한남동": {
+   "slug": "한남동",
+   "firstSeen": 1795846800.0,
+   "peakRank": 7,
+   "peakTraffic": 200,
+   "lastSeen": 1795853122.8943014
+  },
+  "남승민": {
+   "slug": "남승민",
+   "firstSeen": 1795848000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795853122.8943014
   }
  }
 }
