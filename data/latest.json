@@ -1,58 +1,42 @@
 {
- "generatedAt": 1795856674,
+ "generatedAt": 1795860240,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "fc 서울 대 대전 하나 시티즌 순위",
-   "slug": "fc-서울-대-대전-하나-시티즌-순위",
-   "traffic": 10000,
-   "startedAt": 1795849800.0,
-   "change": "new",
-   "diff": 0,
+   "keyword": "이자",
+   "slug": "이자",
+   "traffic": 5000,
+   "startedAt": 1795848600.0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
-     "title": "FC서울 '우승 파티'서 대전 4-1 제압…손정범 첫 멀티골",
-     "url": "https://www.yna.co.kr/view/AKR20261128039000007",
-     "source": "연합뉴스"
+     "title": "“눈물 머금고 예금 깼는데 괜히 머금었습니다”…이자 손해 줄이는 방법",
+     "url": "https://www.mk.co.kr/news/economy/12220684",
+     "source": "매일경제"
     },
     {
-     "title": "'K리그1 챔피언' 서울, 대전 4-1 꺾고 완벽한 '우승 대관식'",
-     "url": "https://www.newsis.com/view/NISX20261128_0003887129",
-     "source": "뉴시스"
+     "title": "정기예금 중도해지 대신 분할인출…이자 손실 줄인다 : 재테크",
+     "url": "https://news.jkn.co.kr/post/1130094",
+     "source": "재경일보"
     },
     {
-     "title": "[프로축구] '손정범 멀티골' 서울, 대전에 4-1…안방서 '우승 골잔치'",
-     "url": "https://www.newspim.com/news/view/20261128000061",
-     "source": "뉴스핌"
+     "title": "주담대 5% - 마통 7%… 가계 덮친 ‘눈덩이 금리’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
+     "source": "동아일보"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "이자",
-   "slug": "이자",
-   "traffic": 5000,
-   "startedAt": 1795848600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "‘통화긴축-확장재정 충돌’ 지적에… 靑 “엇박자 아닌 정교한 조합”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261127/135106503/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "내년 성장률 4.1% 깜짝 상향...반도체 호황이 이끌어",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611271601012461",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "3.25%로 오른 기준금리… 경기도 주택시장 여파는?",
-     "url": "https://www.kyeongin.com/article/1775548",
-     "source": "경인일보"
-    }
-   ]
+   "keyword": "fc 서울 대 대전 하나 시티즌 순위",
+   "slug": "fc-서울-대-대전-하나-시티즌-순위",
+   "traffic": 2000,
+   "startedAt": 1795849800.0,
+   "change": "down",
+   "diff": 1,
+   "news": []
   },
   {
    "rank": 3,
@@ -60,86 +44,60 @@
    "slug": "전현무",
    "traffic": 2000,
    "startedAt": 1795848600.0,
-   "change": "up",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
-     "title": "전현무, 양띠 여성과 결혼?…中 역술가 \"당신 인생 구한다\"",
-     "url": "https://www.newsis.com/view/NISX20261128_0003887150",
-     "source": "뉴시스"
+     "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
+     "source": "조선일보"
     },
     {
-     "title": "“내년에 결혼할 운명”…이준, 임수향과 핑크빛 기류 (현무로드)",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12219921",
-     "source": "매일경제"
+     "title": "나윤권, 두 돌 아들 육아 얼마나 힘들길래…“테이보다 간절하게 먹어”",
+     "url": "https://sports.donga.com/ent/article/all/20261128/135106768/1",
+     "source": "스포츠동아"
     },
     {
-     "title": "“양띠 여성이 인생 구한다” 50세 전현무, 동년배나 14살 연하 女와 핑크빛(‘현무로드’)",
-     "url": "https://www.koreadaily.com/article/20261127151637373",
-     "source": "미주중앙일보"
+     "title": "나윤권, 결혼 비하인드 공개 “아내가 좋아서 적극 대시했다” (전현무계획4)",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526286",
+     "source": "iMBC 연예"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "래미안 첼리 투스 아파트",
-   "slug": "래미안-첼리-투스-아파트",
+   "keyword": "부천 대 김천상무",
+   "slug": "부천-대-김천상무",
    "traffic": 2000,
-   "startedAt": 1795846800.0,
+   "startedAt": 1795848000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"100억 찍으면 팔겠다\"던 95년생…SK하닉 팔아 용산 아파트 샀다",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "'카즈 퇴장·바사니 부상' 부천, 한지호 은퇴 경기 아쉬운 패배...홈 최종전서 '강주혁 1골 1도움' 김천에 1-2 덜미[오!쎈 부천] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281627779969O",
+     "source": "머니투데이"
     },
     {
-     "title": "SK하이닉스 고점에 팔아 100억…95년생이 산 용산 아파트는",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886422",
-     "source": "뉴시스"
+     "title": "\"올해까지만 내 역할\" 작별 앞둔 주승진 김천 감독...\"K리그에서 더 많은 경험 쌓고, 연속성 가져가고 싶다\"[현장 인터뷰]",
+     "url": "https://www.chosun.com/sports/football/2026/11/28/GE4DMMRQGZSTGMRWGM2TENLFMY/",
+     "source": "조선일보"
     },
     {
-     "title": "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
-     "url": "https://www.etnews.com/20261127000350",
-     "source": "전자신문"
+     "title": "'굿바이 캡틴' 한지호, 커리어 마지막 홈경기 나선다...부천FC1995, 김천전 선발 명단 공개[오!쎈 부천]",
+     "url": "https://www.koreadaily.com/article/20261127222201904",
+     "source": "미주중앙일보"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "매매",
-   "slug": "매매",
-   "traffic": 1000,
-   "startedAt": 1795847400.0,
-   "change": "down",
-   "diff": 4,
-   "news": [
-    {
-     "title": "아파트 매매 계약 칼같이 딱 14.9억 맞췄는데…“주담대는 왜 4억만?”",
-     "url": "https://www.mk.co.kr/news/realestate/12220683",
-     "source": "매일경제"
-    },
-    {
-     "title": "금리 인상까지…서울 집값 ’최장기간 상승’ 꺾일까",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128085124rMN",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "중개업소 창문마다 '급매'…잠실 '엘리트' 30억선 무너졌다[르포]",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885013",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "최형우",
    "slug": "최형우",
    "traffic": 500,
    "startedAt": 1795848000.0,
-   "change": "down",
-   "diff": 3,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
@@ -159,38 +117,80 @@
    ]
   },
   {
-   "rank": 7,
-   "keyword": "공부 의 종말",
-   "slug": "공부-의-종말",
-   "traffic": 500,
-   "startedAt": 1795846200.0,
+   "rank": 6,
+   "keyword": "開票",
+   "slug": "開票",
+   "traffic": 200,
+   "startedAt": 1795854600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "“대다수에 공부의 종말 올 겁니다”…AI 과학자가 내다본 교육의 미래",
-     "url": "https://www.hani.co.kr/arti/culture/book/1289514.html",
-     "source": "한겨레"
+     "title": "PHOTO ESSAY Polling stations across the country welcome early risers",
+     "url": "https://focustaiwan.tw/politics/202611285001",
+     "source": "Focus Taiwan"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "북항친수공원",
+   "slug": "북항친수공원",
+   "traffic": 200,
+   "startedAt": 1795854600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘부캉이’ 재진입 차단시설 12월1일 철거…“따뜻한 남쪽 바다서 잘 지내니”",
+     "url": "https://www.khan.co.kr/article/202611281006001",
+     "source": "경향신문"
     },
     {
-     "title": "본질에 가까워진다는 것",
-     "url": "https://brunch.co.kr/@linea/154",
-     "source": "브런치"
+     "title": "부산 북항 친수공원 상어 '부캉이' 차단막 내달 1일 철거",
+     "url": "https://www.yna.co.kr/view/AKR20261127075100051",
+     "source": "연합뉴스"
     },
     {
-     "title": "[신간] AI 잘 쓰는 아이가 이깁니다",
-     "url": "http://www.ksw-news.com/news/articleView.html?idxno=3067715",
-     "source": "한국사회복지저널"
+     "title": "’부캉이’ 떠나자 부산 북항 방문객 예전 수준으로 ’뚝’",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127052832PdA",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "박정우",
+   "slug": "박정우",
+   "traffic": 200,
+   "startedAt": 1795854000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "KIA 내부 FA 초대형 변수 등장! 'MVP' 韓슈퍼스타 간절히 외쳤다 \"김태군-김호령 꼭 필요한 선배들, 계약해주세요\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/27/GQYDOMZTMQ4WEMRVHA4GCYLDMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이범호 계약 기간 마지막 해, FA 선물은 있을까… 이범호가 아닌 KIA를 위해 필요하다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022306",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "외야 FA 풍년에도 구자욱에만 쏠린 시선…더 아쉬운 김호령의 '가을 침묵'",
+     "url": "https://www.newsis.com/view/NISX20261126_0003884011",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "남승민",
    "slug": "남승민",
    "traffic": 200,
    "startedAt": 1795848000.0,
-   "change": "up",
+   "change": "down",
    "diff": 1,
    "news": [
     {
@@ -211,54 +211,28 @@
    ]
   },
   {
-   "rank": 9,
-   "keyword": "한남동",
-   "slug": "한남동",
-   "traffic": 200,
-   "startedAt": 1795846800.0,
-   "change": "down",
-   "diff": 2,
+   "rank": 10,
+   "keyword": "국가유공자",
+   "slug": "국가유공자",
+   "traffic": 100,
+   "startedAt": 1795855800.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "\"잘 샀다\" 했던 한남동 건물, 새 주인은 '빌보드 1위 가수'",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882856",
+     "title": "[경북소식]나라사랑 한마음대회, 유공자·가족 위로·감사 등",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886513",
      "source": "뉴시스"
     },
     {
-     "title": "BTS 진, 한남동 꼬마빌딩 96억 원에 전액 현금 매입",
-     "url": "https://www.christiandaily.co.kr/news/168186",
-     "source": "기독일보"
+     "title": "윤종구 울진광복회장 표창패 받아",
+     "url": "http://www.uljinnews.co.kr/news/articleView.html?idxno=76934",
+     "source": "울진신문"
     },
     {
-     "title": "BTS 진, 96억원대 한남동 빌딩 매입…'지니빌딩' 이름 붙여",
-     "url": "https://newsroom.stockplus.com/news/16573477?news_id=16573477",
-     "source": "증권플러스"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "신민아",
-   "slug": "신민아",
-   "traffic": 200,
-   "startedAt": 1795844400.0,
-   "change": "down",
-   "diff": 2,
-   "news": [
-    {
-     "title": "[Y터뷰] '재혼 황후' 신민아 \"주체적인 나비에 매력적…남편 김우빈도 빠져들어\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611271355049956",
-     "source": "YTN"
-    },
-    {
-     "title": "신민아 \"K-로판의 출발점, 왕관의 무게 견뎌야 했죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261127118300005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'신혼' 신민아 \"♥김우빈, 날 '나비에'라고 불러…완전 팬\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112715291653295",
-     "source": "머니투데이"
+     "title": "보훈가족과 함께한 추모의 시간…대전서 희망콘서트 열려",
+     "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922975",
+     "source": "충남일보"
     }
    ]
   }
