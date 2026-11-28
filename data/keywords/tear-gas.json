@@ -1,0 +1,46 @@
+{
+ "keyword": "tear gas",
+ "slug": "tear-gas",
+ "firstSeen": 1795831200.0,
+ "lastSeen": 1795837419.0476818,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795837419,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+   "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
+   "source": "The Guardian"
+  },
+  {
+   "title": "French activists demand a tear gas suspension over reported menstrual changes",
+   "url": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
+   "source": "ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "title": "France Tear Gas What to Know",
+   "url": "https://www.bdtonline.com/sports/college_sports/france-tear-gas-what-to-know/image_ad783734-80e9-58c8-ac90-201817dbb70c.html",
+   "source": "Bluefield Daily Telegraph"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "의사",
+  "샌안토니오-대-la-레이커스",
+  "브론슨-리드",
+  "은평구",
+  "뉴스1",
+  "도로",
+  "실업급여",
+  "국제-원자력-기구",
+  "타릭-스쿠발"
+ ]
+}

@@ -2,17 +2,37 @@
  "keyword": "의사",
  "slug": "의사",
  "firstSeen": 1795827600.0,
- "lastSeen": 1795833712.359203,
+ "lastSeen": 1795837419.0476818,
  "peakRank": 1,
- "peakTraffic": 2000,
+ "peakTraffic": 5000,
  "history": [
   [
    1795833712,
    1,
    2000
+  ],
+  [
+   1795837419,
+   1,
+   5000
   ]
  ],
  "news": [
+  {
+   "title": "뚝딱 만드는 AI 가짜 의사…광고에 쓰면 영업정지",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724780",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "“의사가 추천“…AI ’가짜 전문가’ 광고 철퇴",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128103018byE",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "2028년부터 알레르기 표시 대상에 참깨·아몬드 등 4종 추가",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6869034_36918.html",
+   "source": "MBC 뉴스"
+  },
   {
    "title": "\"받으라, 결과 나쁘면 수사 받으라\"…젊은 의사들의 응급실 공포",
    "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044950",
@@ -33,6 +53,11 @@
   "2026-11-28"
  ],
  "related": [
+  "샌안토니오-대-la-레이커스",
+  "브론슨-리드",
+  "tear-gas",
+  "실업급여",
+  "국제-원자력-기구",
   "콜럼버스-크루-대-인터-마이애미",
   "은평구",
   "뉴스1",
