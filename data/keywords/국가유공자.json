@@ -2,17 +2,37 @@
  "keyword": "국가유공자",
  "slug": "국가유공자",
  "firstSeen": 1795855800.0,
- "lastSeen": 1795860240.4008403,
- "peakRank": 10,
- "peakTraffic": 100,
+ "lastSeen": 1795863699.1849372,
+ "peakRank": 7,
+ "peakTraffic": 200,
  "history": [
   [
    1795860240,
    10,
    100
+  ],
+  [
+   1795863699,
+   7,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "부산보훈청·한전 부울본부, 국가유공자 제146·147호 '보비하우스' 오픈",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765998",
+   "source": "국제뉴스"
+  },
+  {
+   "title": "참전유공자 유족 주택 새 단장…HF `아너하우스` 헌정",
+   "url": "https://www.imaeil.com/page/view/2026112523472006495",
+   "source": "매일신문"
+  },
+  {
+   "title": "국가유공자 주거환경 개선 ‘아너하우스’ 헌정식 경북 김천서 개최",
+   "url": "http://seonamtoday.com/news/view.php?idx=56389",
+   "source": "서남투데이"
+  },
   {
    "title": "[경북소식]나라사랑 한마음대회, 유공자·가족 위로·감사 등",
    "url": "https://www.newsis.com/view/NISX20261127_0003886513",
@@ -33,6 +53,11 @@
   "2026-11-28"
  ],
  "related": [
+  "부천-fc-1995-대-김천상무-순위",
+  "서울역",
+  "울산광역시",
+  "욕망의-덫",
+  "제주공항",
   "이자",
   "fc-서울-대-대전-하나-시티즌-순위",
   "전현무",

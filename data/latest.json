@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795860240,
+ "generatedAt": 1795863699,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "이자",
-   "slug": "이자",
-   "traffic": 5000,
-   "startedAt": 1795848600.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "부천 fc 1995 대 김천상무 순위",
+   "slug": "부천-fc-1995-대-김천상무-순위",
+   "traffic": 2000,
+   "startedAt": 1795859400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "“눈물 머금고 예금 깼는데 괜히 머금었습니다”…이자 손해 줄이는 방법",
-     "url": "https://www.mk.co.kr/news/economy/12220684",
-     "source": "매일경제"
+     "title": "\"반성도 많이 하게 되는 시즌\" 이영민 부천 감독이 돌아본 2026년...\"나부터 발전할 부분 찾아야\"[현장 인터뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281836772253O",
+     "source": "머니투데이"
     },
     {
-     "title": "정기예금 중도해지 대신 분할인출…이자 손실 줄인다 : 재테크",
-     "url": "https://news.jkn.co.kr/post/1130094",
-     "source": "재경일보"
+     "title": "'수술 딛고 시즌 첫 골' 강주혁 향한 주승진 감독의 축하...\"시련 겪고 성숙해졌다, 앞으로 더 잘할 것\"[현장 인터뷰]",
+     "url": "https://www.chosun.com/sports/football/2026/11/28/GIYDKYLGMQ2TSNTFMQZWINRWHA/",
+     "source": "조선일보"
     },
     {
-     "title": "주담대 5% - 마통 7%… 가계 덮친 ‘눈덩이 금리’",
-     "url": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
-     "source": "동아일보"
+     "title": "\"올해까지만 내 역할\" 작별 앞둔 주승진 김천 감독...\"K리그에서 더 많은 경험 쌓고, 연속성 가져가고 싶다\"[현장 인터뷰]",
+     "url": "https://www.koreadaily.com/article/20261127232806219",
+     "source": "미주중앙일보"
     }
    ]
   },
@@ -34,112 +34,44 @@
    "slug": "fc-서울-대-대전-하나-시티즌-순위",
    "traffic": 2000,
    "startedAt": 1795849800.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": []
   },
   {
    "rank": 3,
-   "keyword": "전현무",
-   "slug": "전현무",
-   "traffic": 2000,
-   "startedAt": 1795848600.0,
-   "change": "same",
+   "keyword": "서울역",
+   "slug": "서울역",
+   "traffic": 500,
+   "startedAt": 1795857000.0,
+   "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
-     "source": "조선일보"
+     "title": "[썰물밀물] 경인 철도 지하화와 인천 발전의 새로운 전환점",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337925",
+     "source": "인천일보"
     },
     {
-     "title": "나윤권, 두 돌 아들 육아 얼마나 힘들길래…“테이보다 간절하게 먹어”",
-     "url": "https://sports.donga.com/ent/article/all/20261128/135106768/1",
-     "source": "스포츠동아"
+     "title": "박희정 서울시의원, 시민 숙원사업 철도지하화… 서울시 적극 대응 촉구",
+     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261126500247",
+     "source": "서울Pn"
     },
     {
-     "title": "나윤권, 결혼 비하인드 공개 “아내가 좋아서 적극 대시했다” (전현무계획4)",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526286",
-     "source": "iMBC 연예"
+     "title": "서울역 뒤편 -낡은 동네-의 반전…아파트 1만7천가구에 철길도 지하로 [부동산 심머니]",
+     "url": "https://re.mk.co.kr/news/news_detail.php?no=12218619",
+     "source": "매일경제"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "부천 대 김천상무",
-   "slug": "부천-대-김천상무",
-   "traffic": 2000,
-   "startedAt": 1795848000.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "'카즈 퇴장·바사니 부상' 부천, 한지호 은퇴 경기 아쉬운 패배...홈 최종전서 '강주혁 1골 1도움' 김천에 1-2 덜미[오!쎈 부천] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281627779969O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "\"올해까지만 내 역할\" 작별 앞둔 주승진 김천 감독...\"K리그에서 더 많은 경험 쌓고, 연속성 가져가고 싶다\"[현장 인터뷰]",
-     "url": "https://www.chosun.com/sports/football/2026/11/28/GE4DMMRQGZSTGMRWGM2TENLFMY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'굿바이 캡틴' 한지호, 커리어 마지막 홈경기 나선다...부천FC1995, 김천전 선발 명단 공개[오!쎈 부천]",
-     "url": "https://www.koreadaily.com/article/20261127222201904",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "최형우",
-   "slug": "최형우",
-   "traffic": 500,
-   "startedAt": 1795848000.0,
-   "change": "up",
-   "diff": 1,
-   "news": [
-    {
-     "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866557",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611272348779689O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "삼성 잔류도, 수도권 이적도 아닐 수 있다… 구자욱의 ML 도전 \"12월초 뭔가 결정되지 않을까요\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/27/GA4DCMRZMFSGINDEMY2DQYRYG4/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "開票",
-   "slug": "開票",
-   "traffic": 200,
-   "startedAt": 1795854600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "PHOTO ESSAY Polling stations across the country welcome early risers",
-     "url": "https://focustaiwan.tw/politics/202611285001",
-     "source": "Focus Taiwan"
-    }
-   ]
-  },
-  {
-   "rank": 7,
    "keyword": "북항친수공원",
    "slug": "북항친수공원",
-   "traffic": 200,
+   "traffic": 500,
    "startedAt": 1795854600.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 3,
    "news": [
     {
      "title": "‘부캉이’ 재진입 차단시설 12월1일 철거…“따뜻한 남쪽 바다서 잘 지내니”",
@@ -159,12 +91,85 @@
    ]
   },
   {
+   "rank": 5,
+   "keyword": "울산광역시",
+   "slug": "울산광역시",
+   "traffic": 200,
+   "startedAt": 1795858800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "영광군노인복지관 어르신 동아리, \"방한용품 등 560여 점\" 기탁",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817658",
+     "source": "전라일보"
+    },
+    {
+     "title": "배움에서 나눔으로 이어진 손뜨개 사랑, 종합사회복지관에 따뜻한 온기 전해",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261120010007261",
+     "source": "중도일보"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "욕망의 덫",
+   "slug": "욕망의-덫",
+   "traffic": 200,
+   "startedAt": 1795857600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'욕망의 덫' 전혜원, 희귀 혈액형 Rh-A형으로 출생의 비밀 알았다",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764239",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "‘욕망의 덫’ 전혜원, 고은설 둘러싼 견제 속 관계 변화",
+     "url": "https://www.jejutwn.com/news/article.html?no=464939",
+     "source": "제주교통복지신문"
+    },
+    {
+     "title": "‘욕망의 덫’ 67회, 장서희 돈 봉투 내밀었다…윤해영 도청 장치에 대화 녹음됐다",
+     "url": "https://www.wikitree.co.kr/articles/1178578",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "국가유공자",
+   "slug": "국가유공자",
+   "traffic": 200,
+   "startedAt": 1795855800.0,
+   "change": "up",
+   "diff": 3,
+   "news": [
+    {
+     "title": "부산보훈청·한전 부울본부, 국가유공자 제146·147호 '보비하우스' 오픈",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765998",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "참전유공자 유족 주택 새 단장…HF `아너하우스` 헌정",
+     "url": "https://www.imaeil.com/page/view/2026112523472006495",
+     "source": "매일신문"
+    },
+    {
+     "title": "국가유공자 주거환경 개선 ‘아너하우스’ 헌정식 경북 김천서 개최",
+     "url": "http://seonamtoday.com/news/view.php?idx=56389",
+     "source": "서남투데이"
+    }
+   ]
+  },
+  {
    "rank": 8,
    "keyword": "박정우",
    "slug": "박정우",
    "traffic": 200,
    "startedAt": 1795854000.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -186,53 +191,27 @@
   },
   {
    "rank": 9,
-   "keyword": "남승민",
-   "slug": "남승민",
-   "traffic": 200,
-   "startedAt": 1795848000.0,
-   "change": "down",
-   "diff": 1,
-   "news": [
-    {
-     "title": "남승민, 암투병 母와 함께한 무대…결국 오열 (금타는 금요일)",
-     "url": "https://sports.donga.com/ent/article/all/20261128/135106792/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'금타는 금요일' 손빈아, 주병선 '칠갑산' 열창 후 \"토할 것 같았다\"",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765521",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "‘금타는 금요일’ 양지은, 훌쩍 큰 유지우 무대에 눈물 펑펑 “아들과 동갑”",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526291",
-     "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "국가유공자",
-   "slug": "국가유공자",
+   "keyword": "제주공항",
+   "slug": "제주공항",
    "traffic": 100,
-   "startedAt": 1795855800.0,
+   "startedAt": 1795857000.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "[경북소식]나라사랑 한마음대회, 유공자·가족 위로·감사 등",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886513",
-     "source": "뉴시스"
+     "title": "제주 강풍에 피해 잇따라…하늘길·뱃길도 차질",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8725188",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "윤종구 울진광복회장 표창패 받아",
-     "url": "http://www.uljinnews.co.kr/news/articleView.html?idxno=76934",
-     "source": "울진신문"
+     "title": "\"제주 하늘길 어쩌나\"…강풍에 항공기 104편 결항·지연 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/28/2026112819132732688",
+     "source": "머니투데이"
     },
     {
-     "title": "보훈가족과 함께한 추모의 시간…대전서 희망콘서트 열려",
-     "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922975",
-     "source": "충남일보"
+     "title": "제주시북부에 강풍경보…제주도산지에 대설주의보 유지",
+     "url": "https://www.yna.co.kr/view/AKR20261128045400527",
+     "source": "연합뉴스"
     }
    ]
   }

@@ -2,17 +2,37 @@
  "keyword": "서울역",
  "slug": "서울역",
  "firstSeen": 1795482600.0,
- "lastSeen": 1795488312.4154723,
- "peakRank": 7,
- "peakTraffic": 200,
+ "lastSeen": 1795863699.1849372,
+ "peakRank": 3,
+ "peakTraffic": 500,
  "history": [
   [
    1795488312,
    7,
    200
+  ],
+  [
+   1795863699,
+   3,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "[썰물밀물] 경인 철도 지하화와 인천 발전의 새로운 전환점",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337925",
+   "source": "인천일보"
+  },
+  {
+   "title": "박희정 서울시의원, 시민 숙원사업 철도지하화… 서울시 적극 대응 촉구",
+   "url": "https://go.seoul.co.kr/news/newsView.php?id=20261126500247",
+   "source": "서울Pn"
+  },
+  {
+   "title": "서울역 뒤편 -낡은 동네-의 반전…아파트 1만7천가구에 철길도 지하로 [부동산 심머니]",
+   "url": "https://re.mk.co.kr/news/news_detail.php?no=12218619",
+   "source": "매일경제"
+  },
   {
    "title": "잇단 열차 탈선…4대 중 3대 ‘감지 제동장치’ 없어",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8720226",
@@ -30,9 +50,18 @@
   }
  ],
  "days": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-28"
  ],
  "related": [
+  "부천-fc-1995-대-김천상무-순위",
+  "fc-서울-대-대전-하나-시티즌-순위",
+  "북항친수공원",
+  "울산광역시",
+  "욕망의-덫",
+  "국가유공자",
+  "박정우",
+  "제주공항",
   "김호중",
   "현대자동차",
   "부사관",
