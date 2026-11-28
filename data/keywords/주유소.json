@@ -2,17 +2,27 @@
  "keyword": "주유소",
  "slug": "주유소",
  "firstSeen": 1795840800.0,
- "lastSeen": 1795844784.07212,
- "peakRank": 7,
- "peakTraffic": 100,
+ "lastSeen": 1795848658.42524,
+ "peakRank": 6,
+ "peakTraffic": 200,
  "history": [
   [
    1795844784,
    7,
    100
+  ],
+  [
+   1795848658,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "인천 주유소 휘발유 평균가 ℓ당 1843.8원… 전주보다 0.4원 ↓",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042396",
+   "source": "기호일보"
+  },
   {
    "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725108",
@@ -33,6 +43,13 @@
   "2026-11-28"
  ],
  "related": [
+  "김도영",
+  "기사",
+  "목동",
+  "설인아",
+  "임용고시",
+  "신민아",
+  "루친스키",
   "fc-서울-대-대전",
   "래미안첼리투스아파트",
   "지하철",

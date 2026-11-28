@@ -1,0 +1,46 @@
+{
+ "keyword": "기사",
+ "slug": "기사",
+ "firstSeen": 1795842000.0,
+ "lastSeen": 1795848658.42524,
+ "peakRank": 2,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795848658,
+   2,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "SDLG 그룹, 상하이에서 글로벌 브랜드 출범 행사 개최",
+   "url": "http://www.surprisenews.kr/news/articleView.html?idxno=733105",
+   "source": "서프라이즈뉴스"
+  },
+  {
+   "title": "[남원소식]산불발생 원인제공 처벌강화…각별히 주의 등",
+   "url": "https://www.newsis.com/view/NISX20261125_0003883431",
+   "source": "뉴시스"
+  },
+  {
+   "title": "재선충에 병드는 전북 소나무숲… 감염목 4년 새 8배",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3452122",
+   "source": "천지일보"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "김도영",
+  "목동",
+  "설인아",
+  "군함",
+  "주유소",
+  "임용고시",
+  "신민아",
+  "루친스키",
+  "성시경-쌈디"
+ ]
+}
