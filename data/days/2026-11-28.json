@@ -453,8 +453,8 @@
    "slug": "콜럼버스-크루-대-인터-마이애미",
    "firstSeen": 1795825200.0,
    "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795830846.1516507
+   "peakTraffic": 2000,
+   "lastSeen": 1795833712.359203
   },
   "이해욱": {
    "slug": "이해욱",
@@ -468,14 +468,14 @@
    "firstSeen": 1795826400.0,
    "peakRank": 4,
    "peakTraffic": 200,
-   "lastSeen": 1795830846.1516507
+   "lastSeen": 1795833712.359203
   },
   "nh농협은행": {
    "slug": "nh농협은행",
    "firstSeen": 1795826400.0,
    "peakRank": 5,
    "peakTraffic": 200,
-   "lastSeen": 1795830846.1516507
+   "lastSeen": 1795833712.359203
   },
   "신상출시 편스토랑": {
    "slug": "신상출시-편스토랑",
@@ -496,7 +496,7 @@
    "firstSeen": 1795825800.0,
    "peakRank": 8,
    "peakTraffic": 100,
-   "lastSeen": 1795830846.1516507
+   "lastSeen": 1795833712.359203
   },
   "삼성 엑시노스": {
    "slug": "삼성-엑시노스",
@@ -511,6 +511,48 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795830846.1516507
+  },
+  "의사": {
+   "slug": "의사",
+   "firstSeen": 1795827600.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795833712.359203
+  },
+  "은평구": {
+   "slug": "은평구",
+   "firstSeen": 1795829400.0,
+   "peakRank": 3,
+   "peakTraffic": 200,
+   "lastSeen": 1795833712.359203
+  },
+  "뉴스1": {
+   "slug": "뉴스1",
+   "firstSeen": 1795827600.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795833712.359203
+  },
+  "타릭 스쿠발": {
+   "slug": "타릭-스쿠발",
+   "firstSeen": 1795828800.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795833712.359203
+  },
+  "도로": {
+   "slug": "도로",
+   "firstSeen": 1795827600.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795833712.359203
+  },
+  "한화솔루션": {
+   "slug": "한화솔루션",
+   "firstSeen": 1795827000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795833712.359203
   }
  }
 }

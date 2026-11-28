@@ -2,7 +2,7 @@
  "keyword": "nh농협은행",
  "slug": "nh농협은행",
  "firstSeen": 1795826400.0,
- "lastSeen": 1795830846.1516507,
+ "lastSeen": 1795833712.359203,
  "peakRank": 5,
  "peakTraffic": 200,
  "history": [
@@ -10,9 +10,29 @@
    1795830846,
    5,
    200
+  ],
+  [
+   1795833712,
+   6,
+   200
   ]
  ],
  "news": [
+  {
+   "title": "씨지인사이드, NH농협은행 오픈이노베이션 최우수상 수상…금융상품 광고 Compliance AI 선보여",
+   "url": "https://www.etnews.com/20261127000225",
+   "source": "전자신문"
+  },
+  {
+   "title": "NH농협은행, 비정형데이터 품질 최고 등급…AI 경쟁력 강화",
+   "url": "https://m.ekn.kr/view.php?key=20261127023445945",
+   "source": "에너지경제신문"
+  },
+  {
+   "title": "NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 획득",
+   "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806852",
+   "source": "일간투데이"
+  },
   {
    "title": "농협은행, 개인사업자 대상 연말 이벤트…최대 50만원 지급",
    "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01895846645649984",
@@ -33,6 +53,12 @@
   "2026-11-28"
  ],
  "related": [
+  "의사",
+  "은평구",
+  "뉴스1",
+  "타릭-스쿠발",
+  "도로",
+  "한화솔루션",
   "르윈-디아즈",
   "콜럼버스-크루-대-인터-마이애미",
   "이해욱",

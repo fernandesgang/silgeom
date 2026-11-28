@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795830846,
+ "generatedAt": 1795833712,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "르윈 디아즈",
-   "slug": "르윈-디아즈",
+   "keyword": "의사",
+   "slug": "의사",
    "traffic": 2000,
-   "startedAt": 1795823400.0,
+   "startedAt": 1795827600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"오퍼하는 중\" 삼성 머리 아프다, 돈은 정해져 있는데…61억으로 '페덱·후라도·디아즈' 다 잡을까",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022304",
-     "source": "SPOTV NEWS"
+     "title": "\"받으라, 결과 나쁘면 수사 받으라\"…젊은 의사들의 응급실 공포",
+     "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044950",
+     "source": "청년의사"
     },
     {
-     "title": "`동행하기 힘드네` 우승 전력 보존 나선 삼성 라이온즈, 누굴 잡고 누굴 놔줘야 좋을까",
-     "url": "https://www.imaeil.com/page/view/2026112611572028558",
-     "source": "매일신문"
+     "title": "노혜린 교수 “소아응급실 압수수색 이후 후배들에게 필수의료 못 권하겠다”",
+     "url": "https://www.medigatenews.com/news/3410989566",
+     "source": "MEDI:GATE NEWS"
     },
     {
-     "title": "구자욱 원태인 대구 퍼레이드 불참은 당연...도장 찍을 때까지 침묵 모드 유지해야",
-     "url": "https://www.maniareport.com/view.php?ud=20261127052023582991b55a0d56_19",
-     "source": "마니아타임즈"
+     "title": "응급실 압수수색 후 필수과 지망 의대생 ‘급감’",
+     "url": "https://dailymedi.com/news/news_view.php?wr_id=943034",
+     "source": "데일리메디"
     }
    ]
   },
@@ -32,9 +32,9 @@
    "rank": 2,
    "keyword": "콜럼버스 크루 대 인터 마이애미",
    "slug": "콜럼버스-크루-대-인터-마이애미",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795825200.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -56,142 +56,178 @@
   },
   {
    "rank": 3,
-   "keyword": "이해욱",
-   "slug": "이해욱",
-   "traffic": 1000,
-   "startedAt": 1795824000.0,
+   "keyword": "은평구",
+   "slug": "은평구",
+   "traffic": 200,
+   "startedAt": 1795829400.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "단독 한밤중 직원들 집합시킨 DL그룹 회장...성과 부진 탓하며 '보직 해임'",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611280721404224",
-     "source": "YTN"
+     "title": "불·대·갈 그리고 백련산…뜨거운 은평구 [감평사의 부동산 현장진단]",
+     "url": "https://www.mk.co.kr/news/economy/12220167",
+     "source": "매일경제"
     },
     {
-     "title": "[PPSS 기업인사이트] 실적 부진 책임은 직원 몫인가…DL이앤씨 심야 소집에 갑질 논란",
-     "url": "https://www.ppss.kr/news/articleView.html?idxno=323560",
-     "source": "www.ppss.kr"
+     "title": "은평구, 불광역세권 4092세대 재개발 정비구역 지정 고시",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883134",
+     "source": "뉴시스"
     },
     {
-     "title": "유명 대기업 회장, 한밤중 직원 수백명 집합시키더니... 어젯밤 벌어진 황당한 일",
-     "url": "https://www.wikitree.co.kr/articles/1178542",
-     "source": "위키트리"
+     "title": "불광역세권에 아파트 4092가구 짓는다",
+     "url": "https://www.hankyung.com/article/2026112501551",
+     "source": "한국경제"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "대한민국 u-17 축구 국가대표팀",
-   "slug": "대한민국-u-17-축구-국가대표팀",
+   "keyword": "뉴스1",
+   "slug": "뉴스1",
    "traffic": 200,
-   "startedAt": 1795826400.0,
+   "startedAt": 1795827600.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "U-17 대표팀, 3전 전승…월드컵 32강행",
-     "url": "https://www.yna.co.kr/view/MYH20261126001100038",
+     "title": "4,900선 탈환 코스피, 오를 일만 남았다는데… 이유는?",
+     "url": "https://story.pay.naver.com/content/4087_3_C1",
+     "source": "네이버페이 머니스토리"
+    },
+    {
+     "title": "배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611272305034782_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+     "url": "https://www.yna.co.kr/view/AKR20261127144700011",
      "source": "연합뉴스"
-    },
-    {
-     "title": "'아시아 챔피언' 일본의 굴욕…대한민국→중국 조별리그 통과했는데 日 '승리는 필수→4점 차 이상 대승 필요'",
-     "url": "https://www.chosun.com/sports/football/2026/11/27/MIZGGNJUME3TGOLCGQYWCOBSMY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "동생들은 펄펄 나는데, 형님들은 빌빌대는 이유",
-     "url": "https://sports.khan.co.kr/article/202611270700016",
-     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "nh농협은행",
-   "slug": "nh농협은행",
+   "keyword": "대한민국 u-17 축구 국가대표팀",
+   "slug": "대한민국-u-17-축구-국가대표팀",
    "traffic": 200,
    "startedAt": 1795826400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "농협은행, 개인사업자 대상 연말 이벤트…최대 50만원 지급",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01895846645649984",
-     "source": "마켓인"
+     "title": "3전 전승 한국, 3위 턱걸이 일본과 U-17 월드컵축구 32강 한일전",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8725111",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "NH농협은행, 개인사업자에 연말 지원금…최대 50만원",
-     "url": "https://www.ajunews.com/view/20261127105211015",
-     "source": "아주경제"
+     "title": "[공식발표] 이럴 수가! '사상 최초 3전 전승' 韓 축구, 월드컵 한일전 확정...U-17 WC 32강서 '2연패 후 기사회생' 일본과 격돌 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611280853779680O",
+     "source": "머니투데이"
     },
     {
-     "title": "[은행가] NH농협은행, 개인사업자 '연말 지원금' 행사 진행 外",
-     "url": "https://www.slist.kr/news/articleView.html?idxno=785308",
-     "source": "싱글리스트"
+     "title": "U-17 월드컵 32강서 한일전 성사…12월 1일 밤 10시 격돌",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261128110648bsB",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "신상출시 편스토랑",
-   "slug": "신상출시-편스토랑",
+   "keyword": "nh농협은행",
+   "slug": "nh농협은행",
    "traffic": 200,
-   "startedAt": 1795824000.0,
-   "change": "new",
-   "diff": 0,
+   "startedAt": 1795826400.0,
+   "change": "down",
+   "diff": 1,
    "news": [
     {
-     "title": "야노시호, 50억 도쿄 자택 공개 \"남편 추성훈과 각방살이\"",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885358",
-     "source": "뉴시스"
+     "title": "씨지인사이드, NH농협은행 오픈이노베이션 최우수상 수상…금융상품 광고 Compliance AI 선보여",
+     "url": "https://www.etnews.com/20261127000225",
+     "source": "전자신문"
     },
     {
-     "title": "야노 시호, 침대 옆엔 850만 원 수소 호흡기…베개 밑엔 17만 원짜리 운석 가루 ('편스토랑')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RGIYRXMU3TEMLCGRRWMMZSGY/",
-     "source": "조선일보"
+     "title": "NH농협은행, 비정형데이터 품질 최고 등급…AI 경쟁력 강화",
+     "url": "https://m.ekn.kr/view.php?key=20261127023445945",
+     "source": "에너지경제신문"
     },
     {
-     "title": "야노시호, 도쿄 50억 자택 공개…운석 가루에 수소 호흡기까지",
-     "url": "https://biz.heraldcorp.com/article/10951681",
-     "source": "헤럴드경제"
+     "title": "NH농협은행, 금융권 최초 비정형데이터 품질인증 최고등급 획득",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806852",
+     "source": "일간투데이"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "소방관",
-   "slug": "소방관",
-   "traffic": 200,
-   "startedAt": 1795822800.0,
+   "keyword": "타릭 스쿠발",
+   "slug": "타릭-스쿠발",
+   "traffic": 100,
+   "startedAt": 1795828800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"소방 공무원 하다 다시 도전\"…원주 새내기 공무원이 전한 합격 공부법",
-     "url": "https://www.newsis.com/view/NISX20261128_0003886987",
-     "source": "뉴시스"
+     "title": "“동생아, 우리 참 좋았는데…” 6014억에 떠난 스쿠발, 다저스는 계약 제안조차 안 했다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611280803771727O",
+     "source": "머니투데이"
     },
     {
-     "title": "\"소방관 퇴사 후 두 번째 공무원\"…원주시 새내기, 수험생활 '꿀팁' 폭발",
-     "url": "https://www.news1.kr/society/general-society/6368050",
-     "source": "뉴스1"
+     "title": "[오늘의 MLB] (11/27) 메이저리그에 불어닥친 선발 영입 광풍...남은 FA 중 주목할 선수는?",
+     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261127151641618je",
+     "source": "네이버 프리미엄콘텐츠"
     },
     {
-     "title": "원주시 신규 공무원 일상 영상 공감·응원 쇄도…조회수 30만회",
-     "url": "https://www.yna.co.kr/view/AKR20261126029700062",
-     "source": "연합뉴스"
+     "title": "\"우승하고 싶다\" 그런데 다저스 떠나 메츠행이라니…이런 모순을 봤나, 스쿠발 아버지 발언 논란",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/11/27/GAZWCNJXGA2WCMBRHA2WIMRUHA/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 8,
+   "keyword": "도로",
+   "slug": "도로",
+   "traffic": 100,
+   "startedAt": 1795827600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "도로 결빙 사고 35% 출근 시간대 집중…도심 도로서 59% 발생",
+     "url": "https://www.yna.co.kr/view/AKR20261127042600062",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[특별기고] 보이지 않는 도로 위 위험, 기상정보로 먼저 알린다",
+     "url": "https://edata.ekn.kr/article/view/ekn202611260006",
+     "source": "기후에너지데이터뱅크"
+    },
+    {
+     "title": "진주시, 겨울철 제설 준비 상황 점검…281t 제설 자재 확보",
+     "url": "https://www.newspim.com/news/view/20261127001236",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "한화솔루션",
+   "slug": "한화솔루션",
+   "traffic": 100,
+   "startedAt": 1795827000.0,
+   "change": "new",
+   "diff": 0,
+   "news": []
+  },
+  {
+   "rank": 10,
    "keyword": "경상수지",
    "slug": "경상수지",
    "traffic": 100,
    "startedAt": 1795825800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "(보도설명) 미래대응기금은 반도체 호황 등에 따른 대규모 세수를 미래세대를 위한 투자에 활용하기 위한 것입니다.",
@@ -204,61 +240,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "막판까지 합의 못한 국회...예산부수법안 작년의 3배 넘는 49건 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/27/2026112715580468043",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "삼성 엑시노스",
-   "slug": "삼성-엑시노스",
-   "traffic": 100,
-   "startedAt": 1795824600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "갤럭시S27 울트라·프로 모형 나란히 포착…후면 디자인 보니",
-     "url": "https://zdnet.co.kr/view/?no=20261127084258",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "엑시노스, S27 실리나… 퀄컴 최신 칩과 성능 격차 좁혀",
-     "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61462",
-     "source": "디지털포스트"
-    },
-    {
-     "title": "Galaxy SGalaxy S27 Ultra의 유선 충전은 60W로 인증서에 기재됐다.",
-     "url": "https://mezha.net/ko/news/mezha-6d7f87614cab0e962fe970cf_cb-certificate-lists-60w-wired-charging/",
-     "source": "Mezha.net"
-    }
-   ]
-  },
-  {
-   "rank": 10,
-   "keyword": "화웨이",
-   "slug": "화웨이",
-   "traffic": 100,
-   "startedAt": 1795823400.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/28/B3S6DMM3ABEOZJJKVPHZQBWQJM/",
+     "title": "미래기금 끌어다 곳곳 예산 증액… 與서도 \"정부 흥청망청\" 질타",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/28/XAUFIVHQMNGIHOJ47ECNQQLC2E/",
      "source": "조선일보"
-    },
-    {
-     "title": "화웨이 창업자 \"땡큐 트럼프...덕분에 기술 자립\"",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611271426006354",
-     "source": "YTN"
-    },
-    {
-     "title": "런정페이 화웨이 창업자 \"미국 제재 덕에 자립\"",
-     "url": "https://www.yna.co.kr/view/AKR20261127077100009",
-     "source": "연합뉴스"
     }
    ]
   }
