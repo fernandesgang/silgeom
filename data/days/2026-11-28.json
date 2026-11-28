@@ -27,7 +27,7 @@
    "firstSeen": 1795792342.3407276,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795808125.1064348
+   "lastSeen": 1795876563.7996993
   },
   "박정수": {
    "slug": "박정수",
@@ -930,28 +930,28 @@
    "firstSeen": 1795867200.0,
    "peakRank": 1,
    "peakTraffic": 1000,
-   "lastSeen": 1795874021.110923
+   "lastSeen": 1795876563.7996993
   },
   "알 하즘 대 알나스르": {
    "slug": "알-하즘-대-알나스르",
    "firstSeen": 1795866600.0,
-   "peakRank": 2,
-   "peakTraffic": 1000,
-   "lastSeen": 1795874021.110923
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795876563.7996993
   },
   "링컨 시티 대 울브스": {
    "slug": "링컨-시티-대-울브스",
    "firstSeen": 1795866600.0,
    "peakRank": 3,
    "peakTraffic": 1000,
-   "lastSeen": 1795874021.110923
+   "lastSeen": 1795876563.7996993
   },
   "원자력 잠수함": {
    "slug": "원자력-잠수함",
    "firstSeen": 1795869000.0,
    "peakRank": 4,
    "peakTraffic": 500,
-   "lastSeen": 1795874021.110923
+   "lastSeen": 1795876563.7996993
   },
   "심장": {
    "slug": "심장",
@@ -972,7 +972,28 @@
    "firstSeen": 1795870200.0,
    "peakRank": 7,
    "peakTraffic": 100,
-   "lastSeen": 1795874021.110923
+   "lastSeen": 1795876563.7996993
+  },
+  "증여": {
+   "slug": "증여",
+   "firstSeen": 1795870800.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795876563.7996993
+  },
+  "betis vs rayo": {
+   "slug": "betis-vs-rayo",
+   "firstSeen": 1795872600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795876563.7996993
+  },
+  "뉴이스트": {
+   "slug": "뉴이스트",
+   "firstSeen": 1795867800.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795876563.7996993
   }
  }
 }
