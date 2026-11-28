@@ -2,17 +2,37 @@
  "keyword": "원자력 잠수함",
  "slug": "원자력-잠수함",
  "firstSeen": 1795340400.0,
- "lastSeen": 1795346491.4853325,
+ "lastSeen": 1795874021.110923,
  "peakRank": 4,
- "peakTraffic": 200,
+ "peakTraffic": 500,
  "history": [
   [
    1795346491,
    4,
    200
+  ],
+  [
+   1795874021,
+   4,
+   500
   ]
  ],
  "news": [
+  {
+   "title": "美 \"韓핵잠 검증협상은 IAEA 권한\"…中 '회원국 합의' 주장 반박",
+   "url": "https://www.yna.co.kr/view/AKR20261128048100504",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "미국 \"한국 핵잠 검증협상은 IAEA 권한\"…중국 주장 반박",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261128193725BrX",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "한화오션 ‘굳히기’ vs HD현중 ‘뒤집기’ [맞수맞짱]",
+   "url": "https://www.mk.co.kr/news/business/12220169",
+   "source": "매일경제"
+  },
   {
    "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
    "url": "https://www.mk.co.kr/news/politics/12215581",
@@ -30,9 +50,17 @@
   }
  ],
  "days": [
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-28"
  ],
  "related": [
+  "로또-당첨번호",
+  "알-하즘-대-알나스르",
+  "링컨-시티-대-울브스",
+  "심장",
+  "무기",
+  "sbs",
+  "근로장려금-신청",
   "남진",
   "무신사",
   "수능-부정행위",
