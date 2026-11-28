@@ -371,6 +371,76 @@
    "peakRank": 10,
    "peakTraffic": 100,
    "lastSeen": 1795822023.232512
+  },
+  "띠별 운세": {
+   "slug": "띠별-운세",
+   "firstSeen": 1795821000.0,
+   "peakRank": 1,
+   "peakTraffic": 2000,
+   "lastSeen": 1795825508.5506282
+  },
+  "삼성 라이온즈": {
+   "slug": "삼성-라이온즈",
+   "firstSeen": 1795820400.0,
+   "peakRank": 2,
+   "peakTraffic": 1000,
+   "lastSeen": 1795825508.5506282
+  },
+  "오픈ai": {
+   "slug": "오픈ai",
+   "firstSeen": 1795819800.0,
+   "peakRank": 3,
+   "peakTraffic": 500,
+   "lastSeen": 1795825508.5506282
+  },
+  "공무원 노동조합": {
+   "slug": "공무원-노동조합",
+   "firstSeen": 1795821000.0,
+   "peakRank": 4,
+   "peakTraffic": 200,
+   "lastSeen": 1795825508.5506282
+  },
+  "선우용여": {
+   "slug": "선우용여",
+   "firstSeen": 1795820400.0,
+   "peakRank": 5,
+   "peakTraffic": 200,
+   "lastSeen": 1795825508.5506282
+  },
+  "과징금": {
+   "slug": "과징금",
+   "firstSeen": 1795819800.0,
+   "peakRank": 6,
+   "peakTraffic": 200,
+   "lastSeen": 1795825508.5506282
+  },
+  "부산 날씨": {
+   "slug": "부산-날씨",
+   "firstSeen": 1795821600.0,
+   "peakRank": 7,
+   "peakTraffic": 100,
+   "lastSeen": 1795825508.5506282
+  },
+  "허웅": {
+   "slug": "허웅",
+   "firstSeen": 1795821000.0,
+   "peakRank": 8,
+   "peakTraffic": 100,
+   "lastSeen": 1795825508.5506282
+  },
+  "송파구": {
+   "slug": "송파구",
+   "firstSeen": 1795821000.0,
+   "peakRank": 9,
+   "peakTraffic": 100,
+   "lastSeen": 1795825508.5506282
+  },
+  "가죽 재킷": {
+   "slug": "가죽-재킷",
+   "firstSeen": 1795819800.0,
+   "peakRank": 10,
+   "peakTraffic": 100,
+   "lastSeen": 1795825508.5506282
   }
  }
 }

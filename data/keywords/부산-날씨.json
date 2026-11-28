@@ -1,0 +1,46 @@
+{
+ "keyword": "부산 날씨",
+ "slug": "부산-날씨",
+ "firstSeen": 1795821600.0,
+ "lastSeen": 1795825508.5506282,
+ "peakRank": 7,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795825509,
+   7,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "부산·울산·경남 가끔 구름 많고 내륙 비·눈…낮 기온 9∼14도",
+   "url": "https://www.yna.co.kr/view/AKR20261128007600052",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "부산 울산 경남 가끔 구름 많고 내륙 비·눈…낮 기온 9∼14도",
+   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261128.99099008934",
+   "source": "국제신문"
+  },
+  {
+   "title": "[날씨] 경남 다시 아침 기온 ‘뚝’…영하권 추위 기승",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8721884",
+   "source": "KBS 뉴스"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "띠별-운세",
+  "삼성-라이온즈",
+  "오픈ai",
+  "공무원-노동조합",
+  "선우용여",
+  "과징금",
+  "허웅",
+  "송파구",
+  "가죽-재킷"
+ ]
+}
