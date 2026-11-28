@@ -2,7 +2,7 @@
  "keyword": "hamburg vs bayern",
  "slug": "hamburg-vs-bayern",
  "firstSeen": 1795879800.0,
- "lastSeen": 1795886647.2537105,
+ "lastSeen": 1795889974.1747499,
  "peakRank": 8,
  "peakTraffic": 100,
  "history": [
@@ -10,9 +10,19 @@
    1795886647,
    8,
    100
+  ],
+  [
+   1795889974,
+   10,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "Bayern Draws 0-0 With Hamburg, Kimmich Red-Carded",
+   "url": "https://www.chosun.com/english/sports-en/2026/11/29/JUKD5NGWWRBTLO7IQQWTY4ITZU/",
+   "source": "조선일보"
+  },
   {
    "title": "Kim Min-jae starts as Bayern seek Bundesliga top spot; Lee and Hwang benched",
    "url": "https://biz.chosun.com/en/en-sports/2026/11/28/W5OIVHUFUBAT7MKPZ33MNWJ5CI/",
@@ -33,6 +43,10 @@
   "2026-11-29"
  ],
  "related": [
+  "엘체-대-아틀레티코",
+  "입스위치-대-애스턴-빌라",
+  "맨체스터-유나이티드-fc",
+  "프리미어리그-경기",
   "바이에른-뮌헨",
   "black-tv",
   "웨스트-햄-대-스토크-시티",

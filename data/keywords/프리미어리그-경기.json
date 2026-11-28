@@ -1,0 +1,46 @@
+{
+ "keyword": "프리미어리그 경기",
+ "slug": "프리미어리그-경기",
+ "firstSeen": 1795884600.0,
+ "lastSeen": 1795889974.1747499,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795889974,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "세메뇨, 복귀 임박",
+   "url": "https://kr.mancity.com/news/mens/enzo-maresca-arsenal-manchester-city-press-conference-injury-news-63931387",
+   "source": "Manchester City FC"
+  },
+  {
+   "title": "“우리는 아직 그 수준에 도달하지 못했다”…우승도 성에 차지 않는 아르테타, 맨시티의 ‘승점 100’ 기록에 도...",
+   "url": "https://sports.khan.co.kr/article/202611280937003",
+   "source": "스포츠경향"
+  },
+  {
+   "title": "‘PL 2연패에 승점 100점 왕조까지 세운다’ 단독 선두 아스널의 거침없는 야망... 맨시티전 앞둔 아르테타 “그 기록에 가까워져야 우승!”",
+   "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699436",
+   "source": "인터풋볼"
+  }
+ ],
+ "days": [
+  "2026-11-29"
+ ],
+ "related": [
+  "엘체-대-아틀레티코",
+  "입스위치-대-애스턴-빌라",
+  "black-tv",
+  "맨유-경기",
+  "바이에른-뮌헨",
+  "쾰른-대-엘버스베르크",
+  "맨체스터-유나이티드-fc",
+  "비정규직",
+  "hamburg-vs-bayern"
+ ]
+}

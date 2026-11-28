@@ -1,14 +1,102 @@
 {
- "generatedAt": 1795886647,
+ "generatedAt": 1795889974,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "바이에른 뮌헨",
-   "slug": "바이에른-뮌헨",
+   "keyword": "엘체 대 아틀레티코",
+   "slug": "엘체-대-아틀레티코",
+   "traffic": 5000,
+   "startedAt": 1795884000.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "'이강인 선발 출격' 아틀레티코, 레알 마드리드 제치고 2위 오를 기회...'16위' 엘체 잡고 바르셀로나와 승점 2점 차 만들까",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/29/GIYDGNZRGY3TOMLBGA4DGNJTGM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'이강인 왼발 폭발!' ATM, 7분 만에 엘체 상대 2-0 리드...이강인 리그 3호골",
+     "url": "https://www.osen.co.kr/article/G1112916457",
+     "source": "OSEN"
+    },
+    {
+     "title": "이러니 시메오네 감독이 애지중지할 수밖에…이강인, 실력뿐 아니라 인성까지 극찬받았다 “라커룸에서 가장 사랑받고 존중받는 선수 중 한 명”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699261",
+     "source": "인터풋볼"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "입스위치 대 애스턴 빌라",
+   "slug": "입스위치-대-애스턴-빌라",
+   "traffic": 500,
+   "startedAt": 1795884600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "Ipswich Town v Aston Villa: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Premier League predictions & Jones Knows' best bets: Arsenal vs Manchester City and more!",
+     "url": "https://www.skysports.com/football/news/13616076/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
+     "source": "Sky Sports"
+    },
+    {
+     "title": "Ipswich Town vs Aston Villa: Premier League preview, team news, stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cmy49k14lne9t",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "black tv",
+   "slug": "black-tv",
    "traffic": 500,
    "startedAt": 1795878000.0,
+   "change": "down",
+   "diff": 1,
+   "news": [
+    {
+     "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
+     "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-tv-deals-2026-11-27",
+     "source": "CNN"
+    },
+    {
+     "title": "Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500",
+     "url": "https://www.cleveland.com/shopping/2026/11/walmart-shoppers-are-rushing-to-get-massive-85-inch-qled-tv-under-500-for-black-friday.html",
+     "source": "Cleveland.com"
+    },
+    {
+     "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+     "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+     "source": "The Verge"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "맨유 경기",
+   "slug": "맨유-경기",
+   "traffic": 200,
+   "startedAt": 1795879200.0,
    "change": "up",
+   "diff": 1,
+   "news": []
+  },
+  {
+   "rank": 5,
+   "keyword": "바이에른 뮌헨",
+   "slug": "바이에른-뮌헨",
+   "traffic": 200,
+   "startedAt": 1795878000.0,
+   "change": "down",
    "diff": 4,
    "news": [
     {
@@ -22,83 +110,11 @@
      "source": "Vietnam.vn"
     },
     {
-     "title": "[공식발표] '韓 국가대표' 김민재의 어깨가 무거워졌다!…주축 선수들 줄줄이 이탈한 뮌헨, 함부르크전 선발 명단 공개",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101462",
-     "source": "포포투"
+     "title": "바이에른 뮌헨-함부르크 0-0 무승부…김민재 풀타임 활약 : 해외축구",
+     "url": "https://news.jkn.co.kr/post/1130323",
+     "source": "재경일보"
     }
    ]
-  },
-  {
-   "rank": 2,
-   "keyword": "black tv",
-   "slug": "black-tv",
-   "traffic": 500,
-   "startedAt": 1795878000.0,
-   "change": "up",
-   "diff": 2,
-   "news": [
-    {
-     "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
-     "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-tv-deals-2026-11-27",
-     "source": "CNN"
-    },
-    {
-     "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
-     "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
-     "source": "The Verge"
-    },
-    {
-     "title": "Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500",
-     "url": "https://www.cleveland.com/shopping/2026/11/walmart-shoppers-are-rushing-to-get-massive-85-inch-qled-tv-under-500-for-black-friday.html",
-     "source": "Cleveland.com"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "웨스트 햄 대 스토크 시티",
-   "slug": "웨스트-햄-대-스토크-시티",
-   "traffic": 500,
-   "startedAt": 1795875600.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "Championship: Build-up to 11 games starting with Blackburn v Charlton, Lincoln v Wolves & Preston v Norwich",
-     "url": "https://www.bbc.com/sport/football/live/cmwydqw5vl0gt",
-     "source": "BBC"
-    },
-    {
-     "title": "Championship: Build-up to 11 games starting with Blackburn v Charlton, Lincoln v Wolves & Preston v Norwich",
-     "url": "https://www.bbc.co.uk/sport/football/live/cmwydqw5vl0gt",
-     "source": "BBC"
-    },
-    {
-     "title": "'Serious' Jarrod Bowen injury update in West Ham vs Stoke: 'Massive blow'",
-     "url": "https://sports.yahoo.com/articles/serious-jarrod-bowen-injury-west-154500554.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rank": 4,
-   "keyword": "파이낸셜뉴스",
-   "slug": "파이낸셜뉴스",
-   "traffic": 500,
-   "startedAt": 1795875600.0,
-   "change": "up",
-   "diff": 3,
-   "news": []
-  },
-  {
-   "rank": 5,
-   "keyword": "맨유 경기",
-   "slug": "맨유-경기",
-   "traffic": 200,
-   "startedAt": 1795879200.0,
-   "change": "up",
-   "diff": 3,
-   "news": []
   },
   {
    "rank": 6,
@@ -110,9 +126,9 @@
    "diff": 0,
    "news": [
     {
-     "title": "Marius Bülter hat-trick caps five-star Cologne performance against Elversberg",
-     "url": "https://www.bundesliga.com/en/bundesliga/news/cologne-elversberg-match-report-highlights-matchday-11-marius-bulter-40187",
-     "source": "Bundesliga | official website"
+     "title": "Köln vs Elversberg: German Bundesliga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/crwy47jywz75t",
+     "source": "BBC"
     },
     {
      "title": "Koln vs Elversberg predictions and betting tips: Koln will edge a lively one",
@@ -128,12 +144,64 @@
   },
   {
    "rank": 7,
+   "keyword": "맨체스터 유나이티드 fc",
+   "slug": "맨체스터-유나이티드-fc",
+   "traffic": 100,
+   "startedAt": 1795884600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘독점·1급 공신력’ 맨유 결국 발동했다! ‘캡틴’ 브루노 페르난데스 끝없는 이적설 속 ‘1년 계약 연장 옵션’...",
+     "url": "https://sports.khan.co.kr/article/202611280606003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "'캡틴' 페르난데스, 맨유서 1년 더 뛴다...구단 연장 옵션 행사",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01571126645650312&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "맨체스터 유나이티드는 브루노 페르난데스의 계약을 2028년까지 연장했습니다.",
+     "url": "https://www.vietnam.vn/ko/man-united-giu-chan-bruno-fernandes-den-2028",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "프리미어리그 경기",
+   "slug": "프리미어리그-경기",
+   "traffic": 100,
+   "startedAt": 1795884600.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "세메뇨, 복귀 임박",
+     "url": "https://kr.mancity.com/news/mens/enzo-maresca-arsenal-manchester-city-press-conference-injury-news-63931387",
+     "source": "Manchester City FC"
+    },
+    {
+     "title": "“우리는 아직 그 수준에 도달하지 못했다”…우승도 성에 차지 않는 아르테타, 맨시티의 ‘승점 100’ 기록에 도...",
+     "url": "https://sports.khan.co.kr/article/202611280937003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "‘PL 2연패에 승점 100점 왕조까지 세운다’ 단독 선두 아스널의 거침없는 야망... 맨시티전 앞둔 아르테타 “그 기록에 가까워져야 우승!”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699436",
+     "source": "인터풋볼"
+    }
+   ]
+  },
+  {
+   "rank": 9,
    "keyword": "비정규직",
    "slug": "비정규직",
    "traffic": 100,
    "startedAt": 1795880400.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "또 급식 대신 빵‥10년째 파업에 학교 3곳 중 1곳 점심 멈췄다",
@@ -153,13 +221,13 @@
    ]
   },
   {
-   "rank": 8,
+   "rank": 10,
    "keyword": "hamburg vs bayern",
    "slug": "hamburg-vs-bayern",
    "traffic": 100,
    "startedAt": 1795879800.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 2,
    "news": [
     {
      "title": "Kim Min-jae starts as Bayern seek Bundesliga top spot; Lee and Hwang benched",
@@ -167,8 +235,8 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "Kim Min-jae Starts as Bayern Munich Chases Top Spot",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/28/WXFK5GUSE5FS7DB7UKYDLJTPDE/",
+     "title": "Bayern Draws 0-0 With Hamburg, Kimmich Red-Carded",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/29/JUKD5NGWWRBTLO7IQQWTY4ITZU/",
      "source": "조선일보"
     },
     {
