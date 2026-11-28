@@ -2,9 +2,9 @@
  "keyword": "전현무",
  "slug": "전현무",
  "firstSeen": 1795232400.0,
- "lastSeen": 1795853122.8943014,
- "peakRank": 4,
- "peakTraffic": 1000,
+ "lastSeen": 1795856673.5472932,
+ "peakRank": 3,
+ "peakTraffic": 2000,
  "history": [
   [
    1795239023,
@@ -15,9 +15,29 @@
    1795853123,
    4,
    1000
+  ],
+  [
+   1795856674,
+   3,
+   2000
   ]
  ],
  "news": [
+  {
+   "title": "전현무, 양띠 여성과 결혼?…中 역술가 \"당신 인생 구한다\"",
+   "url": "https://www.newsis.com/view/NISX20261128_0003887150",
+   "source": "뉴시스"
+  },
+  {
+   "title": "“내년에 결혼할 운명”…이준, 임수향과 핑크빛 기류 (현무로드)",
+   "url": "https://www.mk.co.kr/news/broadcasting-service/12219921",
+   "source": "매일경제"
+  },
+  {
+   "title": "“양띠 여성이 인생 구한다” 50세 전현무, 동년배나 14살 연하 女와 핑크빛(‘현무로드’)",
+   "url": "https://www.koreadaily.com/article/20261127151637373",
+   "source": "미주중앙일보"
+  },
   {
    "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
    "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
@@ -54,6 +74,9 @@
   "2026-11-28"
  ],
  "related": [
+  "fc-서울-대-대전-하나-시티즌-순위",
+  "래미안-첼리-투스-아파트",
+  "공부-의-종말",
   "매매",
   "이자",
   "최형우",
@@ -70,7 +93,6 @@
   "탈선",
   "이현중",
   "보이저-1호",
-  "맥도날드",
-  "kt"
+  "맥도날드"
  ]
 }

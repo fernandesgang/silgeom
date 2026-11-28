@@ -1,21 +1,120 @@
 {
- "generatedAt": 1795853123,
+ "generatedAt": 1795856674,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "매매",
-   "slug": "매매",
-   "traffic": 5000,
-   "startedAt": 1795847400.0,
+   "keyword": "fc 서울 대 대전 하나 시티즌 순위",
+   "slug": "fc-서울-대-대전-하나-시티즌-순위",
+   "traffic": 10000,
+   "startedAt": 1795849800.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "서울 아파트 언제쯤 하락 전환할까?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082",
-     "source": "KBS 뉴스"
+     "title": "FC서울 '우승 파티'서 대전 4-1 제압…손정범 첫 멀티골",
+     "url": "https://www.yna.co.kr/view/AKR20261128039000007",
+     "source": "연합뉴스"
     },
+    {
+     "title": "'K리그1 챔피언' 서울, 대전 4-1 꺾고 완벽한 '우승 대관식'",
+     "url": "https://www.newsis.com/view/NISX20261128_0003887129",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[프로축구] '손정범 멀티골' 서울, 대전에 4-1…안방서 '우승 골잔치'",
+     "url": "https://www.newspim.com/news/view/20261128000061",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "이자",
+   "slug": "이자",
+   "traffic": 5000,
+   "startedAt": 1795848600.0,
+   "change": "same",
+   "diff": 0,
+   "news": [
+    {
+     "title": "‘통화긴축-확장재정 충돌’ 지적에… 靑 “엇박자 아닌 정교한 조합”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261127/135106503/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "내년 성장률 4.1% 깜짝 상향...반도체 호황이 이끌어",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611271601012461",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "3.25%로 오른 기준금리… 경기도 주택시장 여파는?",
+     "url": "https://www.kyeongin.com/article/1775548",
+     "source": "경인일보"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "전현무",
+   "slug": "전현무",
+   "traffic": 2000,
+   "startedAt": 1795848600.0,
+   "change": "up",
+   "diff": 1,
+   "news": [
+    {
+     "title": "전현무, 양띠 여성과 결혼?…中 역술가 \"당신 인생 구한다\"",
+     "url": "https://www.newsis.com/view/NISX20261128_0003887150",
+     "source": "뉴시스"
+    },
+    {
+     "title": "“내년에 결혼할 운명”…이준, 임수향과 핑크빛 기류 (현무로드)",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12219921",
+     "source": "매일경제"
+    },
+    {
+     "title": "“양띠 여성이 인생 구한다” 50세 전현무, 동년배나 14살 연하 女와 핑크빛(‘현무로드’)",
+     "url": "https://www.koreadaily.com/article/20261127151637373",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "래미안 첼리 투스 아파트",
+   "slug": "래미안-첼리-투스-아파트",
+   "traffic": 2000,
+   "startedAt": 1795846800.0,
+   "change": "new",
+   "diff": 0,
+   "news": [
+    {
+     "title": "\"100억 찍으면 팔겠다\"던 95년생…SK하닉 팔아 용산 아파트 샀다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "SK하이닉스 고점에 팔아 100억…95년생이 산 용산 아파트는",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886422",
+     "source": "뉴시스"
+    },
+    {
+     "title": "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
+     "url": "https://www.etnews.com/20261127000350",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "매매",
+   "slug": "매매",
+   "traffic": 1000,
+   "startedAt": 1795847400.0,
+   "change": "down",
+   "diff": 4,
+   "news": [
     {
      "title": "아파트 매매 계약 칼같이 딱 14.9억 맞췄는데…“주담대는 왜 4억만?”",
      "url": "https://www.mk.co.kr/news/realestate/12220683",
@@ -25,43 +124,22 @@
      "title": "금리 인상까지…서울 집값 ’최장기간 상승’ 꺾일까",
      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128085124rMN",
      "source": "연합뉴스TV"
+    },
+    {
+     "title": "중개업소 창문마다 '급매'…잠실 '엘리트' 30억선 무너졌다[르포]",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885013",
+     "source": "뉴시스"
     }
    ]
   },
   {
-   "rank": 2,
-   "keyword": "이자",
-   "slug": "이자",
-   "traffic": 2000,
-   "startedAt": 1795848600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "주담대 5% - 마통 7%… 가계 덮친 ‘눈덩이 금리’",
-     "url": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "금리 인상에 서민 부담 가중...은행만 배불렀다 [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611272046405915",
-     "source": "YTN"
-    },
-    {
-     "title": "5% 안팎 대출금리 더 뛴다…올 3번째 기준금리 인상에 가계·기업 ‘비상’",
-     "url": "https://www.hani.co.kr/arti/economy/finance/1289287.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "rank": 3,
+   "rank": 6,
    "keyword": "최형우",
    "slug": "최형우",
-   "traffic": 2000,
+   "traffic": 500,
    "startedAt": 1795848000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "down",
+   "diff": 3,
    "news": [
     {
      "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
@@ -81,143 +159,39 @@
    ]
   },
   {
-   "rank": 4,
-   "keyword": "전현무",
-   "slug": "전현무",
-   "traffic": 1000,
-   "startedAt": 1795848600.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "나윤권, 두 돌 아들 육아 얼마나 힘들길래…“테이보다 간절하게 먹어”",
-     "url": "https://sports.donga.com/ent/article/all/20261128/135106768/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "나윤권, 결혼 비하인드 공개 “아내가 좋아서 적극 대시했다” (전현무계획4)",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526286",
-     "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "rank": 5,
-   "keyword": "사고",
-   "slug": "사고",
-   "traffic": 500,
-   "startedAt": 1795846800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "전북 김제서 역주행 승용차·음주 승합차 충돌‥1명 사망",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6869245_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "김제 승용차 충돌 60대 운전자 숨져...'역주행' 추정",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611281035167398",
-     "source": "YTN"
-    },
-    {
-     "title": "만취 음주운전 중 역주행 승용차 들이받아 1명 사망…40대 남성 입건",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867824",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "rank": 6,
-   "keyword": "목동",
-   "slug": "목동",
-   "traffic": 500,
-   "startedAt": 1795843200.0,
-   "change": "down",
-   "diff": 3,
-   "news": [
-    {
-     "title": "같은 집인데 1.8억 vs 8.2억…반포 덮친 ‘고무줄 재초환’ [안장원의 부동산노트]",
-     "url": "https://www.joongang.co.kr/article/25482742",
-     "source": "중앙일보"
-    },
-    {
-     "title": "분당재건축 선도지구·2차선정 대표자들 ‘재초환은 이중규제’ 폐지 촉구",
-     "url": "https://www.kyeongin.com/article/1775557",
-     "source": "경인일보"
-    },
-    {
-     "title": "강남 부자들도 계산기를 두드리기 시작했다",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01364486645650312",
-     "source": "마켓인"
-    }
-   ]
-  },
-  {
    "rank": 7,
-   "keyword": "한남동",
-   "slug": "한남동",
-   "traffic": 200,
-   "startedAt": 1795846800.0,
+   "keyword": "공부 의 종말",
+   "slug": "공부-의-종말",
+   "traffic": 500,
+   "startedAt": 1795846200.0,
    "change": "new",
    "diff": 0,
    "news": [
     {
-     "title": "\"잘 샀다\" 했던 한남동 건물, 새 주인은 '빌보드 1위 가수'",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882856",
-     "source": "뉴시스"
+     "title": "“대다수에 공부의 종말 올 겁니다”…AI 과학자가 내다본 교육의 미래",
+     "url": "https://www.hani.co.kr/arti/culture/book/1289514.html",
+     "source": "한겨레"
     },
     {
-     "title": "BTS 진, 한남동 꼬마빌딩 96억 원에 전액 현금 매입",
-     "url": "https://www.christiandaily.co.kr/news/168186",
-     "source": "기독일보"
+     "title": "본질에 가까워진다는 것",
+     "url": "https://brunch.co.kr/@linea/154",
+     "source": "브런치"
     },
     {
-     "title": "BTS 진, 96억원대 한남동 빌딩 매입…'지니빌딩' 이름 붙여",
-     "url": "https://newsroom.stockplus.com/news/16573477?news_id=16573477",
-     "source": "증권플러스"
+     "title": "[신간] AI 잘 쓰는 아이가 이깁니다",
+     "url": "http://www.ksw-news.com/news/articleView.html?idxno=3067715",
+     "source": "한국사회복지저널"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "신민아",
-   "slug": "신민아",
-   "traffic": 200,
-   "startedAt": 1795844400.0,
-   "change": "same",
-   "diff": 0,
-   "news": [
-    {
-     "title": "[Y터뷰] '재혼 황후' 신민아 \"주체적인 나비에 매력적…남편 김우빈도 빠져들어\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611271355049956",
-     "source": "YTN"
-    },
-    {
-     "title": "신민아 \"K-로판의 출발점, 왕관의 무게 견뎌야 했죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261127118300005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'신혼' 신민아 \"♥김우빈, 날 '나비에'라고 불러…완전 팬\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112715291653295",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "rank": 9,
    "keyword": "남승민",
    "slug": "남승민",
-   "traffic": 100,
+   "traffic": 200,
    "startedAt": 1795848000.0,
-   "change": "new",
-   "diff": 0,
+   "change": "up",
+   "diff": 1,
    "news": [
     {
      "title": "남승민, 암투병 母와 함께한 무대…결국 오열 (금타는 금요일)",
@@ -237,28 +211,54 @@
    ]
   },
   {
-   "rank": 10,
-   "keyword": "루친스키",
-   "slug": "루친스키",
-   "traffic": 100,
-   "startedAt": 1795844400.0,
+   "rank": 9,
+   "keyword": "한남동",
+   "slug": "한남동",
+   "traffic": 200,
+   "startedAt": 1795846800.0,
    "change": "down",
-   "diff": 1,
+   "diff": 2,
    "news": [
     {
-     "title": "\"적성 맞으면 저도 이도류를\"…농군패션에 캡틴 마크까지 가내수공업, '엔구행' 중견수? 하고 싶은 거 다 해 [오!쎈 창원] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281456774105O",
+     "title": "\"잘 샀다\" 했던 한남동 건물, 새 주인은 '빌보드 1위 가수'",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882856",
+     "source": "뉴시스"
+    },
+    {
+     "title": "BTS 진, 한남동 꼬마빌딩 96억 원에 전액 현금 매입",
+     "url": "https://www.christiandaily.co.kr/news/168186",
+     "source": "기독일보"
+    },
+    {
+     "title": "BTS 진, 96억원대 한남동 빌딩 매입…'지니빌딩' 이름 붙여",
+     "url": "https://newsroom.stockplus.com/news/16573477?news_id=16573477",
+     "source": "증권플러스"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "신민아",
+   "slug": "신민아",
+   "traffic": 200,
+   "startedAt": 1795844400.0,
+   "change": "down",
+   "diff": 2,
+   "news": [
+    {
+     "title": "[Y터뷰] '재혼 황후' 신민아 \"주체적인 나비에 매력적…남편 김우빈도 빠져들어\"",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611271355049956",
+     "source": "YTN"
+    },
+    {
+     "title": "신민아 \"K-로판의 출발점, 왕관의 무게 견뎌야 했죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127118300005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'신혼' 신민아 \"♥김우빈, 날 '나비에'라고 불러…완전 팬\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112715291653295",
      "source": "머니투데이"
-    },
-    {
-     "title": "[사진] 임지민, 건강한 모습으로",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/28/GQ4TIOBTGBRTCMRRGUZGKZTCME/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[이슈대담] NC와 함께한 15년…이재학 선수가 돌아본 영광의 순간들",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722557",
-     "source": "KBS 뉴스"
     }
    ]
   }
