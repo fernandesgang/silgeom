@@ -2,13 +2,18 @@
  "keyword": "플레이스테이션",
  "slug": "플레이스테이션",
  "firstSeen": 1795888200.0,
- "lastSeen": 1795893524.29645,
- "peakRank": 5,
+ "lastSeen": 1795896596.9958766,
+ "peakRank": 3,
  "peakTraffic": 200,
  "history": [
   [
    1795893524,
    5,
+   200
+  ],
+  [
+   1795896597,
+   3,
    200
   ]
  ],
@@ -33,6 +38,9 @@
   "2026-11-29"
  ],
  "related": [
+  "elche-vs-atlético",
+  "manchester-united",
+  "hamburg-vs-bayern",
   "엘체-대-아틀레티코",
   "입스위치-대-애스턴-빌라",
   "black-tv",

@@ -2,8 +2,8 @@
  "keyword": "맨체스터 유나이티드 fc",
  "slug": "맨체스터-유나이티드-fc",
  "firstSeen": 1795884600.0,
- "lastSeen": 1795893524.29645,
- "peakRank": 7,
+ "lastSeen": 1795896596.9958766,
+ "peakRank": 6,
  "peakTraffic": 100,
  "history": [
   [
@@ -15,9 +15,29 @@
    1795893524,
    8,
    100
+  ],
+  [
+   1795896597,
+   6,
+   100
   ]
  ],
  "news": [
+  {
+   "title": "'드디어 선발 기회 잡았는데' 맨체스터 유나이티드 640억 공격수 끝내 방출 고려!…\"대체자 구하면 떠날 가능성 있다\"",
+   "url": "https://www.mydaily.co.kr/page/view/2026112817124678631",
+   "source": "마이데일리"
+  },
+  {
+   "title": "\"시메오네가 원한다\", 맨유 떠나 이강인과 뛸 가능성 제기...포체티노도 신뢰 안 해→계약 만료 앞두고 이적 유력",
+   "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699128",
+   "source": "인터풋볼"
+  },
+  {
+   "title": "맨유 1-4 대파했던 이탈리아 코모, 겨울에 지르크지 영입에 관심…“나폴리도 영입 추진”",
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021769",
+   "source": "SPOTV NEWS"
+  },
   {
    "title": "‘독점·1급 공신력’ 맨유 결국 발동했다! ‘캡틴’ 브루노 페르난데스 끝없는 이적설 속 ‘1년 계약 연장 옵션’...",
    "url": "https://sports.khan.co.kr/article/202611280606003",
@@ -38,6 +58,8 @@
   "2026-11-29"
  ],
  "related": [
+  "elche-vs-atlético",
+  "manchester-united",
   "플레이스테이션",
   "엘체-대-아틀레티코",
   "입스위치-대-애스턴-빌라",

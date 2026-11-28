@@ -2,7 +2,7 @@
  "keyword": "입스위치 대 애스턴 빌라",
  "slug": "입스위치-대-애스턴-빌라",
  "firstSeen": 1795884600.0,
- "lastSeen": 1795893524.29645,
+ "lastSeen": 1795896596.9958766,
  "peakRank": 2,
  "peakTraffic": 1000,
  "history": [
@@ -18,6 +18,16 @@
   ]
  ],
  "news": [
+  {
+   "title": "Match Summary",
+   "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet",
+   "source": "BBC"
+  },
+  {
+   "title": "Ipswich 2-2 Aston Villa (Nov 28, 2026) Game Analysis",
+   "url": "https://www.espn.com/soccer/report/_/gameId/401878752",
+   "source": "ESPN"
+  },
   {
    "title": "Match Summary",
    "url": "https://www.bbc.com/sport/football/live/cmz9823qpznet?page=4",
@@ -43,6 +53,8 @@
   "2026-11-29"
  ],
  "related": [
+  "elche-vs-atlético",
+  "manchester-united",
   "플레이스테이션",
   "엘체-대-아틀레티코",
   "black-tv",

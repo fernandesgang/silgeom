@@ -1,0 +1,46 @@
+{
+ "keyword": "manchester united",
+ "slug": "manchester-united",
+ "firstSeen": 1795882800.0,
+ "lastSeen": 1795896596.9958766,
+ "peakRank": 8,
+ "peakTraffic": 100,
+ "history": [
+  [
+   1795896597,
+   8,
+   100
+  ]
+ ],
+ "news": [
+  {
+   "title": "Man Utd being relegated would be the biggest shock in history, but it won't happen, says Paul Merson",
+   "url": "https://www.skysports.com/football/news/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson",
+   "source": "Sky Sports"
+  },
+  {
+   "title": "The dangerous gamble Man United face in bid to escape a brutal reality",
+   "url": "https://www.independent.co.uk/sport/football/man-united-mauricio-pochettino-transfers-january-window-b3089843.html",
+   "source": "The Independent"
+  },
+  {
+   "title": "Merson Rules Out Manchester United Relegation",
+   "url": "https://cwibc.co.id/en/merson-rules-out-united-relegation",
+   "source": "cwibc.co.id"
+  }
+ ],
+ "days": [
+  "2026-11-29"
+ ],
+ "related": [
+  "엘체-대-아틀레티코",
+  "입스위치-대-애스턴-빌라",
+  "플레이스테이션",
+  "맨유-경기",
+  "elche-vs-atlético",
+  "맨체스터-유나이티드-fc",
+  "프리미어리그-경기",
+  "비정규직",
+  "hamburg-vs-bayern"
+ ]
+}
