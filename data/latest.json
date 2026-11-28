@@ -1,30 +1,30 @@
 {
- "generatedAt": 1795876564,
+ "generatedAt": 1795879422,
  "geo": "KR",
  "items": [
   {
    "rank": 1,
-   "keyword": "알 하즘 대 알나스르",
-   "slug": "알-하즘-대-알나스르",
-   "traffic": 2000,
-   "startedAt": 1795866600.0,
-   "change": "up",
-   "diff": 1,
+   "keyword": "맨유 대 브렌트퍼드",
+   "slug": "맨유-대-브렌트퍼드",
+   "traffic": 10000,
+   "startedAt": 1795874400.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "[STREAM@TV] How to Watch Al Hazem vs. Al Nassr Online for Free Start Time, Live Streaming & TV Channels in USA and Other Countries",
-     "url": "https://www.tallahatchienews.ms/node/479441",
-     "source": "tallahatchienews.ms"
+     "title": "[공식발표] 포체티노, 하늘이 밉다...'19위 추락' 맨유 홈 데뷔전 앞두고 4명 이탈→브루노도 훈련 불참 \"브렌트포드전 불투명\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281007778010O",
+     "source": "머니투데이"
     },
     {
-     "title": "Postecoglou Starts Ronaldo and Felix Against Al-Hazem",
-     "url": "https://demokratis.co.id/en/postecoglou-ronaldo-felix-al-nassr",
-     "source": "Demokratis.co.id"
+     "title": "‘대위기’ 설마 천하의 맨유가 꼴찌 추락?→‘29일 운명의 브렌트퍼드전’",
+     "url": "https://sports.donga.com/sports/article/all/20261127/135100828/1",
+     "source": "스포츠동아"
     },
     {
-     "title": "Al Hazem Vs Al Nassr: Al-Nassr won 8 of last 10",
-     "url": "https://twaslnews1.twaslnews.com/8435336/",
-     "source": "شبكة تواصل الإخبارية"
+     "title": "프리미어리그: ‘11경기 1승’ 맨유, 안방서 브렌트퍼드 상대 시즌 2승도전",
+     "url": "https://sbotopkr.tistory.com/2711",
+     "source": "티스토리"
     }
    ]
   },
@@ -32,9 +32,9 @@
    "rank": 2,
    "keyword": "증여",
    "slug": "증여",
-   "traffic": 1000,
+   "traffic": 2000,
    "startedAt": 1795870800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
@@ -56,53 +56,53 @@
   },
   {
    "rank": 3,
-   "keyword": "로또 당첨번호",
-   "slug": "로또-당첨번호",
+   "keyword": "man utd vs brentford",
+   "slug": "man-utd-vs-brentford",
    "traffic": 1000,
-   "startedAt": 1795867200.0,
-   "change": "down",
-   "diff": 2,
+   "startedAt": 1795875000.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "제1252회 로또 1등 16명…당첨금 각 17억5909만원",
-     "url": "https://www.khan.co.kr/article/202611282047001",
-     "source": "경향신문"
+     "title": "Pochettino faces injury concerns ahead of Manchester United home debut",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/28/5WCMDMNS5JAVHBCUH5XCCKTU7A/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "17억5천910만원 1등 어디서 나왔나…이번주 로또 명당 정리",
-     "url": "https://www.kyeonggi.com/article/20261128580147",
-     "source": "경기일보"
+     "title": "Premier League LIVE news conferences & team news - Maresca, Iraola, Arteta, De Zerbi and more",
+     "url": "https://www.bbc.com/sport/football/live/cq9vwdym2wk2t",
+     "source": "BBC"
     },
     {
-     "title": "신유, '로또 6/45' 황금손 출연…\"나눔은 사람 사이에 오가는 따뜻한 정\"",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526246",
-     "source": "iMBC 연예"
+     "title": "Why Bryan Mbeumo and Matheus Cunha have been dropped for Man Utd vs Brentford",
+     "url": "https://metro.co.uk/2026/11/28/bryan-mbeumo-matheus-cunha-dropped-man-utd-vs-brentford-29826250/",
+     "source": "Metro.co.uk"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "링컨 시티 대 울브스",
-   "slug": "링컨-시티-대-울브스",
+   "keyword": "마인츠 05 대 우니온 베를린",
+   "slug": "마인츠-05-대-우니온-베를린",
    "traffic": 1000,
-   "startedAt": 1795866600.0,
-   "change": "down",
-   "diff": 1,
+   "startedAt": 1795873200.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "Lincoln City v Wolverhampton Wanderers: Championship stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c3n0lgw017rlt",
+     "title": "Mainz 05 vs Union Berlin: German Bundesliga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cjn50y357vgkt",
      "source": "BBC"
     },
     {
-     "title": "Peixoto | 'We have to be ready to fight for the three points' | Men's First-Team | Latest News",
-     "url": "https://www.wolves.co.uk/news/mens-first-team/20261127-peixoto-we-have-to-be-ready-to-fight-for-the-three-points/",
-     "source": "Wolverhampton Wanderers FC"
+     "title": "Mainz-Union Berlin: Mainz arrive with four defeats in five",
+     "url": "https://www.tufutbolero.com/en/news/mainz-union-berlin-mainz-arrive-with-four-defeats-in-five-fcccf1",
+     "source": "Tu Futbolero"
     },
     {
-     "title": "Match guide | Imps v Wolves",
-     "url": "https://www.weareimps.com/news/match-guide-imps-v-wolves",
-     "source": "Lincoln City Football Club"
+     "title": "\"Earning your own luck on the pitch\"",
+     "url": "https://www.mainz05.de/en/news-en/earning-your-own-luck-on-the-pitch",
+     "source": "1. FSV Mainz 05"
     }
    ]
   },
@@ -112,77 +112,61 @@
    "slug": "굿파트너2",
    "traffic": 500,
    "startedAt": 1795870800.0,
-   "change": "new",
+   "change": "same",
    "diff": 0,
    "news": [
     {
-     "title": "‘굿파트너2’ 장나라의 역발상 통했다…시청률 9.8%로 자체 기록 경신",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848720",
+     "title": "‘굿파트너2’ 차은경·박태수, 법정서 격돌…재산 노린 결혼에 분노 폭발",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=848745",
      "source": "제민일보"
+    },
+    {
+     "title": "굿파트너2 : [고통 엔딩] 장나라, 지승현 때문에 눈물 흘리는 유나 목격",
+     "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484456781",
+     "source": "programs.sbs.co.kr"
     },
     {
      "title": "\"이혼은 정답 없는 길\"…'굿파트너2' 김혜윤, 장나라의 노하우 배웠다",
      "url": "https://www.etnews.com/20261128000010",
      "source": "전자신문"
-    },
-    {
-     "title": "장나라·김혜윤 분노한 ‘이혼 테크’…박해진과 격돌 (굿파트너2)",
-     "url": "https://sports.donga.com/ent/article/all/20261128/135107363/1",
-     "source": "스포츠동아"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "원자력 잠수함",
-   "slug": "원자력-잠수함",
-   "traffic": 500,
-   "startedAt": 1795869000.0,
-   "change": "down",
-   "diff": 2,
+   "keyword": "웨스트 햄 대 스토크 시티",
+   "slug": "웨스트-햄-대-스토크-시티",
+   "traffic": 200,
+   "startedAt": 1795875600.0,
+   "change": "new",
+   "diff": 0,
    "news": [
     {
-     "title": "美 \"韓핵잠 검증협상은 IAEA 권한\"…中 '회원국 합의' 주장 반박",
-     "url": "https://www.yna.co.kr/view/AKR20261128048100504",
-     "source": "연합뉴스"
+     "title": "LIVESTREAMS·FREE!TVs] Wrexham vs Portsmouth Live Free Soccer football updates In 28 November 2026",
+     "url": "https://www.tallahatchienews.ms/node/480598",
+     "source": "tallahatchienews.ms"
     },
     {
-     "title": "한화오션 ‘굳히기’ vs HD현중 ‘뒤집기’ [맞수맞짱]",
-     "url": "https://www.mk.co.kr/news/business/12220169",
-     "source": "매일경제"
+     "title": "West Ham United v Stoke City: Championship stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cj20qn30ke1nt",
+     "source": "BBC"
     },
     {
-     "title": "'한국 핵잠' 두고 신경전…중국 딴지에 선 그은 미국",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867874",
-     "source": "SBS 뉴스"
+     "title": "Starting XI | Seven changes for Hammers to face Potters",
+     "url": "https://www.whufc.com/en/news/starting-xi-or-seven-changes-for-hammers-to-face-potters",
+     "source": "West Ham United"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "betis vs rayo",
-   "slug": "betis-vs-rayo",
+   "keyword": "파이낸셜뉴스",
+   "slug": "파이낸셜뉴스",
    "traffic": 100,
-   "startedAt": 1795872600.0,
+   "startedAt": 1795875600.0,
    "change": "new",
    "diff": 0,
-   "news": [
-    {
-     "title": "Real Betis vs Rayo Vallecano Confirmed Lineups",
-     "url": "https://www.whoscored.com/news/t5iReJaVhEC9FFfIpVG3Tg/show/cng112-20261128-real-betis-vs-rayo-vallecano-confirmed-lineup-1795866740",
-     "source": "WhoScored.com"
-    },
-    {
-     "title": "Betis-Rayo preview: Betis arrive with four injury absences",
-     "url": "https://www.tufutbolero.com/en/news/betis-rayo-preview-betis-arrive-with-four-injury-absences-fcf0d0",
-     "source": "Tu Futbolero"
-    },
-    {
-     "title": "Betis Face Rayo Pressure as Pellegrini Defends His Lineup",
-     "url": "https://demokratis.co.id/en/betis-rayo-pellegrini-lineup",
-     "source": "Demokratis.co.id"
-    }
-   ]
+   "news": []
   },
   {
    "rank": 8,
@@ -190,8 +174,8 @@
    "slug": "sbs",
    "traffic": 100,
    "startedAt": 1795870200.0,
-   "change": "down",
-   "diff": 1,
+   "change": "same",
+   "diff": 0,
    "news": [
     {
      "title": "Sushijaro Teams Flood Tsushima Over Drug Costs",
@@ -207,32 +191,6 @@
      "title": "After the Korean government allowed the introduction of the diabetes and obesity treatment \"Munzaro\"..",
      "url": "https://www.mk.co.kr/en/world/12220709",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "rank": 9,
-   "keyword": "뉴이스트",
-   "slug": "뉴이스트",
-   "traffic": 100,
-   "startedAt": 1795867800.0,
-   "change": "new",
-   "diff": 0,
-   "news": [
-    {
-     "title": "황민현, 4개 도시 팬미팅 성료 \"초심 그대로\"",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/28/ME3DKNBTMRQTEZJRGU2DQZLCGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "황민현, 14년 만에 플레디스 떠난다…“논의 끝 계약 종료”",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261128/135107386/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "황민현, 플레디스와 14년 만에 결별…에이스팩토리 전속계약 논의 중",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01676086645650312&mediaCodeNo=257",
-     "source": "이데일리"
     }
    ]
   }
