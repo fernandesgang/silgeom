@@ -1,0 +1,46 @@
+{
+ "keyword": "남대문시장",
+ "slug": "남대문시장",
+ "firstSeen": 1795835400.0,
+ "lastSeen": 1795841355.492648,
+ "peakRank": 3,
+ "peakTraffic": 500,
+ "history": [
+  [
+   1795841355,
+   3,
+   500
+  ]
+ ],
+ "news": [
+  {
+   "title": "남대문 커뮤니티",
+   "url": "http://topclass.chosun.com/news/articleView.html?idxno=37132",
+   "source": "톱클래스"
+  },
+  {
+   "title": "“사지 마”… ‘스카프 아저씨’ 돌풍에 세대 불문 발길 이어지는 남대문시장",
+   "url": "https://www.donga.com/news/Society/article/all/20261128/135106803/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "[혜윰노트] 돈 쓰지 말고 기운만 받고 가!",
+   "url": "https://www.kmib.co.kr/article/20261126501751",
+   "source": "국민일보"
+  }
+ ],
+ "days": [
+  "2026-11-28"
+ ],
+ "related": [
+  "샌안토니오-대-la-레이커스",
+  "이현중",
+  "이정효",
+  "한능검-81회-정답",
+  "tear-gas",
+  "미국-시민권",
+  "이찬원",
+  "닥터-둠",
+  "실업급여"
+ ]
+}
